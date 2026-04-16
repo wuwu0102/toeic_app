@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<title>TOEIC v7 單字練習</title>
+<link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+<div class="version-fixed">v7</div>
+<div class="app">
+<header class="topbar">
+<div>
+<div class="small">TOEIC 單字計畫 <span class="tag">v7</span></div>
+<h1 id="title">今日任務</h1>
+</div>
+<button id="homeBtn" class="ghost hidden" type="button">首頁</button>
+</header>
+<main id="view"></main>
+<nav class="nav">
+<button class="navbtn active" data-route="home" type="button">今日</button>
+<button class="navbtn" data-route="list" type="button">單字庫</button>
+<button class="navbtn" data-route="stats" type="button">統計</button>
+<button class="navbtn" data-route="settings" type="button">設定</button>
+</nav>
+</div>
+<script src="./config.js"></script>
+<script src="./words_library.js"></script>
+<script src="./app.js"></script>
+</body>
+</html>
