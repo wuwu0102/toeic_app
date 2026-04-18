@@ -1,1 +1,0 @@
-window.APP_CONFIG = { API_BASE_URL: "", APP_NAME: "TOEIC v7 正式版" };
