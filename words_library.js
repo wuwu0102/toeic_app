@@ -1,5002 +1,5002 @@
 window.WORDS = [
   {
-    "id": 1,
-    "word": "abandon",
-    "pos": "n./v./adj.",
-    "meaning": "與「abandon」相關的動作",
-    "example": "Our team updated the abandon before sending the final report.",
-    "example_zh": "我們的團隊在送出最終報告前更新了這個項目。",
-    "topic": "Business",
-    "level": 1
-  },
-  {
-    "id": 2,
-    "word": "abbreviate",
-    "pos": "v.",
-    "meaning": "與「abbreviate」相關的動作",
-    "example": "Please review the abbreviate carefully before you sign the document.",
-    "example_zh": "請在簽署文件前仔細檢查這個項目。",
-    "topic": "Finance",
-    "level": 1
-  },
-  {
-    "id": 3,
-    "word": "abide",
-    "pos": "n./v./adj.",
-    "meaning": "與「abide」相關的動作",
-    "example": "The manager asked us to improve the abide this quarter.",
-    "example_zh": "經理要求我們在本季改善這個重點。",
-    "topic": "Office",
-    "level": 1
-  },
-  {
-    "id": 4,
-    "word": "abolish",
-    "pos": "n./v./adj.",
-    "meaning": "與「abolish」相關的動作",
-    "example": "We discussed the abolish during the client call this morning.",
-    "example_zh": "我們在今天上午的客戶通話中討論了這個主題。",
-    "topic": "Travel",
-    "level": 1
-  },
-  {
-    "id": 5,
-    "word": "absorb",
-    "pos": "n./v./adj.",
-    "meaning": "與「absorb」相關的動作",
-    "example": "A clear absorb helped the project move forward smoothly.",
-    "example_zh": "清楚的做法讓專案順利推進。",
-    "topic": "General",
-    "level": 1
-  },
-  {
-    "id": 6,
-    "word": "abstract",
-    "pos": "n./v./adj.",
-    "meaning": "與「abstract」相關的動作",
-    "example": "The company will monitor the abstract every week.",
-    "example_zh": "公司每週都會追蹤這個指標。",
-    "topic": "Business",
-    "level": 1
-  },
-  {
-    "id": 7,
-    "word": "abuse",
-    "pos": "n./v./adj.",
-    "meaning": "與「abuse」相關的動作",
-    "example": "They adjusted the abuse to reduce operating costs.",
-    "example_zh": "他們調整這個做法以降低營運成本。",
-    "topic": "Finance",
-    "level": 1
-  },
-  {
-    "id": 8,
-    "word": "accelerate",
-    "pos": "v.",
-    "meaning": "與「accelerate」相關的動作",
-    "example": "This policy explains how to handle accelerate in daily work.",
-    "example_zh": "這項政策說明了如何在日常工作中處理這件事。",
-    "topic": "Office",
-    "level": 1
-  },
-  {
-    "id": 9,
-    "word": "accent",
-    "pos": "n./v./adj.",
-    "meaning": "與「accent」相關的動作",
-    "example": "The report highlights the importance of accent for growth.",
-    "example_zh": "這份報告強調這個要素對成長的重要性。",
-    "topic": "Travel",
-    "level": 1
-  },
-  {
-    "id": 10,
-    "word": "accept",
-    "pos": "n./v./adj.",
-    "meaning": "與「accept」相關的動作",
-    "example": "We need better accept to meet the deadline.",
-    "example_zh": "我們需要更好的安排才能趕上截止日。",
-    "topic": "General",
-    "level": 1
-  },
-  {
-    "id": 11,
-    "word": "access",
-    "pos": "n./v./adj.",
-    "meaning": "與「access」相關的動作",
-    "example": "The training session focused on practical access skills.",
-    "example_zh": "這場培訓聚焦在實務技能上。",
-    "topic": "Business",
-    "level": 1
-  },
-  {
-    "id": 12,
-    "word": "accommodate",
-    "pos": "v.",
-    "meaning": "與「accommodate」相關的動作",
-    "example": "Our department standardized the accommodate across all teams.",
-    "example_zh": "我們部門已在所有團隊中標準化這項流程。",
-    "topic": "Finance",
-    "level": 1
-  },
-  {
-    "id": 13,
-    "word": "accompany",
-    "pos": "n./v./adj.",
-    "meaning": "與「accompany」相關的動作",
-    "example": "The vendor confirmed the accompany by email yesterday.",
-    "example_zh": "供應商昨天透過電子郵件確認了這項內容。",
-    "topic": "Office",
-    "level": 1
-  },
-  {
-    "id": 14,
-    "word": "accomplish",
-    "pos": "n./v./adj.",
-    "meaning": "與「accomplish」相關的動作",
-    "example": "Accurate accomplish can prevent costly mistakes.",
-    "example_zh": "精準的處理可以避免昂貴的錯誤。",
-    "topic": "Travel",
-    "level": 1
-  },
-  {
-    "id": 15,
-    "word": "according",
-    "pos": "n./v./adj.",
-    "meaning": "與「according」相關的動作",
-    "example": "The director requested a summary of the according by Friday.",
-    "example_zh": "主管要求我們在週五前提交這項內容的摘要。",
-    "topic": "General",
-    "level": 1
-  },
-  {
-    "id": 16,
-    "word": "account",
-    "pos": "n./v./adj.",
-    "meaning": "帳戶；客戶",
-    "example": "We improved the account after customer feedback.",
-    "example_zh": "我們依據客戶回饋改進了這個部分。",
-    "topic": "Business",
-    "level": 1
-  },
-  {
-    "id": 17,
-    "word": "accumulate",
-    "pos": "v.",
-    "meaning": "與「accumulate」相關的動作",
-    "example": "The audit found issues related to accumulate in two branches.",
-    "example_zh": "稽核在兩個分公司發現與此相關的問題。",
-    "topic": "Business",
-    "level": 1
-  },
-  {
-    "id": 18,
-    "word": "accurate",
-    "pos": "v.",
-    "meaning": "與「accurate」相關的動作",
-    "example": "A strong accurate strategy supports long-term success.",
-    "example_zh": "完善的策略能支撐長期成功。",
-    "topic": "Finance",
-    "level": 1
-  },
-  {
-    "id": 19,
-    "word": "accuse",
-    "pos": "n./v./adj.",
-    "meaning": "與「accuse」相關的動作",
-    "example": "The assistant prepared the accuse for tomorrow’s presentation.",
-    "example_zh": "助理已為明天的簡報準備好相關資料。",
-    "topic": "Office",
-    "level": 1
-  },
-  {
-    "id": 20,
-    "word": "achieve",
-    "pos": "n./v./adj.",
-    "meaning": "達成",
-    "example": "The supervisor checked the achieve before approving the request.",
-    "example_zh": "主管在核准申請前檢查了這項內容。",
-    "topic": "Finance",
-    "level": 1
-  },
-  {
-    "id": 21,
-    "word": "acknowledge",
-    "pos": "n./v./adj.",
-    "meaning": "與「acknowledge」相關的動作",
-    "example": "Our team updated the acknowledge before sending the final report.",
-    "example_zh": "我們的團隊在送出最終報告前更新了這個項目。",
-    "topic": "Travel",
-    "level": 1
-  },
-  {
-    "id": 22,
-    "word": "acquire",
-    "pos": "n./v./adj.",
-    "meaning": "與「acquire」相關的動作",
-    "example": "Please review the acquire carefully before you sign the document.",
-    "example_zh": "請在簽署文件前仔細檢查這個項目。",
-    "topic": "General",
-    "level": 1
-  },
-  {
-    "id": 23,
-    "word": "adapt",
-    "pos": "n./v./adj.",
-    "meaning": "與「adapt」相關的動作",
-    "example": "The manager asked us to improve the adapt this quarter.",
-    "example_zh": "經理要求我們在本季改善這個重點。",
-    "topic": "Business",
-    "level": 1
-  },
-  {
-    "id": 24,
-    "word": "addition",
-    "pos": "n.",
-    "meaning": "與「addition」相關的名詞",
-    "example": "We discussed the addition during the client call this morning.",
-    "example_zh": "我們在今天上午的客戶通話中討論了這個主題。",
-    "topic": "Finance",
-    "level": 1
-  },
-  {
-    "id": 25,
-    "word": "address",
-    "pos": "n./v./adj.",
-    "meaning": "與「address」相關的動作",
-    "example": "A clear address helped the project move forward smoothly.",
-    "example_zh": "清楚的做法讓專案順利推進。",
-    "topic": "Office",
-    "level": 1
-  },
-  {
-    "id": 26,
-    "word": "adequate",
-    "pos": "v.",
-    "meaning": "與「adequate」相關的動作",
-    "example": "The company will monitor the adequate every week.",
-    "example_zh": "公司每週都會追蹤這個指標。",
-    "topic": "Travel",
-    "level": 1
-  },
-  {
-    "id": 27,
-    "word": "adjust",
-    "pos": "n./v./adj.",
-    "meaning": "調整",
-    "example": "They adjusted the adjust to reduce operating costs.",
-    "example_zh": "他們調整這個做法以降低營運成本。",
-    "topic": "Office",
-    "level": 1
-  },
-  {
-    "id": 28,
-    "word": "administer",
-    "pos": "n.",
-    "meaning": "與「administer」相關的名詞",
-    "example": "This policy explains how to handle administer in daily work.",
-    "example_zh": "這項政策說明了如何在日常工作中處理這件事。",
-    "topic": "General",
-    "level": 1
-  },
-  {
-    "id": 29,
-    "word": "admire",
-    "pos": "n./v./adj.",
-    "meaning": "與「admire」相關的動作",
-    "example": "The report highlights the importance of admire for growth.",
-    "example_zh": "這份報告強調這個要素對成長的重要性。",
-    "topic": "Business",
-    "level": 1
-  },
-  {
-    "id": 30,
-    "word": "admission",
-    "pos": "n.",
-    "meaning": "與「admission」相關的名詞",
-    "example": "We need better admission to meet the deadline.",
-    "example_zh": "我們需要更好的安排才能趕上截止日。",
-    "topic": "Finance",
-    "level": 1
-  },
-  {
-    "id": 31,
-    "word": "adopt",
-    "pos": "n./v./adj.",
-    "meaning": "與「adopt」相關的動作",
-    "example": "The training session focused on practical adopt skills.",
-    "example_zh": "這場培訓聚焦在實務技能上。",
-    "topic": "Office",
-    "level": 1
-  },
-  {
-    "id": 32,
-    "word": "advance",
-    "pos": "n.",
-    "meaning": "預付；推進",
-    "example": "Our department standardized the advance across all teams.",
-    "example_zh": "我們部門已在所有團隊中標準化這項流程。",
-    "topic": "Travel",
-    "level": 1
-  },
-  {
-    "id": 33,
-    "word": "advantage",
-    "pos": "n./v./adj.",
-    "meaning": "與「advantage」相關的動作",
-    "example": "The vendor confirmed the advantage by email yesterday.",
-    "example_zh": "供應商昨天透過電子郵件確認了這項內容。",
-    "topic": "Travel",
-    "level": 1
-  },
-  {
-    "id": 34,
-    "word": "advertise",
-    "pos": "v.",
-    "meaning": "與「advertise」相關的動作",
-    "example": "Accurate advertise can prevent costly mistakes.",
-    "example_zh": "精準的處理可以避免昂貴的錯誤。",
-    "topic": "General",
-    "level": 1
-  },
-  {
-    "id": 35,
-    "word": "advice",
-    "pos": "n./v./adj.",
-    "meaning": "與「advice」相關的動作",
-    "example": "The director requested a summary of the advice by Friday.",
-    "example_zh": "主管要求我們在週五前提交這項內容的摘要。",
-    "topic": "Business",
-    "level": 1
-  },
-  {
-    "id": 36,
-    "word": "advocate",
-    "pos": "v.",
-    "meaning": "與「advocate」相關的動作",
-    "example": "We improved the advocate after customer feedback.",
-    "example_zh": "我們依據客戶回饋改進了這個部分。",
-    "topic": "Finance",
-    "level": 1
-  },
-  {
-    "id": 37,
-    "word": "affect",
-    "pos": "n./v./adj.",
-    "meaning": "與「affect」相關的動作",
-    "example": "The audit found issues related to affect in two branches.",
-    "example_zh": "稽核在兩個分公司發現與此相關的問題。",
-    "topic": "Office",
-    "level": 1
-  },
-  {
-    "id": 38,
-    "word": "afford",
-    "pos": "n./v./adj.",
-    "meaning": "與「afford」相關的動作",
-    "example": "A strong afford strategy supports long-term success.",
-    "example_zh": "完善的策略能支撐長期成功。",
-    "topic": "Travel",
-    "level": 1
-  },
-  {
-    "id": 39,
-    "word": "agency",
-    "pos": "n./v./adj.",
-    "meaning": "與「agency」相關的動作",
-    "example": "The assistant prepared the agency for tomorrow’s presentation.",
-    "example_zh": "助理已為明天的簡報準備好相關資料。",
-    "topic": "General",
-    "level": 1
-  },
-  {
-    "id": 40,
-    "word": "agenda",
-    "pos": "n./v./adj.",
-    "meaning": "議程",
-    "example": "The supervisor checked the agenda before approving the request.",
-    "example_zh": "主管在核准申請前檢查了這項內容。",
-    "topic": "General",
-    "level": 1
-  },
-  {
-    "id": 41,
-    "word": "aggressive",
-    "pos": "adj.",
-    "meaning": "與「aggressive」相關的狀態",
-    "example": "Our team updated the aggressive before sending the final report.",
-    "example_zh": "我們的團隊在送出最終報告前更新了這個項目。",
-    "topic": "Business",
-    "level": 1
-  },
-  {
-    "id": 42,
-    "word": "allocate",
-    "pos": "v.",
-    "meaning": "與「allocate」相關的動作",
-    "example": "Please review the allocate carefully before you sign the document.",
-    "example_zh": "請在簽署文件前仔細檢查這個項目。",
-    "topic": "Finance",
-    "level": 1
-  },
-  {
-    "id": 43,
-    "word": "alteration",
-    "pos": "n.",
-    "meaning": "與「alteration」相關的名詞",
-    "example": "The manager asked us to improve the alteration this quarter.",
-    "example_zh": "經理要求我們在本季改善這個重點。",
-    "topic": "Office",
-    "level": 1
-  },
-  {
-    "id": 44,
-    "word": "alternative",
-    "pos": "adj.",
-    "meaning": "與「alternative」相關的狀態",
-    "example": "We discussed the alternative during the client call this morning.",
-    "example_zh": "我們在今天上午的客戶通話中討論了這個主題。",
-    "topic": "Travel",
-    "level": 1
-  },
-  {
-    "id": 45,
-    "word": "amaze",
-    "pos": "n./v./adj.",
-    "meaning": "與「amaze」相關的動作",
-    "example": "A clear amaze helped the project move forward smoothly.",
-    "example_zh": "清楚的做法讓專案順利推進。",
-    "topic": "General",
-    "level": 1
-  },
-  {
-    "id": 46,
-    "word": "ambition",
-    "pos": "n.",
-    "meaning": "與「ambition」相關的名詞",
-    "example": "The company will monitor the ambition every week.",
-    "example_zh": "公司每週都會追蹤這個指標。",
-    "topic": "Business",
-    "level": 1
-  },
-  {
-    "id": 47,
-    "word": "analyze",
-    "pos": "n./v./adj.",
-    "meaning": "與「analyze」相關的動作",
-    "example": "They adjusted the analyze to reduce operating costs.",
-    "example_zh": "他們調整這個做法以降低營運成本。",
-    "topic": "Finance",
-    "level": 1
-  },
-  {
-    "id": 48,
-    "word": "annual",
-    "pos": "n.",
-    "meaning": "年度的",
-    "example": "This policy explains how to handle annual in daily work.",
-    "example_zh": "這項政策說明了如何在日常工作中處理這件事。",
-    "topic": "Business",
-    "level": 1
-  },
-  {
-    "id": 49,
-    "word": "anticipate",
-    "pos": "v.",
-    "meaning": "與「anticipate」相關的動作",
-    "example": "The report highlights the importance of anticipate for growth.",
-    "example_zh": "這份報告強調這個要素對成長的重要性。",
-    "topic": "Office",
-    "level": 1
-  },
-  {
-    "id": 50,
-    "word": "anxiety",
-    "pos": "n./v./adj.",
-    "meaning": "與「anxiety」相關的動作",
-    "example": "We need better anxiety to meet the deadline.",
-    "example_zh": "我們需要更好的安排才能趕上截止日。",
-    "topic": "Travel",
-    "level": 1
-  },
-  {
-    "id": 51,
-    "word": "appeal",
-    "pos": "n.",
-    "meaning": "與「appeal」相關的名詞",
-    "example": "The training session focused on practical appeal skills.",
-    "example_zh": "這場培訓聚焦在實務技能上。",
-    "topic": "General",
-    "level": 1
-  },
-  {
-    "id": 52,
-    "word": "applicant",
-    "pos": "n./v./adj.",
-    "meaning": "申請人",
-    "example": "Our department standardized the applicant across all teams.",
-    "example_zh": "我們部門已在所有團隊中標準化這項流程。",
-    "topic": "Finance",
-    "level": 1
-  },
-  {
-    "id": 53,
-    "word": "appoint",
-    "pos": "n./v./adj.",
-    "meaning": "與「appoint」相關的動作",
-    "example": "The vendor confirmed the appoint by email yesterday.",
-    "example_zh": "供應商昨天透過電子郵件確認了這項內容。",
-    "topic": "Business",
-    "level": 1
-  },
-  {
-    "id": 54,
-    "word": "appreciate",
-    "pos": "v.",
-    "meaning": "與「appreciate」相關的動作",
-    "example": "Accurate appreciate can prevent costly mistakes.",
-    "example_zh": "精準的處理可以避免昂貴的錯誤。",
-    "topic": "Finance",
-    "level": 1
-  },
-  {
-    "id": 55,
-    "word": "appropriate",
-    "pos": "v.",
-    "meaning": "與「appropriate」相關的動作",
-    "example": "The director requested a summary of the appropriate by Friday.",
-    "example_zh": "主管要求我們在週五前提交這項內容的摘要。",
-    "topic": "Office",
-    "level": 1
-  },
-  {
-    "id": 56,
-    "word": "approval",
-    "pos": "n.",
-    "meaning": "與「approval」相關的名詞",
-    "example": "We improved the approval after customer feedback.",
-    "example_zh": "我們依據客戶回饋改進了這個部分。",
-    "topic": "Travel",
-    "level": 1
-  },
-  {
-    "id": 57,
-    "word": "approve",
-    "pos": "n./v./adj.",
-    "meaning": "核准",
-    "example": "The audit found issues related to approve in two branches.",
-    "example_zh": "稽核在兩個分公司發現與此相關的問題。",
-    "topic": "Office",
-    "level": 1
-  },
-  {
-    "id": 58,
-    "word": "archive",
-    "pos": "adj.",
-    "meaning": "與「archive」相關的狀態",
-    "example": "A strong archive strategy supports long-term success.",
-    "example_zh": "完善的策略能支撐長期成功。",
-    "topic": "General",
-    "level": 1
-  },
-  {
-    "id": 59,
-    "word": "arise",
-    "pos": "v.",
-    "meaning": "與「arise」相關的動作",
-    "example": "The assistant prepared the arise for tomorrow’s presentation.",
-    "example_zh": "助理已為明天的簡報準備好相關資料。",
-    "topic": "Business",
-    "level": 1
-  },
-  {
-    "id": 60,
-    "word": "arrange",
-    "pos": "n./v./adj.",
-    "meaning": "安排",
-    "example": "The supervisor checked the arrange before approving the request.",
-    "example_zh": "主管在核准申請前檢查了這項內容。",
-    "topic": "Travel",
-    "level": 1
-  },
-  {
-    "id": 61,
-    "word": "aspect",
-    "pos": "n./v./adj.",
-    "meaning": "與「aspect」相關的動作",
-    "example": "Our team updated the aspect before sending the final report.",
-    "example_zh": "我們的團隊在送出最終報告前更新了這個項目。",
-    "topic": "Finance",
-    "level": 1
-  },
-  {
-    "id": 62,
-    "word": "assemble",
-    "pos": "n./v./adj.",
-    "meaning": "與「assemble」相關的動作",
-    "example": "Please review the assemble carefully before you sign the document.",
-    "example_zh": "請在簽署文件前仔細檢查這個項目。",
-    "topic": "Office",
-    "level": 1
-  },
-  {
-    "id": 63,
-    "word": "assert",
-    "pos": "n./v./adj.",
-    "meaning": "與「assert」相關的動作",
-    "example": "The manager asked us to improve the assert this quarter.",
-    "example_zh": "經理要求我們在本季改善這個重點。",
-    "topic": "Travel",
-    "level": 1
-  },
-  {
-    "id": 64,
-    "word": "assess",
-    "pos": "n./v./adj.",
-    "meaning": "與「assess」相關的動作",
-    "example": "We discussed the assess during the client call this morning.",
-    "example_zh": "我們在今天上午的客戶通話中討論了這個主題。",
-    "topic": "General",
-    "level": 1
-  },
-  {
-    "id": 65,
-    "word": "assign",
-    "pos": "n./v./adj.",
-    "meaning": "與「assign」相關的動作",
-    "example": "A clear assign helped the project move forward smoothly.",
-    "example_zh": "清楚的做法讓專案順利推進。",
-    "topic": "Business",
-    "level": 1
-  },
-  {
-    "id": 66,
-    "word": "associate",
-    "pos": "v.",
-    "meaning": "與「associate」相關的動作",
-    "example": "The company will monitor the associate every week.",
-    "example_zh": "公司每週都會追蹤這個指標。",
-    "topic": "Finance",
-    "level": 1
-  },
-  {
-    "id": 67,
-    "word": "assume",
-    "pos": "n./v./adj.",
-    "meaning": "與「assume」相關的動作",
-    "example": "They adjusted the assume to reduce operating costs.",
-    "example_zh": "他們調整這個做法以降低營運成本。",
-    "topic": "Office",
-    "level": 1
-  },
-  {
-    "id": 68,
-    "word": "assurance",
-    "pos": "n.",
-    "meaning": "與「assurance」相關的名詞",
-    "example": "This policy explains how to handle assurance in daily work.",
-    "example_zh": "這項政策說明了如何在日常工作中處理這件事。",
-    "topic": "Travel",
-    "level": 1
-  },
-  {
-    "id": 69,
-    "word": "attach",
-    "pos": "n./v./adj.",
-    "meaning": "與「attach」相關的動作",
-    "example": "The report highlights the importance of attach for growth.",
-    "example_zh": "這份報告強調這個要素對成長的重要性。",
-    "topic": "General",
-    "level": 1
-  },
-  {
-    "id": 70,
-    "word": "attain",
-    "pos": "n./v./adj.",
-    "meaning": "與「attain」相關的動作",
-    "example": "We need better attain to meet the deadline.",
-    "example_zh": "我們需要更好的安排才能趕上截止日。",
-    "topic": "Business",
-    "level": 1
-  },
-  {
-    "id": 71,
-    "word": "attribute",
-    "pos": "n./v./adj.",
-    "meaning": "與「attribute」相關的動作",
-    "example": "The training session focused on practical attribute skills.",
-    "example_zh": "這場培訓聚焦在實務技能上。",
-    "topic": "Finance",
-    "level": 1
-  },
-  {
-    "id": 72,
-    "word": "auction",
-    "pos": "n.",
-    "meaning": "與「auction」相關的名詞",
-    "example": "Our department standardized the auction across all teams.",
-    "example_zh": "我們部門已在所有團隊中標準化這項流程。",
-    "topic": "Office",
-    "level": 1
-  },
-  {
-    "id": 73,
-    "word": "audit",
-    "pos": "n./v./adj.",
-    "meaning": "與「audit」相關的動作",
-    "example": "The vendor confirmed the audit by email yesterday.",
-    "example_zh": "供應商昨天透過電子郵件確認了這項內容。",
-    "topic": "Travel",
-    "level": 1
-  },
-  {
-    "id": 74,
-    "word": "author",
-    "pos": "n.",
-    "meaning": "與「author」相關的名詞",
-    "example": "Accurate author can prevent costly mistakes.",
-    "example_zh": "精準的處理可以避免昂貴的錯誤。",
-    "topic": "General",
-    "level": 1
-  },
-  {
-    "id": 75,
-    "word": "automatic",
-    "pos": "adj.",
-    "meaning": "與「automatic」相關的狀態",
-    "example": "The director requested a summary of the automatic by Friday.",
-    "example_zh": "主管要求我們在週五前提交這項內容的摘要。",
-    "topic": "Business",
-    "level": 1
-  },
-  {
-    "id": 76,
-    "word": "available",
-    "pos": "adj.",
-    "meaning": "可取得的；有空的",
-    "example": "We improved the available after customer feedback.",
-    "example_zh": "我們依據客戶回饋改進了這個部分。",
-    "topic": "General",
-    "level": 1
-  },
-  {
-    "id": 77,
-    "word": "average",
-    "pos": "n./v./adj.",
-    "meaning": "與「average」相關的動作",
-    "example": "The audit found issues related to average in two branches.",
-    "example_zh": "稽核在兩個分公司發現與此相關的問題。",
-    "topic": "Finance",
-    "level": 1
-  },
-  {
-    "id": 78,
-    "word": "avoid",
-    "pos": "n./v./adj.",
-    "meaning": "與「avoid」相關的動作",
-    "example": "A strong avoid strategy supports long-term success.",
-    "example_zh": "完善的策略能支撐長期成功。",
-    "topic": "Office",
-    "level": 1
-  },
-  {
-    "id": 79,
-    "word": "award",
-    "pos": "n./v./adj.",
-    "meaning": "與「award」相關的動作",
-    "example": "The assistant prepared the award for tomorrow’s presentation.",
-    "example_zh": "助理已為明天的簡報準備好相關資料。",
-    "topic": "Travel",
-    "level": 1
-  },
-  {
-    "id": 80,
-    "word": "aware",
-    "pos": "n./v./adj.",
-    "meaning": "與「aware」相關的動作",
-    "example": "The supervisor checked the aware before approving the request.",
-    "example_zh": "主管在核准申請前檢查了這項內容。",
-    "topic": "General",
-    "level": 1
-  },
-  {
-    "id": 81,
-    "word": "background",
-    "pos": "n./v./adj.",
-    "meaning": "與「background」相關的動作",
-    "example": "Our team updated the background before sending the final report.",
-    "example_zh": "我們的團隊在送出最終報告前更新了這個項目。",
-    "topic": "Business",
-    "level": 1
-  },
-  {
-    "id": 82,
-    "word": "balance",
-    "pos": "n.",
-    "meaning": "餘額；平衡",
-    "example": "Please review the balance carefully before you sign the document.",
-    "example_zh": "請在簽署文件前仔細檢查這個項目。",
-    "topic": "Business",
-    "level": 1
-  },
-  {
-    "id": 83,
-    "word": "bargain",
-    "pos": "n./v./adj.",
-    "meaning": "與「bargain」相關的動作",
-    "example": "The manager asked us to improve the bargain this quarter.",
-    "example_zh": "經理要求我們在本季改善這個重點。",
-    "topic": "Finance",
-    "level": 1
-  },
-  {
-    "id": 84,
-    "word": "barrier",
-    "pos": "n.",
-    "meaning": "與「barrier」相關的名詞",
-    "example": "We discussed the barrier during the client call this morning.",
-    "example_zh": "我們在今天上午的客戶通話中討論了這個主題。",
-    "topic": "Office",
-    "level": 1
-  },
-  {
-    "id": 85,
-    "word": "behalf",
-    "pos": "n./v./adj.",
-    "meaning": "與「behalf」相關的動作",
-    "example": "A clear behalf helped the project move forward smoothly.",
-    "example_zh": "清楚的做法讓專案順利推進。",
-    "topic": "Travel",
-    "level": 1
-  },
-  {
-    "id": 86,
-    "word": "benefit",
-    "pos": "n./v./adj.",
-    "meaning": "與「benefit」相關的動作",
-    "example": "The company will monitor the benefit every week.",
-    "example_zh": "公司每週都會追蹤這個指標。",
-    "topic": "General",
-    "level": 1
-  },
-  {
-    "id": 87,
-    "word": "boundary",
-    "pos": "adj.",
-    "meaning": "與「boundary」相關的狀態",
-    "example": "They adjusted the boundary to reduce operating costs.",
-    "example_zh": "他們調整這個做法以降低營運成本。",
-    "topic": "Business",
-    "level": 1
-  },
-  {
-    "id": 88,
-    "word": "branch",
-    "pos": "n./v./adj.",
-    "meaning": "分公司；分行",
-    "example": "This policy explains how to handle branch in daily work.",
-    "example_zh": "這項政策說明了如何在日常工作中處理這件事。",
-    "topic": "Finance",
-    "level": 1
-  },
-  {
-    "id": 89,
-    "word": "budget",
-    "pos": "n./v./adj.",
-    "meaning": "預算",
-    "example": "The report highlights the importance of budget for growth.",
-    "example_zh": "這份報告強調這個要素對成長的重要性。",
-    "topic": "Office",
-    "level": 1
-  },
-  {
-    "id": 90,
-    "word": "burden",
-    "pos": "v.",
-    "meaning": "與「burden」相關的動作",
-    "example": "We need better burden to meet the deadline.",
-    "example_zh": "我們需要更好的安排才能趕上截止日。",
-    "topic": "Finance",
-    "level": 1
-  },
-  {
-    "id": 91,
-    "word": "calculation",
-    "pos": "n.",
-    "meaning": "與「calculation」相關的名詞",
-    "example": "The training session focused on practical calculation skills.",
-    "example_zh": "這場培訓聚焦在實務技能上。",
-    "topic": "Office",
-    "level": 1
-  },
-  {
-    "id": 92,
-    "word": "cancel",
-    "pos": "n./v./adj.",
-    "meaning": "取消",
-    "example": "Our department standardized the cancel across all teams.",
-    "example_zh": "我們部門已在所有團隊中標準化這項流程。",
-    "topic": "General",
-    "level": 1
-  },
-  {
-    "id": 93,
-    "word": "candidate",
-    "pos": "v.",
-    "meaning": "候選人",
-    "example": "The vendor confirmed the candidate by email yesterday.",
-    "example_zh": "供應商昨天透過電子郵件確認了這項內容。",
-    "topic": "Travel",
-    "level": 1
-  },
-  {
-    "id": 94,
-    "word": "capability",
-    "pos": "n.",
-    "meaning": "與「capability」相關的名詞",
-    "example": "Accurate capability can prevent costly mistakes.",
-    "example_zh": "精準的處理可以避免昂貴的錯誤。",
-    "topic": "Travel",
-    "level": 1
-  },
-  {
-    "id": 95,
-    "word": "capture",
-    "pos": "n./v./adj.",
-    "meaning": "與「capture」相關的動作",
-    "example": "The director requested a summary of the capture by Friday.",
-    "example_zh": "主管要求我們在週五前提交這項內容的摘要。",
-    "topic": "General",
-    "level": 1
-  },
-  {
-    "id": 96,
-    "word": "category",
-    "pos": "adj.",
-    "meaning": "與「category」相關的狀態",
-    "example": "We improved the category after customer feedback.",
-    "example_zh": "我們依據客戶回饋改進了這個部分。",
-    "topic": "Business",
-    "level": 1
-  },
-  {
-    "id": 97,
-    "word": "celebrate",
-    "pos": "v.",
-    "meaning": "與「celebrate」相關的動作",
-    "example": "The audit found issues related to celebrate in two branches.",
-    "example_zh": "稽核在兩個分公司發現與此相關的問題。",
-    "topic": "Finance",
-    "level": 1
-  },
-  {
-    "id": 98,
-    "word": "chapter",
-    "pos": "n.",
-    "meaning": "與「chapter」相關的名詞",
-    "example": "A strong chapter strategy supports long-term success.",
-    "example_zh": "完善的策略能支撐長期成功。",
-    "topic": "Office",
-    "level": 1
-  },
-  {
-    "id": 99,
-    "word": "citizen",
-    "pos": "v.",
-    "meaning": "與「citizen」相關的動作",
-    "example": "The assistant prepared the citizen for tomorrow’s presentation.",
-    "example_zh": "助理已為明天的簡報準備好相關資料。",
-    "topic": "Travel",
-    "level": 1
-  },
-  {
-    "id": 100,
-    "word": "classify",
-    "pos": "v.",
-    "meaning": "與「classify」相關的動作",
-    "example": "The supervisor checked the classify before approving the request.",
-    "example_zh": "主管在核准申請前檢查了這項內容。",
-    "topic": "General",
-    "level": 1
-  },
-  {
-    "id": 101,
-    "word": "client",
-    "pos": "n./v./adj.",
-    "meaning": "客戶",
-    "example": "Our team updated the client before sending the final report.",
-    "example_zh": "我們的團隊在送出最終報告前更新了這個項目。",
-    "topic": "Business",
-    "level": 1
-  },
-  {
-    "id": 102,
-    "word": "climate",
-    "pos": "v.",
-    "meaning": "與「climate」相關的動作",
-    "example": "Please review the climate carefully before you sign the document.",
-    "example_zh": "請在簽署文件前仔細檢查這個項目。",
-    "topic": "Business",
-    "level": 1
-  },
-  {
-    "id": 103,
-    "word": "colleague",
-    "pos": "n./v./adj.",
-    "meaning": "與「colleague」相關的動作",
-    "example": "The manager asked us to improve the colleague this quarter.",
-    "example_zh": "經理要求我們在本季改善這個重點。",
-    "topic": "Finance",
-    "level": 1
-  },
-  {
-    "id": 104,
-    "word": "commerce",
-    "pos": "n./v./adj.",
-    "meaning": "與「commerce」相關的動作",
-    "example": "We discussed the commerce during the client call this morning.",
-    "example_zh": "我們在今天上午的客戶通話中討論了這個主題。",
-    "topic": "Office",
-    "level": 1
-  },
-  {
-    "id": 105,
-    "word": "commercial",
-    "pos": "n.",
-    "meaning": "與「commercial」相關的名詞",
-    "example": "A clear commercial helped the project move forward smoothly.",
-    "example_zh": "清楚的做法讓專案順利推進。",
-    "topic": "Travel",
-    "level": 1
-  },
-  {
-    "id": 106,
-    "word": "committee",
-    "pos": "n./v./adj.",
-    "meaning": "與「committee」相關的動作",
-    "example": "The company will monitor the committee every week.",
-    "example_zh": "公司每週都會追蹤這個指標。",
-    "topic": "General",
-    "level": 1
-  },
-  {
-    "id": 107,
-    "word": "commute",
-    "pos": "n./v./adj.",
-    "meaning": "與「commute」相關的動作",
-    "example": "They adjusted the commute to reduce operating costs.",
-    "example_zh": "他們調整這個做法以降低營運成本。",
-    "topic": "Business",
-    "level": 1
-  },
-  {
-    "id": 108,
-    "word": "comparable",
-    "pos": "adj.",
-    "meaning": "與「comparable」相關的狀態",
-    "example": "This policy explains how to handle comparable in daily work.",
-    "example_zh": "這項政策說明了如何在日常工作中處理這件事。",
-    "topic": "Finance",
-    "level": 1
-  },
-  {
-    "id": 109,
-    "word": "complaint",
-    "pos": "n./v./adj.",
-    "meaning": "與「complaint」相關的動作",
-    "example": "The report highlights the importance of complaint for growth.",
-    "example_zh": "這份報告強調這個要素對成長的重要性。",
-    "topic": "Office",
-    "level": 1
-  },
-  {
-    "id": 110,
-    "word": "complex",
-    "pos": "n./v./adj.",
-    "meaning": "與「complex」相關的動作",
-    "example": "We need better complex to meet the deadline.",
-    "example_zh": "我們需要更好的安排才能趕上截止日。",
-    "topic": "Travel",
-    "level": 1
-  },
-  {
-    "id": 111,
-    "word": "component",
-    "pos": "n./v./adj.",
-    "meaning": "與「component」相關的動作",
-    "example": "The training session focused on practical component skills.",
-    "example_zh": "這場培訓聚焦在實務技能上。",
-    "topic": "General",
-    "level": 1
-  },
-  {
-    "id": 112,
-    "word": "compromise",
-    "pos": "v.",
-    "meaning": "與「compromise」相關的動作",
-    "example": "Our department standardized the compromise across all teams.",
-    "example_zh": "我們部門已在所有團隊中標準化這項流程。",
-    "topic": "Business",
-    "level": 1
-  },
-  {
-    "id": 113,
-    "word": "compulsory",
-    "pos": "adj.",
-    "meaning": "與「compulsory」相關的狀態",
-    "example": "The vendor confirmed the compulsory by email yesterday.",
-    "example_zh": "供應商昨天透過電子郵件確認了這項內容。",
-    "topic": "Finance",
-    "level": 1
-  },
-  {
-    "id": 114,
-    "word": "concentrate",
-    "pos": "v.",
-    "meaning": "與「concentrate」相關的動作",
-    "example": "Accurate concentrate can prevent costly mistakes.",
-    "example_zh": "精準的處理可以避免昂貴的錯誤。",
-    "topic": "Office",
-    "level": 1
-  },
-  {
-    "id": 115,
-    "word": "concept",
-    "pos": "n./v./adj.",
-    "meaning": "與「concept」相關的動作",
-    "example": "The director requested a summary of the concept by Friday.",
-    "example_zh": "主管要求我們在週五前提交這項內容的摘要。",
-    "topic": "Travel",
-    "level": 1
-  },
-  {
-    "id": 116,
-    "word": "conclude",
-    "pos": "n./v./adj.",
-    "meaning": "與「conclude」相關的動作",
-    "example": "We improved the conclude after customer feedback.",
-    "example_zh": "我們依據客戶回饋改進了這個部分。",
-    "topic": "General",
-    "level": 1
-  },
-  {
-    "id": 117,
-    "word": "concrete",
-    "pos": "n./v./adj.",
-    "meaning": "與「concrete」相關的動作",
-    "example": "The audit found issues related to concrete in two branches.",
-    "example_zh": "稽核在兩個分公司發現與此相關的問題。",
-    "topic": "Business",
-    "level": 1
-  },
-  {
-    "id": 118,
-    "word": "condition",
-    "pos": "n.",
-    "meaning": "與「condition」相關的名詞",
-    "example": "A strong condition strategy supports long-term success.",
-    "example_zh": "完善的策略能支撐長期成功。",
-    "topic": "Finance",
-    "level": 1
-  },
-  {
-    "id": 119,
-    "word": "conduct",
-    "pos": "n./v./adj.",
-    "meaning": "與「conduct」相關的動作",
-    "example": "The assistant prepared the conduct for tomorrow’s presentation.",
-    "example_zh": "助理已為明天的簡報準備好相關資料。",
-    "topic": "Office",
-    "level": 1
-  },
-  {
-    "id": 120,
-    "word": "confidence",
-    "pos": "n.",
-    "meaning": "與「confidence」相關的名詞",
-    "example": "The supervisor checked the confidence before approving the request.",
-    "example_zh": "主管在核准申請前檢查了這項內容。",
-    "topic": "Travel",
-    "level": 1
-  },
-  {
-    "id": 121,
-    "word": "confirm",
-    "pos": "n./v./adj.",
-    "meaning": "確認",
-    "example": "Our team updated the confirm before sending the final report.",
-    "example_zh": "我們的團隊在送出最終報告前更新了這個項目。",
-    "topic": "Finance",
-    "level": 1
-  },
-  {
-    "id": 122,
-    "word": "conflict",
-    "pos": "n./v./adj.",
-    "meaning": "與「conflict」相關的動作",
-    "example": "Please review the conflict carefully before you sign the document.",
-    "example_zh": "請在簽署文件前仔細檢查這個項目。",
-    "topic": "General",
-    "level": 1
-  },
-  {
-    "id": 123,
-    "word": "conform",
-    "pos": "n./v./adj.",
-    "meaning": "與「conform」相關的動作",
-    "example": "The manager asked us to improve the conform this quarter.",
-    "example_zh": "經理要求我們在本季改善這個重點。",
-    "topic": "Business",
-    "level": 1
-  },
-  {
-    "id": 124,
-    "word": "consequence",
-    "pos": "n.",
-    "meaning": "與「consequence」相關的名詞",
-    "example": "We discussed the consequence during the client call this morning.",
-    "example_zh": "我們在今天上午的客戶通話中討論了這個主題。",
-    "topic": "Finance",
-    "level": 1
-  },
-  {
-    "id": 125,
-    "word": "conservation",
-    "pos": "n.",
-    "meaning": "與「conservation」相關的名詞",
-    "example": "A clear conservation helped the project move forward smoothly.",
-    "example_zh": "清楚的做法讓專案順利推進。",
-    "topic": "Office",
-    "level": 1
-  },
-  {
-    "id": 126,
-    "word": "consistent",
-    "pos": "n./v./adj.",
-    "meaning": "與「consistent」相關的動作",
-    "example": "The company will monitor the consistent every week.",
-    "example_zh": "公司每週都會追蹤這個指標。",
-    "topic": "Travel",
-    "level": 1
-  },
-  {
-    "id": 127,
-    "word": "constant",
-    "pos": "n./v./adj.",
-    "meaning": "與「constant」相關的動作",
-    "example": "They adjusted the constant to reduce operating costs.",
-    "example_zh": "他們調整這個做法以降低營運成本。",
-    "topic": "General",
-    "level": 1
-  },
-  {
-    "id": 128,
-    "word": "constraint",
-    "pos": "n./v./adj.",
-    "meaning": "與「constraint」相關的動作",
-    "example": "This policy explains how to handle constraint in daily work.",
-    "example_zh": "這項政策說明了如何在日常工作中處理這件事。",
-    "topic": "Business",
-    "level": 1
-  },
-  {
-    "id": 129,
-    "word": "consult",
-    "pos": "n./v./adj.",
-    "meaning": "與「consult」相關的動作",
-    "example": "The report highlights the importance of consult for growth.",
-    "example_zh": "這份報告強調這個要素對成長的重要性。",
-    "topic": "Finance",
-    "level": 1
-  },
-  {
-    "id": 130,
-    "word": "contact",
-    "pos": "n./v./adj.",
-    "meaning": "聯絡",
-    "example": "We need better contact to meet the deadline.",
-    "example_zh": "我們需要更好的安排才能趕上截止日。",
-    "topic": "Office",
-    "level": 1
-  },
-  {
-    "id": 131,
-    "word": "contemporary",
-    "pos": "adj.",
-    "meaning": "與「contemporary」相關的狀態",
-    "example": "The training session focused on practical contemporary skills.",
-    "example_zh": "這場培訓聚焦在實務技能上。",
-    "topic": "Office",
-    "level": 1
-  },
-  {
-    "id": 132,
-    "word": "context",
-    "pos": "n./v./adj.",
-    "meaning": "與「context」相關的動作",
-    "example": "Our department standardized the context across all teams.",
-    "example_zh": "我們部門已在所有團隊中標準化這項流程。",
-    "topic": "Travel",
-    "level": 1
-  },
-  {
-    "id": 133,
-    "word": "contract",
-    "pos": "n./v./adj.",
-    "meaning": "合約",
-    "example": "The vendor confirmed the contract by email yesterday.",
-    "example_zh": "供應商昨天透過電子郵件確認了這項內容。",
-    "topic": "Travel",
-    "level": 1
-  },
-  {
-    "id": 134,
-    "word": "contrast",
-    "pos": "n./v./adj.",
-    "meaning": "與「contrast」相關的動作",
-    "example": "Accurate contrast can prevent costly mistakes.",
-    "example_zh": "精準的處理可以避免昂貴的錯誤。",
-    "topic": "General",
-    "level": 1
-  },
-  {
-    "id": 135,
-    "word": "contribute",
-    "pos": "n./v./adj.",
-    "meaning": "與「contribute」相關的動作",
-    "example": "The director requested a summary of the contribute by Friday.",
-    "example_zh": "主管要求我們在週五前提交這項內容的摘要。",
-    "topic": "Business",
-    "level": 1
-  },
-  {
-    "id": 136,
-    "word": "convenience",
-    "pos": "n.",
-    "meaning": "與「convenience」相關的名詞",
-    "example": "We improved the convenience after customer feedback.",
-    "example_zh": "我們依據客戶回饋改進了這個部分。",
-    "topic": "Finance",
-    "level": 1
-  },
-  {
-    "id": 137,
-    "word": "convention",
-    "pos": "n.",
-    "meaning": "與「convention」相關的名詞",
-    "example": "The audit found issues related to convention in two branches.",
-    "example_zh": "稽核在兩個分公司發現與此相關的問題。",
-    "topic": "Office",
-    "level": 1
-  },
-  {
-    "id": 138,
-    "word": "convert",
-    "pos": "n./v./adj.",
-    "meaning": "與「convert」相關的動作",
-    "example": "A strong convert strategy supports long-term success.",
-    "example_zh": "完善的策略能支撐長期成功。",
-    "topic": "Travel",
-    "level": 1
-  },
-  {
-    "id": 139,
-    "word": "convince",
-    "pos": "n./v./adj.",
-    "meaning": "與「convince」相關的動作",
-    "example": "The assistant prepared the convince for tomorrow’s presentation.",
-    "example_zh": "助理已為明天的簡報準備好相關資料。",
-    "topic": "General",
-    "level": 1
-  },
-  {
-    "id": 140,
-    "word": "coordinate",
-    "pos": "v.",
-    "meaning": "與「coordinate」相關的動作",
-    "example": "The supervisor checked the coordinate before approving the request.",
-    "example_zh": "主管在核准申請前檢查了這項內容。",
-    "topic": "Business",
-    "level": 1
-  },
-  {
-    "id": 141,
-    "word": "corporation",
-    "pos": "n.",
-    "meaning": "與「corporation」相關的名詞",
-    "example": "Our team updated the corporation before sending the final report.",
-    "example_zh": "我們的團隊在送出最終報告前更新了這個項目。",
-    "topic": "Finance",
-    "level": 1
-  },
-  {
-    "id": 142,
-    "word": "correspond",
-    "pos": "n./v./adj.",
-    "meaning": "與「correspond」相關的動作",
-    "example": "Please review the correspond carefully before you sign the document.",
-    "example_zh": "請在簽署文件前仔細檢查這個項目。",
-    "topic": "Office",
-    "level": 1
-  },
-  {
-    "id": 143,
-    "word": "coverage",
-    "pos": "n./v./adj.",
-    "meaning": "與「coverage」相關的動作",
-    "example": "The manager asked us to improve the coverage this quarter.",
-    "example_zh": "經理要求我們在本季改善這個重點。",
-    "topic": "Travel",
-    "level": 1
-  },
-  {
-    "id": 144,
-    "word": "criterion",
-    "pos": "n./v./adj.",
-    "meaning": "與「criterion」相關的動作",
-    "example": "We discussed the criterion during the client call this morning.",
-    "example_zh": "我們在今天上午的客戶通話中討論了這個主題。",
-    "topic": "General",
-    "level": 1
-  },
-  {
-    "id": 145,
-    "word": "critical",
-    "pos": "n.",
-    "meaning": "與「critical」相關的名詞",
-    "example": "A clear critical helped the project move forward smoothly.",
-    "example_zh": "清楚的做法讓專案順利推進。",
-    "topic": "Business",
-    "level": 1
-  },
-  {
-    "id": 146,
-    "word": "criticize",
-    "pos": "v.",
-    "meaning": "與「criticize」相關的動作",
-    "example": "The company will monitor the criticize every week.",
-    "example_zh": "公司每週都會追蹤這個指標。",
-    "topic": "Finance",
-    "level": 1
-  },
-  {
-    "id": 147,
-    "word": "currency",
-    "pos": "n./v./adj.",
-    "meaning": "與「currency」相關的動作",
-    "example": "They adjusted the currency to reduce operating costs.",
-    "example_zh": "他們調整這個做法以降低營運成本。",
-    "topic": "Office",
-    "level": 1
-  },
-  {
-    "id": 148,
-    "word": "custom",
-    "pos": "n./v./adj.",
-    "meaning": "與「custom」相關的動作",
-    "example": "This policy explains how to handle custom in daily work.",
-    "example_zh": "這項政策說明了如何在日常工作中處理這件事。",
-    "topic": "Travel",
-    "level": 1
-  },
-  {
-    "id": 149,
-    "word": "cycle",
-    "pos": "n./v./adj.",
-    "meaning": "與「cycle」相關的動作",
-    "example": "The report highlights the importance of cycle for growth.",
-    "example_zh": "這份報告強調這個要素對成長的重要性。",
-    "topic": "General",
-    "level": 1
-  },
-  {
-    "id": 150,
-    "word": "damage",
-    "pos": "n./v./adj.",
-    "meaning": "與「damage」相關的動作",
-    "example": "We need better damage to meet the deadline.",
-    "example_zh": "我們需要更好的安排才能趕上截止日。",
-    "topic": "Business",
-    "level": 1
-  },
-  {
-    "id": 151,
-    "word": "deadline",
-    "pos": "n./v./adj.",
-    "meaning": "截止期限",
-    "example": "The training session focused on practical deadline skills.",
-    "example_zh": "這場培訓聚焦在實務技能上。",
-    "topic": "General",
-    "level": 1
-  },
-  {
-    "id": 152,
-    "word": "debate",
-    "pos": "v.",
-    "meaning": "與「debate」相關的動作",
-    "example": "Our department standardized the debate across all teams.",
-    "example_zh": "我們部門已在所有團隊中標準化這項流程。",
-    "topic": "Finance",
-    "level": 1
-  },
-  {
-    "id": 153,
-    "word": "decade",
-    "pos": "n./v./adj.",
-    "meaning": "與「decade」相關的動作",
-    "example": "The vendor confirmed the decade by email yesterday.",
-    "example_zh": "供應商昨天透過電子郵件確認了這項內容。",
-    "topic": "Office",
-    "level": 1
-  },
-  {
-    "id": 154,
-    "word": "declare",
-    "pos": "n./v./adj.",
-    "meaning": "與「declare」相關的動作",
-    "example": "Accurate declare can prevent costly mistakes.",
-    "example_zh": "精準的處理可以避免昂貴的錯誤。",
-    "topic": "Travel",
-    "level": 1
-  },
-  {
-    "id": 155,
-    "word": "decline",
-    "pos": "n./v./adj.",
-    "meaning": "與「decline」相關的動作",
-    "example": "The director requested a summary of the decline by Friday.",
-    "example_zh": "主管要求我們在週五前提交這項內容的摘要。",
-    "topic": "General",
-    "level": 1
-  },
-  {
-    "id": 156,
-    "word": "decrease",
-    "pos": "n./v./adj.",
-    "meaning": "與「decrease」相關的動作",
-    "example": "We improved the decrease after customer feedback.",
-    "example_zh": "我們依據客戶回饋改進了這個部分。",
-    "topic": "Business",
-    "level": 1
-  },
-  {
-    "id": 157,
-    "word": "dedicate",
-    "pos": "v.",
-    "meaning": "與「dedicate」相關的動作",
-    "example": "The audit found issues related to dedicate in two branches.",
-    "example_zh": "稽核在兩個分公司發現與此相關的問題。",
-    "topic": "Finance",
-    "level": 1
-  },
-  {
-    "id": 158,
-    "word": "define",
-    "pos": "n./v./adj.",
-    "meaning": "與「define」相關的動作",
-    "example": "A strong define strategy supports long-term success.",
-    "example_zh": "完善的策略能支撐長期成功。",
-    "topic": "Office",
-    "level": 1
-  },
-  {
-    "id": 159,
-    "word": "definite",
-    "pos": "n./v./adj.",
-    "meaning": "與「definite」相關的動作",
-    "example": "The assistant prepared the definite for tomorrow’s presentation.",
-    "example_zh": "助理已為明天的簡報準備好相關資料。",
-    "topic": "Travel",
-    "level": 1
-  },
-  {
-    "id": 160,
-    "word": "delay",
-    "pos": "n./v./adj.",
-    "meaning": "延誤",
-    "example": "The supervisor checked the delay before approving the request.",
-    "example_zh": "主管在核准申請前檢查了這項內容。",
-    "topic": "Business",
-    "level": 1
-  },
-  {
-    "id": 161,
-    "word": "delegate",
-    "pos": "v.",
-    "meaning": "與「delegate」相關的動作",
-    "example": "Our team updated the delegate before sending the final report.",
-    "example_zh": "我們的團隊在送出最終報告前更新了這個項目。",
-    "topic": "General",
-    "level": 1
-  },
-  {
-    "id": 162,
-    "word": "deliberate",
-    "pos": "v.",
-    "meaning": "與「deliberate」相關的動作",
-    "example": "Please review the deliberate carefully before you sign the document.",
-    "example_zh": "請在簽署文件前仔細檢查這個項目。",
-    "topic": "Business",
-    "level": 2
-  },
-  {
-    "id": 163,
-    "word": "deliver",
-    "pos": "n.",
-    "meaning": "交付；送達",
-    "example": "The manager asked us to improve the deliver this quarter.",
-    "example_zh": "經理要求我們在本季改善這個重點。",
-    "topic": "Finance",
-    "level": 1
-  },
-  {
-    "id": 164,
-    "word": "demonstrate",
-    "pos": "v.",
-    "meaning": "與「demonstrate」相關的動作",
-    "example": "We discussed the demonstrate during the client call this morning.",
-    "example_zh": "我們在今天上午的客戶通話中討論了這個主題。",
-    "topic": "Finance",
-    "level": 2
-  },
-  {
-    "id": 165,
-    "word": "depart",
-    "pos": "n./v./adj.",
-    "meaning": "與「depart」相關的動作",
-    "example": "A clear depart helped the project move forward smoothly.",
-    "example_zh": "清楚的做法讓專案順利推進。",
-    "topic": "Office",
-    "level": 2
-  },
-  {
-    "id": 166,
-    "word": "department",
-    "pos": "n.",
-    "meaning": "部門",
-    "example": "The company will monitor the department every week.",
-    "example_zh": "公司每週都會追蹤這個指標。",
-    "topic": "Office",
-    "level": 1
-  },
-  {
-    "id": 167,
-    "word": "depend",
-    "pos": "n./v./adj.",
-    "meaning": "與「depend」相關的動作",
-    "example": "They adjusted the depend to reduce operating costs.",
-    "example_zh": "他們調整這個做法以降低營運成本。",
-    "topic": "Travel",
-    "level": 2
-  },
-  {
-    "id": 168,
-    "word": "depict",
-    "pos": "n./v./adj.",
-    "meaning": "與「depict」相關的動作",
-    "example": "This policy explains how to handle depict in daily work.",
-    "example_zh": "這項政策說明了如何在日常工作中處理這件事。",
-    "topic": "General",
-    "level": 2
-  },
-  {
-    "id": 169,
-    "word": "deposit",
-    "pos": "n./v./adj.",
-    "meaning": "與「deposit」相關的動作",
-    "example": "The report highlights the importance of deposit for growth.",
-    "example_zh": "這份報告強調這個要素對成長的重要性。",
-    "topic": "Business",
-    "level": 2
-  },
-  {
-    "id": 170,
-    "word": "derive",
-    "pos": "adj.",
-    "meaning": "與「derive」相關的狀態",
-    "example": "We need better derive to meet the deadline.",
-    "example_zh": "我們需要更好的安排才能趕上截止日。",
-    "topic": "Finance",
-    "level": 2
-  },
-  {
-    "id": 171,
-    "word": "design",
-    "pos": "n./v./adj.",
-    "meaning": "設計",
-    "example": "The training session focused on practical design skills.",
-    "example_zh": "這場培訓聚焦在實務技能上。",
-    "topic": "Travel",
-    "level": 1
-  },
-  {
-    "id": 172,
-    "word": "designate",
-    "pos": "v.",
-    "meaning": "與「designate」相關的動作",
-    "example": "Our department standardized the designate across all teams.",
-    "example_zh": "我們部門已在所有團隊中標準化這項流程。",
-    "topic": "Office",
-    "level": 2
-  },
-  {
-    "id": 173,
-    "word": "desire",
-    "pos": "n./v./adj.",
-    "meaning": "與「desire」相關的動作",
-    "example": "The vendor confirmed the desire by email yesterday.",
-    "example_zh": "供應商昨天透過電子郵件確認了這項內容。",
-    "topic": "Travel",
-    "level": 2
-  },
-  {
-    "id": 174,
-    "word": "detect",
-    "pos": "n./v./adj.",
-    "meaning": "與「detect」相關的動作",
-    "example": "Accurate detect can prevent costly mistakes.",
-    "example_zh": "精準的處理可以避免昂貴的錯誤。",
-    "topic": "General",
-    "level": 2
-  },
-  {
-    "id": 175,
-    "word": "determine",
-    "pos": "n./v./adj.",
-    "meaning": "與「determine」相關的動作",
-    "example": "The director requested a summary of the determine by Friday.",
-    "example_zh": "主管要求我們在週五前提交這項內容的摘要。",
-    "topic": "Business",
-    "level": 2
-  },
-  {
-    "id": 176,
-    "word": "develop",
-    "pos": "n./v./adj.",
-    "meaning": "與「develop」相關的動作",
-    "example": "We improved the develop after customer feedback.",
-    "example_zh": "我們依據客戶回饋改進了這個部分。",
-    "topic": "Finance",
-    "level": 2
-  },
-  {
-    "id": 177,
-    "word": "device",
-    "pos": "n./v./adj.",
-    "meaning": "與「device」相關的動作",
-    "example": "The audit found issues related to device in two branches.",
-    "example_zh": "稽核在兩個分公司發現與此相關的問題。",
-    "topic": "Office",
-    "level": 2
-  },
-  {
-    "id": 178,
-    "word": "devote",
-    "pos": "n./v./adj.",
-    "meaning": "與「devote」相關的動作",
-    "example": "A strong devote strategy supports long-term success.",
-    "example_zh": "完善的策略能支撐長期成功。",
-    "topic": "Travel",
-    "level": 2
-  },
-  {
-    "id": 179,
-    "word": "dialogue",
-    "pos": "n./v./adj.",
-    "meaning": "與「dialogue」相關的動作",
-    "example": "The assistant prepared the dialogue for tomorrow’s presentation.",
-    "example_zh": "助理已為明天的簡報準備好相關資料。",
-    "topic": "General",
-    "level": 2
-  },
-  {
-    "id": 180,
-    "word": "differ",
-    "pos": "n.",
-    "meaning": "與「differ」相關的名詞",
-    "example": "The supervisor checked the differ before approving the request.",
-    "example_zh": "主管在核准申請前檢查了這項內容。",
-    "topic": "Business",
-    "level": 2
-  },
-  {
-    "id": 181,
-    "word": "digital",
-    "pos": "n.",
-    "meaning": "與「digital」相關的名詞",
-    "example": "Our team updated the digital before sending the final report.",
-    "example_zh": "我們的團隊在送出最終報告前更新了這個項目。",
-    "topic": "Finance",
-    "level": 2
-  },
-  {
-    "id": 182,
-    "word": "dignity",
-    "pos": "n.",
-    "meaning": "與「dignity」相關的名詞",
-    "example": "Please review the dignity carefully before you sign the document.",
-    "example_zh": "請在簽署文件前仔細檢查這個項目。",
-    "topic": "Office",
-    "level": 2
-  },
-  {
-    "id": 183,
-    "word": "diminish",
-    "pos": "n./v./adj.",
-    "meaning": "與「diminish」相關的動作",
-    "example": "The manager asked us to improve the diminish this quarter.",
-    "example_zh": "經理要求我們在本季改善這個重點。",
-    "topic": "Travel",
-    "level": 2
-  },
-  {
-    "id": 184,
-    "word": "direct",
-    "pos": "n./v./adj.",
-    "meaning": "與「direct」相關的動作",
-    "example": "We discussed the direct during the client call this morning.",
-    "example_zh": "我們在今天上午的客戶通話中討論了這個主題。",
-    "topic": "General",
-    "level": 2
-  },
-  {
-    "id": 185,
-    "word": "disable",
-    "pos": "adj.",
-    "meaning": "與「disable」相關的狀態",
-    "example": "A clear disable helped the project move forward smoothly.",
-    "example_zh": "清楚的做法讓專案順利推進。",
-    "topic": "Business",
-    "level": 2
-  },
-  {
-    "id": 186,
-    "word": "disaster",
-    "pos": "n.",
-    "meaning": "與「disaster」相關的名詞",
-    "example": "The company will monitor the disaster every week.",
-    "example_zh": "公司每週都會追蹤這個指標。",
-    "topic": "Finance",
-    "level": 2
-  },
-  {
-    "id": 187,
-    "word": "discipline",
-    "pos": "n./v./adj.",
-    "meaning": "與「discipline」相關的動作",
-    "example": "They adjusted the discipline to reduce operating costs.",
-    "example_zh": "他們調整這個做法以降低營運成本。",
-    "topic": "Office",
-    "level": 2
-  },
-  {
-    "id": 188,
-    "word": "disclose",
-    "pos": "n./v./adj.",
-    "meaning": "與「disclose」相關的動作",
-    "example": "This policy explains how to handle disclose in daily work.",
-    "example_zh": "這項政策說明了如何在日常工作中處理這件事。",
-    "topic": "Travel",
-    "level": 2
-  },
-  {
-    "id": 189,
-    "word": "discount",
-    "pos": "n./v./adj.",
-    "meaning": "折扣",
-    "example": "The report highlights the importance of discount for growth.",
-    "example_zh": "這份報告強調這個要素對成長的重要性。",
-    "topic": "General",
-    "level": 1
-  },
-  {
-    "id": 190,
-    "word": "discover",
-    "pos": "n.",
-    "meaning": "與「discover」相關的名詞",
-    "example": "We need better discover to meet the deadline.",
-    "example_zh": "我們需要更好的安排才能趕上截止日。",
-    "topic": "General",
-    "level": 2
-  },
-  {
-    "id": 191,
-    "word": "discriminate",
-    "pos": "v.",
-    "meaning": "與「discriminate」相關的動作",
-    "example": "The training session focused on practical discriminate skills.",
-    "example_zh": "這場培訓聚焦在實務技能上。",
-    "topic": "Business",
-    "level": 2
-  },
-  {
-    "id": 192,
-    "word": "discuss",
-    "pos": "n./v./adj.",
-    "meaning": "討論",
-    "example": "Our department standardized the discuss across all teams.",
-    "example_zh": "我們部門已在所有團隊中標準化這項流程。",
-    "topic": "Business",
-    "level": 1
-  },
-  {
-    "id": 193,
-    "word": "dismiss",
-    "pos": "n./v./adj.",
-    "meaning": "與「dismiss」相關的動作",
-    "example": "The vendor confirmed the dismiss by email yesterday.",
-    "example_zh": "供應商昨天透過電子郵件確認了這項內容。",
-    "topic": "Finance",
-    "level": 2
-  },
-  {
-    "id": 194,
-    "word": "disorder",
-    "pos": "n.",
-    "meaning": "與「disorder」相關的名詞",
-    "example": "Accurate disorder can prevent costly mistakes.",
-    "example_zh": "精準的處理可以避免昂貴的錯誤。",
-    "topic": "Office",
-    "level": 2
-  },
-  {
-    "id": 195,
-    "word": "display",
-    "pos": "n./v./adj.",
-    "meaning": "與「display」相關的動作",
-    "example": "The director requested a summary of the display by Friday.",
-    "example_zh": "主管要求我們在週五前提交這項內容的摘要。",
-    "topic": "Travel",
-    "level": 2
-  },
-  {
-    "id": 196,
-    "word": "dispose",
-    "pos": "n./v./adj.",
-    "meaning": "與「dispose」相關的動作",
-    "example": "We improved the dispose after customer feedback.",
-    "example_zh": "我們依據客戶回饋改進了這個部分。",
-    "topic": "General",
-    "level": 2
-  },
-  {
-    "id": 197,
-    "word": "dispute",
-    "pos": "n./v./adj.",
-    "meaning": "與「dispute」相關的動作",
-    "example": "The audit found issues related to dispute in two branches.",
-    "example_zh": "稽核在兩個分公司發現與此相關的問題。",
-    "topic": "Business",
-    "level": 2
-  },
-  {
-    "id": 198,
-    "word": "distinct",
-    "pos": "n./v./adj.",
-    "meaning": "與「distinct」相關的動作",
-    "example": "A strong distinct strategy supports long-term success.",
-    "example_zh": "完善的策略能支撐長期成功。",
-    "topic": "Finance",
-    "level": 2
-  },
-  {
-    "id": 199,
-    "word": "divide",
-    "pos": "n./v./adj.",
-    "meaning": "與「divide」相關的動作",
-    "example": "The assistant prepared the divide for tomorrow’s presentation.",
-    "example_zh": "助理已為明天的簡報準備好相關資料。",
-    "topic": "Office",
-    "level": 2
-  },
-  {
-    "id": 200,
-    "word": "doctrine",
-    "pos": "n./v./adj.",
-    "meaning": "與「doctrine」相關的動作",
-    "example": "The supervisor checked the doctrine before approving the request.",
-    "example_zh": "主管在核准申請前檢查了這項內容。",
-    "topic": "Travel",
-    "level": 2
-  },
-  {
-    "id": 201,
-    "word": "document",
-    "pos": "n.",
-    "meaning": "文件",
-    "example": "Our team updated the document before sending the final report.",
-    "example_zh": "我們的團隊在送出最終報告前更新了這個項目。",
-    "topic": "Finance",
-    "level": 1
-  },
-  {
-    "id": 202,
-    "word": "domestic",
-    "pos": "adj.",
-    "meaning": "與「domestic」相關的狀態",
-    "example": "Please review the domestic carefully before you sign the document.",
-    "example_zh": "請在簽署文件前仔細檢查這個項目。",
-    "topic": "General",
-    "level": 2
-  },
-  {
-    "id": 203,
-    "word": "dominate",
-    "pos": "v.",
-    "meaning": "與「dominate」相關的動作",
-    "example": "The manager asked us to improve the dominate this quarter.",
-    "example_zh": "經理要求我們在本季改善這個重點。",
-    "topic": "Business",
-    "level": 2
-  },
-  {
-    "id": 204,
-    "word": "donate",
-    "pos": "v.",
-    "meaning": "與「donate」相關的動作",
-    "example": "We discussed the donate during the client call this morning.",
-    "example_zh": "我們在今天上午的客戶通話中討論了這個主題。",
-    "topic": "Finance",
-    "level": 2
-  },
-  {
-    "id": 205,
-    "word": "dramatic",
-    "pos": "adj.",
-    "meaning": "與「dramatic」相關的狀態",
-    "example": "A clear dramatic helped the project move forward smoothly.",
-    "example_zh": "清楚的做法讓專案順利推進。",
-    "topic": "Office",
-    "level": 2
-  },
-  {
-    "id": 206,
-    "word": "duration",
-    "pos": "n.",
-    "meaning": "與「duration」相關的名詞",
-    "example": "The company will monitor the duration every week.",
-    "example_zh": "公司每週都會追蹤這個指標。",
-    "topic": "Travel",
-    "level": 2
-  },
-  {
-    "id": 207,
-    "word": "dynamic",
-    "pos": "adj.",
-    "meaning": "與「dynamic」相關的狀態",
-    "example": "They adjusted the dynamic to reduce operating costs.",
-    "example_zh": "他們調整這個做法以降低營運成本。",
-    "topic": "General",
-    "level": 2
-  },
-  {
-    "id": 208,
-    "word": "eager",
-    "pos": "n.",
-    "meaning": "與「eager」相關的名詞",
-    "example": "This policy explains how to handle eager in daily work.",
-    "example_zh": "這項政策說明了如何在日常工作中處理這件事。",
-    "topic": "Business",
-    "level": 2
-  },
-  {
-    "id": 209,
-    "word": "economy",
-    "pos": "n./v./adj.",
-    "meaning": "與「economy」相關的動作",
-    "example": "The report highlights the importance of economy for growth.",
-    "example_zh": "這份報告強調這個要素對成長的重要性。",
-    "topic": "Finance",
-    "level": 2
-  },
-  {
-    "id": 210,
-    "word": "educate",
-    "pos": "v.",
-    "meaning": "與「educate」相關的動作",
-    "example": "We need better educate to meet the deadline.",
-    "example_zh": "我們需要更好的安排才能趕上截止日。",
-    "topic": "Office",
-    "level": 2
-  },
-  {
-    "id": 211,
-    "word": "effect",
-    "pos": "n./v./adj.",
-    "meaning": "與「effect」相關的動作",
-    "example": "The training session focused on practical effect skills.",
-    "example_zh": "這場培訓聚焦在實務技能上。",
-    "topic": "Travel",
-    "level": 2
-  },
-  {
-    "id": 212,
-    "word": "efficient",
-    "pos": "n./v./adj.",
-    "meaning": "有效率的",
-    "example": "Our department standardized the efficient across all teams.",
-    "example_zh": "我們部門已在所有團隊中標準化這項流程。",
-    "topic": "Office",
-    "level": 1
-  },
-  {
-    "id": 213,
-    "word": "elaborate",
-    "pos": "v.",
-    "meaning": "與「elaborate」相關的動作",
-    "example": "The vendor confirmed the elaborate by email yesterday.",
-    "example_zh": "供應商昨天透過電子郵件確認了這項內容。",
-    "topic": "General",
-    "level": 2
-  },
-  {
-    "id": 214,
-    "word": "eliminate",
-    "pos": "v.",
-    "meaning": "與「eliminate」相關的動作",
-    "example": "Accurate eliminate can prevent costly mistakes.",
-    "example_zh": "精準的處理可以避免昂貴的錯誤。",
-    "topic": "Business",
-    "level": 2
-  },
-  {
-    "id": 215,
-    "word": "emerge",
-    "pos": "n./v./adj.",
-    "meaning": "與「emerge」相關的動作",
-    "example": "The director requested a summary of the emerge by Friday.",
-    "example_zh": "主管要求我們在週五前提交這項內容的摘要。",
-    "topic": "Finance",
-    "level": 2
-  },
-  {
-    "id": 216,
-    "word": "emotional",
-    "pos": "n.",
-    "meaning": "與「emotional」相關的名詞",
-    "example": "We improved the emotional after customer feedback.",
-    "example_zh": "我們依據客戶回饋改進了這個部分。",
-    "topic": "Office",
-    "level": 2
-  },
-  {
-    "id": 217,
-    "word": "emphasize",
-    "pos": "v.",
-    "meaning": "與「emphasize」相關的動作",
-    "example": "The audit found issues related to emphasize in two branches.",
-    "example_zh": "稽核在兩個分公司發現與此相關的問題。",
-    "topic": "Travel",
-    "level": 2
-  },
-  {
-    "id": 218,
-    "word": "employ",
-    "pos": "n./v./adj.",
-    "meaning": "與「employ」相關的動作",
-    "example": "A strong employ strategy supports long-term success.",
-    "example_zh": "完善的策略能支撐長期成功。",
-    "topic": "General",
-    "level": 2
-  },
-  {
-    "id": 219,
-    "word": "employee",
-    "pos": "n./v./adj.",
-    "meaning": "員工",
-    "example": "The assistant prepared the employee for tomorrow’s presentation.",
-    "example_zh": "助理已為明天的簡報準備好相關資料。",
-    "topic": "Travel",
-    "level": 1
-  },
-  {
-    "id": 220,
-    "word": "enable",
-    "pos": "adj.",
-    "meaning": "與「enable」相關的狀態",
-    "example": "The supervisor checked the enable before approving the request.",
-    "example_zh": "主管在核准申請前檢查了這項內容。",
-    "topic": "Business",
-    "level": 2
-  },
-  {
-    "id": 221,
-    "word": "encounter",
-    "pos": "n.",
-    "meaning": "與「encounter」相關的名詞",
-    "example": "Our team updated the encounter before sending the final report.",
-    "example_zh": "我們的團隊在送出最終報告前更新了這個項目。",
-    "topic": "Finance",
-    "level": 2
-  },
-  {
-    "id": 222,
-    "word": "energy",
-    "pos": "n./v./adj.",
-    "meaning": "與「energy」相關的動作",
-    "example": "Please review the energy carefully before you sign the document.",
-    "example_zh": "請在簽署文件前仔細檢查這個項目。",
-    "topic": "Office",
-    "level": 2
-  },
-  {
-    "id": 223,
-    "word": "enforce",
-    "pos": "n./v./adj.",
-    "meaning": "與「enforce」相關的動作",
-    "example": "The manager asked us to improve the enforce this quarter.",
-    "example_zh": "經理要求我們在本季改善這個重點。",
-    "topic": "Travel",
-    "level": 2
-  },
-  {
-    "id": 224,
-    "word": "engage",
-    "pos": "n./v./adj.",
-    "meaning": "與「engage」相關的動作",
-    "example": "We discussed the engage during the client call this morning.",
-    "example_zh": "我們在今天上午的客戶通話中討論了這個主題。",
-    "topic": "General",
-    "level": 2
-  },
-  {
-    "id": 225,
-    "word": "enhance",
-    "pos": "n.",
-    "meaning": "與「enhance」相關的名詞",
-    "example": "A clear enhance helped the project move forward smoothly.",
-    "example_zh": "清楚的做法讓專案順利推進。",
-    "topic": "Business",
-    "level": 2
-  },
-  {
-    "id": 226,
-    "word": "enroll",
-    "pos": "n./v./adj.",
-    "meaning": "與「enroll」相關的動作",
-    "example": "The company will monitor the enroll every week.",
-    "example_zh": "公司每週都會追蹤這個指標。",
-    "topic": "Finance",
-    "level": 2
-  },
-  {
-    "id": 227,
-    "word": "ensure",
-    "pos": "n./v./adj.",
-    "meaning": "與「ensure」相關的動作",
-    "example": "They adjusted the ensure to reduce operating costs.",
-    "example_zh": "他們調整這個做法以降低營運成本。",
-    "topic": "Office",
-    "level": 2
-  },
-  {
-    "id": 228,
-    "word": "entity",
-    "pos": "n.",
-    "meaning": "與「entity」相關的名詞",
-    "example": "This policy explains how to handle entity in daily work.",
-    "example_zh": "這項政策說明了如何在日常工作中處理這件事。",
-    "topic": "Travel",
-    "level": 2
-  },
-  {
-    "id": 229,
-    "word": "episode",
-    "pos": "n./v./adj.",
-    "meaning": "與「episode」相關的動作",
-    "example": "The report highlights the importance of episode for growth.",
-    "example_zh": "這份報告強調這個要素對成長的重要性。",
-    "topic": "General",
-    "level": 2
-  },
-  {
-    "id": 230,
-    "word": "equality",
-    "pos": "n.",
-    "meaning": "與「equality」相關的名詞",
-    "example": "We need better equality to meet the deadline.",
-    "example_zh": "我們需要更好的安排才能趕上截止日。",
-    "topic": "Business",
-    "level": 2
-  },
-  {
-    "id": 231,
-    "word": "equipment",
-    "pos": "n.",
-    "meaning": "設備",
-    "example": "The training session focused on practical equipment skills.",
-    "example_zh": "這場培訓聚焦在實務技能上。",
-    "topic": "General",
-    "level": 1
-  },
-  {
-    "id": 232,
-    "word": "equivalent",
-    "pos": "n./v./adj.",
-    "meaning": "與「equivalent」相關的動作",
-    "example": "Our department standardized the equivalent across all teams.",
-    "example_zh": "我們部門已在所有團隊中標準化這項流程。",
-    "topic": "Finance",
-    "level": 2
-  },
-  {
-    "id": 233,
-    "word": "error",
-    "pos": "n.",
-    "meaning": "與「error」相關的名詞",
-    "example": "The vendor confirmed the error by email yesterday.",
-    "example_zh": "供應商昨天透過電子郵件確認了這項內容。",
-    "topic": "Office",
-    "level": 2
-  },
-  {
-    "id": 234,
-    "word": "escape",
-    "pos": "n./v./adj.",
-    "meaning": "與「escape」相關的動作",
-    "example": "Accurate escape can prevent costly mistakes.",
-    "example_zh": "精準的處理可以避免昂貴的錯誤。",
-    "topic": "Travel",
-    "level": 2
-  },
-  {
-    "id": 235,
-    "word": "essence",
-    "pos": "n.",
-    "meaning": "與「essence」相關的名詞",
-    "example": "The director requested a summary of the essence by Friday.",
-    "example_zh": "主管要求我們在週五前提交這項內容的摘要。",
-    "topic": "General",
-    "level": 2
-  },
-  {
-    "id": 236,
-    "word": "establish",
-    "pos": "n./v./adj.",
-    "meaning": "與「establish」相關的動作",
-    "example": "We improved the establish after customer feedback.",
-    "example_zh": "我們依據客戶回饋改進了這個部分。",
-    "topic": "Business",
-    "level": 2
-  },
-  {
-    "id": 237,
-    "word": "evaluate",
-    "pos": "v.",
-    "meaning": "與「evaluate」相關的動作",
-    "example": "The audit found issues related to evaluate in two branches.",
-    "example_zh": "稽核在兩個分公司發現與此相關的問題。",
-    "topic": "Finance",
-    "level": 2
-  },
-  {
-    "id": 238,
-    "word": "evidence",
-    "pos": "n.",
-    "meaning": "與「evidence」相關的名詞",
-    "example": "A strong evidence strategy supports long-term success.",
-    "example_zh": "完善的策略能支撐長期成功。",
-    "topic": "Office",
-    "level": 2
-  },
-  {
-    "id": 239,
-    "word": "evolve",
-    "pos": "n./v./adj.",
-    "meaning": "與「evolve」相關的動作",
-    "example": "The assistant prepared the evolve for tomorrow’s presentation.",
-    "example_zh": "助理已為明天的簡報準備好相關資料。",
-    "topic": "Travel",
-    "level": 2
-  },
-  {
-    "id": 240,
-    "word": "exact",
-    "pos": "n./v./adj.",
-    "meaning": "與「exact」相關的動作",
-    "example": "The supervisor checked the exact before approving the request.",
-    "example_zh": "主管在核准申請前檢查了這項內容。",
-    "topic": "General",
-    "level": 2
-  },
-  {
-    "id": 241,
-    "word": "examination",
-    "pos": "n.",
-    "meaning": "與「examination」相關的名詞",
-    "example": "Our team updated the examination before sending the final report.",
-    "example_zh": "我們的團隊在送出最終報告前更新了這個項目。",
-    "topic": "Business",
-    "level": 2
-  },
-  {
-    "id": 242,
-    "word": "exceed",
-    "pos": "n./v./adj.",
-    "meaning": "與「exceed」相關的動作",
-    "example": "Please review the exceed carefully before you sign the document.",
-    "example_zh": "請在簽署文件前仔細檢查這個項目。",
-    "topic": "Finance",
-    "level": 2
-  },
-  {
-    "id": 243,
-    "word": "exception",
-    "pos": "n.",
-    "meaning": "與「exception」相關的名詞",
-    "example": "The manager asked us to improve the exception this quarter.",
-    "example_zh": "經理要求我們在本季改善這個重點。",
-    "topic": "Office",
-    "level": 2
-  },
-  {
-    "id": 244,
-    "word": "excess",
-    "pos": "n./v./adj.",
-    "meaning": "與「excess」相關的動作",
-    "example": "We discussed the excess during the client call this morning.",
-    "example_zh": "我們在今天上午的客戶通話中討論了這個主題。",
-    "topic": "Travel",
-    "level": 2
-  },
-  {
-    "id": 245,
-    "word": "execute",
-    "pos": "n./v./adj.",
-    "meaning": "與「execute」相關的動作",
-    "example": "A clear execute helped the project move forward smoothly.",
-    "example_zh": "清楚的做法讓專案順利推進。",
-    "topic": "General",
-    "level": 2
-  },
-  {
-    "id": 246,
-    "word": "exhibit",
-    "pos": "n./v./adj.",
-    "meaning": "與「exhibit」相關的動作",
-    "example": "The company will monitor the exhibit every week.",
-    "example_zh": "公司每週都會追蹤這個指標。",
-    "topic": "Business",
-    "level": 2
-  },
-  {
-    "id": 247,
-    "word": "expectation",
-    "pos": "n.",
-    "meaning": "與「expectation」相關的名詞",
-    "example": "They adjusted the expectation to reduce operating costs.",
-    "example_zh": "他們調整這個做法以降低營運成本。",
-    "topic": "Finance",
-    "level": 2
-  },
-  {
-    "id": 248,
-    "word": "expert",
-    "pos": "n./v./adj.",
-    "meaning": "與「expert」相關的動作",
-    "example": "This policy explains how to handle expert in daily work.",
-    "example_zh": "這項政策說明了如何在日常工作中處理這件事。",
-    "topic": "Office",
-    "level": 2
-  },
-  {
-    "id": 249,
-    "word": "explicit",
-    "pos": "n./v./adj.",
-    "meaning": "與「explicit」相關的動作",
-    "example": "The report highlights the importance of explicit for growth.",
-    "example_zh": "這份報告強調這個要素對成長的重要性。",
-    "topic": "Travel",
-    "level": 2
-  },
-  {
-    "id": 250,
-    "word": "exploit",
-    "pos": "n./v./adj.",
-    "meaning": "與「exploit」相關的動作",
-    "example": "We need better exploit to meet the deadline.",
-    "example_zh": "我們需要更好的安排才能趕上截止日。",
-    "topic": "General",
-    "level": 2
-  },
-  {
-    "id": 251,
-    "word": "exposure",
-    "pos": "n./v./adj.",
-    "meaning": "與「exposure」相關的動作",
-    "example": "The training session focused on practical exposure skills.",
-    "example_zh": "這場培訓聚焦在實務技能上。",
-    "topic": "Business",
-    "level": 2
-  },
-  {
-    "id": 252,
-    "word": "extend",
-    "pos": "n./v./adj.",
-    "meaning": "與「extend」相關的動作",
-    "example": "Our department standardized the extend across all teams.",
-    "example_zh": "我們部門已在所有團隊中標準化這項流程。",
-    "topic": "Finance",
-    "level": 2
-  },
-  {
-    "id": 253,
-    "word": "extent",
-    "pos": "n./v./adj.",
-    "meaning": "與「extent」相關的動作",
-    "example": "The vendor confirmed the extent by email yesterday.",
-    "example_zh": "供應商昨天透過電子郵件確認了這項內容。",
-    "topic": "Office",
-    "level": 2
-  },
-  {
-    "id": 254,
-    "word": "external",
-    "pos": "n.",
-    "meaning": "與「external」相關的名詞",
-    "example": "Accurate external can prevent costly mistakes.",
-    "example_zh": "精準的處理可以避免昂貴的錯誤。",
-    "topic": "Travel",
-    "level": 2
-  },
-  {
-    "id": 255,
-    "word": "extract",
-    "pos": "n./v./adj.",
-    "meaning": "與「extract」相關的動作",
-    "example": "The director requested a summary of the extract by Friday.",
-    "example_zh": "主管要求我們在週五前提交這項內容的摘要。",
-    "topic": "General",
-    "level": 2
-  },
-  {
-    "id": 256,
-    "word": "factor",
-    "pos": "n.",
-    "meaning": "與「factor」相關的名詞",
-    "example": "We improved the factor after customer feedback.",
-    "example_zh": "我們依據客戶回饋改進了這個部分。",
-    "topic": "Business",
-    "level": 2
-  },
-  {
-    "id": 257,
-    "word": "faculty",
-    "pos": "n./v./adj.",
-    "meaning": "與「faculty」相關的動作",
-    "example": "The audit found issues related to faculty in two branches.",
-    "example_zh": "稽核在兩個分公司發現與此相關的問題。",
-    "topic": "Finance",
-    "level": 2
-  },
-  {
-    "id": 258,
-    "word": "failure",
-    "pos": "n./v./adj.",
-    "meaning": "與「failure」相關的動作",
-    "example": "A strong failure strategy supports long-term success.",
-    "example_zh": "完善的策略能支撐長期成功。",
-    "topic": "Office",
-    "level": 2
-  },
-  {
-    "id": 259,
-    "word": "fair",
-    "pos": "n./v./adj.",
-    "meaning": "與「fair」相關的動作",
-    "example": "The assistant prepared the fair for tomorrow’s presentation.",
-    "example_zh": "助理已為明天的簡報準備好相關資料。",
-    "topic": "Travel",
-    "level": 2
-  },
-  {
-    "id": 260,
-    "word": "faithful",
-    "pos": "adj.",
-    "meaning": "與「faithful」相關的狀態",
-    "example": "The supervisor checked the faithful before approving the request.",
-    "example_zh": "主管在核准申請前檢查了這項內容。",
-    "topic": "General",
-    "level": 2
-  },
-  {
-    "id": 261,
-    "word": "familiar",
-    "pos": "n./v./adj.",
-    "meaning": "與「familiar」相關的動作",
-    "example": "Our team updated the familiar before sending the final report.",
-    "example_zh": "我們的團隊在送出最終報告前更新了這個項目。",
-    "topic": "Business",
-    "level": 2
-  },
-  {
-    "id": 262,
-    "word": "fascinating",
-    "pos": "n./v./adj.",
-    "meaning": "與「fascinating」相關的動作",
-    "example": "Please review the fascinating carefully before you sign the document.",
-    "example_zh": "請在簽署文件前仔細檢查這個項目。",
-    "topic": "Finance",
-    "level": 2
-  },
-  {
-    "id": 263,
-    "word": "feature",
-    "pos": "n./v./adj.",
-    "meaning": "與「feature」相關的動作",
-    "example": "The manager asked us to improve the feature this quarter.",
-    "example_zh": "經理要求我們在本季改善這個重點。",
-    "topic": "Office",
-    "level": 2
-  },
-  {
-    "id": 264,
-    "word": "federal",
-    "pos": "n.",
-    "meaning": "與「federal」相關的名詞",
-    "example": "We discussed the federal during the client call this morning.",
-    "example_zh": "我們在今天上午的客戶通話中討論了這個主題。",
-    "topic": "Travel",
-    "level": 2
-  },
-  {
-    "id": 265,
-    "word": "fellow",
-    "pos": "n./v./adj.",
-    "meaning": "與「fellow」相關的動作",
-    "example": "A clear fellow helped the project move forward smoothly.",
-    "example_zh": "清楚的做法讓專案順利推進。",
-    "topic": "General",
-    "level": 2
-  },
-  {
-    "id": 266,
-    "word": "finance",
-    "pos": "n.",
-    "meaning": "與「finance」相關的名詞",
-    "example": "The company will monitor the finance every week.",
-    "example_zh": "公司每週都會追蹤這個指標。",
-    "topic": "Business",
-    "level": 2
-  },
-  {
-    "id": 267,
-    "word": "flexible",
-    "pos": "adj.",
-    "meaning": "與「flexible」相關的狀態",
-    "example": "They adjusted the flexible to reduce operating costs.",
-    "example_zh": "他們調整這個做法以降低營運成本。",
-    "topic": "Finance",
-    "level": 2
-  },
-  {
-    "id": 268,
-    "word": "flourish",
-    "pos": "n./v./adj.",
-    "meaning": "與「flourish」相關的動作",
-    "example": "This policy explains how to handle flourish in daily work.",
-    "example_zh": "這項政策說明了如何在日常工作中處理這件事。",
-    "topic": "Office",
-    "level": 2
-  },
-  {
-    "id": 269,
-    "word": "forecast",
-    "pos": "n./v./adj.",
-    "meaning": "與「forecast」相關的動作",
-    "example": "The report highlights the importance of forecast for growth.",
-    "example_zh": "這份報告強調這個要素對成長的重要性。",
-    "topic": "Travel",
-    "level": 2
-  },
-  {
-    "id": 270,
-    "word": "foreign",
-    "pos": "n./v./adj.",
-    "meaning": "與「foreign」相關的動作",
-    "example": "We need better foreign to meet the deadline.",
-    "example_zh": "我們需要更好的安排才能趕上截止日。",
-    "topic": "General",
-    "level": 2
-  },
-  {
-    "id": 271,
-    "word": "format",
-    "pos": "n./v./adj.",
-    "meaning": "與「format」相關的動作",
-    "example": "The training session focused on practical format skills.",
-    "example_zh": "這場培訓聚焦在實務技能上。",
-    "topic": "Business",
-    "level": 2
-  },
-  {
-    "id": 272,
-    "word": "former",
-    "pos": "n.",
-    "meaning": "與「former」相關的名詞",
-    "example": "Our department standardized the former across all teams.",
-    "example_zh": "我們部門已在所有團隊中標準化這項流程。",
-    "topic": "Finance",
-    "level": 2
-  },
-  {
-    "id": 273,
-    "word": "formula",
-    "pos": "n./v./adj.",
-    "meaning": "與「formula」相關的動作",
-    "example": "The vendor confirmed the formula by email yesterday.",
-    "example_zh": "供應商昨天透過電子郵件確認了這項內容。",
-    "topic": "Office",
-    "level": 2
-  },
-  {
-    "id": 274,
-    "word": "fortune",
-    "pos": "n./v./adj.",
-    "meaning": "與「fortune」相關的動作",
-    "example": "Accurate fortune can prevent costly mistakes.",
-    "example_zh": "精準的處理可以避免昂貴的錯誤。",
-    "topic": "Travel",
-    "level": 2
-  },
-  {
-    "id": 275,
-    "word": "foundation",
-    "pos": "n.",
-    "meaning": "與「foundation」相關的名詞",
-    "example": "The director requested a summary of the foundation by Friday.",
-    "example_zh": "主管要求我們在週五前提交這項內容的摘要。",
-    "topic": "General",
-    "level": 2
-  },
-  {
-    "id": 276,
-    "word": "framework",
-    "pos": "n./v./adj.",
-    "meaning": "與「framework」相關的動作",
-    "example": "We improved the framework after customer feedback.",
-    "example_zh": "我們依據客戶回饋改進了這個部分。",
-    "topic": "Business",
-    "level": 2
-  },
-  {
-    "id": 277,
-    "word": "frequent",
-    "pos": "n./v./adj.",
-    "meaning": "與「frequent」相關的動作",
-    "example": "The audit found issues related to frequent in two branches.",
-    "example_zh": "稽核在兩個分公司發現與此相關的問題。",
-    "topic": "Finance",
-    "level": 2
-  },
-  {
-    "id": 278,
-    "word": "frontier",
-    "pos": "n.",
-    "meaning": "與「frontier」相關的名詞",
-    "example": "A strong frontier strategy supports long-term success.",
-    "example_zh": "完善的策略能支撐長期成功。",
-    "topic": "Office",
-    "level": 2
-  },
-  {
-    "id": 279,
-    "word": "fulfill",
-    "pos": "n./v./adj.",
-    "meaning": "與「fulfill」相關的動作",
-    "example": "The assistant prepared the fulfill for tomorrow’s presentation.",
-    "example_zh": "助理已為明天的簡報準備好相關資料。",
-    "topic": "Travel",
-    "level": 2
-  },
-  {
-    "id": 280,
-    "word": "fundamental",
-    "pos": "n.",
-    "meaning": "與「fundamental」相關的名詞",
-    "example": "The supervisor checked the fundamental before approving the request.",
-    "example_zh": "主管在核准申請前檢查了這項內容。",
-    "topic": "General",
-    "level": 2
-  },
-  {
-    "id": 281,
-    "word": "furthermore",
-    "pos": "n./v./adj.",
-    "meaning": "與「furthermore」相關的動作",
-    "example": "Our team updated the furthermore before sending the final report.",
-    "example_zh": "我們的團隊在送出最終報告前更新了這個項目。",
-    "topic": "Business",
-    "level": 2
-  },
-  {
-    "id": 282,
-    "word": "gather",
-    "pos": "n.",
-    "meaning": "與「gather」相關的名詞",
-    "example": "Please review the gather carefully before you sign the document.",
-    "example_zh": "請在簽署文件前仔細檢查這個項目。",
-    "topic": "Finance",
-    "level": 2
-  },
-  {
-    "id": 283,
-    "word": "generate",
-    "pos": "v.",
-    "meaning": "與「generate」相關的動作",
-    "example": "The manager asked us to improve the generate this quarter.",
-    "example_zh": "經理要求我們在本季改善這個重點。",
-    "topic": "Office",
-    "level": 2
-  },
-  {
-    "id": 284,
-    "word": "generous",
-    "pos": "adj.",
-    "meaning": "與「generous」相關的狀態",
-    "example": "We discussed the generous during the client call this morning.",
-    "example_zh": "我們在今天上午的客戶通話中討論了這個主題。",
-    "topic": "Travel",
-    "level": 2
-  },
-  {
-    "id": 285,
-    "word": "genuine",
-    "pos": "n./v./adj.",
-    "meaning": "與「genuine」相關的動作",
-    "example": "A clear genuine helped the project move forward smoothly.",
-    "example_zh": "清楚的做法讓專案順利推進。",
-    "topic": "General",
-    "level": 2
-  },
-  {
-    "id": 286,
-    "word": "gesture",
-    "pos": "n./v./adj.",
-    "meaning": "與「gesture」相關的動作",
-    "example": "The company will monitor the gesture every week.",
-    "example_zh": "公司每週都會追蹤這個指標。",
-    "topic": "Business",
-    "level": 2
-  },
-  {
-    "id": 287,
-    "word": "global",
-    "pos": "n.",
-    "meaning": "與「global」相關的名詞",
-    "example": "They adjusted the global to reduce operating costs.",
-    "example_zh": "他們調整這個做法以降低營運成本。",
-    "topic": "Finance",
-    "level": 2
-  },
-  {
-    "id": 288,
-    "word": "govern",
-    "pos": "n./v./adj.",
-    "meaning": "與「govern」相關的動作",
-    "example": "This policy explains how to handle govern in daily work.",
-    "example_zh": "這項政策說明了如何在日常工作中處理這件事。",
-    "topic": "Office",
-    "level": 2
-  },
-  {
-    "id": 289,
-    "word": "graduate",
-    "pos": "v.",
-    "meaning": "與「graduate」相關的動作",
-    "example": "The report highlights the importance of graduate for growth.",
-    "example_zh": "這份報告強調這個要素對成長的重要性。",
-    "topic": "Travel",
-    "level": 2
-  },
-  {
-    "id": 290,
-    "word": "grant",
-    "pos": "n./v./adj.",
-    "meaning": "與「grant」相關的動作",
-    "example": "We need better grant to meet the deadline.",
-    "example_zh": "我們需要更好的安排才能趕上截止日。",
-    "topic": "General",
-    "level": 2
-  },
-  {
-    "id": 291,
-    "word": "guard",
-    "pos": "n./v./adj.",
-    "meaning": "與「guard」相關的動作",
-    "example": "The training session focused on practical guard skills.",
-    "example_zh": "這場培訓聚焦在實務技能上。",
-    "topic": "Business",
-    "level": 2
-  },
-  {
-    "id": 292,
-    "word": "guideline",
-    "pos": "n./v./adj.",
-    "meaning": "與「guideline」相關的動作",
-    "example": "Our department standardized the guideline across all teams.",
-    "example_zh": "我們部門已在所有團隊中標準化這項流程。",
-    "topic": "Finance",
-    "level": 2
-  },
-  {
-    "id": 293,
-    "word": "habitat",
-    "pos": "n./v./adj.",
-    "meaning": "與「habitat」相關的動作",
-    "example": "The vendor confirmed the habitat by email yesterday.",
-    "example_zh": "供應商昨天透過電子郵件確認了這項內容。",
-    "topic": "Office",
-    "level": 2
-  },
-  {
-    "id": 294,
-    "word": "harmony",
-    "pos": "n./v./adj.",
-    "meaning": "與「harmony」相關的動作",
-    "example": "Accurate harmony can prevent costly mistakes.",
-    "example_zh": "精準的處理可以避免昂貴的錯誤。",
-    "topic": "Travel",
-    "level": 2
-  },
-  {
-    "id": 295,
-    "word": "headline",
-    "pos": "n./v./adj.",
-    "meaning": "與「headline」相關的動作",
-    "example": "The director requested a summary of the headline by Friday.",
-    "example_zh": "主管要求我們在週五前提交這項內容的摘要。",
-    "topic": "General",
-    "level": 2
-  },
-  {
-    "id": 296,
-    "word": "highlight",
-    "pos": "n./v./adj.",
-    "meaning": "與「highlight」相關的動作",
-    "example": "We improved the highlight after customer feedback.",
-    "example_zh": "我們依據客戶回饋改進了這個部分。",
-    "topic": "Business",
-    "level": 2
-  },
-  {
-    "id": 297,
-    "word": "historical",
-    "pos": "n.",
-    "meaning": "與「historical」相關的名詞",
-    "example": "The audit found issues related to historical in two branches.",
-    "example_zh": "稽核在兩個分公司發現與此相關的問題。",
-    "topic": "Finance",
-    "level": 2
-  },
-  {
-    "id": 298,
-    "word": "horizon",
-    "pos": "n./v./adj.",
-    "meaning": "與「horizon」相關的動作",
-    "example": "A strong horizon strategy supports long-term success.",
-    "example_zh": "完善的策略能支撐長期成功。",
-    "topic": "Office",
-    "level": 2
-  },
-  {
-    "id": 299,
-    "word": "household",
-    "pos": "n./v./adj.",
-    "meaning": "與「household」相關的動作",
-    "example": "The assistant prepared the household for tomorrow’s presentation.",
-    "example_zh": "助理已為明天的簡報準備好相關資料。",
-    "topic": "Travel",
-    "level": 2
-  },
-  {
-    "id": 300,
-    "word": "however",
-    "pos": "n.",
-    "meaning": "與「however」相關的名詞",
-    "example": "The supervisor checked the however before approving the request.",
-    "example_zh": "主管在核准申請前檢查了這項內容。",
-    "topic": "General",
-    "level": 2
-  },
-  {
-    "id": 301,
-    "word": "hypothesis",
-    "pos": "n./v./adj.",
-    "meaning": "與「hypothesis」相關的動作",
-    "example": "Our team updated the hypothesis before sending the final report.",
-    "example_zh": "我們的團隊在送出最終報告前更新了這個項目。",
-    "topic": "Business",
-    "level": 2
-  },
-  {
-    "id": 302,
-    "word": "identify",
-    "pos": "v.",
-    "meaning": "與「identify」相關的動作",
-    "example": "Please review the identify carefully before you sign the document.",
-    "example_zh": "請在簽署文件前仔細檢查這個項目。",
-    "topic": "Finance",
-    "level": 2
-  },
-  {
-    "id": 303,
-    "word": "ideology",
-    "pos": "n./v./adj.",
-    "meaning": "與「ideology」相關的動作",
-    "example": "The manager asked us to improve the ideology this quarter.",
-    "example_zh": "經理要求我們在本季改善這個重點。",
-    "topic": "Office",
-    "level": 2
-  },
-  {
-    "id": 304,
-    "word": "illustrate",
-    "pos": "v.",
-    "meaning": "與「illustrate」相關的動作",
-    "example": "We discussed the illustrate during the client call this morning.",
-    "example_zh": "我們在今天上午的客戶通話中討論了這個主題。",
-    "topic": "Travel",
-    "level": 2
-  },
-  {
-    "id": 305,
-    "word": "immediate",
-    "pos": "v.",
-    "meaning": "與「immediate」相關的動作",
-    "example": "A clear immediate helped the project move forward smoothly.",
-    "example_zh": "清楚的做法讓專案順利推進。",
-    "topic": "General",
-    "level": 2
-  },
-  {
-    "id": 306,
-    "word": "impact",
-    "pos": "n./v./adj.",
-    "meaning": "與「impact」相關的動作",
-    "example": "The company will monitor the impact every week.",
-    "example_zh": "公司每週都會追蹤這個指標。",
-    "topic": "Business",
-    "level": 2
-  },
-  {
-    "id": 307,
-    "word": "implement",
-    "pos": "n.",
-    "meaning": "與「implement」相關的名詞",
-    "example": "They adjusted the implement to reduce operating costs.",
-    "example_zh": "他們調整這個做法以降低營運成本。",
-    "topic": "Finance",
-    "level": 2
-  },
-  {
-    "id": 308,
-    "word": "implication",
-    "pos": "n.",
-    "meaning": "與「implication」相關的名詞",
-    "example": "This policy explains how to handle implication in daily work.",
-    "example_zh": "這項政策說明了如何在日常工作中處理這件事。",
-    "topic": "Office",
-    "level": 2
-  },
-  {
-    "id": 309,
-    "word": "imply",
-    "pos": "n./v./adj.",
-    "meaning": "與「imply」相關的動作",
-    "example": "The report highlights the importance of imply for growth.",
-    "example_zh": "這份報告強調這個要素對成長的重要性。",
-    "topic": "Travel",
-    "level": 2
-  },
-  {
-    "id": 310,
-    "word": "impose",
-    "pos": "n./v./adj.",
-    "meaning": "與「impose」相關的動作",
-    "example": "We need better impose to meet the deadline.",
-    "example_zh": "我們需要更好的安排才能趕上截止日。",
-    "topic": "General",
-    "level": 2
-  },
-  {
-    "id": 311,
-    "word": "impression",
-    "pos": "n.",
-    "meaning": "與「impression」相關的名詞",
-    "example": "The training session focused on practical impression skills.",
-    "example_zh": "這場培訓聚焦在實務技能上。",
-    "topic": "Business",
-    "level": 2
-  },
-  {
-    "id": 312,
-    "word": "incentive",
-    "pos": "adj.",
-    "meaning": "與「incentive」相關的狀態",
-    "example": "Our department standardized the incentive across all teams.",
-    "example_zh": "我們部門已在所有團隊中標準化這項流程。",
-    "topic": "Finance",
-    "level": 2
-  },
-  {
-    "id": 313,
-    "word": "incident",
-    "pos": "n./v./adj.",
-    "meaning": "與「incident」相關的動作",
-    "example": "The vendor confirmed the incident by email yesterday.",
-    "example_zh": "供應商昨天透過電子郵件確認了這項內容。",
-    "topic": "Office",
-    "level": 2
-  },
-  {
-    "id": 314,
-    "word": "income",
-    "pos": "n./v./adj.",
-    "meaning": "與「income」相關的動作",
-    "example": "Accurate income can prevent costly mistakes.",
-    "example_zh": "精準的處理可以避免昂貴的錯誤。",
-    "topic": "Travel",
-    "level": 2
-  },
-  {
-    "id": 315,
-    "word": "incorporate",
-    "pos": "v.",
-    "meaning": "與「incorporate」相關的動作",
-    "example": "The director requested a summary of the incorporate by Friday.",
-    "example_zh": "主管要求我們在週五前提交這項內容的摘要。",
-    "topic": "General",
-    "level": 2
-  },
-  {
-    "id": 316,
-    "word": "independent",
-    "pos": "n./v./adj.",
-    "meaning": "與「independent」相關的動作",
-    "example": "We improved the independent after customer feedback.",
-    "example_zh": "我們依據客戶回饋改進了這個部分。",
-    "topic": "Business",
-    "level": 2
-  },
-  {
-    "id": 317,
-    "word": "index",
-    "pos": "n./v./adj.",
-    "meaning": "與「index」相關的動作",
-    "example": "The audit found issues related to index in two branches.",
-    "example_zh": "稽核在兩個分公司發現與此相關的問題。",
-    "topic": "Finance",
-    "level": 2
-  },
-  {
-    "id": 318,
-    "word": "indicate",
-    "pos": "v.",
-    "meaning": "與「indicate」相關的動作",
-    "example": "A strong indicate strategy supports long-term success.",
-    "example_zh": "完善的策略能支撐長期成功。",
-    "topic": "Office",
-    "level": 2
-  },
-  {
-    "id": 319,
-    "word": "individual",
-    "pos": "n.",
-    "meaning": "與「individual」相關的名詞",
-    "example": "The assistant prepared the individual for tomorrow’s presentation.",
-    "example_zh": "助理已為明天的簡報準備好相關資料。",
-    "topic": "Travel",
-    "level": 2
-  },
-  {
-    "id": 320,
-    "word": "industry",
-    "pos": "n./v./adj.",
-    "meaning": "與「industry」相關的動作",
-    "example": "The supervisor checked the industry before approving the request.",
-    "example_zh": "主管在核准申請前檢查了這項內容。",
-    "topic": "General",
-    "level": 2
-  },
-  {
-    "id": 321,
-    "word": "inevitable",
-    "pos": "adj.",
-    "meaning": "與「inevitable」相關的狀態",
-    "example": "Our team updated the inevitable before sending the final report.",
-    "example_zh": "我們的團隊在送出最終報告前更新了這個項目。",
-    "topic": "Business",
-    "level": 2
-  },
-  {
-    "id": 322,
-    "word": "infer",
-    "pos": "n.",
-    "meaning": "與「infer」相關的名詞",
-    "example": "Please review the infer carefully before you sign the document.",
-    "example_zh": "請在簽署文件前仔細檢查這個項目。",
-    "topic": "Finance",
-    "level": 2
-  },
-  {
-    "id": 323,
-    "word": "influence",
-    "pos": "n.",
-    "meaning": "與「influence」相關的名詞",
-    "example": "The manager asked us to improve the influence this quarter.",
-    "example_zh": "經理要求我們在本季改善這個重點。",
-    "topic": "Office",
-    "level": 2
-  },
-  {
-    "id": 324,
-    "word": "ingredient",
-    "pos": "n./v./adj.",
-    "meaning": "與「ingredient」相關的動作",
-    "example": "We discussed the ingredient during the client call this morning.",
-    "example_zh": "我們在今天上午的客戶通話中討論了這個主題。",
-    "topic": "Travel",
-    "level": 2
-  },
-  {
-    "id": 325,
-    "word": "initial",
-    "pos": "n.",
-    "meaning": "與「initial」相關的名詞",
-    "example": "A clear initial helped the project move forward smoothly.",
-    "example_zh": "清楚的做法讓專案順利推進。",
-    "topic": "General",
-    "level": 2
-  },
-  {
-    "id": 326,
-    "word": "injury",
-    "pos": "n./v./adj.",
-    "meaning": "與「injury」相關的動作",
-    "example": "The company will monitor the injury every week.",
-    "example_zh": "公司每週都會追蹤這個指標。",
-    "topic": "Business",
-    "level": 2
-  },
-  {
-    "id": 327,
-    "word": "innovation",
-    "pos": "n.",
-    "meaning": "與「innovation」相關的名詞",
-    "example": "They adjusted the innovation to reduce operating costs.",
-    "example_zh": "他們調整這個做法以降低營運成本。",
-    "topic": "Finance",
-    "level": 2
-  },
-  {
-    "id": 328,
-    "word": "insight",
-    "pos": "n./v./adj.",
-    "meaning": "與「insight」相關的動作",
-    "example": "This policy explains how to handle insight in daily work.",
-    "example_zh": "這項政策說明了如何在日常工作中處理這件事。",
-    "topic": "Office",
-    "level": 2
-  },
-  {
-    "id": 329,
-    "word": "insist",
-    "pos": "n./v./adj.",
-    "meaning": "與「insist」相關的動作",
-    "example": "The report highlights the importance of insist for growth.",
-    "example_zh": "這份報告強調這個要素對成長的重要性。",
-    "topic": "Travel",
-    "level": 2
-  },
-  {
-    "id": 330,
-    "word": "inspiration",
-    "pos": "n.",
-    "meaning": "與「inspiration」相關的名詞",
-    "example": "We need better inspiration to meet the deadline.",
-    "example_zh": "我們需要更好的安排才能趕上截止日。",
-    "topic": "General",
-    "level": 2
-  },
-  {
-    "id": 331,
-    "word": "instance",
-    "pos": "n.",
-    "meaning": "與「instance」相關的名詞",
-    "example": "The training session focused on practical instance skills.",
-    "example_zh": "這場培訓聚焦在實務技能上。",
-    "topic": "Business",
-    "level": 2
-  },
-  {
-    "id": 332,
-    "word": "institute",
-    "pos": "n./v./adj.",
-    "meaning": "與「institute」相關的動作",
-    "example": "Our department standardized the institute across all teams.",
-    "example_zh": "我們部門已在所有團隊中標準化這項流程。",
-    "topic": "Finance",
-    "level": 2
-  },
-  {
-    "id": 333,
-    "word": "instruct",
-    "pos": "n./v./adj.",
-    "meaning": "與「instruct」相關的動作",
-    "example": "The vendor confirmed the instruct by email yesterday.",
-    "example_zh": "供應商昨天透過電子郵件確認了這項內容。",
-    "topic": "Office",
-    "level": 2
-  },
-  {
-    "id": 334,
-    "word": "instrument",
-    "pos": "n.",
-    "meaning": "與「instrument」相關的名詞",
-    "example": "Accurate instrument can prevent costly mistakes.",
-    "example_zh": "精準的處理可以避免昂貴的錯誤。",
-    "topic": "Travel",
-    "level": 2
-  },
-  {
-    "id": 335,
-    "word": "integrate",
-    "pos": "v.",
-    "meaning": "與「integrate」相關的動作",
-    "example": "The director requested a summary of the integrate by Friday.",
-    "example_zh": "主管要求我們在週五前提交這項內容的摘要。",
-    "topic": "General",
-    "level": 2
-  },
-  {
-    "id": 336,
-    "word": "integrity",
-    "pos": "n.",
-    "meaning": "與「integrity」相關的名詞",
-    "example": "We improved the integrity after customer feedback.",
-    "example_zh": "我們依據客戶回饋改進了這個部分。",
-    "topic": "Business",
-    "level": 2
-  },
-  {
-    "id": 337,
-    "word": "intellectual",
-    "pos": "n.",
-    "meaning": "與「intellectual」相關的名詞",
-    "example": "The audit found issues related to intellectual in two branches.",
-    "example_zh": "稽核在兩個分公司發現與此相關的問題。",
-    "topic": "Finance",
-    "level": 2
-  },
-  {
-    "id": 338,
-    "word": "intense",
-    "pos": "n./v./adj.",
-    "meaning": "與「intense」相關的動作",
-    "example": "A strong intense strategy supports long-term success.",
-    "example_zh": "完善的策略能支撐長期成功。",
-    "topic": "Office",
-    "level": 2
-  },
-  {
-    "id": 339,
-    "word": "interact",
-    "pos": "n./v./adj.",
-    "meaning": "與「interact」相關的動作",
-    "example": "The assistant prepared the interact for tomorrow’s presentation.",
-    "example_zh": "助理已為明天的簡報準備好相關資料。",
-    "topic": "Travel",
-    "level": 2
-  },
-  {
-    "id": 340,
-    "word": "internal",
-    "pos": "n.",
-    "meaning": "與「internal」相關的名詞",
-    "example": "The supervisor checked the internal before approving the request.",
-    "example_zh": "主管在核准申請前檢查了這項內容。",
-    "topic": "General",
-    "level": 2
-  },
-  {
-    "id": 341,
-    "word": "interpret",
-    "pos": "n./v./adj.",
-    "meaning": "與「interpret」相關的動作",
-    "example": "Our team updated the interpret before sending the final report.",
-    "example_zh": "我們的團隊在送出最終報告前更新了這個項目。",
-    "topic": "Business",
-    "level": 3
-  },
-  {
-    "id": 342,
-    "word": "interval",
-    "pos": "n.",
-    "meaning": "與「interval」相關的名詞",
-    "example": "Please review the interval carefully before you sign the document.",
-    "example_zh": "請在簽署文件前仔細檢查這個項目。",
-    "topic": "Finance",
-    "level": 3
-  },
-  {
-    "id": 343,
-    "word": "intervene",
-    "pos": "n./v./adj.",
-    "meaning": "與「intervene」相關的動作",
-    "example": "The manager asked us to improve the intervene this quarter.",
-    "example_zh": "經理要求我們在本季改善這個重點。",
-    "topic": "Office",
-    "level": 3
-  },
-  {
-    "id": 344,
-    "word": "introduce",
-    "pos": "n./v./adj.",
-    "meaning": "與「introduce」相關的動作",
-    "example": "We discussed the introduce during the client call this morning.",
-    "example_zh": "我們在今天上午的客戶通話中討論了這個主題。",
-    "topic": "Travel",
-    "level": 3
-  },
-  {
-    "id": 345,
-    "word": "involve",
-    "pos": "n./v./adj.",
-    "meaning": "與「involve」相關的動作",
-    "example": "A clear involve helped the project move forward smoothly.",
-    "example_zh": "清楚的做法讓專案順利推進。",
-    "topic": "General",
-    "level": 3
-  },
-  {
-    "id": 346,
-    "word": "isolate",
-    "pos": "v.",
-    "meaning": "與「isolate」相關的動作",
-    "example": "The company will monitor the isolate every week.",
-    "example_zh": "公司每週都會追蹤這個指標。",
-    "topic": "Business",
-    "level": 3
-  },
-  {
-    "id": 347,
-    "word": "journal",
-    "pos": "n.",
-    "meaning": "與「journal」相關的名詞",
-    "example": "They adjusted the journal to reduce operating costs.",
-    "example_zh": "他們調整這個做法以降低營運成本。",
-    "topic": "Finance",
-    "level": 3
-  },
-  {
-    "id": 348,
-    "word": "justify",
-    "pos": "v.",
-    "meaning": "與「justify」相關的動作",
-    "example": "This policy explains how to handle justify in daily work.",
-    "example_zh": "這項政策說明了如何在日常工作中處理這件事。",
-    "topic": "Office",
-    "level": 3
-  },
-  {
-    "id": 349,
-    "word": "label",
-    "pos": "n./v./adj.",
-    "meaning": "與「label」相關的動作",
-    "example": "The report highlights the importance of label for growth.",
-    "example_zh": "這份報告強調這個要素對成長的重要性。",
-    "topic": "Travel",
-    "level": 3
-  },
-  {
-    "id": 350,
-    "word": "labor",
-    "pos": "n.",
-    "meaning": "與「labor」相關的名詞",
-    "example": "We need better labor to meet the deadline.",
-    "example_zh": "我們需要更好的安排才能趕上截止日。",
-    "topic": "General",
-    "level": 3
-  },
-  {
-    "id": 351,
-    "word": "landscape",
-    "pos": "n./v./adj.",
-    "meaning": "與「landscape」相關的動作",
-    "example": "The training session focused on practical landscape skills.",
-    "example_zh": "這場培訓聚焦在實務技能上。",
-    "topic": "Business",
-    "level": 3
-  },
-  {
-    "id": 352,
-    "word": "largely",
-    "pos": "n./v./adj.",
-    "meaning": "與「largely」相關的動作",
-    "example": "Our department standardized the largely across all teams.",
-    "example_zh": "我們部門已在所有團隊中標準化這項流程。",
-    "topic": "Finance",
-    "level": 3
-  },
-  {
-    "id": 353,
-    "word": "league",
-    "pos": "n./v./adj.",
-    "meaning": "與「league」相關的動作",
-    "example": "The vendor confirmed the league by email yesterday.",
-    "example_zh": "供應商昨天透過電子郵件確認了這項內容。",
-    "topic": "Office",
-    "level": 3
-  },
-  {
-    "id": 354,
-    "word": "legal",
-    "pos": "n.",
-    "meaning": "與「legal」相關的名詞",
-    "example": "Accurate legal can prevent costly mistakes.",
-    "example_zh": "精準的處理可以避免昂貴的錯誤。",
-    "topic": "Travel",
-    "level": 3
-  },
-  {
-    "id": 355,
-    "word": "legislation",
-    "pos": "n.",
-    "meaning": "與「legislation」相關的名詞",
-    "example": "The director requested a summary of the legislation by Friday.",
-    "example_zh": "主管要求我們在週五前提交這項內容的摘要。",
-    "topic": "General",
-    "level": 3
-  },
-  {
-    "id": 356,
-    "word": "leisure",
-    "pos": "n./v./adj.",
-    "meaning": "與「leisure」相關的動作",
-    "example": "We improved the leisure after customer feedback.",
-    "example_zh": "我們依據客戶回饋改進了這個部分。",
-    "topic": "Business",
-    "level": 3
-  },
-  {
-    "id": 357,
-    "word": "lesson",
-    "pos": "n./v./adj.",
-    "meaning": "與「lesson」相關的動作",
-    "example": "The audit found issues related to lesson in two branches.",
-    "example_zh": "稽核在兩個分公司發現與此相關的問題。",
-    "topic": "Finance",
-    "level": 3
-  },
-  {
-    "id": 358,
-    "word": "liberal",
-    "pos": "n.",
-    "meaning": "與「liberal」相關的名詞",
-    "example": "A strong liberal strategy supports long-term success.",
-    "example_zh": "完善的策略能支撐長期成功。",
-    "topic": "Office",
-    "level": 3
-  },
-  {
-    "id": 359,
-    "word": "license",
-    "pos": "n./v./adj.",
-    "meaning": "與「license」相關的動作",
-    "example": "The assistant prepared the license for tomorrow’s presentation.",
-    "example_zh": "助理已為明天的簡報準備好相關資料。",
-    "topic": "Travel",
-    "level": 3
-  },
-  {
-    "id": 360,
-    "word": "likewise",
-    "pos": "v.",
-    "meaning": "與「likewise」相關的動作",
-    "example": "The supervisor checked the likewise before approving the request.",
-    "example_zh": "主管在核准申請前檢查了這項內容。",
-    "topic": "General",
-    "level": 3
-  },
-  {
-    "id": 361,
-    "word": "limit",
-    "pos": "n./v./adj.",
-    "meaning": "與「limit」相關的動作",
-    "example": "Our team updated the limit before sending the final report.",
-    "example_zh": "我們的團隊在送出最終報告前更新了這個項目。",
-    "topic": "Business",
-    "level": 3
-  },
-  {
-    "id": 362,
-    "word": "liquid",
-    "pos": "n./v./adj.",
-    "meaning": "與「liquid」相關的動作",
-    "example": "Please review the liquid carefully before you sign the document.",
-    "example_zh": "請在簽署文件前仔細檢查這個項目。",
-    "topic": "Finance",
-    "level": 3
-  },
-  {
-    "id": 363,
-    "word": "literary",
-    "pos": "adj.",
-    "meaning": "與「literary」相關的狀態",
-    "example": "The manager asked us to improve the literary this quarter.",
-    "example_zh": "經理要求我們在本季改善這個重點。",
-    "topic": "Office",
-    "level": 3
-  },
-  {
-    "id": 364,
-    "word": "locate",
-    "pos": "v.",
-    "meaning": "與「locate」相關的動作",
-    "example": "We discussed the locate during the client call this morning.",
-    "example_zh": "我們在今天上午的客戶通話中討論了這個主題。",
-    "topic": "Travel",
-    "level": 3
-  },
-  {
-    "id": 365,
-    "word": "logic",
-    "pos": "adj.",
-    "meaning": "與「logic」相關的狀態",
-    "example": "A clear logic helped the project move forward smoothly.",
-    "example_zh": "清楚的做法讓專案順利推進。",
-    "topic": "General",
-    "level": 3
-  },
-  {
-    "id": 366,
-    "word": "loyal",
-    "pos": "n.",
-    "meaning": "與「loyal」相關的名詞",
-    "example": "The company will monitor the loyal every week.",
-    "example_zh": "公司每週都會追蹤這個指標。",
-    "topic": "Business",
-    "level": 3
-  },
-  {
-    "id": 367,
-    "word": "majority",
-    "pos": "n.",
-    "meaning": "與「majority」相關的名詞",
-    "example": "They adjusted the majority to reduce operating costs.",
-    "example_zh": "他們調整這個做法以降低營運成本。",
-    "topic": "Finance",
-    "level": 3
-  },
-  {
-    "id": 368,
-    "word": "manufacture",
-    "pos": "n./v./adj.",
-    "meaning": "與「manufacture」相關的動作",
-    "example": "This policy explains how to handle manufacture in daily work.",
-    "example_zh": "這項政策說明了如何在日常工作中處理這件事。",
-    "topic": "Office",
-    "level": 3
-  },
-  {
-    "id": 369,
-    "word": "margin",
-    "pos": "n./v./adj.",
-    "meaning": "與「margin」相關的動作",
-    "example": "The report highlights the importance of margin for growth.",
-    "example_zh": "這份報告強調這個要素對成長的重要性。",
-    "topic": "Travel",
-    "level": 3
-  },
-  {
-    "id": 370,
-    "word": "marine",
-    "pos": "n./v./adj.",
-    "meaning": "與「marine」相關的動作",
-    "example": "We need better marine to meet the deadline.",
-    "example_zh": "我們需要更好的安排才能趕上截止日。",
-    "topic": "General",
-    "level": 3
-  },
-  {
-    "id": 371,
-    "word": "massive",
-    "pos": "adj.",
-    "meaning": "與「massive」相關的狀態",
-    "example": "The training session focused on practical massive skills.",
-    "example_zh": "這場培訓聚焦在實務技能上。",
-    "topic": "Business",
-    "level": 3
-  },
-  {
-    "id": 372,
-    "word": "material",
-    "pos": "n.",
-    "meaning": "與「material」相關的名詞",
-    "example": "Our department standardized the material across all teams.",
-    "example_zh": "我們部門已在所有團隊中標準化這項流程。",
-    "topic": "Finance",
-    "level": 3
-  },
-  {
-    "id": 373,
-    "word": "meanwhile",
-    "pos": "n./v./adj.",
-    "meaning": "與「meanwhile」相關的動作",
-    "example": "The vendor confirmed the meanwhile by email yesterday.",
-    "example_zh": "供應商昨天透過電子郵件確認了這項內容。",
-    "topic": "Office",
-    "level": 3
-  },
-  {
-    "id": 374,
-    "word": "mechanism",
-    "pos": "n./v./adj.",
-    "meaning": "與「mechanism」相關的動作",
-    "example": "Accurate mechanism can prevent costly mistakes.",
-    "example_zh": "精準的處理可以避免昂貴的錯誤。",
-    "topic": "Travel",
-    "level": 3
-  },
-  {
-    "id": 375,
-    "word": "mediate",
-    "pos": "v.",
-    "meaning": "與「mediate」相關的動作",
-    "example": "The director requested a summary of the mediate by Friday.",
-    "example_zh": "主管要求我們在週五前提交這項內容的摘要。",
-    "topic": "General",
-    "level": 3
-  },
-  {
-    "id": 376,
-    "word": "medicine",
-    "pos": "n./v./adj.",
-    "meaning": "與「medicine」相關的動作",
-    "example": "We improved the medicine after customer feedback.",
-    "example_zh": "我們依據客戶回饋改進了這個部分。",
-    "topic": "Business",
-    "level": 3
-  },
-  {
-    "id": 377,
-    "word": "merchant",
-    "pos": "n./v./adj.",
-    "meaning": "與「merchant」相關的動作",
-    "example": "The audit found issues related to merchant in two branches.",
-    "example_zh": "稽核在兩個分公司發現與此相關的問題。",
-    "topic": "Finance",
-    "level": 3
-  },
-  {
-    "id": 378,
-    "word": "merit",
-    "pos": "n./v./adj.",
-    "meaning": "與「merit」相關的動作",
-    "example": "A strong merit strategy supports long-term success.",
-    "example_zh": "完善的策略能支撐長期成功。",
-    "topic": "Office",
-    "level": 3
-  },
-  {
-    "id": 379,
-    "word": "method",
-    "pos": "n./v./adj.",
-    "meaning": "與「method」相關的動作",
-    "example": "The assistant prepared the method for tomorrow’s presentation.",
-    "example_zh": "助理已為明天的簡報準備好相關資料。",
-    "topic": "Travel",
-    "level": 3
-  },
-  {
-    "id": 380,
-    "word": "military",
-    "pos": "adj.",
-    "meaning": "與「military」相關的狀態",
-    "example": "The supervisor checked the military before approving the request.",
-    "example_zh": "主管在核准申請前檢查了這項內容。",
-    "topic": "General",
-    "level": 3
-  },
-  {
-    "id": 381,
-    "word": "minimum",
-    "pos": "n./v./adj.",
-    "meaning": "與「minimum」相關的動作",
-    "example": "Our team updated the minimum before sending the final report.",
-    "example_zh": "我們的團隊在送出最終報告前更新了這個項目。",
-    "topic": "Business",
-    "level": 3
-  },
-  {
-    "id": 382,
-    "word": "ministry",
-    "pos": "n./v./adj.",
-    "meaning": "與「ministry」相關的動作",
-    "example": "Please review the ministry carefully before you sign the document.",
-    "example_zh": "請在簽署文件前仔細檢查這個項目。",
-    "topic": "Finance",
-    "level": 3
-  },
-  {
-    "id": 383,
-    "word": "minority",
-    "pos": "n.",
-    "meaning": "與「minority」相關的名詞",
-    "example": "The manager asked us to improve the minority this quarter.",
-    "example_zh": "經理要求我們在本季改善這個重點。",
-    "topic": "Office",
-    "level": 3
-  },
-  {
-    "id": 384,
-    "word": "miracle",
-    "pos": "n./v./adj.",
-    "meaning": "與「miracle」相關的動作",
-    "example": "We discussed the miracle during the client call this morning.",
-    "example_zh": "我們在今天上午的客戶通話中討論了這個主題。",
-    "topic": "Travel",
-    "level": 3
-  },
-  {
-    "id": 385,
-    "word": "moderate",
-    "pos": "v.",
-    "meaning": "與「moderate」相關的動作",
-    "example": "A clear moderate helped the project move forward smoothly.",
-    "example_zh": "清楚的做法讓專案順利推進。",
-    "topic": "General",
-    "level": 3
-  },
-  {
-    "id": 386,
-    "word": "modify",
-    "pos": "v.",
-    "meaning": "與「modify」相關的動作",
-    "example": "The company will monitor the modify every week.",
-    "example_zh": "公司每週都會追蹤這個指標。",
-    "topic": "Business",
-    "level": 3
-  },
-  {
-    "id": 387,
-    "word": "monitor",
-    "pos": "n.",
-    "meaning": "與「monitor」相關的名詞",
-    "example": "They adjusted the monitor to reduce operating costs.",
-    "example_zh": "他們調整這個做法以降低營運成本。",
-    "topic": "Finance",
-    "level": 3
-  },
-  {
-    "id": 388,
-    "word": "moral",
-    "pos": "n.",
-    "meaning": "與「moral」相關的名詞",
-    "example": "This policy explains how to handle moral in daily work.",
-    "example_zh": "這項政策說明了如何在日常工作中處理這件事。",
-    "topic": "Office",
-    "level": 3
-  },
-  {
-    "id": 389,
-    "word": "moreover",
-    "pos": "n.",
-    "meaning": "與「moreover」相關的名詞",
-    "example": "The report highlights the importance of moreover for growth.",
-    "example_zh": "這份報告強調這個要素對成長的重要性。",
-    "topic": "Travel",
-    "level": 3
-  },
-  {
-    "id": 390,
-    "word": "motivate",
-    "pos": "v.",
-    "meaning": "與「motivate」相關的動作",
-    "example": "We need better motivate to meet the deadline.",
-    "example_zh": "我們需要更好的安排才能趕上截止日。",
-    "topic": "General",
-    "level": 3
-  },
-  {
-    "id": 391,
-    "word": "mutual",
-    "pos": "n.",
-    "meaning": "與「mutual」相關的名詞",
-    "example": "The training session focused on practical mutual skills.",
-    "example_zh": "這場培訓聚焦在實務技能上。",
-    "topic": "Business",
-    "level": 3
-  },
-  {
-    "id": 392,
-    "word": "narrative",
-    "pos": "adj.",
-    "meaning": "與「narrative」相關的狀態",
-    "example": "Our department standardized the narrative across all teams.",
-    "example_zh": "我們部門已在所有團隊中標準化這項流程。",
-    "topic": "Finance",
-    "level": 3
-  },
-  {
-    "id": 393,
-    "word": "necessarily",
-    "pos": "n./v./adj.",
-    "meaning": "與「necessarily」相關的動作",
-    "example": "The vendor confirmed the necessarily by email yesterday.",
-    "example_zh": "供應商昨天透過電子郵件確認了這項內容。",
-    "topic": "Office",
-    "level": 3
-  },
-  {
-    "id": 394,
-    "word": "neutral",
-    "pos": "n.",
-    "meaning": "與「neutral」相關的名詞",
-    "example": "Accurate neutral can prevent costly mistakes.",
-    "example_zh": "精準的處理可以避免昂貴的錯誤。",
-    "topic": "Travel",
-    "level": 3
-  },
-  {
-    "id": 395,
-    "word": "notion",
-    "pos": "n.",
-    "meaning": "與「notion」相關的名詞",
-    "example": "The director requested a summary of the notion by Friday.",
-    "example_zh": "主管要求我們在週五前提交這項內容的摘要。",
-    "topic": "General",
-    "level": 3
-  },
-  {
-    "id": 396,
-    "word": "novel",
-    "pos": "n./v./adj.",
-    "meaning": "與「novel」相關的動作",
-    "example": "We improved the novel after customer feedback.",
-    "example_zh": "我們依據客戶回饋改進了這個部分。",
-    "topic": "Business",
-    "level": 3
-  },
-  {
-    "id": 397,
-    "word": "numerous",
-    "pos": "adj.",
-    "meaning": "與「numerous」相關的狀態",
-    "example": "The audit found issues related to numerous in two branches.",
-    "example_zh": "稽核在兩個分公司發現與此相關的問題。",
-    "topic": "Finance",
-    "level": 3
-  },
-  {
-    "id": 398,
-    "word": "objective",
-    "pos": "adj.",
-    "meaning": "與「objective」相關的狀態",
-    "example": "A strong objective strategy supports long-term success.",
-    "example_zh": "完善的策略能支撐長期成功。",
-    "topic": "Office",
-    "level": 3
-  },
-  {
-    "id": 399,
-    "word": "observe",
-    "pos": "n./v./adj.",
-    "meaning": "與「observe」相關的動作",
-    "example": "The assistant prepared the observe for tomorrow’s presentation.",
-    "example_zh": "助理已為明天的簡報準備好相關資料。",
-    "topic": "Travel",
-    "level": 3
-  },
-  {
-    "id": 400,
-    "word": "obstacle",
-    "pos": "n./v./adj.",
-    "meaning": "與「obstacle」相關的動作",
-    "example": "The supervisor checked the obstacle before approving the request.",
-    "example_zh": "主管在核准申請前檢查了這項內容。",
-    "topic": "General",
-    "level": 3
-  },
-  {
-    "id": 401,
-    "word": "obtain",
-    "pos": "n./v./adj.",
-    "meaning": "與「obtain」相關的動作",
-    "example": "Our team updated the obtain before sending the final report.",
-    "example_zh": "我們的團隊在送出最終報告前更新了這個項目。",
-    "topic": "Business",
-    "level": 3
-  },
-  {
-    "id": 402,
-    "word": "obvious",
-    "pos": "adj.",
-    "meaning": "與「obvious」相關的狀態",
-    "example": "Please review the obvious carefully before you sign the document.",
-    "example_zh": "請在簽署文件前仔細檢查這個項目。",
-    "topic": "Finance",
-    "level": 3
-  },
-  {
-    "id": 403,
-    "word": "occasion",
-    "pos": "n.",
-    "meaning": "與「occasion」相關的名詞",
-    "example": "The manager asked us to improve the occasion this quarter.",
-    "example_zh": "經理要求我們在本季改善這個重點。",
-    "topic": "Office",
-    "level": 3
-  },
-  {
-    "id": 404,
-    "word": "occupy",
-    "pos": "n./v./adj.",
-    "meaning": "與「occupy」相關的動作",
-    "example": "We discussed the occupy during the client call this morning.",
-    "example_zh": "我們在今天上午的客戶通話中討論了這個主題。",
-    "topic": "Travel",
-    "level": 3
-  },
-  {
-    "id": 405,
-    "word": "occur",
-    "pos": "n./v./adj.",
-    "meaning": "與「occur」相關的動作",
-    "example": "A clear occur helped the project move forward smoothly.",
-    "example_zh": "清楚的做法讓專案順利推進。",
-    "topic": "General",
-    "level": 3
-  },
-  {
-    "id": 406,
-    "word": "ongoing",
-    "pos": "n./v./adj.",
-    "meaning": "與「ongoing」相關的動作",
-    "example": "The company will monitor the ongoing every week.",
-    "example_zh": "公司每週都會追蹤這個指標。",
-    "topic": "Business",
-    "level": 3
-  },
-  {
-    "id": 407,
-    "word": "option",
-    "pos": "n.",
-    "meaning": "與「option」相關的名詞",
-    "example": "They adjusted the option to reduce operating costs.",
-    "example_zh": "他們調整這個做法以降低營運成本。",
-    "topic": "Finance",
-    "level": 3
-  },
-  {
-    "id": 408,
-    "word": "ordinary",
-    "pos": "adj.",
-    "meaning": "與「ordinary」相關的狀態",
-    "example": "This policy explains how to handle ordinary in daily work.",
-    "example_zh": "這項政策說明了如何在日常工作中處理這件事。",
-    "topic": "Office",
-    "level": 3
-  },
-  {
-    "id": 409,
-    "word": "organic",
-    "pos": "adj.",
-    "meaning": "與「organic」相關的狀態",
-    "example": "The report highlights the importance of organic for growth.",
-    "example_zh": "這份報告強調這個要素對成長的重要性。",
-    "topic": "Travel",
-    "level": 3
-  },
-  {
-    "id": 410,
-    "word": "outcome",
-    "pos": "n./v./adj.",
-    "meaning": "與「outcome」相關的動作",
-    "example": "We need better outcome to meet the deadline.",
-    "example_zh": "我們需要更好的安排才能趕上截止日。",
-    "topic": "General",
-    "level": 3
-  },
-  {
-    "id": 411,
-    "word": "overall",
-    "pos": "n./v./adj.",
-    "meaning": "與「overall」相關的動作",
-    "example": "The training session focused on practical overall skills.",
-    "example_zh": "這場培訓聚焦在實務技能上。",
-    "topic": "Business",
-    "level": 3
-  },
-  {
-    "id": 412,
-    "word": "overseas",
-    "pos": "n./v./adj.",
-    "meaning": "與「overseas」相關的動作",
-    "example": "Our department standardized the overseas across all teams.",
-    "example_zh": "我們部門已在所有團隊中標準化這項流程。",
-    "topic": "Finance",
-    "level": 3
-  },
-  {
-    "id": 413,
-    "word": "panel",
-    "pos": "n./v./adj.",
-    "meaning": "與「panel」相關的動作",
-    "example": "The vendor confirmed the panel by email yesterday.",
-    "example_zh": "供應商昨天透過電子郵件確認了這項內容。",
-    "topic": "Office",
-    "level": 3
-  },
-  {
-    "id": 414,
-    "word": "parallel",
-    "pos": "n./v./adj.",
-    "meaning": "與「parallel」相關的動作",
-    "example": "Accurate parallel can prevent costly mistakes.",
-    "example_zh": "精準的處理可以避免昂貴的錯誤。",
-    "topic": "Travel",
-    "level": 3
-  },
-  {
-    "id": 415,
-    "word": "participate",
-    "pos": "v.",
-    "meaning": "與「participate」相關的動作",
-    "example": "The director requested a summary of the participate by Friday.",
-    "example_zh": "主管要求我們在週五前提交這項內容的摘要。",
-    "topic": "General",
-    "level": 3
-  },
-  {
-    "id": 416,
-    "word": "particular",
-    "pos": "n./v./adj.",
-    "meaning": "與「particular」相關的動作",
-    "example": "We improved the particular after customer feedback.",
-    "example_zh": "我們依據客戶回饋改進了這個部分。",
-    "topic": "Business",
-    "level": 3
-  },
-  {
-    "id": 417,
-    "word": "partner",
-    "pos": "n.",
-    "meaning": "與「partner」相關的名詞",
-    "example": "The audit found issues related to partner in two branches.",
-    "example_zh": "稽核在兩個分公司發現與此相關的問題。",
-    "topic": "Finance",
-    "level": 3
-  },
-  {
-    "id": 418,
-    "word": "passage",
-    "pos": "n./v./adj.",
-    "meaning": "與「passage」相關的動作",
-    "example": "A strong passage strategy supports long-term success.",
-    "example_zh": "完善的策略能支撐長期成功。",
-    "topic": "Office",
-    "level": 3
-  },
-  {
-    "id": 419,
-    "word": "passion",
-    "pos": "n.",
-    "meaning": "與「passion」相關的名詞",
-    "example": "The assistant prepared the passion for tomorrow’s presentation.",
-    "example_zh": "助理已為明天的簡報準備好相關資料。",
-    "topic": "Travel",
-    "level": 3
-  },
-  {
-    "id": 420,
-    "word": "patient",
-    "pos": "n./v./adj.",
-    "meaning": "與「patient」相關的動作",
-    "example": "The supervisor checked the patient before approving the request.",
-    "example_zh": "主管在核准申請前檢查了這項內容。",
-    "topic": "General",
-    "level": 3
-  },
-  {
-    "id": 421,
-    "word": "pattern",
-    "pos": "n./v./adj.",
-    "meaning": "與「pattern」相關的動作",
-    "example": "Our team updated the pattern before sending the final report.",
-    "example_zh": "我們的團隊在送出最終報告前更新了這個項目。",
-    "topic": "Business",
-    "level": 3
-  },
-  {
-    "id": 422,
-    "word": "perceive",
-    "pos": "adj.",
-    "meaning": "與「perceive」相關的狀態",
-    "example": "Please review the perceive carefully before you sign the document.",
-    "example_zh": "請在簽署文件前仔細檢查這個項目。",
-    "topic": "Finance",
-    "level": 3
-  },
-  {
-    "id": 423,
-    "word": "percentage",
-    "pos": "n./v./adj.",
-    "meaning": "與「percentage」相關的動作",
-    "example": "The manager asked us to improve the percentage this quarter.",
-    "example_zh": "經理要求我們在本季改善這個重點。",
-    "topic": "Office",
-    "level": 3
-  },
-  {
-    "id": 424,
-    "word": "perception",
-    "pos": "n.",
-    "meaning": "與「perception」相關的名詞",
-    "example": "We discussed the perception during the client call this morning.",
-    "example_zh": "我們在今天上午的客戶通話中討論了這個主題。",
-    "topic": "Travel",
-    "level": 3
-  },
-  {
-    "id": 425,
-    "word": "perfect",
-    "pos": "n./v./adj.",
-    "meaning": "與「perfect」相關的動作",
-    "example": "A clear perfect helped the project move forward smoothly.",
-    "example_zh": "清楚的做法讓專案順利推進。",
-    "topic": "General",
-    "level": 3
-  },
-  {
-    "id": 426,
-    "word": "perform",
-    "pos": "n./v./adj.",
-    "meaning": "與「perform」相關的動作",
-    "example": "The company will monitor the perform every week.",
-    "example_zh": "公司每週都會追蹤這個指標。",
-    "topic": "Business",
-    "level": 3
-  },
-  {
-    "id": 427,
-    "word": "perhaps",
-    "pos": "n./v./adj.",
-    "meaning": "與「perhaps」相關的動作",
-    "example": "They adjusted the perhaps to reduce operating costs.",
-    "example_zh": "他們調整這個做法以降低營運成本。",
-    "topic": "Finance",
-    "level": 3
-  },
-  {
-    "id": 428,
-    "word": "period",
-    "pos": "n./v./adj.",
-    "meaning": "與「period」相關的動作",
-    "example": "This policy explains how to handle period in daily work.",
-    "example_zh": "這項政策說明了如何在日常工作中處理這件事。",
-    "topic": "Office",
-    "level": 3
-  },
-  {
-    "id": 429,
-    "word": "permanent",
-    "pos": "n./v./adj.",
-    "meaning": "與「permanent」相關的動作",
-    "example": "The report highlights the importance of permanent for growth.",
-    "example_zh": "這份報告強調這個要素對成長的重要性。",
-    "topic": "Travel",
-    "level": 3
-  },
-  {
-    "id": 430,
-    "word": "permit",
-    "pos": "n./v./adj.",
-    "meaning": "與「permit」相關的動作",
-    "example": "We need better permit to meet the deadline.",
-    "example_zh": "我們需要更好的安排才能趕上截止日。",
-    "topic": "General",
-    "level": 3
-  },
-  {
-    "id": 431,
-    "word": "persist",
-    "pos": "n./v./adj.",
-    "meaning": "與「persist」相關的動作",
-    "example": "The training session focused on practical persist skills.",
-    "example_zh": "這場培訓聚焦在實務技能上。",
-    "topic": "Business",
-    "level": 3
-  },
-  {
-    "id": 432,
-    "word": "perspective",
-    "pos": "adj.",
-    "meaning": "與「perspective」相關的狀態",
-    "example": "Our department standardized the perspective across all teams.",
-    "example_zh": "我們部門已在所有團隊中標準化這項流程。",
-    "topic": "Finance",
-    "level": 3
-  },
-  {
-    "id": 433,
-    "word": "persuade",
-    "pos": "n./v./adj.",
-    "meaning": "與「persuade」相關的動作",
-    "example": "The vendor confirmed the persuade by email yesterday.",
-    "example_zh": "供應商昨天透過電子郵件確認了這項內容。",
-    "topic": "Office",
-    "level": 3
-  },
-  {
-    "id": 434,
-    "word": "phenomenon",
-    "pos": "n./v./adj.",
-    "meaning": "與「phenomenon」相關的動作",
-    "example": "Accurate phenomenon can prevent costly mistakes.",
-    "example_zh": "精準的處理可以避免昂貴的錯誤。",
-    "topic": "Travel",
-    "level": 3
-  },
-  {
-    "id": 435,
-    "word": "philosophy",
-    "pos": "n./v./adj.",
-    "meaning": "與「philosophy」相關的動作",
-    "example": "The director requested a summary of the philosophy by Friday.",
-    "example_zh": "主管要求我們在週五前提交這項內容的摘要。",
-    "topic": "General",
-    "level": 3
-  },
-  {
-    "id": 436,
-    "word": "physical",
-    "pos": "n.",
-    "meaning": "與「physical」相關的名詞",
-    "example": "We improved the physical after customer feedback.",
-    "example_zh": "我們依據客戶回饋改進了這個部分。",
-    "topic": "Business",
-    "level": 3
-  },
-  {
-    "id": 437,
-    "word": "platform",
-    "pos": "n./v./adj.",
-    "meaning": "與「platform」相關的動作",
-    "example": "The audit found issues related to platform in two branches.",
-    "example_zh": "稽核在兩個分公司發現與此相關的問題。",
-    "topic": "Finance",
-    "level": 3
-  },
-  {
-    "id": 438,
-    "word": "pleasure",
-    "pos": "n./v./adj.",
-    "meaning": "與「pleasure」相關的動作",
-    "example": "A strong pleasure strategy supports long-term success.",
-    "example_zh": "完善的策略能支撐長期成功。",
-    "topic": "Office",
-    "level": 3
-  },
-  {
-    "id": 439,
-    "word": "portion",
-    "pos": "n.",
-    "meaning": "與「portion」相關的名詞",
-    "example": "The assistant prepared the portion for tomorrow’s presentation.",
-    "example_zh": "助理已為明天的簡報準備好相關資料。",
-    "topic": "Travel",
-    "level": 3
-  },
-  {
-    "id": 440,
-    "word": "portrait",
-    "pos": "n./v./adj.",
-    "meaning": "與「portrait」相關的動作",
-    "example": "The supervisor checked the portrait before approving the request.",
-    "example_zh": "主管在核准申請前檢查了這項內容。",
-    "topic": "General",
-    "level": 3
-  },
-  {
-    "id": 441,
-    "word": "pose",
-    "pos": "n./v./adj.",
-    "meaning": "與「pose」相關的動作",
-    "example": "Our team updated the pose before sending the final report.",
-    "example_zh": "我們的團隊在送出最終報告前更新了這個項目。",
-    "topic": "Business",
-    "level": 3
-  },
-  {
-    "id": 442,
-    "word": "positive",
-    "pos": "adj.",
-    "meaning": "與「positive」相關的狀態",
-    "example": "Please review the positive carefully before you sign the document.",
-    "example_zh": "請在簽署文件前仔細檢查這個項目。",
-    "topic": "Finance",
-    "level": 3
-  },
-  {
-    "id": 443,
-    "word": "potential",
-    "pos": "n.",
-    "meaning": "與「potential」相關的名詞",
-    "example": "The manager asked us to improve the potential this quarter.",
-    "example_zh": "經理要求我們在本季改善這個重點。",
-    "topic": "Office",
-    "level": 3
-  },
-  {
-    "id": 444,
-    "word": "poverty",
-    "pos": "n./v./adj.",
-    "meaning": "與「poverty」相關的動作",
-    "example": "We discussed the poverty during the client call this morning.",
-    "example_zh": "我們在今天上午的客戶通話中討論了這個主題。",
-    "topic": "Travel",
-    "level": 3
-  },
-  {
-    "id": 445,
-    "word": "practical",
-    "pos": "n.",
-    "meaning": "與「practical」相關的名詞",
-    "example": "A clear practical helped the project move forward smoothly.",
-    "example_zh": "清楚的做法讓專案順利推進。",
-    "topic": "General",
-    "level": 3
-  },
-  {
-    "id": 446,
-    "word": "precise",
-    "pos": "v.",
-    "meaning": "與「precise」相關的動作",
-    "example": "The company will monitor the precise every week.",
-    "example_zh": "公司每週都會追蹤這個指標。",
-    "topic": "Business",
-    "level": 3
-  },
-  {
-    "id": 447,
-    "word": "predict",
-    "pos": "n./v./adj.",
-    "meaning": "與「predict」相關的動作",
-    "example": "They adjusted the predict to reduce operating costs.",
-    "example_zh": "他們調整這個做法以降低營運成本。",
-    "topic": "Finance",
-    "level": 3
-  },
-  {
-    "id": 448,
-    "word": "prefer",
-    "pos": "n.",
-    "meaning": "與「prefer」相關的名詞",
-    "example": "This policy explains how to handle prefer in daily work.",
-    "example_zh": "這項政策說明了如何在日常工作中處理這件事。",
-    "topic": "Office",
-    "level": 3
-  },
-  {
-    "id": 449,
-    "word": "preliminary",
-    "pos": "adj.",
-    "meaning": "與「preliminary」相關的狀態",
-    "example": "The report highlights the importance of preliminary for growth.",
-    "example_zh": "這份報告強調這個要素對成長的重要性。",
-    "topic": "Travel",
-    "level": 3
-  },
-  {
-    "id": 450,
-    "word": "preserve",
-    "pos": "n./v./adj.",
-    "meaning": "與「preserve」相關的動作",
-    "example": "We need better preserve to meet the deadline.",
-    "example_zh": "我們需要更好的安排才能趕上截止日。",
-    "topic": "General",
-    "level": 3
-  },
-  {
-    "id": 451,
-    "word": "pressure",
-    "pos": "n./v./adj.",
-    "meaning": "與「pressure」相關的動作",
-    "example": "The training session focused on practical pressure skills.",
-    "example_zh": "這場培訓聚焦在實務技能上。",
-    "topic": "Business",
-    "level": 3
-  },
-  {
-    "id": 452,
-    "word": "prevail",
-    "pos": "n./v./adj.",
-    "meaning": "與「prevail」相關的動作",
-    "example": "Our department standardized the prevail across all teams.",
-    "example_zh": "我們部門已在所有團隊中標準化這項流程。",
-    "topic": "Finance",
-    "level": 3
-  },
-  {
-    "id": 453,
-    "word": "primary",
-    "pos": "adj.",
-    "meaning": "與「primary」相關的狀態",
-    "example": "The vendor confirmed the primary by email yesterday.",
-    "example_zh": "供應商昨天透過電子郵件確認了這項內容。",
-    "topic": "Office",
-    "level": 3
-  },
-  {
-    "id": 454,
-    "word": "principal",
-    "pos": "n.",
-    "meaning": "與「principal」相關的名詞",
-    "example": "Accurate principal can prevent costly mistakes.",
-    "example_zh": "精準的處理可以避免昂貴的錯誤。",
-    "topic": "Travel",
-    "level": 3
-  },
-  {
-    "id": 455,
-    "word": "principle",
-    "pos": "n./v./adj.",
-    "meaning": "與「principle」相關的動作",
-    "example": "The director requested a summary of the principle by Friday.",
-    "example_zh": "主管要求我們在週五前提交這項內容的摘要。",
-    "topic": "General",
-    "level": 3
-  },
-  {
-    "id": 456,
-    "word": "priority",
-    "pos": "n.",
-    "meaning": "與「priority」相關的名詞",
-    "example": "We improved the priority after customer feedback.",
-    "example_zh": "我們依據客戶回饋改進了這個部分。",
-    "topic": "Business",
-    "level": 3
-  },
-  {
-    "id": 457,
-    "word": "private",
-    "pos": "v.",
-    "meaning": "與「private」相關的動作",
-    "example": "The audit found issues related to private in two branches.",
-    "example_zh": "稽核在兩個分公司發現與此相關的問題。",
-    "topic": "Finance",
-    "level": 3
-  },
-  {
-    "id": 458,
-    "word": "procedure",
-    "pos": "n./v./adj.",
-    "meaning": "與「procedure」相關的動作",
-    "example": "A strong procedure strategy supports long-term success.",
-    "example_zh": "完善的策略能支撐長期成功。",
-    "topic": "Office",
-    "level": 3
-  },
-  {
-    "id": 459,
-    "word": "proceed",
-    "pos": "n./v./adj.",
-    "meaning": "與「proceed」相關的動作",
-    "example": "The assistant prepared the proceed for tomorrow’s presentation.",
-    "example_zh": "助理已為明天的簡報準備好相關資料。",
-    "topic": "Travel",
-    "level": 3
-  },
-  {
-    "id": 460,
-    "word": "profession",
-    "pos": "n.",
-    "meaning": "與「profession」相關的名詞",
-    "example": "The supervisor checked the profession before approving the request.",
-    "example_zh": "主管在核准申請前檢查了這項內容。",
-    "topic": "General",
-    "level": 3
-  },
-  {
-    "id": 461,
-    "word": "profile",
-    "pos": "n./v./adj.",
-    "meaning": "與「profile」相關的動作",
-    "example": "Our team updated the profile before sending the final report.",
-    "example_zh": "我們的團隊在送出最終報告前更新了這個項目。",
-    "topic": "Business",
-    "level": 3
-  },
-  {
-    "id": 462,
-    "word": "profit",
-    "pos": "n./v./adj.",
-    "meaning": "與「profit」相關的動作",
-    "example": "Please review the profit carefully before you sign the document.",
-    "example_zh": "請在簽署文件前仔細檢查這個項目。",
-    "topic": "Finance",
-    "level": 3
-  },
-  {
-    "id": 463,
-    "word": "prohibit",
-    "pos": "n./v./adj.",
-    "meaning": "與「prohibit」相關的動作",
-    "example": "The manager asked us to improve the prohibit this quarter.",
-    "example_zh": "經理要求我們在本季改善這個重點。",
-    "topic": "Office",
-    "level": 3
-  },
-  {
-    "id": 464,
-    "word": "prominent",
-    "pos": "n./v./adj.",
-    "meaning": "與「prominent」相關的動作",
-    "example": "We discussed the prominent during the client call this morning.",
-    "example_zh": "我們在今天上午的客戶通話中討論了這個主題。",
-    "topic": "Travel",
-    "level": 3
-  },
-  {
-    "id": 465,
-    "word": "proportion",
-    "pos": "n.",
-    "meaning": "與「proportion」相關的名詞",
-    "example": "A clear proportion helped the project move forward smoothly.",
-    "example_zh": "清楚的做法讓專案順利推進。",
-    "topic": "General",
-    "level": 3
-  },
-  {
-    "id": 466,
-    "word": "prospect",
-    "pos": "n./v./adj.",
-    "meaning": "與「prospect」相關的動作",
-    "example": "The company will monitor the prospect every week.",
-    "example_zh": "公司每週都會追蹤這個指標。",
-    "topic": "Business",
-    "level": 3
-  },
-  {
-    "id": 467,
-    "word": "protection",
-    "pos": "n.",
-    "meaning": "與「protection」相關的名詞",
-    "example": "They adjusted the protection to reduce operating costs.",
-    "example_zh": "他們調整這個做法以降低營運成本。",
-    "topic": "Finance",
-    "level": 3
-  },
-  {
-    "id": 468,
-    "word": "prove",
-    "pos": "n./v./adj.",
-    "meaning": "與「prove」相關的動作",
-    "example": "This policy explains how to handle prove in daily work.",
-    "example_zh": "這項政策說明了如何在日常工作中處理這件事。",
-    "topic": "Office",
-    "level": 3
-  },
-  {
-    "id": 469,
-    "word": "publish",
-    "pos": "n./v./adj.",
-    "meaning": "與「publish」相關的動作",
-    "example": "The report highlights the importance of publish for growth.",
-    "example_zh": "這份報告強調這個要素對成長的重要性。",
-    "topic": "Travel",
-    "level": 3
-  },
-  {
-    "id": 470,
-    "word": "pursue",
-    "pos": "n./v./adj.",
-    "meaning": "與「pursue」相關的動作",
-    "example": "We need better pursue to meet the deadline.",
-    "example_zh": "我們需要更好的安排才能趕上截止日。",
-    "topic": "General",
-    "level": 3
-  },
-  {
-    "id": 471,
-    "word": "radical",
-    "pos": "n.",
-    "meaning": "與「radical」相關的名詞",
-    "example": "The training session focused on practical radical skills.",
-    "example_zh": "這場培訓聚焦在實務技能上。",
-    "topic": "Business",
-    "level": 3
-  },
-  {
-    "id": 472,
-    "word": "random",
-    "pos": "n./v./adj.",
-    "meaning": "與「random」相關的動作",
-    "example": "Our department standardized the random across all teams.",
-    "example_zh": "我們部門已在所有團隊中標準化這項流程。",
-    "topic": "Finance",
-    "level": 3
-  },
-  {
-    "id": 473,
-    "word": "ratio",
-    "pos": "n./v./adj.",
-    "meaning": "與「ratio」相關的動作",
-    "example": "The vendor confirmed the ratio by email yesterday.",
-    "example_zh": "供應商昨天透過電子郵件確認了這項內容。",
-    "topic": "Office",
-    "level": 3
-  },
-  {
-    "id": 474,
-    "word": "react",
-    "pos": "n./v./adj.",
-    "meaning": "與「react」相關的動作",
-    "example": "Accurate react can prevent costly mistakes.",
-    "example_zh": "精準的處理可以避免昂貴的錯誤。",
-    "topic": "Travel",
-    "level": 3
-  },
-  {
-    "id": 475,
-    "word": "reality",
-    "pos": "n.",
-    "meaning": "與「reality」相關的名詞",
-    "example": "The director requested a summary of the reality by Friday.",
-    "example_zh": "主管要求我們在週五前提交這項內容的摘要。",
-    "topic": "General",
-    "level": 3
-  },
-  {
-    "id": 476,
-    "word": "reasonable",
-    "pos": "adj.",
-    "meaning": "與「reasonable」相關的狀態",
-    "example": "We improved the reasonable after customer feedback.",
-    "example_zh": "我們依據客戶回饋改進了這個部分。",
-    "topic": "Business",
-    "level": 3
-  },
-  {
-    "id": 477,
-    "word": "recall",
-    "pos": "n./v./adj.",
-    "meaning": "與「recall」相關的動作",
-    "example": "The audit found issues related to recall in two branches.",
-    "example_zh": "稽核在兩個分公司發現與此相關的問題。",
-    "topic": "Finance",
-    "level": 3
-  },
-  {
-    "id": 478,
-    "word": "recognition",
-    "pos": "n.",
-    "meaning": "與「recognition」相關的名詞",
-    "example": "A strong recognition strategy supports long-term success.",
-    "example_zh": "完善的策略能支撐長期成功。",
-    "topic": "Office",
-    "level": 3
-  },
-  {
-    "id": 479,
-    "word": "recommend",
-    "pos": "n./v./adj.",
-    "meaning": "與「recommend」相關的動作",
-    "example": "The assistant prepared the recommend for tomorrow’s presentation.",
-    "example_zh": "助理已為明天的簡報準備好相關資料。",
-    "topic": "Travel",
-    "level": 3
-  },
-  {
-    "id": 480,
-    "word": "recover",
-    "pos": "n.",
-    "meaning": "與「recover」相關的名詞",
-    "example": "The supervisor checked the recover before approving the request.",
-    "example_zh": "主管在核准申請前檢查了這項內容。",
-    "topic": "General",
-    "level": 3
-  },
-  {
-    "id": 481,
-    "word": "reflect",
-    "pos": "n./v./adj.",
-    "meaning": "與「reflect」相關的動作",
-    "example": "Our team updated the reflect before sending the final report.",
-    "example_zh": "我們的團隊在送出最終報告前更新了這個項目。",
-    "topic": "Business",
-    "level": 3
-  },
-  {
-    "id": 482,
-    "word": "reform",
-    "pos": "n./v./adj.",
-    "meaning": "與「reform」相關的動作",
-    "example": "Please review the reform carefully before you sign the document.",
-    "example_zh": "請在簽署文件前仔細檢查這個項目。",
-    "topic": "Finance",
-    "level": 3
-  },
-  {
-    "id": 483,
-    "word": "regard",
-    "pos": "n./v./adj.",
-    "meaning": "與「regard」相關的動作",
-    "example": "The manager asked us to improve the regard this quarter.",
-    "example_zh": "經理要求我們在本季改善這個重點。",
-    "topic": "Office",
-    "level": 3
-  },
-  {
-    "id": 484,
-    "word": "regulate",
-    "pos": "v.",
-    "meaning": "與「regulate」相關的動作",
-    "example": "We discussed the regulate during the client call this morning.",
-    "example_zh": "我們在今天上午的客戶通話中討論了這個主題。",
-    "topic": "Travel",
-    "level": 3
-  },
-  {
-    "id": 485,
-    "word": "reinforce",
-    "pos": "n./v./adj.",
-    "meaning": "與「reinforce」相關的動作",
-    "example": "A clear reinforce helped the project move forward smoothly.",
-    "example_zh": "清楚的做法讓專案順利推進。",
-    "topic": "General",
-    "level": 3
-  },
-  {
-    "id": 486,
-    "word": "reject",
-    "pos": "n./v./adj.",
-    "meaning": "與「reject」相關的動作",
-    "example": "The company will monitor the reject every week.",
-    "example_zh": "公司每週都會追蹤這個指標。",
-    "topic": "Business",
-    "level": 3
-  },
-  {
-    "id": 487,
-    "word": "relate",
-    "pos": "v.",
-    "meaning": "與「relate」相關的動作",
-    "example": "They adjusted the relate to reduce operating costs.",
-    "example_zh": "他們調整這個做法以降低營運成本。",
-    "topic": "Finance",
-    "level": 3
-  },
-  {
-    "id": 488,
-    "word": "relative",
-    "pos": "adj.",
-    "meaning": "與「relative」相關的狀態",
-    "example": "This policy explains how to handle relative in daily work.",
-    "example_zh": "這項政策說明了如何在日常工作中處理這件事。",
-    "topic": "Office",
-    "level": 3
-  },
-  {
-    "id": 489,
-    "word": "relax",
-    "pos": "n./v./adj.",
-    "meaning": "與「relax」相關的動作",
-    "example": "The report highlights the importance of relax for growth.",
-    "example_zh": "這份報告強調這個要素對成長的重要性。",
-    "topic": "Travel",
-    "level": 3
-  },
-  {
-    "id": 490,
-    "word": "release",
-    "pos": "n./v./adj.",
-    "meaning": "與「release」相關的動作",
-    "example": "We need better release to meet the deadline.",
-    "example_zh": "我們需要更好的安排才能趕上截止日。",
-    "topic": "General",
-    "level": 3
-  },
-  {
-    "id": 491,
-    "word": "relevant",
-    "pos": "n./v./adj.",
-    "meaning": "與「relevant」相關的動作",
-    "example": "The training session focused on practical relevant skills.",
-    "example_zh": "這場培訓聚焦在實務技能上。",
-    "topic": "Business",
-    "level": 3
-  },
-  {
-    "id": 492,
-    "word": "relief",
-    "pos": "n./v./adj.",
-    "meaning": "與「relief」相關的動作",
-    "example": "Our department standardized the relief across all teams.",
-    "example_zh": "我們部門已在所有團隊中標準化這項流程。",
-    "topic": "Finance",
-    "level": 3
-  },
-  {
-    "id": 493,
-    "word": "remain",
-    "pos": "n./v./adj.",
-    "meaning": "與「remain」相關的動作",
-    "example": "The vendor confirmed the remain by email yesterday.",
-    "example_zh": "供應商昨天透過電子郵件確認了這項內容。",
-    "topic": "Office",
-    "level": 3
-  },
-  {
-    "id": 494,
-    "word": "remark",
-    "pos": "n./v./adj.",
-    "meaning": "與「remark」相關的動作",
-    "example": "Accurate remark can prevent costly mistakes.",
-    "example_zh": "精準的處理可以避免昂貴的錯誤。",
-    "topic": "Travel",
-    "level": 3
-  },
-  {
-    "id": 495,
-    "word": "remote",
-    "pos": "n./v./adj.",
-    "meaning": "與「remote」相關的動作",
-    "example": "The director requested a summary of the remote by Friday.",
-    "example_zh": "主管要求我們在週五前提交這項內容的摘要。",
-    "topic": "General",
-    "level": 3
-  },
-  {
-    "id": 496,
-    "word": "render",
-    "pos": "n.",
-    "meaning": "與「render」相關的名詞",
-    "example": "We improved the render after customer feedback.",
-    "example_zh": "我們依據客戶回饋改進了這個部分。",
-    "topic": "Business",
-    "level": 3
-  },
-  {
-    "id": 497,
-    "word": "renew",
-    "pos": "n./v./adj.",
-    "meaning": "與「renew」相關的動作",
-    "example": "The audit found issues related to renew in two branches.",
-    "example_zh": "稽核在兩個分公司發現與此相關的問題。",
-    "topic": "Finance",
-    "level": 3
-  },
-  {
-    "id": 498,
-    "word": "repeat",
-    "pos": "n./v./adj.",
-    "meaning": "與「repeat」相關的動作",
-    "example": "A strong repeat strategy supports long-term success.",
-    "example_zh": "完善的策略能支撐長期成功。",
-    "topic": "Office",
-    "level": 3
-  },
-  {
-    "id": 499,
-    "word": "represent",
-    "pos": "n./v./adj.",
-    "meaning": "與「represent」相關的動作",
-    "example": "The assistant prepared the represent for tomorrow’s presentation.",
-    "example_zh": "助理已為明天的簡報準備好相關資料。",
-    "topic": "Travel",
-    "level": 3
-  },
-  {
-    "id": 500,
-    "word": "reputation",
-    "pos": "n.",
-    "meaning": "與「reputation」相關的名詞",
-    "example": "The supervisor checked the reputation before approving the request.",
-    "example_zh": "主管在核准申請前檢查了這項內容。",
-    "topic": "General",
-    "level": 3
+    id: 1,
+    word: "approve budget",
+    pos: "phr.",
+    meaning: "核准預算",
+    example: "Please approve the budget before the deadline.",
+    example_zh: "請在截止日前核准預算。",
+    topic: "Finance",
+    level: 3
+  },
+  {
+    id: 2,
+    word: "approve invoice",
+    pos: "phr.",
+    meaning: "核准發票",
+    example: "Our team will approve the invoice this afternoon.",
+    example_zh: "我們團隊今天下午會核准發票。",
+    topic: "Finance",
+    level: 3
+  },
+  {
+    id: 3,
+    word: "approve meeting agenda",
+    pos: "phr.",
+    meaning: "核准會議議程",
+    example: "The manager asked us to approve the meeting agenda today.",
+    example_zh: "經理今天要求我們核准會議議程。",
+    topic: "Meeting",
+    level: 2
+  },
+  {
+    id: 4,
+    word: "approve email draft",
+    pos: "phr.",
+    meaning: "核准郵件草稿",
+    example: "We need to approve the email draft for next week's plan.",
+    example_zh: "為了下週的計畫，我們需要核准郵件草稿。",
+    topic: "Email",
+    level: 2
+  },
+  {
+    id: 5,
+    word: "approve sales target",
+    pos: "phr.",
+    meaning: "核准銷售目標",
+    example: "They decided to approve the sales target after the client call.",
+    example_zh: "客戶通話後，他們決定核准銷售目標。",
+    topic: "Sales",
+    level: 3
+  },
+  {
+    id: 6,
+    word: "approve marketing campaign",
+    pos: "phr.",
+    meaning: "核准行銷活動",
+    example: "Could you approve the marketing campaign and share the result?",
+    example_zh: "你可以核准行銷活動並分享結果嗎？",
+    topic: "Marketing",
+    level: 3
+  },
+  {
+    id: 7,
+    word: "approve shipment schedule",
+    pos: "phr.",
+    meaning: "核准出貨時程",
+    example: "The department will approve the shipment schedule every month.",
+    example_zh: "該部門每個月都會核准出貨時程。",
+    topic: "Logistics",
+    level: 3
+  },
+  {
+    id: 8,
+    word: "approve travel itinerary",
+    pos: "phr.",
+    meaning: "核准行程表",
+    example: "Let's approve the travel itinerary to avoid delays.",
+    example_zh: "我們來核准行程表，以避免延誤。",
+    topic: "Travel",
+    level: 3
+  },
+  {
+    id: 9,
+    word: "approve service request",
+    pos: "phr.",
+    meaning: "核准服務請求",
+    example: "I will approve the service request and send you an update.",
+    example_zh: "我會先核准服務請求，再把進度告訴你。",
+    topic: "Customer Service",
+    level: 3
+  },
+  {
+    id: 10,
+    word: "approve project timeline",
+    pos: "phr.",
+    meaning: "核准專案時程",
+    example: "Please help me approve the project timeline before Friday.",
+    example_zh: "請在週五前協助我核准專案時程。",
+    topic: "Projects",
+    level: 3
+  },
+  {
+    id: 11,
+    word: "approve production plan",
+    pos: "phr.",
+    meaning: "核准生產計畫",
+    example: "Please approve the production plan before the deadline.",
+    example_zh: "請在截止日前核准生產計畫。",
+    topic: "Production",
+    level: 3
+  },
+  {
+    id: 12,
+    word: "approve office policy",
+    pos: "phr.",
+    meaning: "核准辦公政策",
+    example: "Our team will approve the office policy this afternoon.",
+    example_zh: "我們團隊今天下午會核准辦公政策。",
+    topic: "Office",
+    level: 3
+  },
+  {
+    id: 13,
+    word: "approve training program",
+    pos: "phr.",
+    meaning: "核准培訓計畫",
+    example: "The manager asked us to approve the training program today.",
+    example_zh: "經理今天要求我們核准培訓計畫。",
+    topic: "HR",
+    level: 3
+  },
+  {
+    id: 14,
+    word: "approve customer complaint",
+    pos: "phr.",
+    meaning: "核准客戶抱怨",
+    example: "We need to approve the customer complaint for next week's plan.",
+    example_zh: "為了下週的計畫，我們需要核准客戶抱怨。",
+    topic: "Customer Service",
+    level: 3
+  },
+  {
+    id: 15,
+    word: "approve cash flow",
+    pos: "phr.",
+    meaning: "核准現金流",
+    example: "They decided to approve the cash flow after the client call.",
+    example_zh: "客戶通話後，他們決定核准現金流。",
+    topic: "Finance",
+    level: 4
+  },
+  {
+    id: 16,
+    word: "approve team goal",
+    pos: "phr.",
+    meaning: "核准團隊目標",
+    example: "Could you approve the team goal and share the result?",
+    example_zh: "你可以核准團隊目標並分享結果嗎？",
+    topic: "General",
+    level: 2
+  },
+  {
+    id: 17,
+    word: "approve quality check",
+    pos: "phr.",
+    meaning: "核准品質檢查",
+    example: "The department will approve the quality check every month.",
+    example_zh: "該部門每個月都會核准品質檢查。",
+    topic: "Production",
+    level: 3
+  },
+  {
+    id: 18,
+    word: "approve contract term",
+    pos: "phr.",
+    meaning: "核准合約條款",
+    example: "Let's approve the contract term to avoid delays.",
+    example_zh: "我們來核准合約條款，以避免延誤。",
+    topic: "Sales",
+    level: 4
+  },
+  {
+    id: 19,
+    word: "approve inventory record",
+    pos: "phr.",
+    meaning: "核准庫存紀錄",
+    example: "I will approve the inventory record and send you an update.",
+    example_zh: "我會先核准庫存紀錄，再把進度告訴你。",
+    topic: "Logistics",
+    level: 3
+  },
+  {
+    id: 20,
+    word: "approve performance review",
+    pos: "phr.",
+    meaning: "核准績效評估",
+    example: "Please help me approve the performance review before Friday.",
+    example_zh: "請在週五前協助我核准績效評估。",
+    topic: "HR",
+    level: 4
+  },
+  {
+    id: 21,
+    word: "review budget",
+    pos: "phr.",
+    meaning: "審查預算",
+    example: "We need to review the budget for next week's plan.",
+    example_zh: "為了下週的計畫，我們需要審查預算。",
+    topic: "Finance",
+    level: 2
+  },
+  {
+    id: 22,
+    word: "review invoice",
+    pos: "phr.",
+    meaning: "審查發票",
+    example: "They decided to review the invoice after the client call.",
+    example_zh: "客戶通話後，他們決定審查發票。",
+    topic: "Finance",
+    level: 2
+  },
+  {
+    id: 23,
+    word: "review meeting agenda",
+    pos: "phr.",
+    meaning: "審查會議議程",
+    example: "Could you review the meeting agenda and share the result?",
+    example_zh: "你可以審查會議議程並分享結果嗎？",
+    topic: "Meeting",
+    level: 1
+  },
+  {
+    id: 24,
+    word: "review email draft",
+    pos: "phr.",
+    meaning: "審查郵件草稿",
+    example: "The department will review the email draft every month.",
+    example_zh: "該部門每個月都會審查郵件草稿。",
+    topic: "Email",
+    level: 1
+  },
+  {
+    id: 25,
+    word: "review sales target",
+    pos: "phr.",
+    meaning: "審查銷售目標",
+    example: "Let's review the sales target to avoid delays.",
+    example_zh: "我們來審查銷售目標，以避免延誤。",
+    topic: "Sales",
+    level: 2
+  },
+  {
+    id: 26,
+    word: "review marketing campaign",
+    pos: "phr.",
+    meaning: "審查行銷活動",
+    example: "I will review the marketing campaign and send you an update.",
+    example_zh: "我會先審查行銷活動，再把進度告訴你。",
+    topic: "Marketing",
+    level: 2
+  },
+  {
+    id: 27,
+    word: "review shipment schedule",
+    pos: "phr.",
+    meaning: "審查出貨時程",
+    example: "Please help me review the shipment schedule before Friday.",
+    example_zh: "請在週五前協助我審查出貨時程。",
+    topic: "Logistics",
+    level: 2
+  },
+  {
+    id: 28,
+    word: "review travel itinerary",
+    pos: "phr.",
+    meaning: "審查行程表",
+    example: "Please review the travel itinerary before the deadline.",
+    example_zh: "請在截止日前審查行程表。",
+    topic: "Travel",
+    level: 2
+  },
+  {
+    id: 29,
+    word: "review service request",
+    pos: "phr.",
+    meaning: "審查服務請求",
+    example: "Our team will review the service request this afternoon.",
+    example_zh: "我們團隊今天下午會審查服務請求。",
+    topic: "Customer Service",
+    level: 2
+  },
+  {
+    id: 30,
+    word: "review project timeline",
+    pos: "phr.",
+    meaning: "審查專案時程",
+    example: "The manager asked us to review the project timeline today.",
+    example_zh: "經理今天要求我們審查專案時程。",
+    topic: "Projects",
+    level: 2
+  },
+  {
+    id: 31,
+    word: "review production plan",
+    pos: "phr.",
+    meaning: "審查生產計畫",
+    example: "We need to review the production plan for next week's plan.",
+    example_zh: "為了下週的計畫，我們需要審查生產計畫。",
+    topic: "Production",
+    level: 2
+  },
+  {
+    id: 32,
+    word: "review office policy",
+    pos: "phr.",
+    meaning: "審查辦公政策",
+    example: "They decided to review the office policy after the client call.",
+    example_zh: "客戶通話後，他們決定審查辦公政策。",
+    topic: "Office",
+    level: 2
+  },
+  {
+    id: 33,
+    word: "review training program",
+    pos: "phr.",
+    meaning: "審查培訓計畫",
+    example: "Could you review the training program and share the result?",
+    example_zh: "你可以審查培訓計畫並分享結果嗎？",
+    topic: "HR",
+    level: 2
+  },
+  {
+    id: 34,
+    word: "review customer complaint",
+    pos: "phr.",
+    meaning: "審查客戶抱怨",
+    example: "The department will review the customer complaint every month.",
+    example_zh: "該部門每個月都會審查客戶抱怨。",
+    topic: "Customer Service",
+    level: 2
+  },
+  {
+    id: 35,
+    word: "review cash flow",
+    pos: "phr.",
+    meaning: "審查現金流",
+    example: "Let's review the cash flow to avoid delays.",
+    example_zh: "我們來審查現金流，以避免延誤。",
+    topic: "Finance",
+    level: 3
+  },
+  {
+    id: 36,
+    word: "review team goal",
+    pos: "phr.",
+    meaning: "審查團隊目標",
+    example: "I will review the team goal and send you an update.",
+    example_zh: "我會先審查團隊目標，再把進度告訴你。",
+    topic: "General",
+    level: 1
+  },
+  {
+    id: 37,
+    word: "review quality check",
+    pos: "phr.",
+    meaning: "審查品質檢查",
+    example: "Please help me review the quality check before Friday.",
+    example_zh: "請在週五前協助我審查品質檢查。",
+    topic: "Production",
+    level: 2
+  },
+  {
+    id: 38,
+    word: "review contract term",
+    pos: "phr.",
+    meaning: "審查合約條款",
+    example: "Please review the contract term before the deadline.",
+    example_zh: "請在截止日前審查合約條款。",
+    topic: "Sales",
+    level: 3
+  },
+  {
+    id: 39,
+    word: "review inventory record",
+    pos: "phr.",
+    meaning: "審查庫存紀錄",
+    example: "Our team will review the inventory record this afternoon.",
+    example_zh: "我們團隊今天下午會審查庫存紀錄。",
+    topic: "Logistics",
+    level: 2
+  },
+  {
+    id: 40,
+    word: "review performance review",
+    pos: "phr.",
+    meaning: "審查績效評估",
+    example: "The manager asked us to review the performance review today.",
+    example_zh: "經理今天要求我們審查績效評估。",
+    topic: "HR",
+    level: 3
+  },
+  {
+    id: 41,
+    word: "update budget",
+    pos: "phr.",
+    meaning: "更新預算",
+    example: "The department will update the budget every month.",
+    example_zh: "該部門每個月都會更新預算。",
+    topic: "Finance",
+    level: 2
+  },
+  {
+    id: 42,
+    word: "update invoice",
+    pos: "phr.",
+    meaning: "更新發票",
+    example: "Let's update the invoice to avoid delays.",
+    example_zh: "我們來更新發票，以避免延誤。",
+    topic: "Finance",
+    level: 2
+  },
+  {
+    id: 43,
+    word: "update meeting agenda",
+    pos: "phr.",
+    meaning: "更新會議議程",
+    example: "I will update the meeting agenda and send you an update.",
+    example_zh: "我會先更新會議議程，再把進度告訴你。",
+    topic: "Meeting",
+    level: 1
+  },
+  {
+    id: 44,
+    word: "update email draft",
+    pos: "phr.",
+    meaning: "更新郵件草稿",
+    example: "Please help me update the email draft before Friday.",
+    example_zh: "請在週五前協助我更新郵件草稿。",
+    topic: "Email",
+    level: 1
+  },
+  {
+    id: 45,
+    word: "update sales target",
+    pos: "phr.",
+    meaning: "更新銷售目標",
+    example: "Please update the sales target before the deadline.",
+    example_zh: "請在截止日前更新銷售目標。",
+    topic: "Sales",
+    level: 2
+  },
+  {
+    id: 46,
+    word: "update marketing campaign",
+    pos: "phr.",
+    meaning: "更新行銷活動",
+    example: "Our team will update the marketing campaign this afternoon.",
+    example_zh: "我們團隊今天下午會更新行銷活動。",
+    topic: "Marketing",
+    level: 2
+  },
+  {
+    id: 47,
+    word: "update shipment schedule",
+    pos: "phr.",
+    meaning: "更新出貨時程",
+    example: "The manager asked us to update the shipment schedule today.",
+    example_zh: "經理今天要求我們更新出貨時程。",
+    topic: "Logistics",
+    level: 2
+  },
+  {
+    id: 48,
+    word: "update travel itinerary",
+    pos: "phr.",
+    meaning: "更新行程表",
+    example: "We need to update the travel itinerary for next week's plan.",
+    example_zh: "為了下週的計畫，我們需要更新行程表。",
+    topic: "Travel",
+    level: 2
+  },
+  {
+    id: 49,
+    word: "update service request",
+    pos: "phr.",
+    meaning: "更新服務請求",
+    example: "They decided to update the service request after the client call.",
+    example_zh: "客戶通話後，他們決定更新服務請求。",
+    topic: "Customer Service",
+    level: 2
+  },
+  {
+    id: 50,
+    word: "update project timeline",
+    pos: "phr.",
+    meaning: "更新專案時程",
+    example: "Could you update the project timeline and share the result?",
+    example_zh: "你可以更新專案時程並分享結果嗎？",
+    topic: "Projects",
+    level: 2
+  },
+  {
+    id: 51,
+    word: "update production plan",
+    pos: "phr.",
+    meaning: "更新生產計畫",
+    example: "The department will update the production plan every month.",
+    example_zh: "該部門每個月都會更新生產計畫。",
+    topic: "Production",
+    level: 2
+  },
+  {
+    id: 52,
+    word: "update office policy",
+    pos: "phr.",
+    meaning: "更新辦公政策",
+    example: "Let's update the office policy to avoid delays.",
+    example_zh: "我們來更新辦公政策，以避免延誤。",
+    topic: "Office",
+    level: 2
+  },
+  {
+    id: 53,
+    word: "update training program",
+    pos: "phr.",
+    meaning: "更新培訓計畫",
+    example: "I will update the training program and send you an update.",
+    example_zh: "我會先更新培訓計畫，再把進度告訴你。",
+    topic: "HR",
+    level: 2
+  },
+  {
+    id: 54,
+    word: "update customer complaint",
+    pos: "phr.",
+    meaning: "更新客戶抱怨",
+    example: "Please help me update the customer complaint before Friday.",
+    example_zh: "請在週五前協助我更新客戶抱怨。",
+    topic: "Customer Service",
+    level: 2
+  },
+  {
+    id: 55,
+    word: "update cash flow",
+    pos: "phr.",
+    meaning: "更新現金流",
+    example: "Please update the cash flow before the deadline.",
+    example_zh: "請在截止日前更新現金流。",
+    topic: "Finance",
+    level: 3
+  },
+  {
+    id: 56,
+    word: "update team goal",
+    pos: "phr.",
+    meaning: "更新團隊目標",
+    example: "Our team will update the team goal this afternoon.",
+    example_zh: "我們團隊今天下午會更新團隊目標。",
+    topic: "General",
+    level: 1
+  },
+  {
+    id: 57,
+    word: "update quality check",
+    pos: "phr.",
+    meaning: "更新品質檢查",
+    example: "The manager asked us to update the quality check today.",
+    example_zh: "經理今天要求我們更新品質檢查。",
+    topic: "Production",
+    level: 2
+  },
+  {
+    id: 58,
+    word: "update contract term",
+    pos: "phr.",
+    meaning: "更新合約條款",
+    example: "We need to update the contract term for next week's plan.",
+    example_zh: "為了下週的計畫，我們需要更新合約條款。",
+    topic: "Sales",
+    level: 3
+  },
+  {
+    id: 59,
+    word: "update inventory record",
+    pos: "phr.",
+    meaning: "更新庫存紀錄",
+    example: "They decided to update the inventory record after the client call.",
+    example_zh: "客戶通話後，他們決定更新庫存紀錄。",
+    topic: "Logistics",
+    level: 2
+  },
+  {
+    id: 60,
+    word: "update performance review",
+    pos: "phr.",
+    meaning: "更新績效評估",
+    example: "Could you update the performance review and share the result?",
+    example_zh: "你可以更新績效評估並分享結果嗎？",
+    topic: "HR",
+    level: 3
+  },
+  {
+    id: 61,
+    word: "confirm budget",
+    pos: "phr.",
+    meaning: "確認預算",
+    example: "Please help me confirm the budget before Friday.",
+    example_zh: "請在週五前協助我確認預算。",
+    topic: "Finance",
+    level: 2
+  },
+  {
+    id: 62,
+    word: "confirm invoice",
+    pos: "phr.",
+    meaning: "確認發票",
+    example: "Please confirm the invoice before the deadline.",
+    example_zh: "請在截止日前確認發票。",
+    topic: "Finance",
+    level: 2
+  },
+  {
+    id: 63,
+    word: "confirm meeting agenda",
+    pos: "phr.",
+    meaning: "確認會議議程",
+    example: "Our team will confirm the meeting agenda this afternoon.",
+    example_zh: "我們團隊今天下午會確認會議議程。",
+    topic: "Meeting",
+    level: 1
+  },
+  {
+    id: 64,
+    word: "confirm email draft",
+    pos: "phr.",
+    meaning: "確認郵件草稿",
+    example: "The manager asked us to confirm the email draft today.",
+    example_zh: "經理今天要求我們確認郵件草稿。",
+    topic: "Email",
+    level: 1
+  },
+  {
+    id: 65,
+    word: "confirm sales target",
+    pos: "phr.",
+    meaning: "確認銷售目標",
+    example: "We need to confirm the sales target for next week's plan.",
+    example_zh: "為了下週的計畫，我們需要確認銷售目標。",
+    topic: "Sales",
+    level: 2
+  },
+  {
+    id: 66,
+    word: "confirm marketing campaign",
+    pos: "phr.",
+    meaning: "確認行銷活動",
+    example: "They decided to confirm the marketing campaign after the client call.",
+    example_zh: "客戶通話後，他們決定確認行銷活動。",
+    topic: "Marketing",
+    level: 2
+  },
+  {
+    id: 67,
+    word: "confirm shipment schedule",
+    pos: "phr.",
+    meaning: "確認出貨時程",
+    example: "Could you confirm the shipment schedule and share the result?",
+    example_zh: "你可以確認出貨時程並分享結果嗎？",
+    topic: "Logistics",
+    level: 2
+  },
+  {
+    id: 68,
+    word: "confirm travel itinerary",
+    pos: "phr.",
+    meaning: "確認行程表",
+    example: "The department will confirm the travel itinerary every month.",
+    example_zh: "該部門每個月都會確認行程表。",
+    topic: "Travel",
+    level: 2
+  },
+  {
+    id: 69,
+    word: "confirm service request",
+    pos: "phr.",
+    meaning: "確認服務請求",
+    example: "Let's confirm the service request to avoid delays.",
+    example_zh: "我們來確認服務請求，以避免延誤。",
+    topic: "Customer Service",
+    level: 2
+  },
+  {
+    id: 70,
+    word: "confirm project timeline",
+    pos: "phr.",
+    meaning: "確認專案時程",
+    example: "I will confirm the project timeline and send you an update.",
+    example_zh: "我會先確認專案時程，再把進度告訴你。",
+    topic: "Projects",
+    level: 2
+  },
+  {
+    id: 71,
+    word: "confirm production plan",
+    pos: "phr.",
+    meaning: "確認生產計畫",
+    example: "Please help me confirm the production plan before Friday.",
+    example_zh: "請在週五前協助我確認生產計畫。",
+    topic: "Production",
+    level: 2
+  },
+  {
+    id: 72,
+    word: "confirm office policy",
+    pos: "phr.",
+    meaning: "確認辦公政策",
+    example: "Please confirm the office policy before the deadline.",
+    example_zh: "請在截止日前確認辦公政策。",
+    topic: "Office",
+    level: 2
+  },
+  {
+    id: 73,
+    word: "confirm training program",
+    pos: "phr.",
+    meaning: "確認培訓計畫",
+    example: "Our team will confirm the training program this afternoon.",
+    example_zh: "我們團隊今天下午會確認培訓計畫。",
+    topic: "HR",
+    level: 2
+  },
+  {
+    id: 74,
+    word: "confirm customer complaint",
+    pos: "phr.",
+    meaning: "確認客戶抱怨",
+    example: "The manager asked us to confirm the customer complaint today.",
+    example_zh: "經理今天要求我們確認客戶抱怨。",
+    topic: "Customer Service",
+    level: 2
+  },
+  {
+    id: 75,
+    word: "confirm cash flow",
+    pos: "phr.",
+    meaning: "確認現金流",
+    example: "We need to confirm the cash flow for next week's plan.",
+    example_zh: "為了下週的計畫，我們需要確認現金流。",
+    topic: "Finance",
+    level: 3
+  },
+  {
+    id: 76,
+    word: "confirm team goal",
+    pos: "phr.",
+    meaning: "確認團隊目標",
+    example: "They decided to confirm the team goal after the client call.",
+    example_zh: "客戶通話後，他們決定確認團隊目標。",
+    topic: "General",
+    level: 1
+  },
+  {
+    id: 77,
+    word: "confirm quality check",
+    pos: "phr.",
+    meaning: "確認品質檢查",
+    example: "Could you confirm the quality check and share the result?",
+    example_zh: "你可以確認品質檢查並分享結果嗎？",
+    topic: "Production",
+    level: 2
+  },
+  {
+    id: 78,
+    word: "confirm contract term",
+    pos: "phr.",
+    meaning: "確認合約條款",
+    example: "The department will confirm the contract term every month.",
+    example_zh: "該部門每個月都會確認合約條款。",
+    topic: "Sales",
+    level: 3
+  },
+  {
+    id: 79,
+    word: "confirm inventory record",
+    pos: "phr.",
+    meaning: "確認庫存紀錄",
+    example: "Let's confirm the inventory record to avoid delays.",
+    example_zh: "我們來確認庫存紀錄，以避免延誤。",
+    topic: "Logistics",
+    level: 2
+  },
+  {
+    id: 80,
+    word: "confirm performance review",
+    pos: "phr.",
+    meaning: "確認績效評估",
+    example: "I will confirm the performance review and send you an update.",
+    example_zh: "我會先確認績效評估，再把進度告訴你。",
+    topic: "HR",
+    level: 3
+  },
+  {
+    id: 81,
+    word: "schedule budget",
+    pos: "phr.",
+    meaning: "安排預算",
+    example: "The manager asked us to schedule the budget today.",
+    example_zh: "經理今天要求我們安排預算。",
+    topic: "Finance",
+    level: 2
+  },
+  {
+    id: 82,
+    word: "schedule invoice",
+    pos: "phr.",
+    meaning: "安排發票",
+    example: "We need to schedule the invoice for next week's plan.",
+    example_zh: "為了下週的計畫，我們需要安排發票。",
+    topic: "Finance",
+    level: 2
+  },
+  {
+    id: 83,
+    word: "schedule meeting agenda",
+    pos: "phr.",
+    meaning: "安排會議議程",
+    example: "They decided to schedule the meeting agenda after the client call.",
+    example_zh: "客戶通話後，他們決定安排會議議程。",
+    topic: "Meeting",
+    level: 1
+  },
+  {
+    id: 84,
+    word: "schedule email draft",
+    pos: "phr.",
+    meaning: "安排郵件草稿",
+    example: "Could you schedule the email draft and share the result?",
+    example_zh: "你可以安排郵件草稿並分享結果嗎？",
+    topic: "Email",
+    level: 1
+  },
+  {
+    id: 85,
+    word: "schedule sales target",
+    pos: "phr.",
+    meaning: "安排銷售目標",
+    example: "The department will schedule the sales target every month.",
+    example_zh: "該部門每個月都會安排銷售目標。",
+    topic: "Sales",
+    level: 2
+  },
+  {
+    id: 86,
+    word: "schedule marketing campaign",
+    pos: "phr.",
+    meaning: "安排行銷活動",
+    example: "Let's schedule the marketing campaign to avoid delays.",
+    example_zh: "我們來安排行銷活動，以避免延誤。",
+    topic: "Marketing",
+    level: 2
+  },
+  {
+    id: 87,
+    word: "schedule shipment schedule",
+    pos: "phr.",
+    meaning: "安排出貨時程",
+    example: "I will schedule the shipment schedule and send you an update.",
+    example_zh: "我會先安排出貨時程，再把進度告訴你。",
+    topic: "Logistics",
+    level: 2
+  },
+  {
+    id: 88,
+    word: "schedule travel itinerary",
+    pos: "phr.",
+    meaning: "安排行程表",
+    example: "Please help me schedule the travel itinerary before Friday.",
+    example_zh: "請在週五前協助我安排行程表。",
+    topic: "Travel",
+    level: 2
+  },
+  {
+    id: 89,
+    word: "schedule service request",
+    pos: "phr.",
+    meaning: "安排服務請求",
+    example: "Please schedule the service request before the deadline.",
+    example_zh: "請在截止日前安排服務請求。",
+    topic: "Customer Service",
+    level: 2
+  },
+  {
+    id: 90,
+    word: "schedule project timeline",
+    pos: "phr.",
+    meaning: "安排專案時程",
+    example: "Our team will schedule the project timeline this afternoon.",
+    example_zh: "我們團隊今天下午會安排專案時程。",
+    topic: "Projects",
+    level: 2
+  },
+  {
+    id: 91,
+    word: "schedule production plan",
+    pos: "phr.",
+    meaning: "安排生產計畫",
+    example: "The manager asked us to schedule the production plan today.",
+    example_zh: "經理今天要求我們安排生產計畫。",
+    topic: "Production",
+    level: 2
+  },
+  {
+    id: 92,
+    word: "schedule office policy",
+    pos: "phr.",
+    meaning: "安排辦公政策",
+    example: "We need to schedule the office policy for next week's plan.",
+    example_zh: "為了下週的計畫，我們需要安排辦公政策。",
+    topic: "Office",
+    level: 2
+  },
+  {
+    id: 93,
+    word: "schedule training program",
+    pos: "phr.",
+    meaning: "安排培訓計畫",
+    example: "They decided to schedule the training program after the client call.",
+    example_zh: "客戶通話後，他們決定安排培訓計畫。",
+    topic: "HR",
+    level: 2
+  },
+  {
+    id: 94,
+    word: "schedule customer complaint",
+    pos: "phr.",
+    meaning: "安排客戶抱怨",
+    example: "Could you schedule the customer complaint and share the result?",
+    example_zh: "你可以安排客戶抱怨並分享結果嗎？",
+    topic: "Customer Service",
+    level: 2
+  },
+  {
+    id: 95,
+    word: "schedule cash flow",
+    pos: "phr.",
+    meaning: "安排現金流",
+    example: "The department will schedule the cash flow every month.",
+    example_zh: "該部門每個月都會安排現金流。",
+    topic: "Finance",
+    level: 3
+  },
+  {
+    id: 96,
+    word: "schedule team goal",
+    pos: "phr.",
+    meaning: "安排團隊目標",
+    example: "Let's schedule the team goal to avoid delays.",
+    example_zh: "我們來安排團隊目標，以避免延誤。",
+    topic: "General",
+    level: 1
+  },
+  {
+    id: 97,
+    word: "schedule quality check",
+    pos: "phr.",
+    meaning: "安排品質檢查",
+    example: "I will schedule the quality check and send you an update.",
+    example_zh: "我會先安排品質檢查，再把進度告訴你。",
+    topic: "Production",
+    level: 2
+  },
+  {
+    id: 98,
+    word: "schedule contract term",
+    pos: "phr.",
+    meaning: "安排合約條款",
+    example: "Please help me schedule the contract term before Friday.",
+    example_zh: "請在週五前協助我安排合約條款。",
+    topic: "Sales",
+    level: 3
+  },
+  {
+    id: 99,
+    word: "schedule inventory record",
+    pos: "phr.",
+    meaning: "安排庫存紀錄",
+    example: "Please schedule the inventory record before the deadline.",
+    example_zh: "請在截止日前安排庫存紀錄。",
+    topic: "Logistics",
+    level: 2
+  },
+  {
+    id: 100,
+    word: "schedule performance review",
+    pos: "phr.",
+    meaning: "安排績效評估",
+    example: "Our team will schedule the performance review this afternoon.",
+    example_zh: "我們團隊今天下午會安排績效評估。",
+    topic: "HR",
+    level: 3
+  },
+  {
+    id: 101,
+    word: "prepare budget",
+    pos: "phr.",
+    meaning: "準備預算",
+    example: "Could you prepare the budget and share the result?",
+    example_zh: "你可以準備預算並分享結果嗎？",
+    topic: "Finance",
+    level: 2
+  },
+  {
+    id: 102,
+    word: "prepare invoice",
+    pos: "phr.",
+    meaning: "準備發票",
+    example: "The department will prepare the invoice every month.",
+    example_zh: "該部門每個月都會準備發票。",
+    topic: "Finance",
+    level: 2
+  },
+  {
+    id: 103,
+    word: "prepare meeting agenda",
+    pos: "phr.",
+    meaning: "準備會議議程",
+    example: "Let's prepare the meeting agenda to avoid delays.",
+    example_zh: "我們來準備會議議程，以避免延誤。",
+    topic: "Meeting",
+    level: 1
+  },
+  {
+    id: 104,
+    word: "prepare email draft",
+    pos: "phr.",
+    meaning: "準備郵件草稿",
+    example: "I will prepare the email draft and send you an update.",
+    example_zh: "我會先準備郵件草稿，再把進度告訴你。",
+    topic: "Email",
+    level: 1
+  },
+  {
+    id: 105,
+    word: "prepare sales target",
+    pos: "phr.",
+    meaning: "準備銷售目標",
+    example: "Please help me prepare the sales target before Friday.",
+    example_zh: "請在週五前協助我準備銷售目標。",
+    topic: "Sales",
+    level: 2
+  },
+  {
+    id: 106,
+    word: "prepare marketing campaign",
+    pos: "phr.",
+    meaning: "準備行銷活動",
+    example: "Please prepare the marketing campaign before the deadline.",
+    example_zh: "請在截止日前準備行銷活動。",
+    topic: "Marketing",
+    level: 2
+  },
+  {
+    id: 107,
+    word: "prepare shipment schedule",
+    pos: "phr.",
+    meaning: "準備出貨時程",
+    example: "Our team will prepare the shipment schedule this afternoon.",
+    example_zh: "我們團隊今天下午會準備出貨時程。",
+    topic: "Logistics",
+    level: 2
+  },
+  {
+    id: 108,
+    word: "prepare travel itinerary",
+    pos: "phr.",
+    meaning: "準備行程表",
+    example: "The manager asked us to prepare the travel itinerary today.",
+    example_zh: "經理今天要求我們準備行程表。",
+    topic: "Travel",
+    level: 2
+  },
+  {
+    id: 109,
+    word: "prepare service request",
+    pos: "phr.",
+    meaning: "準備服務請求",
+    example: "We need to prepare the service request for next week's plan.",
+    example_zh: "為了下週的計畫，我們需要準備服務請求。",
+    topic: "Customer Service",
+    level: 2
+  },
+  {
+    id: 110,
+    word: "prepare project timeline",
+    pos: "phr.",
+    meaning: "準備專案時程",
+    example: "They decided to prepare the project timeline after the client call.",
+    example_zh: "客戶通話後，他們決定準備專案時程。",
+    topic: "Projects",
+    level: 2
+  },
+  {
+    id: 111,
+    word: "prepare production plan",
+    pos: "phr.",
+    meaning: "準備生產計畫",
+    example: "Could you prepare the production plan and share the result?",
+    example_zh: "你可以準備生產計畫並分享結果嗎？",
+    topic: "Production",
+    level: 2
+  },
+  {
+    id: 112,
+    word: "prepare office policy",
+    pos: "phr.",
+    meaning: "準備辦公政策",
+    example: "The department will prepare the office policy every month.",
+    example_zh: "該部門每個月都會準備辦公政策。",
+    topic: "Office",
+    level: 2
+  },
+  {
+    id: 113,
+    word: "prepare training program",
+    pos: "phr.",
+    meaning: "準備培訓計畫",
+    example: "Let's prepare the training program to avoid delays.",
+    example_zh: "我們來準備培訓計畫，以避免延誤。",
+    topic: "HR",
+    level: 2
+  },
+  {
+    id: 114,
+    word: "prepare customer complaint",
+    pos: "phr.",
+    meaning: "準備客戶抱怨",
+    example: "I will prepare the customer complaint and send you an update.",
+    example_zh: "我會先準備客戶抱怨，再把進度告訴你。",
+    topic: "Customer Service",
+    level: 2
+  },
+  {
+    id: 115,
+    word: "prepare cash flow",
+    pos: "phr.",
+    meaning: "準備現金流",
+    example: "Please help me prepare the cash flow before Friday.",
+    example_zh: "請在週五前協助我準備現金流。",
+    topic: "Finance",
+    level: 3
+  },
+  {
+    id: 116,
+    word: "prepare team goal",
+    pos: "phr.",
+    meaning: "準備團隊目標",
+    example: "Please prepare the team goal before the deadline.",
+    example_zh: "請在截止日前準備團隊目標。",
+    topic: "General",
+    level: 1
+  },
+  {
+    id: 117,
+    word: "prepare quality check",
+    pos: "phr.",
+    meaning: "準備品質檢查",
+    example: "Our team will prepare the quality check this afternoon.",
+    example_zh: "我們團隊今天下午會準備品質檢查。",
+    topic: "Production",
+    level: 2
+  },
+  {
+    id: 118,
+    word: "prepare contract term",
+    pos: "phr.",
+    meaning: "準備合約條款",
+    example: "The manager asked us to prepare the contract term today.",
+    example_zh: "經理今天要求我們準備合約條款。",
+    topic: "Sales",
+    level: 3
+  },
+  {
+    id: 119,
+    word: "prepare inventory record",
+    pos: "phr.",
+    meaning: "準備庫存紀錄",
+    example: "We need to prepare the inventory record for next week's plan.",
+    example_zh: "為了下週的計畫，我們需要準備庫存紀錄。",
+    topic: "Logistics",
+    level: 2
+  },
+  {
+    id: 120,
+    word: "prepare performance review",
+    pos: "phr.",
+    meaning: "準備績效評估",
+    example: "They decided to prepare the performance review after the client call.",
+    example_zh: "客戶通話後，他們決定準備績效評估。",
+    topic: "HR",
+    level: 3
+  },
+  {
+    id: 121,
+    word: "submit budget",
+    pos: "phr.",
+    meaning: "提交預算",
+    example: "I will submit the budget and send you an update.",
+    example_zh: "我會先提交預算，再把進度告訴你。",
+    topic: "Finance",
+    level: 2
+  },
+  {
+    id: 122,
+    word: "submit invoice",
+    pos: "phr.",
+    meaning: "提交發票",
+    example: "Please help me submit the invoice before Friday.",
+    example_zh: "請在週五前協助我提交發票。",
+    topic: "Finance",
+    level: 2
+  },
+  {
+    id: 123,
+    word: "submit meeting agenda",
+    pos: "phr.",
+    meaning: "提交會議議程",
+    example: "Please submit the meeting agenda before the deadline.",
+    example_zh: "請在截止日前提交會議議程。",
+    topic: "Meeting",
+    level: 1
+  },
+  {
+    id: 124,
+    word: "submit email draft",
+    pos: "phr.",
+    meaning: "提交郵件草稿",
+    example: "Our team will submit the email draft this afternoon.",
+    example_zh: "我們團隊今天下午會提交郵件草稿。",
+    topic: "Email",
+    level: 1
+  },
+  {
+    id: 125,
+    word: "submit sales target",
+    pos: "phr.",
+    meaning: "提交銷售目標",
+    example: "The manager asked us to submit the sales target today.",
+    example_zh: "經理今天要求我們提交銷售目標。",
+    topic: "Sales",
+    level: 2
+  },
+  {
+    id: 126,
+    word: "submit marketing campaign",
+    pos: "phr.",
+    meaning: "提交行銷活動",
+    example: "We need to submit the marketing campaign for next week's plan.",
+    example_zh: "為了下週的計畫，我們需要提交行銷活動。",
+    topic: "Marketing",
+    level: 2
+  },
+  {
+    id: 127,
+    word: "submit shipment schedule",
+    pos: "phr.",
+    meaning: "提交出貨時程",
+    example: "They decided to submit the shipment schedule after the client call.",
+    example_zh: "客戶通話後，他們決定提交出貨時程。",
+    topic: "Logistics",
+    level: 2
+  },
+  {
+    id: 128,
+    word: "submit travel itinerary",
+    pos: "phr.",
+    meaning: "提交行程表",
+    example: "Could you submit the travel itinerary and share the result?",
+    example_zh: "你可以提交行程表並分享結果嗎？",
+    topic: "Travel",
+    level: 2
+  },
+  {
+    id: 129,
+    word: "submit service request",
+    pos: "phr.",
+    meaning: "提交服務請求",
+    example: "The department will submit the service request every month.",
+    example_zh: "該部門每個月都會提交服務請求。",
+    topic: "Customer Service",
+    level: 2
+  },
+  {
+    id: 130,
+    word: "submit project timeline",
+    pos: "phr.",
+    meaning: "提交專案時程",
+    example: "Let's submit the project timeline to avoid delays.",
+    example_zh: "我們來提交專案時程，以避免延誤。",
+    topic: "Projects",
+    level: 2
+  },
+  {
+    id: 131,
+    word: "submit production plan",
+    pos: "phr.",
+    meaning: "提交生產計畫",
+    example: "I will submit the production plan and send you an update.",
+    example_zh: "我會先提交生產計畫，再把進度告訴你。",
+    topic: "Production",
+    level: 2
+  },
+  {
+    id: 132,
+    word: "submit office policy",
+    pos: "phr.",
+    meaning: "提交辦公政策",
+    example: "Please help me submit the office policy before Friday.",
+    example_zh: "請在週五前協助我提交辦公政策。",
+    topic: "Office",
+    level: 2
+  },
+  {
+    id: 133,
+    word: "submit training program",
+    pos: "phr.",
+    meaning: "提交培訓計畫",
+    example: "Please submit the training program before the deadline.",
+    example_zh: "請在截止日前提交培訓計畫。",
+    topic: "HR",
+    level: 2
+  },
+  {
+    id: 134,
+    word: "submit customer complaint",
+    pos: "phr.",
+    meaning: "提交客戶抱怨",
+    example: "Our team will submit the customer complaint this afternoon.",
+    example_zh: "我們團隊今天下午會提交客戶抱怨。",
+    topic: "Customer Service",
+    level: 2
+  },
+  {
+    id: 135,
+    word: "submit cash flow",
+    pos: "phr.",
+    meaning: "提交現金流",
+    example: "The manager asked us to submit the cash flow today.",
+    example_zh: "經理今天要求我們提交現金流。",
+    topic: "Finance",
+    level: 3
+  },
+  {
+    id: 136,
+    word: "submit team goal",
+    pos: "phr.",
+    meaning: "提交團隊目標",
+    example: "We need to submit the team goal for next week's plan.",
+    example_zh: "為了下週的計畫，我們需要提交團隊目標。",
+    topic: "General",
+    level: 1
+  },
+  {
+    id: 137,
+    word: "submit quality check",
+    pos: "phr.",
+    meaning: "提交品質檢查",
+    example: "They decided to submit the quality check after the client call.",
+    example_zh: "客戶通話後，他們決定提交品質檢查。",
+    topic: "Production",
+    level: 2
+  },
+  {
+    id: 138,
+    word: "submit contract term",
+    pos: "phr.",
+    meaning: "提交合約條款",
+    example: "Could you submit the contract term and share the result?",
+    example_zh: "你可以提交合約條款並分享結果嗎？",
+    topic: "Sales",
+    level: 3
+  },
+  {
+    id: 139,
+    word: "submit inventory record",
+    pos: "phr.",
+    meaning: "提交庫存紀錄",
+    example: "The department will submit the inventory record every month.",
+    example_zh: "該部門每個月都會提交庫存紀錄。",
+    topic: "Logistics",
+    level: 2
+  },
+  {
+    id: 140,
+    word: "submit performance review",
+    pos: "phr.",
+    meaning: "提交績效評估",
+    example: "Let's submit the performance review to avoid delays.",
+    example_zh: "我們來提交績效評估，以避免延誤。",
+    topic: "HR",
+    level: 3
+  },
+  {
+    id: 141,
+    word: "analyze budget",
+    pos: "phr.",
+    meaning: "分析預算",
+    example: "Our team will analyze the budget this afternoon.",
+    example_zh: "我們團隊今天下午會分析預算。",
+    topic: "Finance",
+    level: 2
+  },
+  {
+    id: 142,
+    word: "analyze invoice",
+    pos: "phr.",
+    meaning: "分析發票",
+    example: "The manager asked us to analyze the invoice today.",
+    example_zh: "經理今天要求我們分析發票。",
+    topic: "Finance",
+    level: 2
+  },
+  {
+    id: 143,
+    word: "analyze meeting agenda",
+    pos: "phr.",
+    meaning: "分析會議議程",
+    example: "We need to analyze the meeting agenda for next week's plan.",
+    example_zh: "為了下週的計畫，我們需要分析會議議程。",
+    topic: "Meeting",
+    level: 1
+  },
+  {
+    id: 144,
+    word: "analyze email draft",
+    pos: "phr.",
+    meaning: "分析郵件草稿",
+    example: "They decided to analyze the email draft after the client call.",
+    example_zh: "客戶通話後，他們決定分析郵件草稿。",
+    topic: "Email",
+    level: 1
+  },
+  {
+    id: 145,
+    word: "analyze sales target",
+    pos: "phr.",
+    meaning: "分析銷售目標",
+    example: "Could you analyze the sales target and share the result?",
+    example_zh: "你可以分析銷售目標並分享結果嗎？",
+    topic: "Sales",
+    level: 2
+  },
+  {
+    id: 146,
+    word: "analyze marketing campaign",
+    pos: "phr.",
+    meaning: "分析行銷活動",
+    example: "The department will analyze the marketing campaign every month.",
+    example_zh: "該部門每個月都會分析行銷活動。",
+    topic: "Marketing",
+    level: 2
+  },
+  {
+    id: 147,
+    word: "analyze shipment schedule",
+    pos: "phr.",
+    meaning: "分析出貨時程",
+    example: "Let's analyze the shipment schedule to avoid delays.",
+    example_zh: "我們來分析出貨時程，以避免延誤。",
+    topic: "Logistics",
+    level: 2
+  },
+  {
+    id: 148,
+    word: "analyze travel itinerary",
+    pos: "phr.",
+    meaning: "分析行程表",
+    example: "I will analyze the travel itinerary and send you an update.",
+    example_zh: "我會先分析行程表，再把進度告訴你。",
+    topic: "Travel",
+    level: 2
+  },
+  {
+    id: 149,
+    word: "analyze service request",
+    pos: "phr.",
+    meaning: "分析服務請求",
+    example: "Please help me analyze the service request before Friday.",
+    example_zh: "請在週五前協助我分析服務請求。",
+    topic: "Customer Service",
+    level: 2
+  },
+  {
+    id: 150,
+    word: "analyze project timeline",
+    pos: "phr.",
+    meaning: "分析專案時程",
+    example: "Please analyze the project timeline before the deadline.",
+    example_zh: "請在截止日前分析專案時程。",
+    topic: "Projects",
+    level: 2
+  },
+  {
+    id: 151,
+    word: "analyze production plan",
+    pos: "phr.",
+    meaning: "分析生產計畫",
+    example: "Our team will analyze the production plan this afternoon.",
+    example_zh: "我們團隊今天下午會分析生產計畫。",
+    topic: "Production",
+    level: 2
+  },
+  {
+    id: 152,
+    word: "analyze office policy",
+    pos: "phr.",
+    meaning: "分析辦公政策",
+    example: "The manager asked us to analyze the office policy today.",
+    example_zh: "經理今天要求我們分析辦公政策。",
+    topic: "Office",
+    level: 2
+  },
+  {
+    id: 153,
+    word: "analyze training program",
+    pos: "phr.",
+    meaning: "分析培訓計畫",
+    example: "We need to analyze the training program for next week's plan.",
+    example_zh: "為了下週的計畫，我們需要分析培訓計畫。",
+    topic: "HR",
+    level: 2
+  },
+  {
+    id: 154,
+    word: "analyze customer complaint",
+    pos: "phr.",
+    meaning: "分析客戶抱怨",
+    example: "They decided to analyze the customer complaint after the client call.",
+    example_zh: "客戶通話後，他們決定分析客戶抱怨。",
+    topic: "Customer Service",
+    level: 2
+  },
+  {
+    id: 155,
+    word: "analyze cash flow",
+    pos: "phr.",
+    meaning: "分析現金流",
+    example: "Could you analyze the cash flow and share the result?",
+    example_zh: "你可以分析現金流並分享結果嗎？",
+    topic: "Finance",
+    level: 3
+  },
+  {
+    id: 156,
+    word: "analyze team goal",
+    pos: "phr.",
+    meaning: "分析團隊目標",
+    example: "The department will analyze the team goal every month.",
+    example_zh: "該部門每個月都會分析團隊目標。",
+    topic: "General",
+    level: 1
+  },
+  {
+    id: 157,
+    word: "analyze quality check",
+    pos: "phr.",
+    meaning: "分析品質檢查",
+    example: "Let's analyze the quality check to avoid delays.",
+    example_zh: "我們來分析品質檢查，以避免延誤。",
+    topic: "Production",
+    level: 2
+  },
+  {
+    id: 158,
+    word: "analyze contract term",
+    pos: "phr.",
+    meaning: "分析合約條款",
+    example: "I will analyze the contract term and send you an update.",
+    example_zh: "我會先分析合約條款，再把進度告訴你。",
+    topic: "Sales",
+    level: 3
+  },
+  {
+    id: 159,
+    word: "analyze inventory record",
+    pos: "phr.",
+    meaning: "分析庫存紀錄",
+    example: "Please help me analyze the inventory record before Friday.",
+    example_zh: "請在週五前協助我分析庫存紀錄。",
+    topic: "Logistics",
+    level: 2
+  },
+  {
+    id: 160,
+    word: "analyze performance review",
+    pos: "phr.",
+    meaning: "分析績效評估",
+    example: "Please analyze the performance review before the deadline.",
+    example_zh: "請在截止日前分析績效評估。",
+    topic: "HR",
+    level: 3
+  },
+  {
+    id: 161,
+    word: "improve budget",
+    pos: "phr.",
+    meaning: "改善預算",
+    example: "They decided to improve the budget after the client call.",
+    example_zh: "客戶通話後，他們決定改善預算。",
+    topic: "Finance",
+    level: 2
+  },
+  {
+    id: 162,
+    word: "improve invoice",
+    pos: "phr.",
+    meaning: "改善發票",
+    example: "Could you improve the invoice and share the result?",
+    example_zh: "你可以改善發票並分享結果嗎？",
+    topic: "Finance",
+    level: 2
+  },
+  {
+    id: 163,
+    word: "improve meeting agenda",
+    pos: "phr.",
+    meaning: "改善會議議程",
+    example: "The department will improve the meeting agenda every month.",
+    example_zh: "該部門每個月都會改善會議議程。",
+    topic: "Meeting",
+    level: 1
+  },
+  {
+    id: 164,
+    word: "improve email draft",
+    pos: "phr.",
+    meaning: "改善郵件草稿",
+    example: "Let's improve the email draft to avoid delays.",
+    example_zh: "我們來改善郵件草稿，以避免延誤。",
+    topic: "Email",
+    level: 1
+  },
+  {
+    id: 165,
+    word: "improve sales target",
+    pos: "phr.",
+    meaning: "改善銷售目標",
+    example: "I will improve the sales target and send you an update.",
+    example_zh: "我會先改善銷售目標，再把進度告訴你。",
+    topic: "Sales",
+    level: 2
+  },
+  {
+    id: 166,
+    word: "improve marketing campaign",
+    pos: "phr.",
+    meaning: "改善行銷活動",
+    example: "Please help me improve the marketing campaign before Friday.",
+    example_zh: "請在週五前協助我改善行銷活動。",
+    topic: "Marketing",
+    level: 2
+  },
+  {
+    id: 167,
+    word: "improve shipment schedule",
+    pos: "phr.",
+    meaning: "改善出貨時程",
+    example: "Please improve the shipment schedule before the deadline.",
+    example_zh: "請在截止日前改善出貨時程。",
+    topic: "Logistics",
+    level: 2
+  },
+  {
+    id: 168,
+    word: "improve travel itinerary",
+    pos: "phr.",
+    meaning: "改善行程表",
+    example: "Our team will improve the travel itinerary this afternoon.",
+    example_zh: "我們團隊今天下午會改善行程表。",
+    topic: "Travel",
+    level: 2
+  },
+  {
+    id: 169,
+    word: "improve service request",
+    pos: "phr.",
+    meaning: "改善服務請求",
+    example: "The manager asked us to improve the service request today.",
+    example_zh: "經理今天要求我們改善服務請求。",
+    topic: "Customer Service",
+    level: 2
+  },
+  {
+    id: 170,
+    word: "improve project timeline",
+    pos: "phr.",
+    meaning: "改善專案時程",
+    example: "We need to improve the project timeline for next week's plan.",
+    example_zh: "為了下週的計畫，我們需要改善專案時程。",
+    topic: "Projects",
+    level: 2
+  },
+  {
+    id: 171,
+    word: "improve production plan",
+    pos: "phr.",
+    meaning: "改善生產計畫",
+    example: "They decided to improve the production plan after the client call.",
+    example_zh: "客戶通話後，他們決定改善生產計畫。",
+    topic: "Production",
+    level: 2
+  },
+  {
+    id: 172,
+    word: "improve office policy",
+    pos: "phr.",
+    meaning: "改善辦公政策",
+    example: "Could you improve the office policy and share the result?",
+    example_zh: "你可以改善辦公政策並分享結果嗎？",
+    topic: "Office",
+    level: 2
+  },
+  {
+    id: 173,
+    word: "improve training program",
+    pos: "phr.",
+    meaning: "改善培訓計畫",
+    example: "The department will improve the training program every month.",
+    example_zh: "該部門每個月都會改善培訓計畫。",
+    topic: "HR",
+    level: 2
+  },
+  {
+    id: 174,
+    word: "improve customer complaint",
+    pos: "phr.",
+    meaning: "改善客戶抱怨",
+    example: "Let's improve the customer complaint to avoid delays.",
+    example_zh: "我們來改善客戶抱怨，以避免延誤。",
+    topic: "Customer Service",
+    level: 2
+  },
+  {
+    id: 175,
+    word: "improve cash flow",
+    pos: "phr.",
+    meaning: "改善現金流",
+    example: "I will improve the cash flow and send you an update.",
+    example_zh: "我會先改善現金流，再把進度告訴你。",
+    topic: "Finance",
+    level: 3
+  },
+  {
+    id: 176,
+    word: "improve team goal",
+    pos: "phr.",
+    meaning: "改善團隊目標",
+    example: "Please help me improve the team goal before Friday.",
+    example_zh: "請在週五前協助我改善團隊目標。",
+    topic: "General",
+    level: 1
+  },
+  {
+    id: 177,
+    word: "improve quality check",
+    pos: "phr.",
+    meaning: "改善品質檢查",
+    example: "Please improve the quality check before the deadline.",
+    example_zh: "請在截止日前改善品質檢查。",
+    topic: "Production",
+    level: 2
+  },
+  {
+    id: 178,
+    word: "improve contract term",
+    pos: "phr.",
+    meaning: "改善合約條款",
+    example: "Our team will improve the contract term this afternoon.",
+    example_zh: "我們團隊今天下午會改善合約條款。",
+    topic: "Sales",
+    level: 3
+  },
+  {
+    id: 179,
+    word: "improve inventory record",
+    pos: "phr.",
+    meaning: "改善庫存紀錄",
+    example: "The manager asked us to improve the inventory record today.",
+    example_zh: "經理今天要求我們改善庫存紀錄。",
+    topic: "Logistics",
+    level: 2
+  },
+  {
+    id: 180,
+    word: "improve performance review",
+    pos: "phr.",
+    meaning: "改善績效評估",
+    example: "We need to improve the performance review for next week's plan.",
+    example_zh: "為了下週的計畫，我們需要改善績效評估。",
+    topic: "HR",
+    level: 3
+  },
+  {
+    id: 181,
+    word: "monitor budget",
+    pos: "phr.",
+    meaning: "監控預算",
+    example: "Let's monitor the budget to avoid delays.",
+    example_zh: "我們來監控預算，以避免延誤。",
+    topic: "Finance",
+    level: 3
+  },
+  {
+    id: 182,
+    word: "monitor invoice",
+    pos: "phr.",
+    meaning: "監控發票",
+    example: "I will monitor the invoice and send you an update.",
+    example_zh: "我會先監控發票，再把進度告訴你。",
+    topic: "Finance",
+    level: 3
+  },
+  {
+    id: 183,
+    word: "monitor meeting agenda",
+    pos: "phr.",
+    meaning: "監控會議議程",
+    example: "Please help me monitor the meeting agenda before Friday.",
+    example_zh: "請在週五前協助我監控會議議程。",
+    topic: "Meeting",
+    level: 2
+  },
+  {
+    id: 184,
+    word: "monitor email draft",
+    pos: "phr.",
+    meaning: "監控郵件草稿",
+    example: "Please monitor the email draft before the deadline.",
+    example_zh: "請在截止日前監控郵件草稿。",
+    topic: "Email",
+    level: 2
+  },
+  {
+    id: 185,
+    word: "monitor sales target",
+    pos: "phr.",
+    meaning: "監控銷售目標",
+    example: "Our team will monitor the sales target this afternoon.",
+    example_zh: "我們團隊今天下午會監控銷售目標。",
+    topic: "Sales",
+    level: 3
+  },
+  {
+    id: 186,
+    word: "monitor marketing campaign",
+    pos: "phr.",
+    meaning: "監控行銷活動",
+    example: "The manager asked us to monitor the marketing campaign today.",
+    example_zh: "經理今天要求我們監控行銷活動。",
+    topic: "Marketing",
+    level: 3
+  },
+  {
+    id: 187,
+    word: "monitor shipment schedule",
+    pos: "phr.",
+    meaning: "監控出貨時程",
+    example: "We need to monitor the shipment schedule for next week's plan.",
+    example_zh: "為了下週的計畫，我們需要監控出貨時程。",
+    topic: "Logistics",
+    level: 3
+  },
+  {
+    id: 188,
+    word: "monitor travel itinerary",
+    pos: "phr.",
+    meaning: "監控行程表",
+    example: "They decided to monitor the travel itinerary after the client call.",
+    example_zh: "客戶通話後，他們決定監控行程表。",
+    topic: "Travel",
+    level: 3
+  },
+  {
+    id: 189,
+    word: "monitor service request",
+    pos: "phr.",
+    meaning: "監控服務請求",
+    example: "Could you monitor the service request and share the result?",
+    example_zh: "你可以監控服務請求並分享結果嗎？",
+    topic: "Customer Service",
+    level: 3
+  },
+  {
+    id: 190,
+    word: "monitor project timeline",
+    pos: "phr.",
+    meaning: "監控專案時程",
+    example: "The department will monitor the project timeline every month.",
+    example_zh: "該部門每個月都會監控專案時程。",
+    topic: "Projects",
+    level: 3
+  },
+  {
+    id: 191,
+    word: "monitor production plan",
+    pos: "phr.",
+    meaning: "監控生產計畫",
+    example: "Let's monitor the production plan to avoid delays.",
+    example_zh: "我們來監控生產計畫，以避免延誤。",
+    topic: "Production",
+    level: 3
+  },
+  {
+    id: 192,
+    word: "monitor office policy",
+    pos: "phr.",
+    meaning: "監控辦公政策",
+    example: "I will monitor the office policy and send you an update.",
+    example_zh: "我會先監控辦公政策，再把進度告訴你。",
+    topic: "Office",
+    level: 3
+  },
+  {
+    id: 193,
+    word: "monitor training program",
+    pos: "phr.",
+    meaning: "監控培訓計畫",
+    example: "Please help me monitor the training program before Friday.",
+    example_zh: "請在週五前協助我監控培訓計畫。",
+    topic: "HR",
+    level: 3
+  },
+  {
+    id: 194,
+    word: "monitor customer complaint",
+    pos: "phr.",
+    meaning: "監控客戶抱怨",
+    example: "Please monitor the customer complaint before the deadline.",
+    example_zh: "請在截止日前監控客戶抱怨。",
+    topic: "Customer Service",
+    level: 3
+  },
+  {
+    id: 195,
+    word: "monitor cash flow",
+    pos: "phr.",
+    meaning: "監控現金流",
+    example: "Our team will monitor the cash flow this afternoon.",
+    example_zh: "我們團隊今天下午會監控現金流。",
+    topic: "Finance",
+    level: 4
+  },
+  {
+    id: 196,
+    word: "monitor team goal",
+    pos: "phr.",
+    meaning: "監控團隊目標",
+    example: "The manager asked us to monitor the team goal today.",
+    example_zh: "經理今天要求我們監控團隊目標。",
+    topic: "General",
+    level: 2
+  },
+  {
+    id: 197,
+    word: "monitor quality check",
+    pos: "phr.",
+    meaning: "監控品質檢查",
+    example: "We need to monitor the quality check for next week's plan.",
+    example_zh: "為了下週的計畫，我們需要監控品質檢查。",
+    topic: "Production",
+    level: 3
+  },
+  {
+    id: 198,
+    word: "monitor contract term",
+    pos: "phr.",
+    meaning: "監控合約條款",
+    example: "They decided to monitor the contract term after the client call.",
+    example_zh: "客戶通話後，他們決定監控合約條款。",
+    topic: "Sales",
+    level: 4
+  },
+  {
+    id: 199,
+    word: "monitor inventory record",
+    pos: "phr.",
+    meaning: "監控庫存紀錄",
+    example: "Could you monitor the inventory record and share the result?",
+    example_zh: "你可以監控庫存紀錄並分享結果嗎？",
+    topic: "Logistics",
+    level: 3
+  },
+  {
+    id: 200,
+    word: "monitor performance review",
+    pos: "phr.",
+    meaning: "監控績效評估",
+    example: "The department will monitor the performance review every month.",
+    example_zh: "該部門每個月都會監控績效評估。",
+    topic: "HR",
+    level: 4
+  },
+  {
+    id: 201,
+    word: "reduce budget",
+    pos: "phr.",
+    meaning: "降低預算",
+    example: "Please reduce the budget before the deadline.",
+    example_zh: "請在截止日前降低預算。",
+    topic: "Finance",
+    level: 2
+  },
+  {
+    id: 202,
+    word: "reduce invoice",
+    pos: "phr.",
+    meaning: "降低發票",
+    example: "Our team will reduce the invoice this afternoon.",
+    example_zh: "我們團隊今天下午會降低發票。",
+    topic: "Finance",
+    level: 2
+  },
+  {
+    id: 203,
+    word: "reduce meeting agenda",
+    pos: "phr.",
+    meaning: "降低會議議程",
+    example: "The manager asked us to reduce the meeting agenda today.",
+    example_zh: "經理今天要求我們降低會議議程。",
+    topic: "Meeting",
+    level: 1
+  },
+  {
+    id: 204,
+    word: "reduce email draft",
+    pos: "phr.",
+    meaning: "降低郵件草稿",
+    example: "We need to reduce the email draft for next week's plan.",
+    example_zh: "為了下週的計畫，我們需要降低郵件草稿。",
+    topic: "Email",
+    level: 1
+  },
+  {
+    id: 205,
+    word: "reduce sales target",
+    pos: "phr.",
+    meaning: "降低銷售目標",
+    example: "They decided to reduce the sales target after the client call.",
+    example_zh: "客戶通話後，他們決定降低銷售目標。",
+    topic: "Sales",
+    level: 2
+  },
+  {
+    id: 206,
+    word: "reduce marketing campaign",
+    pos: "phr.",
+    meaning: "降低行銷活動",
+    example: "Could you reduce the marketing campaign and share the result?",
+    example_zh: "你可以降低行銷活動並分享結果嗎？",
+    topic: "Marketing",
+    level: 2
+  },
+  {
+    id: 207,
+    word: "reduce shipment schedule",
+    pos: "phr.",
+    meaning: "降低出貨時程",
+    example: "The department will reduce the shipment schedule every month.",
+    example_zh: "該部門每個月都會降低出貨時程。",
+    topic: "Logistics",
+    level: 2
+  },
+  {
+    id: 208,
+    word: "reduce travel itinerary",
+    pos: "phr.",
+    meaning: "降低行程表",
+    example: "Let's reduce the travel itinerary to avoid delays.",
+    example_zh: "我們來降低行程表，以避免延誤。",
+    topic: "Travel",
+    level: 2
+  },
+  {
+    id: 209,
+    word: "reduce service request",
+    pos: "phr.",
+    meaning: "降低服務請求",
+    example: "I will reduce the service request and send you an update.",
+    example_zh: "我會先降低服務請求，再把進度告訴你。",
+    topic: "Customer Service",
+    level: 2
+  },
+  {
+    id: 210,
+    word: "reduce project timeline",
+    pos: "phr.",
+    meaning: "降低專案時程",
+    example: "Please help me reduce the project timeline before Friday.",
+    example_zh: "請在週五前協助我降低專案時程。",
+    topic: "Projects",
+    level: 2
+  },
+  {
+    id: 211,
+    word: "reduce production plan",
+    pos: "phr.",
+    meaning: "降低生產計畫",
+    example: "Please reduce the production plan before the deadline.",
+    example_zh: "請在截止日前降低生產計畫。",
+    topic: "Production",
+    level: 2
+  },
+  {
+    id: 212,
+    word: "reduce office policy",
+    pos: "phr.",
+    meaning: "降低辦公政策",
+    example: "Our team will reduce the office policy this afternoon.",
+    example_zh: "我們團隊今天下午會降低辦公政策。",
+    topic: "Office",
+    level: 2
+  },
+  {
+    id: 213,
+    word: "reduce training program",
+    pos: "phr.",
+    meaning: "降低培訓計畫",
+    example: "The manager asked us to reduce the training program today.",
+    example_zh: "經理今天要求我們降低培訓計畫。",
+    topic: "HR",
+    level: 2
+  },
+  {
+    id: 214,
+    word: "reduce customer complaint",
+    pos: "phr.",
+    meaning: "降低客戶抱怨",
+    example: "We need to reduce the customer complaint for next week's plan.",
+    example_zh: "為了下週的計畫，我們需要降低客戶抱怨。",
+    topic: "Customer Service",
+    level: 2
+  },
+  {
+    id: 215,
+    word: "reduce cash flow",
+    pos: "phr.",
+    meaning: "降低現金流",
+    example: "They decided to reduce the cash flow after the client call.",
+    example_zh: "客戶通話後，他們決定降低現金流。",
+    topic: "Finance",
+    level: 3
+  },
+  {
+    id: 216,
+    word: "reduce team goal",
+    pos: "phr.",
+    meaning: "降低團隊目標",
+    example: "Could you reduce the team goal and share the result?",
+    example_zh: "你可以降低團隊目標並分享結果嗎？",
+    topic: "General",
+    level: 1
+  },
+  {
+    id: 217,
+    word: "reduce quality check",
+    pos: "phr.",
+    meaning: "降低品質檢查",
+    example: "The department will reduce the quality check every month.",
+    example_zh: "該部門每個月都會降低品質檢查。",
+    topic: "Production",
+    level: 2
+  },
+  {
+    id: 218,
+    word: "reduce contract term",
+    pos: "phr.",
+    meaning: "降低合約條款",
+    example: "Let's reduce the contract term to avoid delays.",
+    example_zh: "我們來降低合約條款，以避免延誤。",
+    topic: "Sales",
+    level: 3
+  },
+  {
+    id: 219,
+    word: "reduce inventory record",
+    pos: "phr.",
+    meaning: "降低庫存紀錄",
+    example: "I will reduce the inventory record and send you an update.",
+    example_zh: "我會先降低庫存紀錄，再把進度告訴你。",
+    topic: "Logistics",
+    level: 2
+  },
+  {
+    id: 220,
+    word: "reduce performance review",
+    pos: "phr.",
+    meaning: "降低績效評估",
+    example: "Please help me reduce the performance review before Friday.",
+    example_zh: "請在週五前協助我降低績效評估。",
+    topic: "HR",
+    level: 3
+  },
+  {
+    id: 221,
+    word: "increase budget",
+    pos: "phr.",
+    meaning: "提高預算",
+    example: "We need to increase the budget for next week's plan.",
+    example_zh: "為了下週的計畫，我們需要提高預算。",
+    topic: "Finance",
+    level: 2
+  },
+  {
+    id: 222,
+    word: "increase invoice",
+    pos: "phr.",
+    meaning: "提高發票",
+    example: "They decided to increase the invoice after the client call.",
+    example_zh: "客戶通話後，他們決定提高發票。",
+    topic: "Finance",
+    level: 2
+  },
+  {
+    id: 223,
+    word: "increase meeting agenda",
+    pos: "phr.",
+    meaning: "提高會議議程",
+    example: "Could you increase the meeting agenda and share the result?",
+    example_zh: "你可以提高會議議程並分享結果嗎？",
+    topic: "Meeting",
+    level: 1
+  },
+  {
+    id: 224,
+    word: "increase email draft",
+    pos: "phr.",
+    meaning: "提高郵件草稿",
+    example: "The department will increase the email draft every month.",
+    example_zh: "該部門每個月都會提高郵件草稿。",
+    topic: "Email",
+    level: 1
+  },
+  {
+    id: 225,
+    word: "increase sales target",
+    pos: "phr.",
+    meaning: "提高銷售目標",
+    example: "Let's increase the sales target to avoid delays.",
+    example_zh: "我們來提高銷售目標，以避免延誤。",
+    topic: "Sales",
+    level: 2
+  },
+  {
+    id: 226,
+    word: "increase marketing campaign",
+    pos: "phr.",
+    meaning: "提高行銷活動",
+    example: "I will increase the marketing campaign and send you an update.",
+    example_zh: "我會先提高行銷活動，再把進度告訴你。",
+    topic: "Marketing",
+    level: 2
+  },
+  {
+    id: 227,
+    word: "increase shipment schedule",
+    pos: "phr.",
+    meaning: "提高出貨時程",
+    example: "Please help me increase the shipment schedule before Friday.",
+    example_zh: "請在週五前協助我提高出貨時程。",
+    topic: "Logistics",
+    level: 2
+  },
+  {
+    id: 228,
+    word: "increase travel itinerary",
+    pos: "phr.",
+    meaning: "提高行程表",
+    example: "Please increase the travel itinerary before the deadline.",
+    example_zh: "請在截止日前提高行程表。",
+    topic: "Travel",
+    level: 2
+  },
+  {
+    id: 229,
+    word: "increase service request",
+    pos: "phr.",
+    meaning: "提高服務請求",
+    example: "Our team will increase the service request this afternoon.",
+    example_zh: "我們團隊今天下午會提高服務請求。",
+    topic: "Customer Service",
+    level: 2
+  },
+  {
+    id: 230,
+    word: "increase project timeline",
+    pos: "phr.",
+    meaning: "提高專案時程",
+    example: "The manager asked us to increase the project timeline today.",
+    example_zh: "經理今天要求我們提高專案時程。",
+    topic: "Projects",
+    level: 2
+  },
+  {
+    id: 231,
+    word: "increase production plan",
+    pos: "phr.",
+    meaning: "提高生產計畫",
+    example: "We need to increase the production plan for next week's plan.",
+    example_zh: "為了下週的計畫，我們需要提高生產計畫。",
+    topic: "Production",
+    level: 2
+  },
+  {
+    id: 232,
+    word: "increase office policy",
+    pos: "phr.",
+    meaning: "提高辦公政策",
+    example: "They decided to increase the office policy after the client call.",
+    example_zh: "客戶通話後，他們決定提高辦公政策。",
+    topic: "Office",
+    level: 2
+  },
+  {
+    id: 233,
+    word: "increase training program",
+    pos: "phr.",
+    meaning: "提高培訓計畫",
+    example: "Could you increase the training program and share the result?",
+    example_zh: "你可以提高培訓計畫並分享結果嗎？",
+    topic: "HR",
+    level: 2
+  },
+  {
+    id: 234,
+    word: "increase customer complaint",
+    pos: "phr.",
+    meaning: "提高客戶抱怨",
+    example: "The department will increase the customer complaint every month.",
+    example_zh: "該部門每個月都會提高客戶抱怨。",
+    topic: "Customer Service",
+    level: 2
+  },
+  {
+    id: 235,
+    word: "increase cash flow",
+    pos: "phr.",
+    meaning: "提高現金流",
+    example: "Let's increase the cash flow to avoid delays.",
+    example_zh: "我們來提高現金流，以避免延誤。",
+    topic: "Finance",
+    level: 3
+  },
+  {
+    id: 236,
+    word: "increase team goal",
+    pos: "phr.",
+    meaning: "提高團隊目標",
+    example: "I will increase the team goal and send you an update.",
+    example_zh: "我會先提高團隊目標，再把進度告訴你。",
+    topic: "General",
+    level: 1
+  },
+  {
+    id: 237,
+    word: "increase quality check",
+    pos: "phr.",
+    meaning: "提高品質檢查",
+    example: "Please help me increase the quality check before Friday.",
+    example_zh: "請在週五前協助我提高品質檢查。",
+    topic: "Production",
+    level: 2
+  },
+  {
+    id: 238,
+    word: "increase contract term",
+    pos: "phr.",
+    meaning: "提高合約條款",
+    example: "Please increase the contract term before the deadline.",
+    example_zh: "請在截止日前提高合約條款。",
+    topic: "Sales",
+    level: 3
+  },
+  {
+    id: 239,
+    word: "increase inventory record",
+    pos: "phr.",
+    meaning: "提高庫存紀錄",
+    example: "Our team will increase the inventory record this afternoon.",
+    example_zh: "我們團隊今天下午會提高庫存紀錄。",
+    topic: "Logistics",
+    level: 2
+  },
+  {
+    id: 240,
+    word: "increase performance review",
+    pos: "phr.",
+    meaning: "提高績效評估",
+    example: "The manager asked us to increase the performance review today.",
+    example_zh: "經理今天要求我們提高績效評估。",
+    topic: "HR",
+    level: 3
+  },
+  {
+    id: 241,
+    word: "negotiate budget",
+    pos: "phr.",
+    meaning: "協商預算",
+    example: "The department will negotiate the budget every month.",
+    example_zh: "該部門每個月都會協商預算。",
+    topic: "Finance",
+    level: 2
+  },
+  {
+    id: 242,
+    word: "negotiate invoice",
+    pos: "phr.",
+    meaning: "協商發票",
+    example: "Let's negotiate the invoice to avoid delays.",
+    example_zh: "我們來協商發票，以避免延誤。",
+    topic: "Finance",
+    level: 2
+  },
+  {
+    id: 243,
+    word: "negotiate meeting agenda",
+    pos: "phr.",
+    meaning: "協商會議議程",
+    example: "I will negotiate the meeting agenda and send you an update.",
+    example_zh: "我會先協商會議議程，再把進度告訴你。",
+    topic: "Meeting",
+    level: 1
+  },
+  {
+    id: 244,
+    word: "negotiate email draft",
+    pos: "phr.",
+    meaning: "協商郵件草稿",
+    example: "Please help me negotiate the email draft before Friday.",
+    example_zh: "請在週五前協助我協商郵件草稿。",
+    topic: "Email",
+    level: 1
+  },
+  {
+    id: 245,
+    word: "negotiate sales target",
+    pos: "phr.",
+    meaning: "協商銷售目標",
+    example: "Please negotiate the sales target before the deadline.",
+    example_zh: "請在截止日前協商銷售目標。",
+    topic: "Sales",
+    level: 2
+  },
+  {
+    id: 246,
+    word: "negotiate marketing campaign",
+    pos: "phr.",
+    meaning: "協商行銷活動",
+    example: "Our team will negotiate the marketing campaign this afternoon.",
+    example_zh: "我們團隊今天下午會協商行銷活動。",
+    topic: "Marketing",
+    level: 2
+  },
+  {
+    id: 247,
+    word: "negotiate shipment schedule",
+    pos: "phr.",
+    meaning: "協商出貨時程",
+    example: "The manager asked us to negotiate the shipment schedule today.",
+    example_zh: "經理今天要求我們協商出貨時程。",
+    topic: "Logistics",
+    level: 2
+  },
+  {
+    id: 248,
+    word: "negotiate travel itinerary",
+    pos: "phr.",
+    meaning: "協商行程表",
+    example: "We need to negotiate the travel itinerary for next week's plan.",
+    example_zh: "為了下週的計畫，我們需要協商行程表。",
+    topic: "Travel",
+    level: 2
+  },
+  {
+    id: 249,
+    word: "negotiate service request",
+    pos: "phr.",
+    meaning: "協商服務請求",
+    example: "They decided to negotiate the service request after the client call.",
+    example_zh: "客戶通話後，他們決定協商服務請求。",
+    topic: "Customer Service",
+    level: 2
+  },
+  {
+    id: 250,
+    word: "negotiate project timeline",
+    pos: "phr.",
+    meaning: "協商專案時程",
+    example: "Could you negotiate the project timeline and share the result?",
+    example_zh: "你可以協商專案時程並分享結果嗎？",
+    topic: "Projects",
+    level: 2
+  },
+  {
+    id: 251,
+    word: "negotiate production plan",
+    pos: "phr.",
+    meaning: "協商生產計畫",
+    example: "The department will negotiate the production plan every month.",
+    example_zh: "該部門每個月都會協商生產計畫。",
+    topic: "Production",
+    level: 2
+  },
+  {
+    id: 252,
+    word: "negotiate office policy",
+    pos: "phr.",
+    meaning: "協商辦公政策",
+    example: "Let's negotiate the office policy to avoid delays.",
+    example_zh: "我們來協商辦公政策，以避免延誤。",
+    topic: "Office",
+    level: 2
+  },
+  {
+    id: 253,
+    word: "negotiate training program",
+    pos: "phr.",
+    meaning: "協商培訓計畫",
+    example: "I will negotiate the training program and send you an update.",
+    example_zh: "我會先協商培訓計畫，再把進度告訴你。",
+    topic: "HR",
+    level: 2
+  },
+  {
+    id: 254,
+    word: "negotiate customer complaint",
+    pos: "phr.",
+    meaning: "協商客戶抱怨",
+    example: "Please help me negotiate the customer complaint before Friday.",
+    example_zh: "請在週五前協助我協商客戶抱怨。",
+    topic: "Customer Service",
+    level: 2
+  },
+  {
+    id: 255,
+    word: "negotiate cash flow",
+    pos: "phr.",
+    meaning: "協商現金流",
+    example: "Please negotiate the cash flow before the deadline.",
+    example_zh: "請在截止日前協商現金流。",
+    topic: "Finance",
+    level: 3
+  },
+  {
+    id: 256,
+    word: "negotiate team goal",
+    pos: "phr.",
+    meaning: "協商團隊目標",
+    example: "Our team will negotiate the team goal this afternoon.",
+    example_zh: "我們團隊今天下午會協商團隊目標。",
+    topic: "General",
+    level: 1
+  },
+  {
+    id: 257,
+    word: "negotiate quality check",
+    pos: "phr.",
+    meaning: "協商品質檢查",
+    example: "The manager asked us to negotiate the quality check today.",
+    example_zh: "經理今天要求我們協商品質檢查。",
+    topic: "Production",
+    level: 2
+  },
+  {
+    id: 258,
+    word: "negotiate contract term",
+    pos: "phr.",
+    meaning: "協商合約條款",
+    example: "We need to negotiate the contract term for next week's plan.",
+    example_zh: "為了下週的計畫，我們需要協商合約條款。",
+    topic: "Sales",
+    level: 3
+  },
+  {
+    id: 259,
+    word: "negotiate inventory record",
+    pos: "phr.",
+    meaning: "協商庫存紀錄",
+    example: "They decided to negotiate the inventory record after the client call.",
+    example_zh: "客戶通話後，他們決定協商庫存紀錄。",
+    topic: "Logistics",
+    level: 2
+  },
+  {
+    id: 260,
+    word: "negotiate performance review",
+    pos: "phr.",
+    meaning: "協商績效評估",
+    example: "Could you negotiate the performance review and share the result?",
+    example_zh: "你可以協商績效評估並分享結果嗎？",
+    topic: "HR",
+    level: 3
+  },
+  {
+    id: 261,
+    word: "finalize budget",
+    pos: "phr.",
+    meaning: "定案預算",
+    example: "Please help me finalize the budget before Friday.",
+    example_zh: "請在週五前協助我定案預算。",
+    topic: "Finance",
+    level: 2
+  },
+  {
+    id: 262,
+    word: "finalize invoice",
+    pos: "phr.",
+    meaning: "定案發票",
+    example: "Please finalize the invoice before the deadline.",
+    example_zh: "請在截止日前定案發票。",
+    topic: "Finance",
+    level: 2
+  },
+  {
+    id: 263,
+    word: "finalize meeting agenda",
+    pos: "phr.",
+    meaning: "定案會議議程",
+    example: "Our team will finalize the meeting agenda this afternoon.",
+    example_zh: "我們團隊今天下午會定案會議議程。",
+    topic: "Meeting",
+    level: 1
+  },
+  {
+    id: 264,
+    word: "finalize email draft",
+    pos: "phr.",
+    meaning: "定案郵件草稿",
+    example: "The manager asked us to finalize the email draft today.",
+    example_zh: "經理今天要求我們定案郵件草稿。",
+    topic: "Email",
+    level: 1
+  },
+  {
+    id: 265,
+    word: "finalize sales target",
+    pos: "phr.",
+    meaning: "定案銷售目標",
+    example: "We need to finalize the sales target for next week's plan.",
+    example_zh: "為了下週的計畫，我們需要定案銷售目標。",
+    topic: "Sales",
+    level: 2
+  },
+  {
+    id: 266,
+    word: "finalize marketing campaign",
+    pos: "phr.",
+    meaning: "定案行銷活動",
+    example: "They decided to finalize the marketing campaign after the client call.",
+    example_zh: "客戶通話後，他們決定定案行銷活動。",
+    topic: "Marketing",
+    level: 2
+  },
+  {
+    id: 267,
+    word: "finalize shipment schedule",
+    pos: "phr.",
+    meaning: "定案出貨時程",
+    example: "Could you finalize the shipment schedule and share the result?",
+    example_zh: "你可以定案出貨時程並分享結果嗎？",
+    topic: "Logistics",
+    level: 2
+  },
+  {
+    id: 268,
+    word: "finalize travel itinerary",
+    pos: "phr.",
+    meaning: "定案行程表",
+    example: "The department will finalize the travel itinerary every month.",
+    example_zh: "該部門每個月都會定案行程表。",
+    topic: "Travel",
+    level: 2
+  },
+  {
+    id: 269,
+    word: "finalize service request",
+    pos: "phr.",
+    meaning: "定案服務請求",
+    example: "Let's finalize the service request to avoid delays.",
+    example_zh: "我們來定案服務請求，以避免延誤。",
+    topic: "Customer Service",
+    level: 2
+  },
+  {
+    id: 270,
+    word: "finalize project timeline",
+    pos: "phr.",
+    meaning: "定案專案時程",
+    example: "I will finalize the project timeline and send you an update.",
+    example_zh: "我會先定案專案時程，再把進度告訴你。",
+    topic: "Projects",
+    level: 2
+  },
+  {
+    id: 271,
+    word: "finalize production plan",
+    pos: "phr.",
+    meaning: "定案生產計畫",
+    example: "Please help me finalize the production plan before Friday.",
+    example_zh: "請在週五前協助我定案生產計畫。",
+    topic: "Production",
+    level: 2
+  },
+  {
+    id: 272,
+    word: "finalize office policy",
+    pos: "phr.",
+    meaning: "定案辦公政策",
+    example: "Please finalize the office policy before the deadline.",
+    example_zh: "請在截止日前定案辦公政策。",
+    topic: "Office",
+    level: 2
+  },
+  {
+    id: 273,
+    word: "finalize training program",
+    pos: "phr.",
+    meaning: "定案培訓計畫",
+    example: "Our team will finalize the training program this afternoon.",
+    example_zh: "我們團隊今天下午會定案培訓計畫。",
+    topic: "HR",
+    level: 2
+  },
+  {
+    id: 274,
+    word: "finalize customer complaint",
+    pos: "phr.",
+    meaning: "定案客戶抱怨",
+    example: "The manager asked us to finalize the customer complaint today.",
+    example_zh: "經理今天要求我們定案客戶抱怨。",
+    topic: "Customer Service",
+    level: 2
+  },
+  {
+    id: 275,
+    word: "finalize cash flow",
+    pos: "phr.",
+    meaning: "定案現金流",
+    example: "We need to finalize the cash flow for next week's plan.",
+    example_zh: "為了下週的計畫，我們需要定案現金流。",
+    topic: "Finance",
+    level: 3
+  },
+  {
+    id: 276,
+    word: "finalize team goal",
+    pos: "phr.",
+    meaning: "定案團隊目標",
+    example: "They decided to finalize the team goal after the client call.",
+    example_zh: "客戶通話後，他們決定定案團隊目標。",
+    topic: "General",
+    level: 1
+  },
+  {
+    id: 277,
+    word: "finalize quality check",
+    pos: "phr.",
+    meaning: "定案品質檢查",
+    example: "Could you finalize the quality check and share the result?",
+    example_zh: "你可以定案品質檢查並分享結果嗎？",
+    topic: "Production",
+    level: 2
+  },
+  {
+    id: 278,
+    word: "finalize contract term",
+    pos: "phr.",
+    meaning: "定案合約條款",
+    example: "The department will finalize the contract term every month.",
+    example_zh: "該部門每個月都會定案合約條款。",
+    topic: "Sales",
+    level: 3
+  },
+  {
+    id: 279,
+    word: "finalize inventory record",
+    pos: "phr.",
+    meaning: "定案庫存紀錄",
+    example: "Let's finalize the inventory record to avoid delays.",
+    example_zh: "我們來定案庫存紀錄，以避免延誤。",
+    topic: "Logistics",
+    level: 2
+  },
+  {
+    id: 280,
+    word: "finalize performance review",
+    pos: "phr.",
+    meaning: "定案績效評估",
+    example: "I will finalize the performance review and send you an update.",
+    example_zh: "我會先定案績效評估，再把進度告訴你。",
+    topic: "HR",
+    level: 3
+  },
+  {
+    id: 281,
+    word: "deliver budget",
+    pos: "phr.",
+    meaning: "交付預算",
+    example: "The manager asked us to deliver the budget today.",
+    example_zh: "經理今天要求我們交付預算。",
+    topic: "Finance",
+    level: 2
+  },
+  {
+    id: 282,
+    word: "deliver invoice",
+    pos: "phr.",
+    meaning: "交付發票",
+    example: "We need to deliver the invoice for next week's plan.",
+    example_zh: "為了下週的計畫，我們需要交付發票。",
+    topic: "Finance",
+    level: 2
+  },
+  {
+    id: 283,
+    word: "deliver meeting agenda",
+    pos: "phr.",
+    meaning: "交付會議議程",
+    example: "They decided to deliver the meeting agenda after the client call.",
+    example_zh: "客戶通話後，他們決定交付會議議程。",
+    topic: "Meeting",
+    level: 1
+  },
+  {
+    id: 284,
+    word: "deliver email draft",
+    pos: "phr.",
+    meaning: "交付郵件草稿",
+    example: "Could you deliver the email draft and share the result?",
+    example_zh: "你可以交付郵件草稿並分享結果嗎？",
+    topic: "Email",
+    level: 1
+  },
+  {
+    id: 285,
+    word: "deliver sales target",
+    pos: "phr.",
+    meaning: "交付銷售目標",
+    example: "The department will deliver the sales target every month.",
+    example_zh: "該部門每個月都會交付銷售目標。",
+    topic: "Sales",
+    level: 2
+  },
+  {
+    id: 286,
+    word: "deliver marketing campaign",
+    pos: "phr.",
+    meaning: "交付行銷活動",
+    example: "Let's deliver the marketing campaign to avoid delays.",
+    example_zh: "我們來交付行銷活動，以避免延誤。",
+    topic: "Marketing",
+    level: 2
+  },
+  {
+    id: 287,
+    word: "deliver shipment schedule",
+    pos: "phr.",
+    meaning: "交付出貨時程",
+    example: "I will deliver the shipment schedule and send you an update.",
+    example_zh: "我會先交付出貨時程，再把進度告訴你。",
+    topic: "Logistics",
+    level: 2
+  },
+  {
+    id: 288,
+    word: "deliver travel itinerary",
+    pos: "phr.",
+    meaning: "交付行程表",
+    example: "Please help me deliver the travel itinerary before Friday.",
+    example_zh: "請在週五前協助我交付行程表。",
+    topic: "Travel",
+    level: 2
+  },
+  {
+    id: 289,
+    word: "deliver service request",
+    pos: "phr.",
+    meaning: "交付服務請求",
+    example: "Please deliver the service request before the deadline.",
+    example_zh: "請在截止日前交付服務請求。",
+    topic: "Customer Service",
+    level: 2
+  },
+  {
+    id: 290,
+    word: "deliver project timeline",
+    pos: "phr.",
+    meaning: "交付專案時程",
+    example: "Our team will deliver the project timeline this afternoon.",
+    example_zh: "我們團隊今天下午會交付專案時程。",
+    topic: "Projects",
+    level: 2
+  },
+  {
+    id: 291,
+    word: "deliver production plan",
+    pos: "phr.",
+    meaning: "交付生產計畫",
+    example: "The manager asked us to deliver the production plan today.",
+    example_zh: "經理今天要求我們交付生產計畫。",
+    topic: "Production",
+    level: 2
+  },
+  {
+    id: 292,
+    word: "deliver office policy",
+    pos: "phr.",
+    meaning: "交付辦公政策",
+    example: "We need to deliver the office policy for next week's plan.",
+    example_zh: "為了下週的計畫，我們需要交付辦公政策。",
+    topic: "Office",
+    level: 2
+  },
+  {
+    id: 293,
+    word: "deliver training program",
+    pos: "phr.",
+    meaning: "交付培訓計畫",
+    example: "They decided to deliver the training program after the client call.",
+    example_zh: "客戶通話後，他們決定交付培訓計畫。",
+    topic: "HR",
+    level: 2
+  },
+  {
+    id: 294,
+    word: "deliver customer complaint",
+    pos: "phr.",
+    meaning: "交付客戶抱怨",
+    example: "Could you deliver the customer complaint and share the result?",
+    example_zh: "你可以交付客戶抱怨並分享結果嗎？",
+    topic: "Customer Service",
+    level: 2
+  },
+  {
+    id: 295,
+    word: "deliver cash flow",
+    pos: "phr.",
+    meaning: "交付現金流",
+    example: "The department will deliver the cash flow every month.",
+    example_zh: "該部門每個月都會交付現金流。",
+    topic: "Finance",
+    level: 3
+  },
+  {
+    id: 296,
+    word: "deliver team goal",
+    pos: "phr.",
+    meaning: "交付團隊目標",
+    example: "Let's deliver the team goal to avoid delays.",
+    example_zh: "我們來交付團隊目標，以避免延誤。",
+    topic: "General",
+    level: 1
+  },
+  {
+    id: 297,
+    word: "deliver quality check",
+    pos: "phr.",
+    meaning: "交付品質檢查",
+    example: "I will deliver the quality check and send you an update.",
+    example_zh: "我會先交付品質檢查，再把進度告訴你。",
+    topic: "Production",
+    level: 2
+  },
+  {
+    id: 298,
+    word: "deliver contract term",
+    pos: "phr.",
+    meaning: "交付合約條款",
+    example: "Please help me deliver the contract term before Friday.",
+    example_zh: "請在週五前協助我交付合約條款。",
+    topic: "Sales",
+    level: 3
+  },
+  {
+    id: 299,
+    word: "deliver inventory record",
+    pos: "phr.",
+    meaning: "交付庫存紀錄",
+    example: "Please deliver the inventory record before the deadline.",
+    example_zh: "請在截止日前交付庫存紀錄。",
+    topic: "Logistics",
+    level: 2
+  },
+  {
+    id: 300,
+    word: "deliver performance review",
+    pos: "phr.",
+    meaning: "交付績效評估",
+    example: "Our team will deliver the performance review this afternoon.",
+    example_zh: "我們團隊今天下午會交付績效評估。",
+    topic: "HR",
+    level: 3
+  },
+  {
+    id: 301,
+    word: "track budget",
+    pos: "phr.",
+    meaning: "追蹤預算",
+    example: "Could you track the budget and share the result?",
+    example_zh: "你可以追蹤預算並分享結果嗎？",
+    topic: "Finance",
+    level: 2
+  },
+  {
+    id: 302,
+    word: "track invoice",
+    pos: "phr.",
+    meaning: "追蹤發票",
+    example: "The department will track the invoice every month.",
+    example_zh: "該部門每個月都會追蹤發票。",
+    topic: "Finance",
+    level: 2
+  },
+  {
+    id: 303,
+    word: "track meeting agenda",
+    pos: "phr.",
+    meaning: "追蹤會議議程",
+    example: "Let's track the meeting agenda to avoid delays.",
+    example_zh: "我們來追蹤會議議程，以避免延誤。",
+    topic: "Meeting",
+    level: 1
+  },
+  {
+    id: 304,
+    word: "track email draft",
+    pos: "phr.",
+    meaning: "追蹤郵件草稿",
+    example: "I will track the email draft and send you an update.",
+    example_zh: "我會先追蹤郵件草稿，再把進度告訴你。",
+    topic: "Email",
+    level: 1
+  },
+  {
+    id: 305,
+    word: "track sales target",
+    pos: "phr.",
+    meaning: "追蹤銷售目標",
+    example: "Please help me track the sales target before Friday.",
+    example_zh: "請在週五前協助我追蹤銷售目標。",
+    topic: "Sales",
+    level: 2
+  },
+  {
+    id: 306,
+    word: "track marketing campaign",
+    pos: "phr.",
+    meaning: "追蹤行銷活動",
+    example: "Please track the marketing campaign before the deadline.",
+    example_zh: "請在截止日前追蹤行銷活動。",
+    topic: "Marketing",
+    level: 2
+  },
+  {
+    id: 307,
+    word: "track shipment schedule",
+    pos: "phr.",
+    meaning: "追蹤出貨時程",
+    example: "Our team will track the shipment schedule this afternoon.",
+    example_zh: "我們團隊今天下午會追蹤出貨時程。",
+    topic: "Logistics",
+    level: 2
+  },
+  {
+    id: 308,
+    word: "track travel itinerary",
+    pos: "phr.",
+    meaning: "追蹤行程表",
+    example: "The manager asked us to track the travel itinerary today.",
+    example_zh: "經理今天要求我們追蹤行程表。",
+    topic: "Travel",
+    level: 2
+  },
+  {
+    id: 309,
+    word: "track service request",
+    pos: "phr.",
+    meaning: "追蹤服務請求",
+    example: "We need to track the service request for next week's plan.",
+    example_zh: "為了下週的計畫，我們需要追蹤服務請求。",
+    topic: "Customer Service",
+    level: 2
+  },
+  {
+    id: 310,
+    word: "track project timeline",
+    pos: "phr.",
+    meaning: "追蹤專案時程",
+    example: "They decided to track the project timeline after the client call.",
+    example_zh: "客戶通話後，他們決定追蹤專案時程。",
+    topic: "Projects",
+    level: 2
+  },
+  {
+    id: 311,
+    word: "track production plan",
+    pos: "phr.",
+    meaning: "追蹤生產計畫",
+    example: "Could you track the production plan and share the result?",
+    example_zh: "你可以追蹤生產計畫並分享結果嗎？",
+    topic: "Production",
+    level: 2
+  },
+  {
+    id: 312,
+    word: "track office policy",
+    pos: "phr.",
+    meaning: "追蹤辦公政策",
+    example: "The department will track the office policy every month.",
+    example_zh: "該部門每個月都會追蹤辦公政策。",
+    topic: "Office",
+    level: 2
+  },
+  {
+    id: 313,
+    word: "track training program",
+    pos: "phr.",
+    meaning: "追蹤培訓計畫",
+    example: "Let's track the training program to avoid delays.",
+    example_zh: "我們來追蹤培訓計畫，以避免延誤。",
+    topic: "HR",
+    level: 2
+  },
+  {
+    id: 314,
+    word: "track customer complaint",
+    pos: "phr.",
+    meaning: "追蹤客戶抱怨",
+    example: "I will track the customer complaint and send you an update.",
+    example_zh: "我會先追蹤客戶抱怨，再把進度告訴你。",
+    topic: "Customer Service",
+    level: 2
+  },
+  {
+    id: 315,
+    word: "track cash flow",
+    pos: "phr.",
+    meaning: "追蹤現金流",
+    example: "Please help me track the cash flow before Friday.",
+    example_zh: "請在週五前協助我追蹤現金流。",
+    topic: "Finance",
+    level: 3
+  },
+  {
+    id: 316,
+    word: "track team goal",
+    pos: "phr.",
+    meaning: "追蹤團隊目標",
+    example: "Please track the team goal before the deadline.",
+    example_zh: "請在截止日前追蹤團隊目標。",
+    topic: "General",
+    level: 1
+  },
+  {
+    id: 317,
+    word: "track quality check",
+    pos: "phr.",
+    meaning: "追蹤品質檢查",
+    example: "Our team will track the quality check this afternoon.",
+    example_zh: "我們團隊今天下午會追蹤品質檢查。",
+    topic: "Production",
+    level: 2
+  },
+  {
+    id: 318,
+    word: "track contract term",
+    pos: "phr.",
+    meaning: "追蹤合約條款",
+    example: "The manager asked us to track the contract term today.",
+    example_zh: "經理今天要求我們追蹤合約條款。",
+    topic: "Sales",
+    level: 3
+  },
+  {
+    id: 319,
+    word: "track inventory record",
+    pos: "phr.",
+    meaning: "追蹤庫存紀錄",
+    example: "We need to track the inventory record for next week's plan.",
+    example_zh: "為了下週的計畫，我們需要追蹤庫存紀錄。",
+    topic: "Logistics",
+    level: 2
+  },
+  {
+    id: 320,
+    word: "track performance review",
+    pos: "phr.",
+    meaning: "追蹤績效評估",
+    example: "They decided to track the performance review after the client call.",
+    example_zh: "客戶通話後，他們決定追蹤績效評估。",
+    topic: "HR",
+    level: 3
+  },
+  {
+    id: 321,
+    word: "process budget",
+    pos: "phr.",
+    meaning: "處理預算",
+    example: "I will process the budget and send you an update.",
+    example_zh: "我會先處理預算，再把進度告訴你。",
+    topic: "Finance",
+    level: 2
+  },
+  {
+    id: 322,
+    word: "process invoice",
+    pos: "phr.",
+    meaning: "處理發票",
+    example: "Please help me process the invoice before Friday.",
+    example_zh: "請在週五前協助我處理發票。",
+    topic: "Finance",
+    level: 2
+  },
+  {
+    id: 323,
+    word: "process meeting agenda",
+    pos: "phr.",
+    meaning: "處理會議議程",
+    example: "Please process the meeting agenda before the deadline.",
+    example_zh: "請在截止日前處理會議議程。",
+    topic: "Meeting",
+    level: 1
+  },
+  {
+    id: 324,
+    word: "process email draft",
+    pos: "phr.",
+    meaning: "處理郵件草稿",
+    example: "Our team will process the email draft this afternoon.",
+    example_zh: "我們團隊今天下午會處理郵件草稿。",
+    topic: "Email",
+    level: 1
+  },
+  {
+    id: 325,
+    word: "process sales target",
+    pos: "phr.",
+    meaning: "處理銷售目標",
+    example: "The manager asked us to process the sales target today.",
+    example_zh: "經理今天要求我們處理銷售目標。",
+    topic: "Sales",
+    level: 2
+  },
+  {
+    id: 326,
+    word: "process marketing campaign",
+    pos: "phr.",
+    meaning: "處理行銷活動",
+    example: "We need to process the marketing campaign for next week's plan.",
+    example_zh: "為了下週的計畫，我們需要處理行銷活動。",
+    topic: "Marketing",
+    level: 2
+  },
+  {
+    id: 327,
+    word: "process shipment schedule",
+    pos: "phr.",
+    meaning: "處理出貨時程",
+    example: "They decided to process the shipment schedule after the client call.",
+    example_zh: "客戶通話後，他們決定處理出貨時程。",
+    topic: "Logistics",
+    level: 2
+  },
+  {
+    id: 328,
+    word: "process travel itinerary",
+    pos: "phr.",
+    meaning: "處理行程表",
+    example: "Could you process the travel itinerary and share the result?",
+    example_zh: "你可以處理行程表並分享結果嗎？",
+    topic: "Travel",
+    level: 2
+  },
+  {
+    id: 329,
+    word: "process service request",
+    pos: "phr.",
+    meaning: "處理服務請求",
+    example: "The department will process the service request every month.",
+    example_zh: "該部門每個月都會處理服務請求。",
+    topic: "Customer Service",
+    level: 2
+  },
+  {
+    id: 330,
+    word: "process project timeline",
+    pos: "phr.",
+    meaning: "處理專案時程",
+    example: "Let's process the project timeline to avoid delays.",
+    example_zh: "我們來處理專案時程，以避免延誤。",
+    topic: "Projects",
+    level: 2
+  },
+  {
+    id: 331,
+    word: "process production plan",
+    pos: "phr.",
+    meaning: "處理生產計畫",
+    example: "I will process the production plan and send you an update.",
+    example_zh: "我會先處理生產計畫，再把進度告訴你。",
+    topic: "Production",
+    level: 2
+  },
+  {
+    id: 332,
+    word: "process office policy",
+    pos: "phr.",
+    meaning: "處理辦公政策",
+    example: "Please help me process the office policy before Friday.",
+    example_zh: "請在週五前協助我處理辦公政策。",
+    topic: "Office",
+    level: 2
+  },
+  {
+    id: 333,
+    word: "process training program",
+    pos: "phr.",
+    meaning: "處理培訓計畫",
+    example: "Please process the training program before the deadline.",
+    example_zh: "請在截止日前處理培訓計畫。",
+    topic: "HR",
+    level: 2
+  },
+  {
+    id: 334,
+    word: "process customer complaint",
+    pos: "phr.",
+    meaning: "處理客戶抱怨",
+    example: "Our team will process the customer complaint this afternoon.",
+    example_zh: "我們團隊今天下午會處理客戶抱怨。",
+    topic: "Customer Service",
+    level: 2
+  },
+  {
+    id: 335,
+    word: "process cash flow",
+    pos: "phr.",
+    meaning: "處理現金流",
+    example: "The manager asked us to process the cash flow today.",
+    example_zh: "經理今天要求我們處理現金流。",
+    topic: "Finance",
+    level: 3
+  },
+  {
+    id: 336,
+    word: "process team goal",
+    pos: "phr.",
+    meaning: "處理團隊目標",
+    example: "We need to process the team goal for next week's plan.",
+    example_zh: "為了下週的計畫，我們需要處理團隊目標。",
+    topic: "General",
+    level: 1
+  },
+  {
+    id: 337,
+    word: "process quality check",
+    pos: "phr.",
+    meaning: "處理品質檢查",
+    example: "They decided to process the quality check after the client call.",
+    example_zh: "客戶通話後，他們決定處理品質檢查。",
+    topic: "Production",
+    level: 2
+  },
+  {
+    id: 338,
+    word: "process contract term",
+    pos: "phr.",
+    meaning: "處理合約條款",
+    example: "Could you process the contract term and share the result?",
+    example_zh: "你可以處理合約條款並分享結果嗎？",
+    topic: "Sales",
+    level: 3
+  },
+  {
+    id: 339,
+    word: "process inventory record",
+    pos: "phr.",
+    meaning: "處理庫存紀錄",
+    example: "The department will process the inventory record every month.",
+    example_zh: "該部門每個月都會處理庫存紀錄。",
+    topic: "Logistics",
+    level: 2
+  },
+  {
+    id: 340,
+    word: "process performance review",
+    pos: "phr.",
+    meaning: "處理績效評估",
+    example: "Let's process the performance review to avoid delays.",
+    example_zh: "我們來處理績效評估，以避免延誤。",
+    topic: "HR",
+    level: 3
+  },
+  {
+    id: 341,
+    word: "resolve budget",
+    pos: "phr.",
+    meaning: "解決預算",
+    example: "Our team will resolve the budget this afternoon.",
+    example_zh: "我們團隊今天下午會解決預算。",
+    topic: "Finance",
+    level: 2
+  },
+  {
+    id: 342,
+    word: "resolve invoice",
+    pos: "phr.",
+    meaning: "解決發票",
+    example: "The manager asked us to resolve the invoice today.",
+    example_zh: "經理今天要求我們解決發票。",
+    topic: "Finance",
+    level: 2
+  },
+  {
+    id: 343,
+    word: "resolve meeting agenda",
+    pos: "phr.",
+    meaning: "解決會議議程",
+    example: "We need to resolve the meeting agenda for next week's plan.",
+    example_zh: "為了下週的計畫，我們需要解決會議議程。",
+    topic: "Meeting",
+    level: 1
+  },
+  {
+    id: 344,
+    word: "resolve email draft",
+    pos: "phr.",
+    meaning: "解決郵件草稿",
+    example: "They decided to resolve the email draft after the client call.",
+    example_zh: "客戶通話後，他們決定解決郵件草稿。",
+    topic: "Email",
+    level: 1
+  },
+  {
+    id: 345,
+    word: "resolve sales target",
+    pos: "phr.",
+    meaning: "解決銷售目標",
+    example: "Could you resolve the sales target and share the result?",
+    example_zh: "你可以解決銷售目標並分享結果嗎？",
+    topic: "Sales",
+    level: 2
+  },
+  {
+    id: 346,
+    word: "resolve marketing campaign",
+    pos: "phr.",
+    meaning: "解決行銷活動",
+    example: "The department will resolve the marketing campaign every month.",
+    example_zh: "該部門每個月都會解決行銷活動。",
+    topic: "Marketing",
+    level: 2
+  },
+  {
+    id: 347,
+    word: "resolve shipment schedule",
+    pos: "phr.",
+    meaning: "解決出貨時程",
+    example: "Let's resolve the shipment schedule to avoid delays.",
+    example_zh: "我們來解決出貨時程，以避免延誤。",
+    topic: "Logistics",
+    level: 2
+  },
+  {
+    id: 348,
+    word: "resolve travel itinerary",
+    pos: "phr.",
+    meaning: "解決行程表",
+    example: "I will resolve the travel itinerary and send you an update.",
+    example_zh: "我會先解決行程表，再把進度告訴你。",
+    topic: "Travel",
+    level: 2
+  },
+  {
+    id: 349,
+    word: "resolve service request",
+    pos: "phr.",
+    meaning: "解決服務請求",
+    example: "Please help me resolve the service request before Friday.",
+    example_zh: "請在週五前協助我解決服務請求。",
+    topic: "Customer Service",
+    level: 2
+  },
+  {
+    id: 350,
+    word: "resolve project timeline",
+    pos: "phr.",
+    meaning: "解決專案時程",
+    example: "Please resolve the project timeline before the deadline.",
+    example_zh: "請在截止日前解決專案時程。",
+    topic: "Projects",
+    level: 2
+  },
+  {
+    id: 351,
+    word: "resolve production plan",
+    pos: "phr.",
+    meaning: "解決生產計畫",
+    example: "Our team will resolve the production plan this afternoon.",
+    example_zh: "我們團隊今天下午會解決生產計畫。",
+    topic: "Production",
+    level: 2
+  },
+  {
+    id: 352,
+    word: "resolve office policy",
+    pos: "phr.",
+    meaning: "解決辦公政策",
+    example: "The manager asked us to resolve the office policy today.",
+    example_zh: "經理今天要求我們解決辦公政策。",
+    topic: "Office",
+    level: 2
+  },
+  {
+    id: 353,
+    word: "resolve training program",
+    pos: "phr.",
+    meaning: "解決培訓計畫",
+    example: "We need to resolve the training program for next week's plan.",
+    example_zh: "為了下週的計畫，我們需要解決培訓計畫。",
+    topic: "HR",
+    level: 2
+  },
+  {
+    id: 354,
+    word: "resolve customer complaint",
+    pos: "phr.",
+    meaning: "解決客戶抱怨",
+    example: "They decided to resolve the customer complaint after the client call.",
+    example_zh: "客戶通話後，他們決定解決客戶抱怨。",
+    topic: "Customer Service",
+    level: 2
+  },
+  {
+    id: 355,
+    word: "resolve cash flow",
+    pos: "phr.",
+    meaning: "解決現金流",
+    example: "Could you resolve the cash flow and share the result?",
+    example_zh: "你可以解決現金流並分享結果嗎？",
+    topic: "Finance",
+    level: 3
+  },
+  {
+    id: 356,
+    word: "resolve team goal",
+    pos: "phr.",
+    meaning: "解決團隊目標",
+    example: "The department will resolve the team goal every month.",
+    example_zh: "該部門每個月都會解決團隊目標。",
+    topic: "General",
+    level: 1
+  },
+  {
+    id: 357,
+    word: "resolve quality check",
+    pos: "phr.",
+    meaning: "解決品質檢查",
+    example: "Let's resolve the quality check to avoid delays.",
+    example_zh: "我們來解決品質檢查，以避免延誤。",
+    topic: "Production",
+    level: 2
+  },
+  {
+    id: 358,
+    word: "resolve contract term",
+    pos: "phr.",
+    meaning: "解決合約條款",
+    example: "I will resolve the contract term and send you an update.",
+    example_zh: "我會先解決合約條款，再把進度告訴你。",
+    topic: "Sales",
+    level: 3
+  },
+  {
+    id: 359,
+    word: "resolve inventory record",
+    pos: "phr.",
+    meaning: "解決庫存紀錄",
+    example: "Please help me resolve the inventory record before Friday.",
+    example_zh: "請在週五前協助我解決庫存紀錄。",
+    topic: "Logistics",
+    level: 2
+  },
+  {
+    id: 360,
+    word: "resolve performance review",
+    pos: "phr.",
+    meaning: "解決績效評估",
+    example: "Please resolve the performance review before the deadline.",
+    example_zh: "請在截止日前解決績效評估。",
+    topic: "HR",
+    level: 3
+  },
+  {
+    id: 361,
+    word: "launch budget",
+    pos: "phr.",
+    meaning: "推出預算",
+    example: "They decided to launch the budget after the client call.",
+    example_zh: "客戶通話後，他們決定推出預算。",
+    topic: "Finance",
+    level: 3
+  },
+  {
+    id: 362,
+    word: "launch invoice",
+    pos: "phr.",
+    meaning: "推出發票",
+    example: "Could you launch the invoice and share the result?",
+    example_zh: "你可以推出發票並分享結果嗎？",
+    topic: "Finance",
+    level: 3
+  },
+  {
+    id: 363,
+    word: "launch meeting agenda",
+    pos: "phr.",
+    meaning: "推出會議議程",
+    example: "The department will launch the meeting agenda every month.",
+    example_zh: "該部門每個月都會推出會議議程。",
+    topic: "Meeting",
+    level: 2
+  },
+  {
+    id: 364,
+    word: "launch email draft",
+    pos: "phr.",
+    meaning: "推出郵件草稿",
+    example: "Let's launch the email draft to avoid delays.",
+    example_zh: "我們來推出郵件草稿，以避免延誤。",
+    topic: "Email",
+    level: 2
+  },
+  {
+    id: 365,
+    word: "launch sales target",
+    pos: "phr.",
+    meaning: "推出銷售目標",
+    example: "I will launch the sales target and send you an update.",
+    example_zh: "我會先推出銷售目標，再把進度告訴你。",
+    topic: "Sales",
+    level: 3
+  },
+  {
+    id: 366,
+    word: "launch marketing campaign",
+    pos: "phr.",
+    meaning: "推出行銷活動",
+    example: "Please help me launch the marketing campaign before Friday.",
+    example_zh: "請在週五前協助我推出行銷活動。",
+    topic: "Marketing",
+    level: 3
+  },
+  {
+    id: 367,
+    word: "launch shipment schedule",
+    pos: "phr.",
+    meaning: "推出出貨時程",
+    example: "Please launch the shipment schedule before the deadline.",
+    example_zh: "請在截止日前推出出貨時程。",
+    topic: "Logistics",
+    level: 3
+  },
+  {
+    id: 368,
+    word: "launch travel itinerary",
+    pos: "phr.",
+    meaning: "推出行程表",
+    example: "Our team will launch the travel itinerary this afternoon.",
+    example_zh: "我們團隊今天下午會推出行程表。",
+    topic: "Travel",
+    level: 3
+  },
+  {
+    id: 369,
+    word: "launch service request",
+    pos: "phr.",
+    meaning: "推出服務請求",
+    example: "The manager asked us to launch the service request today.",
+    example_zh: "經理今天要求我們推出服務請求。",
+    topic: "Customer Service",
+    level: 3
+  },
+  {
+    id: 370,
+    word: "launch project timeline",
+    pos: "phr.",
+    meaning: "推出專案時程",
+    example: "We need to launch the project timeline for next week's plan.",
+    example_zh: "為了下週的計畫，我們需要推出專案時程。",
+    topic: "Projects",
+    level: 3
+  },
+  {
+    id: 371,
+    word: "launch production plan",
+    pos: "phr.",
+    meaning: "推出生產計畫",
+    example: "They decided to launch the production plan after the client call.",
+    example_zh: "客戶通話後，他們決定推出生產計畫。",
+    topic: "Production",
+    level: 3
+  },
+  {
+    id: 372,
+    word: "launch office policy",
+    pos: "phr.",
+    meaning: "推出辦公政策",
+    example: "Could you launch the office policy and share the result?",
+    example_zh: "你可以推出辦公政策並分享結果嗎？",
+    topic: "Office",
+    level: 3
+  },
+  {
+    id: 373,
+    word: "launch training program",
+    pos: "phr.",
+    meaning: "推出培訓計畫",
+    example: "The department will launch the training program every month.",
+    example_zh: "該部門每個月都會推出培訓計畫。",
+    topic: "HR",
+    level: 3
+  },
+  {
+    id: 374,
+    word: "launch customer complaint",
+    pos: "phr.",
+    meaning: "推出客戶抱怨",
+    example: "Let's launch the customer complaint to avoid delays.",
+    example_zh: "我們來推出客戶抱怨，以避免延誤。",
+    topic: "Customer Service",
+    level: 3
+  },
+  {
+    id: 375,
+    word: "launch cash flow",
+    pos: "phr.",
+    meaning: "推出現金流",
+    example: "I will launch the cash flow and send you an update.",
+    example_zh: "我會先推出現金流，再把進度告訴你。",
+    topic: "Finance",
+    level: 4
+  },
+  {
+    id: 376,
+    word: "launch team goal",
+    pos: "phr.",
+    meaning: "推出團隊目標",
+    example: "Please help me launch the team goal before Friday.",
+    example_zh: "請在週五前協助我推出團隊目標。",
+    topic: "General",
+    level: 2
+  },
+  {
+    id: 377,
+    word: "launch quality check",
+    pos: "phr.",
+    meaning: "推出品質檢查",
+    example: "Please launch the quality check before the deadline.",
+    example_zh: "請在截止日前推出品質檢查。",
+    topic: "Production",
+    level: 3
+  },
+  {
+    id: 378,
+    word: "launch contract term",
+    pos: "phr.",
+    meaning: "推出合約條款",
+    example: "Our team will launch the contract term this afternoon.",
+    example_zh: "我們團隊今天下午會推出合約條款。",
+    topic: "Sales",
+    level: 4
+  },
+  {
+    id: 379,
+    word: "launch inventory record",
+    pos: "phr.",
+    meaning: "推出庫存紀錄",
+    example: "The manager asked us to launch the inventory record today.",
+    example_zh: "經理今天要求我們推出庫存紀錄。",
+    topic: "Logistics",
+    level: 3
+  },
+  {
+    id: 380,
+    word: "launch performance review",
+    pos: "phr.",
+    meaning: "推出績效評估",
+    example: "We need to launch the performance review for next week's plan.",
+    example_zh: "為了下週的計畫，我們需要推出績效評估。",
+    topic: "HR",
+    level: 4
+  },
+  {
+    id: 381,
+    word: "promote budget",
+    pos: "phr.",
+    meaning: "推廣預算",
+    example: "Let's promote the budget to avoid delays.",
+    example_zh: "我們來推廣預算，以避免延誤。",
+    topic: "Finance",
+    level: 2
+  },
+  {
+    id: 382,
+    word: "promote invoice",
+    pos: "phr.",
+    meaning: "推廣發票",
+    example: "I will promote the invoice and send you an update.",
+    example_zh: "我會先推廣發票，再把進度告訴你。",
+    topic: "Finance",
+    level: 2
+  },
+  {
+    id: 383,
+    word: "promote meeting agenda",
+    pos: "phr.",
+    meaning: "推廣會議議程",
+    example: "Please help me promote the meeting agenda before Friday.",
+    example_zh: "請在週五前協助我推廣會議議程。",
+    topic: "Meeting",
+    level: 1
+  },
+  {
+    id: 384,
+    word: "promote email draft",
+    pos: "phr.",
+    meaning: "推廣郵件草稿",
+    example: "Please promote the email draft before the deadline.",
+    example_zh: "請在截止日前推廣郵件草稿。",
+    topic: "Email",
+    level: 1
+  },
+  {
+    id: 385,
+    word: "promote sales target",
+    pos: "phr.",
+    meaning: "推廣銷售目標",
+    example: "Our team will promote the sales target this afternoon.",
+    example_zh: "我們團隊今天下午會推廣銷售目標。",
+    topic: "Sales",
+    level: 2
+  },
+  {
+    id: 386,
+    word: "promote marketing campaign",
+    pos: "phr.",
+    meaning: "推廣行銷活動",
+    example: "The manager asked us to promote the marketing campaign today.",
+    example_zh: "經理今天要求我們推廣行銷活動。",
+    topic: "Marketing",
+    level: 2
+  },
+  {
+    id: 387,
+    word: "promote shipment schedule",
+    pos: "phr.",
+    meaning: "推廣出貨時程",
+    example: "We need to promote the shipment schedule for next week's plan.",
+    example_zh: "為了下週的計畫，我們需要推廣出貨時程。",
+    topic: "Logistics",
+    level: 2
+  },
+  {
+    id: 388,
+    word: "promote travel itinerary",
+    pos: "phr.",
+    meaning: "推廣行程表",
+    example: "They decided to promote the travel itinerary after the client call.",
+    example_zh: "客戶通話後，他們決定推廣行程表。",
+    topic: "Travel",
+    level: 2
+  },
+  {
+    id: 389,
+    word: "promote service request",
+    pos: "phr.",
+    meaning: "推廣服務請求",
+    example: "Could you promote the service request and share the result?",
+    example_zh: "你可以推廣服務請求並分享結果嗎？",
+    topic: "Customer Service",
+    level: 2
+  },
+  {
+    id: 390,
+    word: "promote project timeline",
+    pos: "phr.",
+    meaning: "推廣專案時程",
+    example: "The department will promote the project timeline every month.",
+    example_zh: "該部門每個月都會推廣專案時程。",
+    topic: "Projects",
+    level: 2
+  },
+  {
+    id: 391,
+    word: "promote production plan",
+    pos: "phr.",
+    meaning: "推廣生產計畫",
+    example: "Let's promote the production plan to avoid delays.",
+    example_zh: "我們來推廣生產計畫，以避免延誤。",
+    topic: "Production",
+    level: 2
+  },
+  {
+    id: 392,
+    word: "promote office policy",
+    pos: "phr.",
+    meaning: "推廣辦公政策",
+    example: "I will promote the office policy and send you an update.",
+    example_zh: "我會先推廣辦公政策，再把進度告訴你。",
+    topic: "Office",
+    level: 2
+  },
+  {
+    id: 393,
+    word: "promote training program",
+    pos: "phr.",
+    meaning: "推廣培訓計畫",
+    example: "Please help me promote the training program before Friday.",
+    example_zh: "請在週五前協助我推廣培訓計畫。",
+    topic: "HR",
+    level: 2
+  },
+  {
+    id: 394,
+    word: "promote customer complaint",
+    pos: "phr.",
+    meaning: "推廣客戶抱怨",
+    example: "Please promote the customer complaint before the deadline.",
+    example_zh: "請在截止日前推廣客戶抱怨。",
+    topic: "Customer Service",
+    level: 2
+  },
+  {
+    id: 395,
+    word: "promote cash flow",
+    pos: "phr.",
+    meaning: "推廣現金流",
+    example: "Our team will promote the cash flow this afternoon.",
+    example_zh: "我們團隊今天下午會推廣現金流。",
+    topic: "Finance",
+    level: 3
+  },
+  {
+    id: 396,
+    word: "promote team goal",
+    pos: "phr.",
+    meaning: "推廣團隊目標",
+    example: "The manager asked us to promote the team goal today.",
+    example_zh: "經理今天要求我們推廣團隊目標。",
+    topic: "General",
+    level: 1
+  },
+  {
+    id: 397,
+    word: "promote quality check",
+    pos: "phr.",
+    meaning: "推廣品質檢查",
+    example: "We need to promote the quality check for next week's plan.",
+    example_zh: "為了下週的計畫，我們需要推廣品質檢查。",
+    topic: "Production",
+    level: 2
+  },
+  {
+    id: 398,
+    word: "promote contract term",
+    pos: "phr.",
+    meaning: "推廣合約條款",
+    example: "They decided to promote the contract term after the client call.",
+    example_zh: "客戶通話後，他們決定推廣合約條款。",
+    topic: "Sales",
+    level: 3
+  },
+  {
+    id: 399,
+    word: "promote inventory record",
+    pos: "phr.",
+    meaning: "推廣庫存紀錄",
+    example: "Could you promote the inventory record and share the result?",
+    example_zh: "你可以推廣庫存紀錄並分享結果嗎？",
+    topic: "Logistics",
+    level: 2
+  },
+  {
+    id: 400,
+    word: "promote performance review",
+    pos: "phr.",
+    meaning: "推廣績效評估",
+    example: "The department will promote the performance review every month.",
+    example_zh: "該部門每個月都會推廣績效評估。",
+    topic: "HR",
+    level: 3
+  },
+  {
+    id: 401,
+    word: "coordinate budget",
+    pos: "phr.",
+    meaning: "協調預算",
+    example: "Please coordinate the budget before the deadline.",
+    example_zh: "請在截止日前協調預算。",
+    topic: "Finance",
+    level: 2
+  },
+  {
+    id: 402,
+    word: "coordinate invoice",
+    pos: "phr.",
+    meaning: "協調發票",
+    example: "Our team will coordinate the invoice this afternoon.",
+    example_zh: "我們團隊今天下午會協調發票。",
+    topic: "Finance",
+    level: 2
+  },
+  {
+    id: 403,
+    word: "coordinate meeting agenda",
+    pos: "phr.",
+    meaning: "協調會議議程",
+    example: "The manager asked us to coordinate the meeting agenda today.",
+    example_zh: "經理今天要求我們協調會議議程。",
+    topic: "Meeting",
+    level: 1
+  },
+  {
+    id: 404,
+    word: "coordinate email draft",
+    pos: "phr.",
+    meaning: "協調郵件草稿",
+    example: "We need to coordinate the email draft for next week's plan.",
+    example_zh: "為了下週的計畫，我們需要協調郵件草稿。",
+    topic: "Email",
+    level: 1
+  },
+  {
+    id: 405,
+    word: "coordinate sales target",
+    pos: "phr.",
+    meaning: "協調銷售目標",
+    example: "They decided to coordinate the sales target after the client call.",
+    example_zh: "客戶通話後，他們決定協調銷售目標。",
+    topic: "Sales",
+    level: 2
+  },
+  {
+    id: 406,
+    word: "coordinate marketing campaign",
+    pos: "phr.",
+    meaning: "協調行銷活動",
+    example: "Could you coordinate the marketing campaign and share the result?",
+    example_zh: "你可以協調行銷活動並分享結果嗎？",
+    topic: "Marketing",
+    level: 2
+  },
+  {
+    id: 407,
+    word: "coordinate shipment schedule",
+    pos: "phr.",
+    meaning: "協調出貨時程",
+    example: "The department will coordinate the shipment schedule every month.",
+    example_zh: "該部門每個月都會協調出貨時程。",
+    topic: "Logistics",
+    level: 2
+  },
+  {
+    id: 408,
+    word: "coordinate travel itinerary",
+    pos: "phr.",
+    meaning: "協調行程表",
+    example: "Let's coordinate the travel itinerary to avoid delays.",
+    example_zh: "我們來協調行程表，以避免延誤。",
+    topic: "Travel",
+    level: 2
+  },
+  {
+    id: 409,
+    word: "coordinate service request",
+    pos: "phr.",
+    meaning: "協調服務請求",
+    example: "I will coordinate the service request and send you an update.",
+    example_zh: "我會先協調服務請求，再把進度告訴你。",
+    topic: "Customer Service",
+    level: 2
+  },
+  {
+    id: 410,
+    word: "coordinate project timeline",
+    pos: "phr.",
+    meaning: "協調專案時程",
+    example: "Please help me coordinate the project timeline before Friday.",
+    example_zh: "請在週五前協助我協調專案時程。",
+    topic: "Projects",
+    level: 2
+  },
+  {
+    id: 411,
+    word: "coordinate production plan",
+    pos: "phr.",
+    meaning: "協調生產計畫",
+    example: "Please coordinate the production plan before the deadline.",
+    example_zh: "請在截止日前協調生產計畫。",
+    topic: "Production",
+    level: 2
+  },
+  {
+    id: 412,
+    word: "coordinate office policy",
+    pos: "phr.",
+    meaning: "協調辦公政策",
+    example: "Our team will coordinate the office policy this afternoon.",
+    example_zh: "我們團隊今天下午會協調辦公政策。",
+    topic: "Office",
+    level: 2
+  },
+  {
+    id: 413,
+    word: "coordinate training program",
+    pos: "phr.",
+    meaning: "協調培訓計畫",
+    example: "The manager asked us to coordinate the training program today.",
+    example_zh: "經理今天要求我們協調培訓計畫。",
+    topic: "HR",
+    level: 2
+  },
+  {
+    id: 414,
+    word: "coordinate customer complaint",
+    pos: "phr.",
+    meaning: "協調客戶抱怨",
+    example: "We need to coordinate the customer complaint for next week's plan.",
+    example_zh: "為了下週的計畫，我們需要協調客戶抱怨。",
+    topic: "Customer Service",
+    level: 2
+  },
+  {
+    id: 415,
+    word: "coordinate cash flow",
+    pos: "phr.",
+    meaning: "協調現金流",
+    example: "They decided to coordinate the cash flow after the client call.",
+    example_zh: "客戶通話後，他們決定協調現金流。",
+    topic: "Finance",
+    level: 3
+  },
+  {
+    id: 416,
+    word: "coordinate team goal",
+    pos: "phr.",
+    meaning: "協調團隊目標",
+    example: "Could you coordinate the team goal and share the result?",
+    example_zh: "你可以協調團隊目標並分享結果嗎？",
+    topic: "General",
+    level: 1
+  },
+  {
+    id: 417,
+    word: "coordinate quality check",
+    pos: "phr.",
+    meaning: "協調品質檢查",
+    example: "The department will coordinate the quality check every month.",
+    example_zh: "該部門每個月都會協調品質檢查。",
+    topic: "Production",
+    level: 2
+  },
+  {
+    id: 418,
+    word: "coordinate contract term",
+    pos: "phr.",
+    meaning: "協調合約條款",
+    example: "Let's coordinate the contract term to avoid delays.",
+    example_zh: "我們來協調合約條款，以避免延誤。",
+    topic: "Sales",
+    level: 3
+  },
+  {
+    id: 419,
+    word: "coordinate inventory record",
+    pos: "phr.",
+    meaning: "協調庫存紀錄",
+    example: "I will coordinate the inventory record and send you an update.",
+    example_zh: "我會先協調庫存紀錄，再把進度告訴你。",
+    topic: "Logistics",
+    level: 2
+  },
+  {
+    id: 420,
+    word: "coordinate performance review",
+    pos: "phr.",
+    meaning: "協調績效評估",
+    example: "Please help me coordinate the performance review before Friday.",
+    example_zh: "請在週五前協助我協調績效評估。",
+    topic: "HR",
+    level: 3
+  },
+  {
+    id: 421,
+    word: "organize budget",
+    pos: "phr.",
+    meaning: "籌劃預算",
+    example: "We need to organize the budget for next week's plan.",
+    example_zh: "為了下週的計畫，我們需要籌劃預算。",
+    topic: "Finance",
+    level: 2
+  },
+  {
+    id: 422,
+    word: "organize invoice",
+    pos: "phr.",
+    meaning: "籌劃發票",
+    example: "They decided to organize the invoice after the client call.",
+    example_zh: "客戶通話後，他們決定籌劃發票。",
+    topic: "Finance",
+    level: 2
+  },
+  {
+    id: 423,
+    word: "organize meeting agenda",
+    pos: "phr.",
+    meaning: "籌劃會議議程",
+    example: "Could you organize the meeting agenda and share the result?",
+    example_zh: "你可以籌劃會議議程並分享結果嗎？",
+    topic: "Meeting",
+    level: 1
+  },
+  {
+    id: 424,
+    word: "organize email draft",
+    pos: "phr.",
+    meaning: "籌劃郵件草稿",
+    example: "The department will organize the email draft every month.",
+    example_zh: "該部門每個月都會籌劃郵件草稿。",
+    topic: "Email",
+    level: 1
+  },
+  {
+    id: 425,
+    word: "organize sales target",
+    pos: "phr.",
+    meaning: "籌劃銷售目標",
+    example: "Let's organize the sales target to avoid delays.",
+    example_zh: "我們來籌劃銷售目標，以避免延誤。",
+    topic: "Sales",
+    level: 2
+  },
+  {
+    id: 426,
+    word: "organize marketing campaign",
+    pos: "phr.",
+    meaning: "籌劃行銷活動",
+    example: "I will organize the marketing campaign and send you an update.",
+    example_zh: "我會先籌劃行銷活動，再把進度告訴你。",
+    topic: "Marketing",
+    level: 2
+  },
+  {
+    id: 427,
+    word: "organize shipment schedule",
+    pos: "phr.",
+    meaning: "籌劃出貨時程",
+    example: "Please help me organize the shipment schedule before Friday.",
+    example_zh: "請在週五前協助我籌劃出貨時程。",
+    topic: "Logistics",
+    level: 2
+  },
+  {
+    id: 428,
+    word: "organize travel itinerary",
+    pos: "phr.",
+    meaning: "籌劃行程表",
+    example: "Please organize the travel itinerary before the deadline.",
+    example_zh: "請在截止日前籌劃行程表。",
+    topic: "Travel",
+    level: 2
+  },
+  {
+    id: 429,
+    word: "organize service request",
+    pos: "phr.",
+    meaning: "籌劃服務請求",
+    example: "Our team will organize the service request this afternoon.",
+    example_zh: "我們團隊今天下午會籌劃服務請求。",
+    topic: "Customer Service",
+    level: 2
+  },
+  {
+    id: 430,
+    word: "organize project timeline",
+    pos: "phr.",
+    meaning: "籌劃專案時程",
+    example: "The manager asked us to organize the project timeline today.",
+    example_zh: "經理今天要求我們籌劃專案時程。",
+    topic: "Projects",
+    level: 2
+  },
+  {
+    id: 431,
+    word: "organize production plan",
+    pos: "phr.",
+    meaning: "籌劃生產計畫",
+    example: "We need to organize the production plan for next week's plan.",
+    example_zh: "為了下週的計畫，我們需要籌劃生產計畫。",
+    topic: "Production",
+    level: 2
+  },
+  {
+    id: 432,
+    word: "organize office policy",
+    pos: "phr.",
+    meaning: "籌劃辦公政策",
+    example: "They decided to organize the office policy after the client call.",
+    example_zh: "客戶通話後，他們決定籌劃辦公政策。",
+    topic: "Office",
+    level: 2
+  },
+  {
+    id: 433,
+    word: "organize training program",
+    pos: "phr.",
+    meaning: "籌劃培訓計畫",
+    example: "Could you organize the training program and share the result?",
+    example_zh: "你可以籌劃培訓計畫並分享結果嗎？",
+    topic: "HR",
+    level: 2
+  },
+  {
+    id: 434,
+    word: "organize customer complaint",
+    pos: "phr.",
+    meaning: "籌劃客戶抱怨",
+    example: "The department will organize the customer complaint every month.",
+    example_zh: "該部門每個月都會籌劃客戶抱怨。",
+    topic: "Customer Service",
+    level: 2
+  },
+  {
+    id: 435,
+    word: "organize cash flow",
+    pos: "phr.",
+    meaning: "籌劃現金流",
+    example: "Let's organize the cash flow to avoid delays.",
+    example_zh: "我們來籌劃現金流，以避免延誤。",
+    topic: "Finance",
+    level: 3
+  },
+  {
+    id: 436,
+    word: "organize team goal",
+    pos: "phr.",
+    meaning: "籌劃團隊目標",
+    example: "I will organize the team goal and send you an update.",
+    example_zh: "我會先籌劃團隊目標，再把進度告訴你。",
+    topic: "General",
+    level: 1
+  },
+  {
+    id: 437,
+    word: "organize quality check",
+    pos: "phr.",
+    meaning: "籌劃品質檢查",
+    example: "Please help me organize the quality check before Friday.",
+    example_zh: "請在週五前協助我籌劃品質檢查。",
+    topic: "Production",
+    level: 2
+  },
+  {
+    id: 438,
+    word: "organize contract term",
+    pos: "phr.",
+    meaning: "籌劃合約條款",
+    example: "Please organize the contract term before the deadline.",
+    example_zh: "請在截止日前籌劃合約條款。",
+    topic: "Sales",
+    level: 3
+  },
+  {
+    id: 439,
+    word: "organize inventory record",
+    pos: "phr.",
+    meaning: "籌劃庫存紀錄",
+    example: "Our team will organize the inventory record this afternoon.",
+    example_zh: "我們團隊今天下午會籌劃庫存紀錄。",
+    topic: "Logistics",
+    level: 2
+  },
+  {
+    id: 440,
+    word: "organize performance review",
+    pos: "phr.",
+    meaning: "籌劃績效評估",
+    example: "The manager asked us to organize the performance review today.",
+    example_zh: "經理今天要求我們籌劃績效評估。",
+    topic: "HR",
+    level: 3
+  },
+  {
+    id: 441,
+    word: "document budget",
+    pos: "phr.",
+    meaning: "記錄預算",
+    example: "The department will document the budget every month.",
+    example_zh: "該部門每個月都會記錄預算。",
+    topic: "Finance",
+    level: 2
+  },
+  {
+    id: 442,
+    word: "document invoice",
+    pos: "phr.",
+    meaning: "記錄發票",
+    example: "Let's document the invoice to avoid delays.",
+    example_zh: "我們來記錄發票，以避免延誤。",
+    topic: "Finance",
+    level: 2
+  },
+  {
+    id: 443,
+    word: "document meeting agenda",
+    pos: "phr.",
+    meaning: "記錄會議議程",
+    example: "I will document the meeting agenda and send you an update.",
+    example_zh: "我會先記錄會議議程，再把進度告訴你。",
+    topic: "Meeting",
+    level: 1
+  },
+  {
+    id: 444,
+    word: "document email draft",
+    pos: "phr.",
+    meaning: "記錄郵件草稿",
+    example: "Please help me document the email draft before Friday.",
+    example_zh: "請在週五前協助我記錄郵件草稿。",
+    topic: "Email",
+    level: 1
+  },
+  {
+    id: 445,
+    word: "document sales target",
+    pos: "phr.",
+    meaning: "記錄銷售目標",
+    example: "Please document the sales target before the deadline.",
+    example_zh: "請在截止日前記錄銷售目標。",
+    topic: "Sales",
+    level: 2
+  },
+  {
+    id: 446,
+    word: "document marketing campaign",
+    pos: "phr.",
+    meaning: "記錄行銷活動",
+    example: "Our team will document the marketing campaign this afternoon.",
+    example_zh: "我們團隊今天下午會記錄行銷活動。",
+    topic: "Marketing",
+    level: 2
+  },
+  {
+    id: 447,
+    word: "document shipment schedule",
+    pos: "phr.",
+    meaning: "記錄出貨時程",
+    example: "The manager asked us to document the shipment schedule today.",
+    example_zh: "經理今天要求我們記錄出貨時程。",
+    topic: "Logistics",
+    level: 2
+  },
+  {
+    id: 448,
+    word: "document travel itinerary",
+    pos: "phr.",
+    meaning: "記錄行程表",
+    example: "We need to document the travel itinerary for next week's plan.",
+    example_zh: "為了下週的計畫，我們需要記錄行程表。",
+    topic: "Travel",
+    level: 2
+  },
+  {
+    id: 449,
+    word: "document service request",
+    pos: "phr.",
+    meaning: "記錄服務請求",
+    example: "They decided to document the service request after the client call.",
+    example_zh: "客戶通話後，他們決定記錄服務請求。",
+    topic: "Customer Service",
+    level: 2
+  },
+  {
+    id: 450,
+    word: "document project timeline",
+    pos: "phr.",
+    meaning: "記錄專案時程",
+    example: "Could you document the project timeline and share the result?",
+    example_zh: "你可以記錄專案時程並分享結果嗎？",
+    topic: "Projects",
+    level: 2
+  },
+  {
+    id: 451,
+    word: "document production plan",
+    pos: "phr.",
+    meaning: "記錄生產計畫",
+    example: "The department will document the production plan every month.",
+    example_zh: "該部門每個月都會記錄生產計畫。",
+    topic: "Production",
+    level: 2
+  },
+  {
+    id: 452,
+    word: "document office policy",
+    pos: "phr.",
+    meaning: "記錄辦公政策",
+    example: "Let's document the office policy to avoid delays.",
+    example_zh: "我們來記錄辦公政策，以避免延誤。",
+    topic: "Office",
+    level: 2
+  },
+  {
+    id: 453,
+    word: "document training program",
+    pos: "phr.",
+    meaning: "記錄培訓計畫",
+    example: "I will document the training program and send you an update.",
+    example_zh: "我會先記錄培訓計畫，再把進度告訴你。",
+    topic: "HR",
+    level: 2
+  },
+  {
+    id: 454,
+    word: "document customer complaint",
+    pos: "phr.",
+    meaning: "記錄客戶抱怨",
+    example: "Please help me document the customer complaint before Friday.",
+    example_zh: "請在週五前協助我記錄客戶抱怨。",
+    topic: "Customer Service",
+    level: 2
+  },
+  {
+    id: 455,
+    word: "document cash flow",
+    pos: "phr.",
+    meaning: "記錄現金流",
+    example: "Please document the cash flow before the deadline.",
+    example_zh: "請在截止日前記錄現金流。",
+    topic: "Finance",
+    level: 3
+  },
+  {
+    id: 456,
+    word: "document team goal",
+    pos: "phr.",
+    meaning: "記錄團隊目標",
+    example: "Our team will document the team goal this afternoon.",
+    example_zh: "我們團隊今天下午會記錄團隊目標。",
+    topic: "General",
+    level: 1
+  },
+  {
+    id: 457,
+    word: "document quality check",
+    pos: "phr.",
+    meaning: "記錄品質檢查",
+    example: "The manager asked us to document the quality check today.",
+    example_zh: "經理今天要求我們記錄品質檢查。",
+    topic: "Production",
+    level: 2
+  },
+  {
+    id: 458,
+    word: "document contract term",
+    pos: "phr.",
+    meaning: "記錄合約條款",
+    example: "We need to document the contract term for next week's plan.",
+    example_zh: "為了下週的計畫，我們需要記錄合約條款。",
+    topic: "Sales",
+    level: 3
+  },
+  {
+    id: 459,
+    word: "document inventory record",
+    pos: "phr.",
+    meaning: "記錄庫存紀錄",
+    example: "They decided to document the inventory record after the client call.",
+    example_zh: "客戶通話後，他們決定記錄庫存紀錄。",
+    topic: "Logistics",
+    level: 2
+  },
+  {
+    id: 460,
+    word: "document performance review",
+    pos: "phr.",
+    meaning: "記錄績效評估",
+    example: "Could you document the performance review and share the result?",
+    example_zh: "你可以記錄績效評估並分享結果嗎？",
+    topic: "HR",
+    level: 3
+  },
+  {
+    id: 461,
+    word: "forecast budget",
+    pos: "phr.",
+    meaning: "預測預算",
+    example: "Please help me forecast the budget before Friday.",
+    example_zh: "請在週五前協助我預測預算。",
+    topic: "Finance",
+    level: 2
+  },
+  {
+    id: 462,
+    word: "forecast invoice",
+    pos: "phr.",
+    meaning: "預測發票",
+    example: "Please forecast the invoice before the deadline.",
+    example_zh: "請在截止日前預測發票。",
+    topic: "Finance",
+    level: 2
+  },
+  {
+    id: 463,
+    word: "forecast meeting agenda",
+    pos: "phr.",
+    meaning: "預測會議議程",
+    example: "Our team will forecast the meeting agenda this afternoon.",
+    example_zh: "我們團隊今天下午會預測會議議程。",
+    topic: "Meeting",
+    level: 1
+  },
+  {
+    id: 464,
+    word: "forecast email draft",
+    pos: "phr.",
+    meaning: "預測郵件草稿",
+    example: "The manager asked us to forecast the email draft today.",
+    example_zh: "經理今天要求我們預測郵件草稿。",
+    topic: "Email",
+    level: 1
+  },
+  {
+    id: 465,
+    word: "forecast sales target",
+    pos: "phr.",
+    meaning: "預測銷售目標",
+    example: "We need to forecast the sales target for next week's plan.",
+    example_zh: "為了下週的計畫，我們需要預測銷售目標。",
+    topic: "Sales",
+    level: 2
+  },
+  {
+    id: 466,
+    word: "forecast marketing campaign",
+    pos: "phr.",
+    meaning: "預測行銷活動",
+    example: "They decided to forecast the marketing campaign after the client call.",
+    example_zh: "客戶通話後，他們決定預測行銷活動。",
+    topic: "Marketing",
+    level: 2
+  },
+  {
+    id: 467,
+    word: "forecast shipment schedule",
+    pos: "phr.",
+    meaning: "預測出貨時程",
+    example: "Could you forecast the shipment schedule and share the result?",
+    example_zh: "你可以預測出貨時程並分享結果嗎？",
+    topic: "Logistics",
+    level: 2
+  },
+  {
+    id: 468,
+    word: "forecast travel itinerary",
+    pos: "phr.",
+    meaning: "預測行程表",
+    example: "The department will forecast the travel itinerary every month.",
+    example_zh: "該部門每個月都會預測行程表。",
+    topic: "Travel",
+    level: 2
+  },
+  {
+    id: 469,
+    word: "forecast service request",
+    pos: "phr.",
+    meaning: "預測服務請求",
+    example: "Let's forecast the service request to avoid delays.",
+    example_zh: "我們來預測服務請求，以避免延誤。",
+    topic: "Customer Service",
+    level: 2
+  },
+  {
+    id: 470,
+    word: "forecast project timeline",
+    pos: "phr.",
+    meaning: "預測專案時程",
+    example: "I will forecast the project timeline and send you an update.",
+    example_zh: "我會先預測專案時程，再把進度告訴你。",
+    topic: "Projects",
+    level: 2
+  },
+  {
+    id: 471,
+    word: "forecast production plan",
+    pos: "phr.",
+    meaning: "預測生產計畫",
+    example: "Please help me forecast the production plan before Friday.",
+    example_zh: "請在週五前協助我預測生產計畫。",
+    topic: "Production",
+    level: 2
+  },
+  {
+    id: 472,
+    word: "forecast office policy",
+    pos: "phr.",
+    meaning: "預測辦公政策",
+    example: "Please forecast the office policy before the deadline.",
+    example_zh: "請在截止日前預測辦公政策。",
+    topic: "Office",
+    level: 2
+  },
+  {
+    id: 473,
+    word: "forecast training program",
+    pos: "phr.",
+    meaning: "預測培訓計畫",
+    example: "Our team will forecast the training program this afternoon.",
+    example_zh: "我們團隊今天下午會預測培訓計畫。",
+    topic: "HR",
+    level: 2
+  },
+  {
+    id: 474,
+    word: "forecast customer complaint",
+    pos: "phr.",
+    meaning: "預測客戶抱怨",
+    example: "The manager asked us to forecast the customer complaint today.",
+    example_zh: "經理今天要求我們預測客戶抱怨。",
+    topic: "Customer Service",
+    level: 2
+  },
+  {
+    id: 475,
+    word: "forecast cash flow",
+    pos: "phr.",
+    meaning: "預測現金流",
+    example: "We need to forecast the cash flow for next week's plan.",
+    example_zh: "為了下週的計畫，我們需要預測現金流。",
+    topic: "Finance",
+    level: 3
+  },
+  {
+    id: 476,
+    word: "forecast team goal",
+    pos: "phr.",
+    meaning: "預測團隊目標",
+    example: "They decided to forecast the team goal after the client call.",
+    example_zh: "客戶通話後，他們決定預測團隊目標。",
+    topic: "General",
+    level: 1
+  },
+  {
+    id: 477,
+    word: "forecast quality check",
+    pos: "phr.",
+    meaning: "預測品質檢查",
+    example: "Could you forecast the quality check and share the result?",
+    example_zh: "你可以預測品質檢查並分享結果嗎？",
+    topic: "Production",
+    level: 2
+  },
+  {
+    id: 478,
+    word: "forecast contract term",
+    pos: "phr.",
+    meaning: "預測合約條款",
+    example: "The department will forecast the contract term every month.",
+    example_zh: "該部門每個月都會預測合約條款。",
+    topic: "Sales",
+    level: 3
+  },
+  {
+    id: 479,
+    word: "forecast inventory record",
+    pos: "phr.",
+    meaning: "預測庫存紀錄",
+    example: "Let's forecast the inventory record to avoid delays.",
+    example_zh: "我們來預測庫存紀錄，以避免延誤。",
+    topic: "Logistics",
+    level: 2
+  },
+  {
+    id: 480,
+    word: "forecast performance review",
+    pos: "phr.",
+    meaning: "預測績效評估",
+    example: "I will forecast the performance review and send you an update.",
+    example_zh: "我會先預測績效評估，再把進度告訴你。",
+    topic: "HR",
+    level: 3
+  },
+  {
+    id: 481,
+    word: "evaluate budget",
+    pos: "phr.",
+    meaning: "評估預算",
+    example: "The manager asked us to evaluate the budget today.",
+    example_zh: "經理今天要求我們評估預算。",
+    topic: "Finance",
+    level: 2
+  },
+  {
+    id: 482,
+    word: "evaluate invoice",
+    pos: "phr.",
+    meaning: "評估發票",
+    example: "We need to evaluate the invoice for next week's plan.",
+    example_zh: "為了下週的計畫，我們需要評估發票。",
+    topic: "Finance",
+    level: 2
+  },
+  {
+    id: 483,
+    word: "evaluate meeting agenda",
+    pos: "phr.",
+    meaning: "評估會議議程",
+    example: "They decided to evaluate the meeting agenda after the client call.",
+    example_zh: "客戶通話後，他們決定評估會議議程。",
+    topic: "Meeting",
+    level: 1
+  },
+  {
+    id: 484,
+    word: "evaluate email draft",
+    pos: "phr.",
+    meaning: "評估郵件草稿",
+    example: "Could you evaluate the email draft and share the result?",
+    example_zh: "你可以評估郵件草稿並分享結果嗎？",
+    topic: "Email",
+    level: 1
+  },
+  {
+    id: 485,
+    word: "evaluate sales target",
+    pos: "phr.",
+    meaning: "評估銷售目標",
+    example: "The department will evaluate the sales target every month.",
+    example_zh: "該部門每個月都會評估銷售目標。",
+    topic: "Sales",
+    level: 2
+  },
+  {
+    id: 486,
+    word: "evaluate marketing campaign",
+    pos: "phr.",
+    meaning: "評估行銷活動",
+    example: "Let's evaluate the marketing campaign to avoid delays.",
+    example_zh: "我們來評估行銷活動，以避免延誤。",
+    topic: "Marketing",
+    level: 2
+  },
+  {
+    id: 487,
+    word: "evaluate shipment schedule",
+    pos: "phr.",
+    meaning: "評估出貨時程",
+    example: "I will evaluate the shipment schedule and send you an update.",
+    example_zh: "我會先評估出貨時程，再把進度告訴你。",
+    topic: "Logistics",
+    level: 2
+  },
+  {
+    id: 488,
+    word: "evaluate travel itinerary",
+    pos: "phr.",
+    meaning: "評估行程表",
+    example: "Please help me evaluate the travel itinerary before Friday.",
+    example_zh: "請在週五前協助我評估行程表。",
+    topic: "Travel",
+    level: 2
+  },
+  {
+    id: 489,
+    word: "evaluate service request",
+    pos: "phr.",
+    meaning: "評估服務請求",
+    example: "Please evaluate the service request before the deadline.",
+    example_zh: "請在截止日前評估服務請求。",
+    topic: "Customer Service",
+    level: 2
+  },
+  {
+    id: 490,
+    word: "evaluate project timeline",
+    pos: "phr.",
+    meaning: "評估專案時程",
+    example: "Our team will evaluate the project timeline this afternoon.",
+    example_zh: "我們團隊今天下午會評估專案時程。",
+    topic: "Projects",
+    level: 2
+  },
+  {
+    id: 491,
+    word: "evaluate production plan",
+    pos: "phr.",
+    meaning: "評估生產計畫",
+    example: "The manager asked us to evaluate the production plan today.",
+    example_zh: "經理今天要求我們評估生產計畫。",
+    topic: "Production",
+    level: 2
+  },
+  {
+    id: 492,
+    word: "evaluate office policy",
+    pos: "phr.",
+    meaning: "評估辦公政策",
+    example: "We need to evaluate the office policy for next week's plan.",
+    example_zh: "為了下週的計畫，我們需要評估辦公政策。",
+    topic: "Office",
+    level: 2
+  },
+  {
+    id: 493,
+    word: "evaluate training program",
+    pos: "phr.",
+    meaning: "評估培訓計畫",
+    example: "They decided to evaluate the training program after the client call.",
+    example_zh: "客戶通話後，他們決定評估培訓計畫。",
+    topic: "HR",
+    level: 2
+  },
+  {
+    id: 494,
+    word: "evaluate customer complaint",
+    pos: "phr.",
+    meaning: "評估客戶抱怨",
+    example: "Could you evaluate the customer complaint and share the result?",
+    example_zh: "你可以評估客戶抱怨並分享結果嗎？",
+    topic: "Customer Service",
+    level: 2
+  },
+  {
+    id: 495,
+    word: "evaluate cash flow",
+    pos: "phr.",
+    meaning: "評估現金流",
+    example: "The department will evaluate the cash flow every month.",
+    example_zh: "該部門每個月都會評估現金流。",
+    topic: "Finance",
+    level: 3
+  },
+  {
+    id: 496,
+    word: "evaluate team goal",
+    pos: "phr.",
+    meaning: "評估團隊目標",
+    example: "Let's evaluate the team goal to avoid delays.",
+    example_zh: "我們來評估團隊目標，以避免延誤。",
+    topic: "General",
+    level: 1
+  },
+  {
+    id: 497,
+    word: "evaluate quality check",
+    pos: "phr.",
+    meaning: "評估品質檢查",
+    example: "I will evaluate the quality check and send you an update.",
+    example_zh: "我會先評估品質檢查，再把進度告訴你。",
+    topic: "Production",
+    level: 2
+  },
+  {
+    id: 498,
+    word: "evaluate contract term",
+    pos: "phr.",
+    meaning: "評估合約條款",
+    example: "Please help me evaluate the contract term before Friday.",
+    example_zh: "請在週五前協助我評估合約條款。",
+    topic: "Sales",
+    level: 3
+  },
+  {
+    id: 499,
+    word: "evaluate inventory record",
+    pos: "phr.",
+    meaning: "評估庫存紀錄",
+    example: "Please evaluate the inventory record before the deadline.",
+    example_zh: "請在截止日前評估庫存紀錄。",
+    topic: "Logistics",
+    level: 2
+  },
+  {
+    id: 500,
+    word: "evaluate performance review",
+    pos: "phr.",
+    meaning: "評估績效評估",
+    example: "Our team will evaluate the performance review this afternoon.",
+    example_zh: "我們團隊今天下午會評估績效評估。",
+    topic: "HR",
+    level: 3
   }
 ];
