@@ -40,7 +40,7 @@ def check_dummy_translator() -> None:
 
 
 def check_pipeline_dry_run() -> None:
-    out_path = Path("car-spanish-auto-pipeline/output/dryrun.json")
+    out_path = Path("output/dryrun.json")
     opts = PipelineOptions(
         input_value="bad",
         out_path=out_path,
