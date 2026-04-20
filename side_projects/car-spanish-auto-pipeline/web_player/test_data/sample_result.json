@@ -1,0 +1,20 @@
+[
+  {
+    "start": 0,
+    "end": 3,
+    "es": "Hola, cómo estás",
+    "zh": "你好，你過得如何"
+  },
+  {
+    "start": 3,
+    "end": 6,
+    "es": "Estoy bien, gracias",
+    "zh": "我很好，謝謝"
+  },
+  {
+    "start": 6,
+    "end": 9,
+    "es": "Vamos a cantar",
+    "zh": "我們來唱歌吧"
+  }
+]
