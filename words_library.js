@@ -6,8 +6,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "帳戶；帳目",
-    "example": "The team reviewed the account before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項帳戶。"
+    "example": "The quarterly report identified account as a key focus area.",
+    "example_zh": "季度報告將 account 列為關鍵關注項目。"
   },
   {
     "word": "accounting",
@@ -16,8 +16,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "會計",
-    "example": "Please include the accounting in tomorrow's email update.",
-    "example_zh": "請把這項會計加入明天的郵件更新。"
+    "example": "We discussed accounting during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 accounting。"
   },
   {
     "word": "acquisition",
@@ -26,8 +26,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "收購；取得",
-    "example": "Our manager approved the acquisition for this quarter.",
-    "example_zh": "經理已核准本季的收購安排。"
+    "example": "The manager asked for an update on acquisition before Friday.",
+    "example_zh": "經理要求在週五前提供 acquisition 的最新進度。"
   },
   {
     "word": "action",
@@ -36,8 +36,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "行動；措施",
-    "example": "The client asked for the latest action during the call.",
-    "example_zh": "客戶在通話中要求最新的行動資訊。"
+    "example": "Our team improved action to support the new project.",
+    "example_zh": "我們團隊已改善 action 以支援新專案。"
   },
   {
     "word": "adaptation",
@@ -46,8 +46,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "調整；適應",
-    "example": "The department tracks each adaptation in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項調整。"
+    "example": "The client requested details about adaptation in the proposal.",
+    "example_zh": "客戶在提案中要求提供 adaptation 的細節。"
   },
   {
     "word": "adjustment",
@@ -56,8 +56,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "調整；修正",
-    "example": "The team reviewed the adjustment before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項調整。"
+    "example": "The quarterly report identified adjustment as a key focus area.",
+    "example_zh": "季度報告將 adjustment 列為關鍵關注項目。"
   },
   {
     "word": "administration",
@@ -66,8 +66,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "行政管理；主管部門",
-    "example": "Please include the administration in tomorrow's email update.",
-    "example_zh": "請把這項行政管理加入明天的郵件更新。"
+    "example": "We discussed administration during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 administration。"
   },
   {
     "word": "administrator",
@@ -76,8 +76,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "管理人員",
-    "example": "Our manager approved the administrator for this quarter.",
-    "example_zh": "經理已核准本季的管理人員安排。"
+    "example": "The manager asked for an update on administrator before Friday.",
+    "example_zh": "經理要求在週五前提供 administrator 的最新進度。"
   },
   {
     "word": "advertisement",
@@ -86,8 +86,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "廣告",
-    "example": "The client asked for the latest advertisement during the call.",
-    "example_zh": "客戶在通話中要求最新的廣告資訊。"
+    "example": "Our team improved advertisement to support the new project.",
+    "example_zh": "我們團隊已改善 advertisement 以支援新專案。"
   },
   {
     "word": "advertiser",
@@ -96,8 +96,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "廣告主",
-    "example": "The department tracks each advertiser in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項廣告主。"
+    "example": "The client requested details about advertiser in the proposal.",
+    "example_zh": "客戶在提案中要求提供 advertiser 的細節。"
   },
   {
     "word": "advertising",
@@ -106,8 +106,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "廣告行銷",
-    "example": "The team reviewed the advertising before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項廣告行銷。"
+    "example": "The quarterly report identified advertising as a key focus area.",
+    "example_zh": "季度報告將 advertising 列為關鍵關注項目。"
   },
   {
     "word": "advice",
@@ -116,8 +116,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "建議",
-    "example": "Please include the advice in tomorrow's email update.",
-    "example_zh": "請把這項建議加入明天的郵件更新。"
+    "example": "We discussed advice during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 advice。"
   },
   {
     "word": "agenda",
@@ -126,8 +126,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Meeting",
     "meaning": "議程",
-    "example": "Our manager approved the agenda for this quarter.",
-    "example_zh": "經理已核准本季的議程安排。"
+    "example": "The manager asked for an update on agenda before Friday.",
+    "example_zh": "經理要求在週五前提供 agenda 的最新進度。"
   },
   {
     "word": "agreement",
@@ -136,8 +136,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Legal",
     "meaning": "協議；合約",
-    "example": "The client asked for the latest agreement during the call.",
-    "example_zh": "客戶在通話中要求最新的協議資訊。"
+    "example": "Our team improved agreement to support the new project.",
+    "example_zh": "我們團隊已改善 agreement 以支援新專案。"
   },
   {
     "word": "allocation",
@@ -146,8 +146,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "分配",
-    "example": "The department tracks each allocation in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項分配。"
+    "example": "The client requested details about allocation in the proposal.",
+    "example_zh": "客戶在提案中要求提供 allocation 的細節。"
   },
   {
     "word": "allowance",
@@ -156,8 +156,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "津貼",
-    "example": "The team reviewed the allowance before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項津貼。"
+    "example": "The quarterly report identified allowance as a key focus area.",
+    "example_zh": "季度報告將 allowance 列為關鍵關注項目。"
   },
   {
     "word": "analysis",
@@ -166,8 +166,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "分析",
-    "example": "Please include the analysis in tomorrow's email update.",
-    "example_zh": "請把這項分析加入明天的郵件更新。"
+    "example": "We discussed analysis during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 analysis。"
   },
   {
     "word": "analyst",
@@ -176,8 +176,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "分析師",
-    "example": "Our manager approved the analyst for this quarter.",
-    "example_zh": "經理已核准本季的分析師安排。"
+    "example": "The manager asked for an update on analyst before Friday.",
+    "example_zh": "經理要求在週五前提供 analyst 的最新進度。"
   },
   {
     "word": "announcement",
@@ -186,8 +186,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "公告",
-    "example": "The client asked for the latest announcement during the call.",
-    "example_zh": "客戶在通話中要求最新的公告資訊。"
+    "example": "Our team improved announcement to support the new project.",
+    "example_zh": "我們團隊已改善 announcement 以支援新專案。"
   },
   {
     "word": "applicant",
@@ -196,8 +196,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "應徵者",
-    "example": "The department tracks each applicant in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項應徵者。"
+    "example": "The client requested details about applicant in the proposal.",
+    "example_zh": "客戶在提案中要求提供 applicant 的細節。"
   },
   {
     "word": "application",
@@ -206,8 +206,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "申請；應用",
-    "example": "The team reviewed the application before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項申請。"
+    "example": "The quarterly report identified application as a key focus area.",
+    "example_zh": "季度報告將 application 列為關鍵關注項目。"
   },
   {
     "word": "appointment",
@@ -216,8 +216,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "約定；任命",
-    "example": "Please include the appointment in tomorrow's email update.",
-    "example_zh": "請把這項約定加入明天的郵件更新。"
+    "example": "We discussed appointment during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 appointment。"
   },
   {
     "word": "appraisal",
@@ -226,8 +226,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "評估",
-    "example": "Our manager approved the appraisal for this quarter.",
-    "example_zh": "經理已核准本季的評估安排。"
+    "example": "The manager asked for an update on appraisal before Friday.",
+    "example_zh": "經理要求在週五前提供 appraisal 的最新進度。"
   },
   {
     "word": "approval",
@@ -236,8 +236,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "核准",
-    "example": "The client asked for the latest approval during the call.",
-    "example_zh": "客戶在通話中要求最新的核准資訊。"
+    "example": "Our team improved approval to support the new project.",
+    "example_zh": "我們團隊已改善 approval 以支援新專案。"
   },
   {
     "word": "archive",
@@ -246,8 +246,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "檔案庫",
-    "example": "The department tracks each archive in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項檔案庫。"
+    "example": "The client requested details about archive in the proposal.",
+    "example_zh": "客戶在提案中要求提供 archive 的細節。"
   },
   {
     "word": "arrangement",
@@ -256,8 +256,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "安排",
-    "example": "The team reviewed the arrangement before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項安排。"
+    "example": "The quarterly report identified arrangement as a key focus area.",
+    "example_zh": "季度報告將 arrangement 列為關鍵關注項目。"
   },
   {
     "word": "assessment",
@@ -266,8 +266,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "評估",
-    "example": "Please include the assessment in tomorrow's email update.",
-    "example_zh": "請把這項評估加入明天的郵件更新。"
+    "example": "We discussed assessment during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 assessment。"
   },
   {
     "word": "asset",
@@ -276,8 +276,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "資產",
-    "example": "Our manager approved the asset for this quarter.",
-    "example_zh": "經理已核准本季的資產安排。"
+    "example": "The manager asked for an update on asset before Friday.",
+    "example_zh": "經理要求在週五前提供 asset 的最新進度。"
   },
   {
     "word": "assignment",
@@ -286,8 +286,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "任務",
-    "example": "The client asked for the latest assignment during the call.",
-    "example_zh": "客戶在通話中要求最新的任務資訊。"
+    "example": "Our team improved assignment to support the new project.",
+    "example_zh": "我們團隊已改善 assignment 以支援新專案。"
   },
   {
     "word": "assistance",
@@ -296,8 +296,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "協助",
-    "example": "The department tracks each assistance in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項協助。"
+    "example": "The client requested details about assistance in the proposal.",
+    "example_zh": "客戶在提案中要求提供 assistance 的細節。"
   },
   {
     "word": "assistant",
@@ -306,8 +306,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "助理",
-    "example": "The team reviewed the assistant before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項助理。"
+    "example": "The quarterly report identified assistant as a key focus area.",
+    "example_zh": "季度報告將 assistant 列為關鍵關注項目。"
   },
   {
     "word": "assurance",
@@ -316,8 +316,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "保證",
-    "example": "Please include the assurance in tomorrow's email update.",
-    "example_zh": "請把這項保證加入明天的郵件更新。"
+    "example": "We discussed assurance during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 assurance。"
   },
   {
     "word": "attendance",
@@ -326,8 +326,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "出席",
-    "example": "Our manager approved the attendance for this quarter.",
-    "example_zh": "經理已核准本季的出席安排。"
+    "example": "The manager asked for an update on attendance before Friday.",
+    "example_zh": "經理要求在週五前提供 attendance 的最新進度。"
   },
   {
     "word": "attendee",
@@ -336,8 +336,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "與會者",
-    "example": "The client asked for the latest attendee during the call.",
-    "example_zh": "客戶在通話中要求最新的與會者資訊。"
+    "example": "Our team improved attendee to support the new project.",
+    "example_zh": "我們團隊已改善 attendee 以支援新專案。"
   },
   {
     "word": "attitude",
@@ -346,8 +346,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "態度",
-    "example": "The department tracks each attitude in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項態度。"
+    "example": "The client requested details about attitude in the proposal.",
+    "example_zh": "客戶在提案中要求提供 attitude 的細節。"
   },
   {
     "word": "audit",
@@ -356,8 +356,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "稽核",
-    "example": "The team reviewed the audit before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項稽核。"
+    "example": "The quarterly report identified audit as a key focus area.",
+    "example_zh": "季度報告將 audit 列為關鍵關注項目。"
   },
   {
     "word": "auditor",
@@ -366,8 +366,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "稽核員",
-    "example": "Please include the auditor in tomorrow's email update.",
-    "example_zh": "請把這項稽核員加入明天的郵件更新。"
+    "example": "We discussed auditor during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 auditor。"
   },
   {
     "word": "authentication",
@@ -376,8 +376,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "驗證",
-    "example": "Our manager approved the authentication for this quarter.",
-    "example_zh": "經理已核准本季的驗證安排。"
+    "example": "The manager asked for an update on authentication before Friday.",
+    "example_zh": "經理要求在週五前提供 authentication 的最新進度。"
   },
   {
     "word": "authority",
@@ -386,8 +386,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Legal",
     "meaning": "權限；權威",
-    "example": "The client asked for the latest authority during the call.",
-    "example_zh": "客戶在通話中要求最新的權限資訊。"
+    "example": "Our team improved authority to support the new project.",
+    "example_zh": "我們團隊已改善 authority 以支援新專案。"
   },
   {
     "word": "automation",
@@ -396,8 +396,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "自動化",
-    "example": "The department tracks each automation in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項自動化。"
+    "example": "The client requested details about automation in the proposal.",
+    "example_zh": "客戶在提案中要求提供 automation 的細節。"
   },
   {
     "word": "availability",
@@ -406,8 +406,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "可用性",
-    "example": "The team reviewed the availability before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項可用性。"
+    "example": "The quarterly report identified availability as a key focus area.",
+    "example_zh": "季度報告將 availability 列為關鍵關注項目。"
   },
   {
     "word": "average",
@@ -416,8 +416,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "平均值",
-    "example": "Please include the average in tomorrow's email update.",
-    "example_zh": "請把這項平均值加入明天的郵件更新。"
+    "example": "We discussed average during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 average。"
   },
   {
     "word": "balance",
@@ -426,8 +426,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "餘額；平衡",
-    "example": "Our manager approved the balance for this quarter.",
-    "example_zh": "經理已核准本季的餘額安排。"
+    "example": "The manager asked for an update on balance before Friday.",
+    "example_zh": "經理要求在週五前提供 balance 的最新進度。"
   },
   {
     "word": "banker",
@@ -436,8 +436,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "銀行家",
-    "example": "The client asked for the latest banker during the call.",
-    "example_zh": "客戶在通話中要求最新的銀行家資訊。"
+    "example": "Our team improved banker to support the new project.",
+    "example_zh": "我們團隊已改善 banker 以支援新專案。"
   },
   {
     "word": "banking",
@@ -446,8 +446,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "銀行業務",
-    "example": "The department tracks each banking in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項銀行業務。"
+    "example": "The client requested details about banking in the proposal.",
+    "example_zh": "客戶在提案中要求提供 banking 的細節。"
   },
   {
     "word": "bankruptcy",
@@ -456,8 +456,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "破產",
-    "example": "The team reviewed the bankruptcy before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項破產。"
+    "example": "The quarterly report identified bankruptcy as a key focus area.",
+    "example_zh": "季度報告將 bankruptcy 列為關鍵關注項目。"
   },
   {
     "word": "benchmark",
@@ -466,8 +466,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "基準",
-    "example": "Our manager approved the benchmark for this quarter.",
-    "example_zh": "經理已核准本季的基準安排。"
+    "example": "We discussed benchmark during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 benchmark。"
   },
   {
     "word": "beneficiary",
@@ -476,8 +476,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "受益人",
-    "example": "The client asked for the latest beneficiary during the call.",
-    "example_zh": "客戶在通話中要求最新的受益人資訊。"
+    "example": "The manager asked for an update on beneficiary before Friday.",
+    "example_zh": "經理要求在週五前提供 beneficiary 的最新進度。"
   },
   {
     "word": "benefit",
@@ -486,8 +486,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "效益；福利",
-    "example": "The department tracks each benefit in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項效益。"
+    "example": "Our team improved benefit to support the new project.",
+    "example_zh": "我們團隊已改善 benefit 以支援新專案。"
   },
   {
     "word": "bid",
@@ -496,8 +496,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "投標",
-    "example": "The team reviewed the bid before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項投標。"
+    "example": "The client requested details about bid in the proposal.",
+    "example_zh": "客戶在提案中要求提供 bid 的細節。"
   },
   {
     "word": "billing",
@@ -506,8 +506,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "帳務作業",
-    "example": "Please include the billing in tomorrow's email update.",
-    "example_zh": "請把這項帳務作業加入明天的郵件更新。"
+    "example": "The quarterly report identified billing as a key focus area.",
+    "example_zh": "季度報告將 billing 列為關鍵關注項目。"
   },
   {
     "word": "bonus",
@@ -516,8 +516,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "獎金",
-    "example": "Our manager approved the bonus for this quarter.",
-    "example_zh": "經理已核准本季的獎金安排。"
+    "example": "We discussed bonus during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 bonus。"
   },
   {
     "word": "bookkeeping",
@@ -526,8 +526,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "簿記",
-    "example": "The client asked for the latest bookkeeping during the call.",
-    "example_zh": "客戶在通話中要求最新的簿記資訊。"
+    "example": "The manager asked for an update on bookkeeping before Friday.",
+    "example_zh": "經理要求在週五前提供 bookkeeping 的最新進度。"
   },
   {
     "word": "brand",
@@ -536,8 +536,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "品牌",
-    "example": "The department tracks each brand in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項品牌。"
+    "example": "Our team improved brand to support the new project.",
+    "example_zh": "我們團隊已改善 brand 以支援新專案。"
   },
   {
     "word": "branding",
@@ -545,9 +545,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Marketing",
-    "meaning": "進行中的作業",
-    "example": "The team reviewed the branding before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項進行中的作業。"
+    "meaning": "品牌經營；品牌識別",
+    "example": "The client requested details about branding in the proposal.",
+    "example_zh": "客戶在提案中要求提供 branding 的細節。"
   },
   {
     "word": "budget",
@@ -556,8 +556,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "預算",
-    "example": "The client asked for the latest budget during the call.",
-    "example_zh": "客戶在通話中要求最新的預算資訊。"
+    "example": "The quarterly report identified budget as a key focus area.",
+    "example_zh": "季度報告將 budget 列為關鍵關注項目。"
   },
   {
     "word": "budgeting",
@@ -565,9 +565,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Finance",
-    "meaning": "進行中的作業",
-    "example": "The department tracks each budgeting in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項進行中的作業。"
+    "meaning": "預算編列",
+    "example": "We discussed budgeting during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 budgeting。"
   },
   {
     "word": "buyer",
@@ -576,8 +576,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "買方",
-    "example": "Please include the buyer in tomorrow's email update.",
-    "example_zh": "請把這項買方加入明天的郵件更新。"
+    "example": "The manager asked for an update on buyer before Friday.",
+    "example_zh": "經理要求在週五前提供 buyer 的最新進度。"
   },
   {
     "word": "calculation",
@@ -585,9 +585,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Business",
-    "meaning": "流程；作業",
-    "example": "The client asked for the latest calculation during the call.",
-    "example_zh": "客戶在通話中要求最新的流程資訊。"
+    "meaning": "作業流程；處理程序",
+    "example": "Our team improved calculation to support the new project.",
+    "example_zh": "我們團隊已改善 calculation 以支援新專案。"
   },
   {
     "word": "campaign",
@@ -596,8 +596,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "行銷活動",
-    "example": "The department tracks each campaign in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項行銷活動。"
+    "example": "The client requested details about campaign in the proposal.",
+    "example_zh": "客戶在提案中要求提供 campaign 的細節。"
   },
   {
     "word": "candidate",
@@ -606,8 +606,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "候選人",
-    "example": "The team reviewed the candidate before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項候選人。"
+    "example": "The quarterly report identified candidate as a key focus area.",
+    "example_zh": "季度報告將 candidate 列為關鍵關注項目。"
   },
   {
     "word": "capacity",
@@ -616,8 +616,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "產能；容量",
-    "example": "Please include the capacity in tomorrow's email update.",
-    "example_zh": "請把這項產能加入明天的郵件更新。"
+    "example": "We discussed capacity during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 capacity。"
   },
   {
     "word": "capital",
@@ -626,8 +626,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "資本",
-    "example": "Our manager approved the capital for this quarter.",
-    "example_zh": "經理已核准本季的資本安排。"
+    "example": "The manager asked for an update on capital before Friday.",
+    "example_zh": "經理要求在週五前提供 capital 的最新進度。"
   },
   {
     "word": "catalog",
@@ -636,8 +636,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "目錄",
-    "example": "Please include the catalog in tomorrow's email update.",
-    "example_zh": "請把這項目錄加入明天的郵件更新。"
+    "example": "Our team improved catalog to support the new project.",
+    "example_zh": "我們團隊已改善 catalog 以支援新專案。"
   },
   {
     "word": "category",
@@ -646,8 +646,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "類別",
-    "example": "Our manager approved the category for this quarter.",
-    "example_zh": "經理已核准本季的類別安排。"
+    "example": "The client requested details about category in the proposal.",
+    "example_zh": "客戶在提案中要求提供 category 的細節。"
   },
   {
     "word": "certification",
@@ -656,8 +656,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "認證",
-    "example": "The client asked for the latest certification during the call.",
-    "example_zh": "客戶在通話中要求最新的認證資訊。"
+    "example": "The quarterly report identified certification as a key focus area.",
+    "example_zh": "季度報告將 certification 列為關鍵關注項目。"
   },
   {
     "word": "channel",
@@ -666,8 +666,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "通路",
-    "example": "Please include the channel in tomorrow's email update.",
-    "example_zh": "請把這項通路加入明天的郵件更新。"
+    "example": "We discussed channel during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 channel。"
   },
   {
     "word": "checklist",
@@ -676,8 +676,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "檢查清單",
-    "example": "Our manager approved the checklist for this quarter.",
-    "example_zh": "經理已核准本季的檢查清單安排。"
+    "example": "The manager asked for an update on checklist before Friday.",
+    "example_zh": "經理要求在週五前提供 checklist 的最新進度。"
   },
   {
     "word": "circulation",
@@ -685,9 +685,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Business",
-    "meaning": "流程；作業",
-    "example": "The department tracks each circulation in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項流程。"
+    "meaning": "作業流程；處理程序",
+    "example": "Our team improved circulation to support the new project.",
+    "example_zh": "我們團隊已改善 circulation 以支援新專案。"
   },
   {
     "word": "claim",
@@ -696,8 +696,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "索賠；主張",
-    "example": "The team reviewed the claim before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項索賠。"
+    "example": "The client requested details about claim in the proposal.",
+    "example_zh": "客戶在提案中要求提供 claim 的細節。"
   },
   {
     "word": "clarification",
@@ -705,9 +705,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Business",
-    "meaning": "流程；作業",
-    "example": "Please include the clarification in tomorrow's email update.",
-    "example_zh": "請把這項流程加入明天的郵件更新。"
+    "meaning": "作業流程；處理程序",
+    "example": "The quarterly report identified clarification as a key focus area.",
+    "example_zh": "季度報告將 clarification 列為關鍵關注項目。"
   },
   {
     "word": "classification",
@@ -715,9 +715,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Business",
-    "meaning": "流程；作業",
-    "example": "Our manager approved the classification for this quarter.",
-    "example_zh": "經理已核准本季的流程安排。"
+    "meaning": "作業流程；處理程序",
+    "example": "We discussed classification during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 classification。"
   },
   {
     "word": "client",
@@ -726,8 +726,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "客戶",
-    "example": "The client asked for the latest client during the call.",
-    "example_zh": "客戶在通話中要求最新的客戶資訊。"
+    "example": "The manager asked for an update on client before Friday.",
+    "example_zh": "經理要求在週五前提供 client 的最新進度。"
   },
   {
     "word": "collaboration",
@@ -736,8 +736,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "協作",
-    "example": "Please include the collaboration in tomorrow's email update.",
-    "example_zh": "請把這項協作加入明天的郵件更新。"
+    "example": "Our team improved collaboration to support the new project.",
+    "example_zh": "我們團隊已改善 collaboration 以支援新專案。"
   },
   {
     "word": "collection",
@@ -745,9 +745,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Business",
-    "meaning": "流程；作業",
-    "example": "The client asked for the latest collection during the call.",
-    "example_zh": "客戶在通話中要求最新的流程資訊。"
+    "meaning": "作業流程；處理程序",
+    "example": "The client requested details about collection in the proposal.",
+    "example_zh": "客戶在提案中要求提供 collection 的細節。"
   },
   {
     "word": "committee",
@@ -756,8 +756,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "委員會",
-    "example": "The team reviewed the committee before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項委員會。"
+    "example": "The quarterly report identified committee as a key focus area.",
+    "example_zh": "季度報告將 committee 列為關鍵關注項目。"
   },
   {
     "word": "communication",
@@ -766,8 +766,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "溝通",
-    "example": "Please include the communication in tomorrow's email update.",
-    "example_zh": "請把這項溝通加入明天的郵件更新。"
+    "example": "We discussed communication during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 communication。"
   },
   {
     "word": "compensation",
@@ -776,8 +776,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "薪酬；補償",
-    "example": "The department tracks each compensation in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項薪酬。"
+    "example": "The manager asked for an update on compensation before Friday.",
+    "example_zh": "經理要求在週五前提供 compensation 的最新進度。"
   },
   {
     "word": "competitor",
@@ -786,8 +786,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "競爭者",
-    "example": "Please include the competitor in tomorrow's email update.",
-    "example_zh": "請把這項競爭者加入明天的郵件更新。"
+    "example": "Our team improved competitor to support the new project.",
+    "example_zh": "我們團隊已改善 competitor 以支援新專案。"
   },
   {
     "word": "complaint",
@@ -796,8 +796,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "客訴；申訴",
-    "example": "Our manager approved the complaint for this quarter.",
-    "example_zh": "經理已核准本季的客訴安排。"
+    "example": "The client requested details about complaint in the proposal.",
+    "example_zh": "客戶在提案中要求提供 complaint 的細節。"
   },
   {
     "word": "compliance",
@@ -806,8 +806,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Legal",
     "meaning": "合規",
-    "example": "The client asked for the latest compliance during the call.",
-    "example_zh": "客戶在通話中要求最新的合規資訊。"
+    "example": "The quarterly report identified compliance as a key focus area.",
+    "example_zh": "季度報告將 compliance 列為關鍵關注項目。"
   },
   {
     "word": "component",
@@ -816,8 +816,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "組件",
-    "example": "The department tracks each component in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項組件。"
+    "example": "We discussed component during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 component。"
   },
   {
     "word": "composition",
@@ -825,9 +825,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Business",
-    "meaning": "流程；作業",
-    "example": "The team reviewed the composition before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項流程。"
+    "meaning": "作業流程；處理程序",
+    "example": "The manager asked for an update on composition before Friday.",
+    "example_zh": "經理要求在週五前提供 composition 的最新進度。"
   },
   {
     "word": "computation",
@@ -835,9 +835,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Business",
-    "meaning": "流程；作業",
-    "example": "Our manager approved the computation for this quarter.",
-    "example_zh": "經理已核准本季的流程安排。"
+    "meaning": "作業流程；處理程序",
+    "example": "Our team improved computation to support the new project.",
+    "example_zh": "我們團隊已改善 computation 以支援新專案。"
   },
   {
     "word": "concentration",
@@ -845,9 +845,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Finance",
-    "meaning": "流程；作業",
-    "example": "The client asked for the latest concentration during the call.",
-    "example_zh": "客戶在通話中要求最新的流程資訊。"
+    "meaning": "作業流程；處理程序",
+    "example": "The client requested details about concentration in the proposal.",
+    "example_zh": "客戶在提案中要求提供 concentration 的細節。"
   },
   {
     "word": "condition",
@@ -855,9 +855,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Business",
-    "meaning": "流程；作業",
-    "example": "Please include the condition in tomorrow's email update.",
-    "example_zh": "請把這項流程加入明天的郵件更新。"
+    "meaning": "作業流程；處理程序",
+    "example": "The quarterly report identified condition as a key focus area.",
+    "example_zh": "季度報告將 condition 列為關鍵關注項目。"
   },
   {
     "word": "conference",
@@ -866,8 +866,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "會議",
-    "example": "Our manager approved the conference for this quarter.",
-    "example_zh": "經理已核准本季的會議安排。"
+    "example": "We discussed conference during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 conference。"
   },
   {
     "word": "configuration",
@@ -875,9 +875,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Finance",
-    "meaning": "流程；作業",
-    "example": "The department tracks each configuration in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項流程。"
+    "meaning": "作業流程；處理程序",
+    "example": "The manager asked for an update on configuration before Friday.",
+    "example_zh": "經理要求在週五前提供 configuration 的最新進度。"
   },
   {
     "word": "confirmation",
@@ -886,8 +886,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "確認",
-    "example": "The team reviewed the confirmation before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項確認。"
+    "example": "Our team improved confirmation to support the new project.",
+    "example_zh": "我們團隊已改善 confirmation 以支援新專案。"
   },
   {
     "word": "conflict",
@@ -896,8 +896,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "衝突",
-    "example": "Please include the conflict in tomorrow's email update.",
-    "example_zh": "請把這項衝突加入明天的郵件更新。"
+    "example": "The client requested details about conflict in the proposal.",
+    "example_zh": "客戶在提案中要求提供 conflict 的細節。"
   },
   {
     "word": "congestion",
@@ -905,9 +905,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Business",
-    "meaning": "流程；作業",
-    "example": "Our manager approved the congestion for this quarter.",
-    "example_zh": "經理已核准本季的流程安排。"
+    "meaning": "作業流程；處理程序",
+    "example": "The quarterly report identified congestion as a key focus area.",
+    "example_zh": "季度報告將 congestion 列為關鍵關注項目。"
   },
   {
     "word": "connection",
@@ -915,9 +915,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Business",
-    "meaning": "流程；作業",
-    "example": "The client asked for the latest connection during the call.",
-    "example_zh": "客戶在通話中要求最新的流程資訊。"
+    "meaning": "作業流程；處理程序",
+    "example": "We discussed connection during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 connection。"
   },
   {
     "word": "consensus",
@@ -926,8 +926,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "共識",
-    "example": "The department tracks each consensus in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項共識。"
+    "example": "The manager asked for an update on consensus before Friday.",
+    "example_zh": "經理要求在週五前提供 consensus 的最新進度。"
   },
   {
     "word": "conservation",
@@ -935,9 +935,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Business",
-    "meaning": "流程；作業",
-    "example": "Our manager approved the conservation for this quarter.",
-    "example_zh": "經理已核准本季的流程安排。"
+    "meaning": "作業流程；處理程序",
+    "example": "Our team improved conservation to support the new project.",
+    "example_zh": "我們團隊已改善 conservation 以支援新專案。"
   },
   {
     "word": "consideration",
@@ -945,9 +945,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Finance",
-    "meaning": "流程；作業",
-    "example": "The client asked for the latest consideration during the call.",
-    "example_zh": "客戶在通話中要求最新的流程資訊。"
+    "meaning": "作業流程；處理程序",
+    "example": "The client requested details about consideration in the proposal.",
+    "example_zh": "客戶在提案中要求提供 consideration 的細節。"
   },
   {
     "word": "consignment",
@@ -955,9 +955,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Business",
-    "meaning": "管理事項；結果",
-    "example": "The department tracks each consignment in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項管理事項。"
+    "meaning": "寄售貨物；托運",
+    "example": "The quarterly report identified consignment as a key focus area.",
+    "example_zh": "季度報告將 consignment 列為關鍵關注項目。"
   },
   {
     "word": "consolidation",
@@ -965,9 +965,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Business",
-    "meaning": "流程；作業",
-    "example": "Please include the consolidation in tomorrow's email update.",
-    "example_zh": "請把這項流程加入明天的郵件更新。"
+    "meaning": "作業流程；處理程序",
+    "example": "We discussed consolidation during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 consolidation。"
   },
   {
     "word": "construction",
@@ -975,9 +975,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Business",
-    "meaning": "流程；作業",
-    "example": "Our manager approved the construction for this quarter.",
-    "example_zh": "經理已核准本季的流程安排。"
+    "meaning": "作業流程；處理程序",
+    "example": "The manager asked for an update on construction before Friday.",
+    "example_zh": "經理要求在週五前提供 construction 的最新進度。"
   },
   {
     "word": "consumption",
@@ -985,9 +985,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Business",
-    "meaning": "流程；作業",
-    "example": "The team reviewed the consumption before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項流程。"
+    "meaning": "作業流程；處理程序",
+    "example": "Our team improved consumption to support the new project.",
+    "example_zh": "我們團隊已改善 consumption 以支援新專案。"
   },
   {
     "word": "continuity",
@@ -996,8 +996,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "特性；性質",
-    "example": "Our manager approved the continuity for this quarter.",
-    "example_zh": "經理已核准本季的特性安排。"
+    "example": "The client requested details about continuity in the proposal.",
+    "example_zh": "客戶在提案中要求提供 continuity 的細節。"
   },
   {
     "word": "contract",
@@ -1006,8 +1006,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "合約",
-    "example": "The client asked for the latest contract during the call.",
-    "example_zh": "客戶在通話中要求最新的合約資訊。"
+    "example": "The quarterly report identified contract as a key focus area.",
+    "example_zh": "季度報告將 contract 列為關鍵關注項目。"
   },
   {
     "word": "contribution",
@@ -1016,8 +1016,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "貢獻",
-    "example": "The team reviewed the contribution before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項貢獻。"
+    "example": "We discussed contribution during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 contribution。"
   },
   {
     "word": "control",
@@ -1026,8 +1026,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "控管",
-    "example": "Please include the control in tomorrow's email update.",
-    "example_zh": "請把這項控管加入明天的郵件更新。"
+    "example": "The manager asked for an update on control before Friday.",
+    "example_zh": "經理要求在週五前提供 control 的最新進度。"
   },
   {
     "word": "conversation",
@@ -1035,9 +1035,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Business",
-    "meaning": "流程；作業",
-    "example": "The department tracks each conversation in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項流程。"
+    "meaning": "作業流程；處理程序",
+    "example": "Our team improved conversation to support the new project.",
+    "example_zh": "我們團隊已改善 conversation 以支援新專案。"
   },
   {
     "word": "conversion",
@@ -1046,8 +1046,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "轉換",
-    "example": "The team reviewed the conversion before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項轉換。"
+    "example": "The client requested details about conversion in the proposal.",
+    "example_zh": "客戶在提案中要求提供 conversion 的細節。"
   },
   {
     "word": "coordination",
@@ -1056,8 +1056,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "協調",
-    "example": "Please include the coordination in tomorrow's email update.",
-    "example_zh": "請把這項協調加入明天的郵件更新。"
+    "example": "The quarterly report identified coordination as a key focus area.",
+    "example_zh": "季度報告將 coordination 列為關鍵關注項目。"
   },
   {
     "word": "copyright",
@@ -1066,8 +1066,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Legal",
     "meaning": "著作權",
-    "example": "The client asked for the latest copyright during the call.",
-    "example_zh": "客戶在通話中要求最新的著作權資訊。"
+    "example": "We discussed copyright during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 copyright。"
   },
   {
     "word": "correction",
@@ -1075,9 +1075,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Business",
-    "meaning": "流程；作業",
-    "example": "The department tracks each correction in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項流程。"
+    "meaning": "作業流程；處理程序",
+    "example": "The manager asked for an update on correction before Friday.",
+    "example_zh": "經理要求在週五前提供 correction 的最新進度。"
   },
   {
     "word": "costing",
@@ -1086,8 +1086,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "成本計算",
-    "example": "Please include the costing in tomorrow's email update.",
-    "example_zh": "請把這項成本計算加入明天的郵件更新。"
+    "example": "Our team improved costing to support the new project.",
+    "example_zh": "我們團隊已改善 costing 以支援新專案。"
   },
   {
     "word": "coverage",
@@ -1096,8 +1096,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "涵蓋範圍",
-    "example": "Please include the coverage in tomorrow's email update.",
-    "example_zh": "請把這項涵蓋範圍加入明天的郵件更新。"
+    "example": "The client requested details about coverage in the proposal.",
+    "example_zh": "客戶在提案中要求提供 coverage 的細節。"
   },
   {
     "word": "credibility",
@@ -1106,8 +1106,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "可信度",
-    "example": "Our manager approved the credibility for this quarter.",
-    "example_zh": "經理已核准本季的可信度安排。"
+    "example": "The quarterly report identified credibility as a key focus area.",
+    "example_zh": "季度報告將 credibility 列為關鍵關注項目。"
   },
   {
     "word": "criterion",
@@ -1116,8 +1116,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "標準",
-    "example": "The department tracks each criterion in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項標準。"
+    "example": "We discussed criterion during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 criterion。"
   },
   {
     "word": "currency",
@@ -1126,8 +1126,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "貨幣",
-    "example": "The team reviewed the currency before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項貨幣。"
+    "example": "The manager asked for an update on currency before Friday.",
+    "example_zh": "經理要求在週五前提供 currency 的最新進度。"
   },
   {
     "word": "customer",
@@ -1136,8 +1136,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "顧客",
-    "example": "Please include the customer in tomorrow's email update.",
-    "example_zh": "請把這項顧客加入明天的郵件更新。"
+    "example": "Our team improved customer to support the new project.",
+    "example_zh": "我們團隊已改善 customer 以支援新專案。"
   },
   {
     "word": "customization",
@@ -1146,8 +1146,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "客製化",
-    "example": "Our manager approved the customization for this quarter.",
-    "example_zh": "經理已核准本季的客製化安排。"
+    "example": "The client requested details about customization in the proposal.",
+    "example_zh": "客戶在提案中要求提供 customization 的細節。"
   },
   {
     "word": "cycle",
@@ -1156,8 +1156,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "週期",
-    "example": "The client asked for the latest cycle during the call.",
-    "example_zh": "客戶在通話中要求最新的週期資訊。"
+    "example": "The quarterly report identified cycle as a key focus area.",
+    "example_zh": "季度報告將 cycle 列為關鍵關注項目。"
   },
   {
     "word": "dashboard",
@@ -1166,8 +1166,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "儀表板",
-    "example": "The department tracks each dashboard in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項儀表板。"
+    "example": "We discussed dashboard during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 dashboard。"
   },
   {
     "word": "data",
@@ -1176,8 +1176,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "資料",
-    "example": "The team reviewed the data before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項資料。"
+    "example": "The manager asked for an update on data before Friday.",
+    "example_zh": "經理要求在週五前提供 data 的最新進度。"
   },
   {
     "word": "deadline",
@@ -1186,8 +1186,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "截止期限",
-    "example": "Please include the deadline in tomorrow's email update.",
-    "example_zh": "請把這項截止期限加入明天的郵件更新。"
+    "example": "Our team improved deadline to support the new project.",
+    "example_zh": "我們團隊已改善 deadline 以支援新專案。"
   },
   {
     "word": "debt",
@@ -1196,8 +1196,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "債務",
-    "example": "The department tracks each debt in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項債務。"
+    "example": "The client requested details about debt in the proposal.",
+    "example_zh": "客戶在提案中要求提供 debt 的細節。"
   },
   {
     "word": "decision",
@@ -1206,8 +1206,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "決策",
-    "example": "The team reviewed the decision before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項決策。"
+    "example": "The quarterly report identified decision as a key focus area.",
+    "example_zh": "季度報告將 decision 列為關鍵關注項目。"
   },
   {
     "word": "declaration",
@@ -1215,9 +1215,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Finance",
-    "meaning": "流程；作業",
-    "example": "Please include the declaration in tomorrow's email update.",
-    "example_zh": "請把這項流程加入明天的郵件更新。"
+    "meaning": "作業流程；處理程序",
+    "example": "We discussed declaration during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 declaration。"
   },
   {
     "word": "deduction",
@@ -1226,8 +1226,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "扣除額",
-    "example": "The client asked for the latest deduction during the call.",
-    "example_zh": "客戶在通話中要求最新的扣除額資訊。"
+    "example": "The manager asked for an update on deduction before Friday.",
+    "example_zh": "經理要求在週五前提供 deduction 的最新進度。"
   },
   {
     "word": "default",
@@ -1236,8 +1236,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "違約；預設值",
-    "example": "The department tracks each default in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項違約。"
+    "example": "Our team improved default to support the new project.",
+    "example_zh": "我們團隊已改善 default 以支援新專案。"
   },
   {
     "word": "defect",
@@ -1246,8 +1246,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "瑕疵",
-    "example": "The team reviewed the defect before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項瑕疵。"
+    "example": "The client requested details about defect in the proposal.",
+    "example_zh": "客戶在提案中要求提供 defect 的細節。"
   },
   {
     "word": "definition",
@@ -1255,9 +1255,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Business",
-    "meaning": "流程；作業",
-    "example": "Please include the definition in tomorrow's email update.",
-    "example_zh": "請把這項流程加入明天的郵件更新。"
+    "meaning": "作業流程；處理程序",
+    "example": "The quarterly report identified definition as a key focus area.",
+    "example_zh": "季度報告將 definition 列為關鍵關注項目。"
   },
   {
     "word": "delegation",
@@ -1266,8 +1266,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "授權",
-    "example": "Our manager approved the delegation for this quarter.",
-    "example_zh": "經理已核准本季的授權安排。"
+    "example": "We discussed delegation during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 delegation。"
   },
   {
     "word": "delivery",
@@ -1276,8 +1276,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "交付",
-    "example": "The client asked for the latest delivery during the call.",
-    "example_zh": "客戶在通話中要求最新的交付資訊。"
+    "example": "The manager asked for an update on delivery before Friday.",
+    "example_zh": "經理要求在週五前提供 delivery 的最新進度。"
   },
   {
     "word": "demand",
@@ -1286,8 +1286,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "需求",
-    "example": "The department tracks each demand in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項需求。"
+    "example": "Our team improved demand to support the new project.",
+    "example_zh": "我們團隊已改善 demand 以支援新專案。"
   },
   {
     "word": "demonstration",
@@ -1295,9 +1295,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Finance",
-    "meaning": "流程；作業",
-    "example": "The team reviewed the demonstration before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項流程。"
+    "meaning": "作業流程；處理程序",
+    "example": "The client requested details about demonstration in the proposal.",
+    "example_zh": "客戶在提案中要求提供 demonstration 的細節。"
   },
   {
     "word": "department",
@@ -1306,8 +1306,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "部門",
-    "example": "Please include the department in tomorrow's email update.",
-    "example_zh": "請把這項部門加入明天的郵件更新。"
+    "example": "The quarterly report identified department as a key focus area.",
+    "example_zh": "季度報告將 department 列為關鍵關注項目。"
   },
   {
     "word": "deposit",
@@ -1316,8 +1316,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "押金；存款",
-    "example": "The department tracks each deposit in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項押金。"
+    "example": "We discussed deposit during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 deposit。"
   },
   {
     "word": "depreciation",
@@ -1326,8 +1326,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "折舊",
-    "example": "The team reviewed the depreciation before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項折舊。"
+    "example": "The manager asked for an update on depreciation before Friday.",
+    "example_zh": "經理要求在週五前提供 depreciation 的最新進度。"
   },
   {
     "word": "description",
@@ -1336,8 +1336,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "說明",
-    "example": "Please include the description in tomorrow's email update.",
-    "example_zh": "請把這項說明加入明天的郵件更新。"
+    "example": "Our team improved description to support the new project.",
+    "example_zh": "我們團隊已改善 description 以支援新專案。"
   },
   {
     "word": "design",
@@ -1346,8 +1346,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "設計",
-    "example": "Our manager approved the design for this quarter.",
-    "example_zh": "經理已核准本季的設計安排。"
+    "example": "The client requested details about design in the proposal.",
+    "example_zh": "客戶在提案中要求提供 design 的細節。"
   },
   {
     "word": "destination",
@@ -1356,8 +1356,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "目的地",
-    "example": "The department tracks each destination in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項目的地。"
+    "example": "The quarterly report identified destination as a key focus area.",
+    "example_zh": "季度報告將 destination 列為關鍵關注項目。"
   },
   {
     "word": "detail",
@@ -1366,8 +1366,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "細節",
-    "example": "The team reviewed the detail before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項細節。"
+    "example": "We discussed detail during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 detail。"
   },
   {
     "word": "development",
@@ -1376,8 +1376,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "開發；發展",
-    "example": "Please include the development in tomorrow's email update.",
-    "example_zh": "請把這項開發加入明天的郵件更新。"
+    "example": "The manager asked for an update on development before Friday.",
+    "example_zh": "經理要求在週五前提供 development 的最新進度。"
   },
   {
     "word": "device",
@@ -1386,8 +1386,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "裝置",
-    "example": "Our manager approved the device for this quarter.",
-    "example_zh": "經理已核准本季的裝置安排。"
+    "example": "Our team improved device to support the new project.",
+    "example_zh": "我們團隊已改善 device 以支援新專案。"
   },
   {
     "word": "digitization",
@@ -1395,9 +1395,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Business",
-    "meaning": "流程；作業",
-    "example": "The team reviewed the digitization before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項流程。"
+    "meaning": "作業流程；處理程序",
+    "example": "The client requested details about digitization in the proposal.",
+    "example_zh": "客戶在提案中要求提供 digitization 的細節。"
   },
   {
     "word": "discount",
@@ -1406,8 +1406,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "折扣",
-    "example": "The client asked for the latest discount during the call.",
-    "example_zh": "客戶在通話中要求最新的折扣資訊。"
+    "example": "The quarterly report identified discount as a key focus area.",
+    "example_zh": "季度報告將 discount 列為關鍵關注項目。"
   },
   {
     "word": "discussion",
@@ -1416,8 +1416,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "討論",
-    "example": "The department tracks each discussion in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項討論。"
+    "example": "We discussed discussion during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 discussion。"
   },
   {
     "word": "dispatch",
@@ -1426,8 +1426,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "派遣；發送",
-    "example": "Please include the dispatch in tomorrow's email update.",
-    "example_zh": "請把這項派遣加入明天的郵件更新。"
+    "example": "The manager asked for an update on dispatch before Friday.",
+    "example_zh": "經理要求在週五前提供 dispatch 的最新進度。"
   },
   {
     "word": "distribution",
@@ -1436,8 +1436,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "配送；分配",
-    "example": "The team reviewed the distribution before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項配送。"
+    "example": "Our team improved distribution to support the new project.",
+    "example_zh": "我們團隊已改善 distribution 以支援新專案。"
   },
   {
     "word": "distributor",
@@ -1446,8 +1446,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "經銷商",
-    "example": "Please include the distributor in tomorrow's email update.",
-    "example_zh": "請把這項經銷商加入明天的郵件更新。"
+    "example": "The client requested details about distributor in the proposal.",
+    "example_zh": "客戶在提案中要求提供 distributor 的細節。"
   },
   {
     "word": "diversification",
@@ -1455,9 +1455,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Business",
-    "meaning": "流程；作業",
-    "example": "Our manager approved the diversification for this quarter.",
-    "example_zh": "經理已核准本季的流程安排。"
+    "meaning": "作業流程；處理程序",
+    "example": "The quarterly report identified diversification as a key focus area.",
+    "example_zh": "季度報告將 diversification 列為關鍵關注項目。"
   },
   {
     "word": "documentation",
@@ -1466,8 +1466,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "文件紀錄",
-    "example": "The department tracks each documentation in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項文件紀錄。"
+    "example": "We discussed documentation during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 documentation。"
   },
   {
     "word": "donation",
@@ -1475,9 +1475,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Business",
-    "meaning": "流程；作業",
-    "example": "Please include the donation in tomorrow's email update.",
-    "example_zh": "請把這項流程加入明天的郵件更新。"
+    "meaning": "作業流程；處理程序",
+    "example": "The manager asked for an update on donation before Friday.",
+    "example_zh": "經理要求在週五前提供 donation 的最新進度。"
   },
   {
     "word": "downtime",
@@ -1486,8 +1486,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "停機時間",
-    "example": "Our manager approved the downtime for this quarter.",
-    "example_zh": "經理已核准本季的停機時間安排。"
+    "example": "Our team improved downtime to support the new project.",
+    "example_zh": "我們團隊已改善 downtime 以支援新專案。"
   },
   {
     "word": "drafting",
@@ -1495,9 +1495,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Business",
-    "meaning": "進行中的作業",
-    "example": "The client asked for the latest drafting during the call.",
-    "example_zh": "客戶在通話中要求最新的進行中的作業資訊。"
+    "meaning": "草擬；起草",
+    "example": "The client requested details about drafting in the proposal.",
+    "example_zh": "客戶在提案中要求提供 drafting 的細節。"
   },
   {
     "word": "earnings",
@@ -1506,8 +1506,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "收益",
-    "example": "The team reviewed the earnings before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項收益。"
+    "example": "The quarterly report identified earnings as a key focus area.",
+    "example_zh": "季度報告將 earnings 列為關鍵關注項目。"
   },
   {
     "word": "economy",
@@ -1516,8 +1516,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "經濟",
-    "example": "Please include the economy in tomorrow's email update.",
-    "example_zh": "請把這項經濟加入明天的郵件更新。"
+    "example": "We discussed economy during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 economy。"
   },
   {
     "word": "edition",
@@ -1525,9 +1525,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Business",
-    "meaning": "流程；作業",
-    "example": "Our manager approved the edition for this quarter.",
-    "example_zh": "經理已核准本季的流程安排。"
+    "meaning": "作業流程；處理程序",
+    "example": "The manager asked for an update on edition before Friday.",
+    "example_zh": "經理要求在週五前提供 edition 的最新進度。"
   },
   {
     "word": "education",
@@ -1535,9 +1535,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Business",
-    "meaning": "流程；作業",
-    "example": "The department tracks each education in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項流程。"
+    "meaning": "作業流程；處理程序",
+    "example": "Our team improved education to support the new project.",
+    "example_zh": "我們團隊已改善 education 以支援新專案。"
   },
   {
     "word": "efficiency",
@@ -1546,8 +1546,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "效率",
-    "example": "Please include the efficiency in tomorrow's email update.",
-    "example_zh": "請把這項效率加入明天的郵件更新。"
+    "example": "The client requested details about efficiency in the proposal.",
+    "example_zh": "客戶在提案中要求提供 efficiency 的細節。"
   },
   {
     "word": "election",
@@ -1555,9 +1555,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Business",
-    "meaning": "流程；作業",
-    "example": "The client asked for the latest election during the call.",
-    "example_zh": "客戶在通話中要求最新的流程資訊。"
+    "meaning": "作業流程；處理程序",
+    "example": "The quarterly report identified election as a key focus area.",
+    "example_zh": "季度報告將 election 列為關鍵關注項目。"
   },
   {
     "word": "electricity",
@@ -1566,8 +1566,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "特性；性質",
-    "example": "The department tracks each electricity in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項特性。"
+    "example": "We discussed electricity during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 electricity。"
   },
   {
     "word": "eligibility",
@@ -1576,8 +1576,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "特性；性質",
-    "example": "The team reviewed the eligibility before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項特性。"
+    "example": "The manager asked for an update on eligibility before Friday.",
+    "example_zh": "經理要求在週五前提供 eligibility 的最新進度。"
   },
   {
     "word": "employee",
@@ -1586,8 +1586,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "員工",
-    "example": "The department tracks each employee in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項員工。"
+    "example": "Our team improved employee to support the new project.",
+    "example_zh": "我們團隊已改善 employee 以支援新專案。"
   },
   {
     "word": "employer",
@@ -1596,8 +1596,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "雇主",
-    "example": "The team reviewed the employer before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項雇主。"
+    "example": "The client requested details about employer in the proposal.",
+    "example_zh": "客戶在提案中要求提供 employer 的細節。"
   },
   {
     "word": "employment",
@@ -1606,8 +1606,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "就業",
-    "example": "Please include the employment in tomorrow's email update.",
-    "example_zh": "請把這項就業加入明天的郵件更新。"
+    "example": "The quarterly report identified employment as a key focus area.",
+    "example_zh": "季度報告將 employment 列為關鍵關注項目。"
   },
   {
     "word": "enforcement",
@@ -1616,8 +1616,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Legal",
     "meaning": "執行",
-    "example": "Our manager approved the enforcement for this quarter.",
-    "example_zh": "經理已核准本季的執行安排。"
+    "example": "We discussed enforcement during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 enforcement。"
   },
   {
     "word": "engagement",
@@ -1625,9 +1625,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Business",
-    "meaning": "管理事項；結果",
-    "example": "The client asked for the latest engagement during the call.",
-    "example_zh": "客戶在通話中要求最新的管理事項資訊。"
+    "meaning": "參與；聘用",
+    "example": "The manager asked for an update on engagement before Friday.",
+    "example_zh": "經理要求在週五前提供 engagement 的最新進度。"
   },
   {
     "word": "enhancement",
@@ -1635,9 +1635,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Business",
-    "meaning": "管理事項；結果",
-    "example": "The team reviewed the enhancement before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項管理事項。"
+    "meaning": "提升；強化",
+    "example": "Our team improved enhancement to support the new project.",
+    "example_zh": "我們團隊已改善 enhancement 以支援新專案。"
   },
   {
     "word": "enrollment",
@@ -1645,9 +1645,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Business",
-    "meaning": "管理事項；結果",
-    "example": "Please include the enrollment in tomorrow's email update.",
-    "example_zh": "請把這項管理事項加入明天的郵件更新。"
+    "meaning": "登記；註冊",
+    "example": "The client requested details about enrollment in the proposal.",
+    "example_zh": "客戶在提案中要求提供 enrollment 的細節。"
   },
   {
     "word": "entitlement",
@@ -1655,9 +1655,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Business",
-    "meaning": "管理事項；結果",
-    "example": "The client asked for the latest entitlement during the call.",
-    "example_zh": "客戶在通話中要求最新的管理事項資訊。"
+    "meaning": "權利；應得給付",
+    "example": "The quarterly report identified entitlement as a key focus area.",
+    "example_zh": "季度報告將 entitlement 列為關鍵關注項目。"
   },
   {
     "word": "environment",
@@ -1665,9 +1665,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Business",
-    "meaning": "管理事項；結果",
-    "example": "The team reviewed the environment before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項管理事項。"
+    "meaning": "環境；工作環境",
+    "example": "We discussed environment during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 environment。"
   },
   {
     "word": "equipment",
@@ -1676,8 +1676,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "設備",
-    "example": "Please include the equipment in tomorrow's email update.",
-    "example_zh": "請把這項設備加入明天的郵件更新。"
+    "example": "The manager asked for an update on equipment before Friday.",
+    "example_zh": "經理要求在週五前提供 equipment 的最新進度。"
   },
   {
     "word": "equity",
@@ -1686,8 +1686,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "權益；股本",
-    "example": "Our manager approved the equity for this quarter.",
-    "example_zh": "經理已核准本季的權益安排。"
+    "example": "Our team improved equity to support the new project.",
+    "example_zh": "我們團隊已改善 equity 以支援新專案。"
   },
   {
     "word": "escalation",
@@ -1695,9 +1695,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Business",
-    "meaning": "流程；作業",
-    "example": "The client asked for the latest escalation during the call.",
-    "example_zh": "客戶在通話中要求最新的流程資訊。"
+    "meaning": "作業流程；處理程序",
+    "example": "The client requested details about escalation in the proposal.",
+    "example_zh": "客戶在提案中要求提供 escalation 的細節。"
   },
   {
     "word": "estimate",
@@ -1706,8 +1706,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "估算",
-    "example": "The department tracks each estimate in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項估算。"
+    "example": "The quarterly report identified estimate as a key focus area.",
+    "example_zh": "季度報告將 estimate 列為關鍵關注項目。"
   },
   {
     "word": "evaluation",
@@ -1716,8 +1716,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "評估",
-    "example": "The team reviewed the evaluation before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項評估。"
+    "example": "We discussed evaluation during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 evaluation。"
   },
   {
     "word": "evidence",
@@ -1726,8 +1726,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "證據",
-    "example": "Please include the evidence in tomorrow's email update.",
-    "example_zh": "請把這項證據加入明天的郵件更新。"
+    "example": "The manager asked for an update on evidence before Friday.",
+    "example_zh": "經理要求在週五前提供 evidence 的最新進度。"
   },
   {
     "word": "examination",
@@ -1735,9 +1735,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Business",
-    "meaning": "流程；作業",
-    "example": "Our manager approved the examination for this quarter.",
-    "example_zh": "經理已核准本季的流程安排。"
+    "meaning": "作業流程；處理程序",
+    "example": "Our team improved examination to support the new project.",
+    "example_zh": "我們團隊已改善 examination 以支援新專案。"
   },
   {
     "word": "exchange",
@@ -1746,8 +1746,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "交換；匯率",
-    "example": "The department tracks each exchange in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項交換。"
+    "example": "The client requested details about exchange in the proposal.",
+    "example_zh": "客戶在提案中要求提供 exchange 的細節。"
   },
   {
     "word": "execution",
@@ -1756,8 +1756,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "執行",
-    "example": "The team reviewed the execution before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項執行。"
+    "example": "The quarterly report identified execution as a key focus area.",
+    "example_zh": "季度報告將 execution 列為關鍵關注項目。"
   },
   {
     "word": "executive",
@@ -1766,8 +1766,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "主管",
-    "example": "Please include the executive in tomorrow's email update.",
-    "example_zh": "請把這項主管加入明天的郵件更新。"
+    "example": "We discussed executive during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 executive。"
   },
   {
     "word": "exemption",
@@ -1775,9 +1775,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Business",
-    "meaning": "流程；作業",
-    "example": "Our manager approved the exemption for this quarter.",
-    "example_zh": "經理已核准本季的流程安排。"
+    "meaning": "作業流程；處理程序",
+    "example": "The manager asked for an update on exemption before Friday.",
+    "example_zh": "經理要求在週五前提供 exemption 的最新進度。"
   },
   {
     "word": "exhibition",
@@ -1785,9 +1785,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Business",
-    "meaning": "流程；作業",
-    "example": "The client asked for the latest exhibition during the call.",
-    "example_zh": "客戶在通話中要求最新的流程資訊。"
+    "meaning": "作業流程；處理程序",
+    "example": "Our team improved exhibition to support the new project.",
+    "example_zh": "我們團隊已改善 exhibition 以支援新專案。"
   },
   {
     "word": "expectation",
@@ -1795,9 +1795,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Business",
-    "meaning": "流程；作業",
-    "example": "The team reviewed the expectation before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項流程。"
+    "meaning": "作業流程；處理程序",
+    "example": "The client requested details about expectation in the proposal.",
+    "example_zh": "客戶在提案中要求提供 expectation 的細節。"
   },
   {
     "word": "expenditure",
@@ -1806,8 +1806,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "支出",
-    "example": "Please include the expenditure in tomorrow's email update.",
-    "example_zh": "請把這項支出加入明天的郵件更新。"
+    "example": "The quarterly report identified expenditure as a key focus area.",
+    "example_zh": "季度報告將 expenditure 列為關鍵關注項目。"
   },
   {
     "word": "experience",
@@ -1816,8 +1816,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "經驗",
-    "example": "Our manager approved the experience for this quarter.",
-    "example_zh": "經理已核准本季的經驗安排。"
+    "example": "We discussed experience during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 experience。"
   },
   {
     "word": "expertise",
@@ -1826,8 +1826,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "專業能力",
-    "example": "The client asked for the latest expertise during the call.",
-    "example_zh": "客戶在通話中要求最新的專業能力資訊。"
+    "example": "The manager asked for an update on expertise before Friday.",
+    "example_zh": "經理要求在週五前提供 expertise 的最新進度。"
   },
   {
     "word": "expiration",
@@ -1836,8 +1836,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "到期",
-    "example": "The department tracks each expiration in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項到期。"
+    "example": "Our team improved expiration to support the new project.",
+    "example_zh": "我們團隊已改善 expiration 以支援新專案。"
   },
   {
     "word": "export",
@@ -1846,8 +1846,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "出口",
-    "example": "The team reviewed the export before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項出口。"
+    "example": "The client requested details about export in the proposal.",
+    "example_zh": "客戶在提案中要求提供 export 的細節。"
   },
   {
     "word": "exposure",
@@ -1856,8 +1856,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "曝光；風險暴露",
-    "example": "Please include the exposure in tomorrow's email update.",
-    "example_zh": "請把這項曝光加入明天的郵件更新。"
+    "example": "The quarterly report identified exposure as a key focus area.",
+    "example_zh": "季度報告將 exposure 列為關鍵關注項目。"
   },
   {
     "word": "extension",
@@ -1866,8 +1866,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "延長；擴充",
-    "example": "Our manager approved the extension for this quarter.",
-    "example_zh": "經理已核准本季的延長安排。"
+    "example": "We discussed extension during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 extension。"
   },
   {
     "word": "facility",
@@ -1876,8 +1876,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "設施",
-    "example": "The client asked for the latest facility during the call.",
-    "example_zh": "客戶在通話中要求最新的設施資訊。"
+    "example": "The manager asked for an update on facility before Friday.",
+    "example_zh": "經理要求在週五前提供 facility 的最新進度。"
   },
   {
     "word": "feedback",
@@ -1886,8 +1886,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "回饋",
-    "example": "Please include the feedback in tomorrow's email update.",
-    "example_zh": "請把這項回饋加入明天的郵件更新。"
+    "example": "Our team improved feedback to support the new project.",
+    "example_zh": "我們團隊已改善 feedback 以支援新專案。"
   },
   {
     "word": "filing",
@@ -1895,9 +1895,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Business",
-    "meaning": "進行中的作業",
-    "example": "The department tracks each filing in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項進行中的作業。"
+    "meaning": "歸檔；提交（文件）",
+    "example": "The client requested details about filing in the proposal.",
+    "example_zh": "客戶在提案中要求提供 filing 的細節。"
   },
   {
     "word": "finance",
@@ -1906,8 +1906,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "財務",
-    "example": "The team reviewed the finance before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項財務。"
+    "example": "The quarterly report identified finance as a key focus area.",
+    "example_zh": "季度報告將 finance 列為關鍵關注項目。"
   },
   {
     "word": "financing",
@@ -1915,9 +1915,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Business",
-    "meaning": "進行中的作業",
-    "example": "Please include the financing in tomorrow's email update.",
-    "example_zh": "請把這項進行中的作業加入明天的郵件更新。"
+    "meaning": "融資；資金籌措",
+    "example": "We discussed financing during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 financing。"
   },
   {
     "word": "finding",
@@ -1925,9 +1925,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Business",
-    "meaning": "進行中的作業",
-    "example": "Our manager approved the finding for this quarter.",
-    "example_zh": "經理已核准本季的進行中的作業安排。"
+    "meaning": "調查結果；發現",
+    "example": "The manager asked for an update on finding before Friday.",
+    "example_zh": "經理要求在週五前提供 finding 的最新進度。"
   },
   {
     "word": "flexibility",
@@ -1936,8 +1936,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "特性；性質",
-    "example": "The team reviewed the flexibility before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項特性。"
+    "example": "Our team improved flexibility to support the new project.",
+    "example_zh": "我們團隊已改善 flexibility 以支援新專案。"
   },
   {
     "word": "forecast",
@@ -1946,8 +1946,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "預測",
-    "example": "The department tracks each forecast in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項預測。"
+    "example": "The client requested details about forecast in the proposal.",
+    "example_zh": "客戶在提案中要求提供 forecast 的細節。"
   },
   {
     "word": "foundation",
@@ -1955,9 +1955,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Business",
-    "meaning": "流程；作業",
-    "example": "The client asked for the latest foundation during the call.",
-    "example_zh": "客戶在通話中要求最新的流程資訊。"
+    "meaning": "作業流程；處理程序",
+    "example": "The quarterly report identified foundation as a key focus area.",
+    "example_zh": "季度報告將 foundation 列為關鍵關注項目。"
   },
   {
     "word": "framework",
@@ -1966,8 +1966,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "框架",
-    "example": "The department tracks each framework in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項框架。"
+    "example": "We discussed framework during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 framework。"
   },
   {
     "word": "freight",
@@ -1976,8 +1976,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "貨運",
-    "example": "The team reviewed the freight before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項貨運。"
+    "example": "The manager asked for an update on freight before Friday.",
+    "example_zh": "經理要求在週五前提供 freight 的最新進度。"
   },
   {
     "word": "funding",
@@ -1986,8 +1986,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "資金",
-    "example": "Our manager approved the funding for this quarter.",
-    "example_zh": "經理已核准本季的資金安排。"
+    "example": "Our team improved funding to support the new project.",
+    "example_zh": "我們團隊已改善 funding 以支援新專案。"
   },
   {
     "word": "function",
@@ -1995,9 +1995,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Business",
-    "meaning": "流程；作業",
-    "example": "The client asked for the latest function during the call.",
-    "example_zh": "客戶在通話中要求最新的流程資訊。"
+    "meaning": "作業流程；處理程序",
+    "example": "The client requested details about function in the proposal.",
+    "example_zh": "客戶在提案中要求提供 function 的細節。"
   },
   {
     "word": "goal",
@@ -2006,8 +2006,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "目標",
-    "example": "Please include the goal in tomorrow's email update.",
-    "example_zh": "請把這項目標加入明天的郵件更新。"
+    "example": "The quarterly report identified goal as a key focus area.",
+    "example_zh": "季度報告將 goal 列為關鍵關注項目。"
   },
   {
     "word": "governance",
@@ -2016,8 +2016,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "治理",
-    "example": "Our manager approved the governance for this quarter.",
-    "example_zh": "經理已核准本季的治理安排。"
+    "example": "We discussed governance during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 governance。"
   },
   {
     "word": "government",
@@ -2025,9 +2025,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Business",
-    "meaning": "管理事項；結果",
-    "example": "The client asked for the latest government during the call.",
-    "example_zh": "客戶在通話中要求最新的管理事項資訊。"
+    "meaning": "政府；治理機構",
+    "example": "The manager asked for an update on government before Friday.",
+    "example_zh": "經理要求在週五前提供 government 的最新進度。"
   },
   {
     "word": "gratuity",
@@ -2036,8 +2036,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "特性；性質",
-    "example": "The department tracks each gratuity in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項特性。"
+    "example": "Our team improved gratuity to support the new project.",
+    "example_zh": "我們團隊已改善 gratuity 以支援新專案。"
   },
   {
     "word": "growth",
@@ -2046,8 +2046,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "成長",
-    "example": "The team reviewed the growth before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項成長。"
+    "example": "The client requested details about growth in the proposal.",
+    "example_zh": "客戶在提案中要求提供 growth 的細節。"
   },
   {
     "word": "guarantee",
@@ -2056,8 +2056,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "保證",
-    "example": "Please include the guarantee in tomorrow's email update.",
-    "example_zh": "請把這項保證加入明天的郵件更新。"
+    "example": "The quarterly report identified guarantee as a key focus area.",
+    "example_zh": "季度報告將 guarantee 列為關鍵關注項目。"
   },
   {
     "word": "guideline",
@@ -2066,8 +2066,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "指引",
-    "example": "The client asked for the latest guideline during the call.",
-    "example_zh": "客戶在通話中要求最新的指引資訊。"
+    "example": "We discussed guideline during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 guideline。"
   },
   {
     "word": "headcount",
@@ -2076,8 +2076,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "人力編制",
-    "example": "The department tracks each headcount in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項人力編制。"
+    "example": "The manager asked for an update on headcount before Friday.",
+    "example_zh": "經理要求在週五前提供 headcount 的最新進度。"
   },
   {
     "word": "headquarters",
@@ -2086,8 +2086,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "總部",
-    "example": "The team reviewed the headquarters before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項總部。"
+    "example": "Our team improved headquarters to support the new project.",
+    "example_zh": "我們團隊已改善 headquarters 以支援新專案。"
   },
   {
     "word": "hearing",
@@ -2095,9 +2095,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Business",
-    "meaning": "進行中的作業",
-    "example": "Please include the hearing in tomorrow's email update.",
-    "example_zh": "請把這項進行中的作業加入明天的郵件更新。"
+    "meaning": "聽證會；審理程序",
+    "example": "The client requested details about hearing in the proposal.",
+    "example_zh": "客戶在提案中要求提供 hearing 的細節。"
   },
   {
     "word": "hospitality",
@@ -2106,8 +2106,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "特性；性質",
-    "example": "The team reviewed the hospitality before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項特性。"
+    "example": "The quarterly report identified hospitality as a key focus area.",
+    "example_zh": "季度報告將 hospitality 列為關鍵關注項目。"
   },
   {
     "word": "identification",
@@ -2116,8 +2116,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "識別",
-    "example": "Our manager approved the identification for this quarter.",
-    "example_zh": "經理已核准本季的識別安排。"
+    "example": "We discussed identification during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 identification。"
   },
   {
     "word": "identity",
@@ -2126,8 +2126,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "特性；性質",
-    "example": "The client asked for the latest identity during the call.",
-    "example_zh": "客戶在通話中要求最新的特性資訊。"
+    "example": "The manager asked for an update on identity before Friday.",
+    "example_zh": "經理要求在週五前提供 identity 的最新進度。"
   },
   {
     "word": "improvement",
@@ -2136,8 +2136,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "改善",
-    "example": "The department tracks each improvement in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項改善。"
+    "example": "Our team improved improvement to support the new project.",
+    "example_zh": "我們團隊已改善 improvement 以支援新專案。"
   },
   {
     "word": "incentive",
@@ -2146,8 +2146,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "激勵",
-    "example": "The team reviewed the incentive before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項激勵。"
+    "example": "The client requested details about incentive in the proposal.",
+    "example_zh": "客戶在提案中要求提供 incentive 的細節。"
   },
   {
     "word": "income",
@@ -2156,8 +2156,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "收入",
-    "example": "Please include the income in tomorrow's email update.",
-    "example_zh": "請把這項收入加入明天的郵件更新。"
+    "example": "The quarterly report identified income as a key focus area.",
+    "example_zh": "季度報告將 income 列為關鍵關注項目。"
   },
   {
     "word": "indicator",
@@ -2166,8 +2166,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "指標",
-    "example": "Our manager approved the indicator for this quarter.",
-    "example_zh": "經理已核准本季的指標安排。"
+    "example": "We discussed indicator during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 indicator。"
   },
   {
     "word": "industry",
@@ -2176,8 +2176,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "產業",
-    "example": "The client asked for the latest industry during the call.",
-    "example_zh": "客戶在通話中要求最新的產業資訊。"
+    "example": "The manager asked for an update on industry before Friday.",
+    "example_zh": "經理要求在週五前提供 industry 的最新進度。"
   },
   {
     "word": "inflation",
@@ -2186,8 +2186,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "通貨膨脹",
-    "example": "The team reviewed the inflation before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項通貨膨脹。"
+    "example": "Our team improved inflation to support the new project.",
+    "example_zh": "我們團隊已改善 inflation 以支援新專案。"
   },
   {
     "word": "information",
@@ -2196,8 +2196,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "資訊",
-    "example": "Please include the information in tomorrow's email update.",
-    "example_zh": "請把這項資訊加入明天的郵件更新。"
+    "example": "The client requested details about information in the proposal.",
+    "example_zh": "客戶在提案中要求提供 information 的細節。"
   },
   {
     "word": "infrastructure",
@@ -2206,8 +2206,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "基礎設施",
-    "example": "Our manager approved the infrastructure for this quarter.",
-    "example_zh": "經理已核准本季的基礎設施安排。"
+    "example": "The quarterly report identified infrastructure as a key focus area.",
+    "example_zh": "季度報告將 infrastructure 列為關鍵關注項目。"
   },
   {
     "word": "innovation",
@@ -2216,8 +2216,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "創新",
-    "example": "The client asked for the latest innovation during the call.",
-    "example_zh": "客戶在通話中要求最新的創新資訊。"
+    "example": "We discussed innovation during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 innovation。"
   },
   {
     "word": "inquiry",
@@ -2226,8 +2226,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "詢問",
-    "example": "The team reviewed the inquiry before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項詢問。"
+    "example": "The manager asked for an update on inquiry before Friday.",
+    "example_zh": "經理要求在週五前提供 inquiry 的最新進度。"
   },
   {
     "word": "inspection",
@@ -2236,8 +2236,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "檢查",
-    "example": "Please include the inspection in tomorrow's email update.",
-    "example_zh": "請把這項檢查加入明天的郵件更新。"
+    "example": "Our team improved inspection to support the new project.",
+    "example_zh": "我們團隊已改善 inspection 以支援新專案。"
   },
   {
     "word": "installation",
@@ -2245,9 +2245,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Business",
-    "meaning": "流程；作業",
-    "example": "The client asked for the latest installation during the call.",
-    "example_zh": "客戶在通話中要求最新的流程資訊。"
+    "meaning": "作業流程；處理程序",
+    "example": "The client requested details about installation in the proposal.",
+    "example_zh": "客戶在提案中要求提供 installation 的細節。"
   },
   {
     "word": "instruction",
@@ -2255,9 +2255,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Business",
-    "meaning": "流程；作業",
-    "example": "The team reviewed the instruction before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項流程。"
+    "meaning": "作業流程；處理程序",
+    "example": "The quarterly report identified instruction as a key focus area.",
+    "example_zh": "季度報告將 instruction 列為關鍵關注項目。"
   },
   {
     "word": "insurance",
@@ -2266,8 +2266,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "保險",
-    "example": "Please include the insurance in tomorrow's email update.",
-    "example_zh": "請把這項保險加入明天的郵件更新。"
+    "example": "We discussed insurance during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 insurance。"
   },
   {
     "word": "integrity",
@@ -2276,8 +2276,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "完整性；誠信",
-    "example": "Our manager approved the integrity for this quarter.",
-    "example_zh": "經理已核准本季的完整性安排。"
+    "example": "The manager asked for an update on integrity before Friday.",
+    "example_zh": "經理要求在週五前提供 integrity 的最新進度。"
   },
   {
     "word": "intelligence",
@@ -2286,8 +2286,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "情報；智能",
-    "example": "The client asked for the latest intelligence during the call.",
-    "example_zh": "客戶在通話中要求最新的情報資訊。"
+    "example": "Our team improved intelligence to support the new project.",
+    "example_zh": "我們團隊已改善 intelligence 以支援新專案。"
   },
   {
     "word": "intensity",
@@ -2296,8 +2296,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "特性；性質",
-    "example": "The department tracks each intensity in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項特性。"
+    "example": "The client requested details about intensity in the proposal.",
+    "example_zh": "客戶在提案中要求提供 intensity 的細節。"
   },
   {
     "word": "intention",
@@ -2305,9 +2305,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Business",
-    "meaning": "流程；作業",
-    "example": "The team reviewed the intention before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項流程。"
+    "meaning": "作業流程；處理程序",
+    "example": "The quarterly report identified intention as a key focus area.",
+    "example_zh": "季度報告將 intention 列為關鍵關注項目。"
   },
   {
     "word": "interaction",
@@ -2316,8 +2316,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "互動",
-    "example": "Please include the interaction in tomorrow's email update.",
-    "example_zh": "請把這項互動加入明天的郵件更新。"
+    "example": "We discussed interaction during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 interaction。"
   },
   {
     "word": "interest",
@@ -2326,8 +2326,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "利息；興趣",
-    "example": "Our manager approved the interest for this quarter.",
-    "example_zh": "經理已核准本季的利息安排。"
+    "example": "The manager asked for an update on interest before Friday.",
+    "example_zh": "經理要求在週五前提供 interest 的最新進度。"
   },
   {
     "word": "interview",
@@ -2336,8 +2336,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "面試",
-    "example": "The department tracks each interview in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項面試。"
+    "example": "Our team improved interview to support the new project.",
+    "example_zh": "我們團隊已改善 interview 以支援新專案。"
   },
   {
     "word": "introduction",
@@ -2345,9 +2345,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Business",
-    "meaning": "流程；作業",
-    "example": "The team reviewed the introduction before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項流程。"
+    "meaning": "作業流程；處理程序",
+    "example": "The client requested details about introduction in the proposal.",
+    "example_zh": "客戶在提案中要求提供 introduction 的細節。"
   },
   {
     "word": "inventory",
@@ -2356,8 +2356,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "庫存",
-    "example": "Please include the inventory in tomorrow's email update.",
-    "example_zh": "請把這項庫存加入明天的郵件更新。"
+    "example": "The quarterly report identified inventory as a key focus area.",
+    "example_zh": "季度報告將 inventory 列為關鍵關注項目。"
   },
   {
     "word": "investigation",
@@ -2365,9 +2365,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Business",
-    "meaning": "流程；作業",
-    "example": "Our manager approved the investigation for this quarter.",
-    "example_zh": "經理已核准本季的流程安排。"
+    "meaning": "作業流程；處理程序",
+    "example": "We discussed investigation during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 investigation。"
   },
   {
     "word": "investment",
@@ -2376,8 +2376,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "投資",
-    "example": "The client asked for the latest investment during the call.",
-    "example_zh": "客戶在通話中要求最新的投資資訊。"
+    "example": "The manager asked for an update on investment before Friday.",
+    "example_zh": "經理要求在週五前提供 investment 的最新進度。"
   },
   {
     "word": "investor",
@@ -2386,8 +2386,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "投資人",
-    "example": "The department tracks each investor in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項投資人。"
+    "example": "Our team improved investor to support the new project.",
+    "example_zh": "我們團隊已改善 investor 以支援新專案。"
   },
   {
     "word": "invoice",
@@ -2396,8 +2396,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "發票",
-    "example": "The team reviewed the invoice before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項發票。"
+    "example": "The client requested details about invoice in the proposal.",
+    "example_zh": "客戶在提案中要求提供 invoice 的細節。"
   },
   {
     "word": "isolation",
@@ -2405,9 +2405,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Business",
-    "meaning": "流程；作業",
-    "example": "Please include the isolation in tomorrow's email update.",
-    "example_zh": "請把這項流程加入明天的郵件更新。"
+    "meaning": "作業流程；處理程序",
+    "example": "The quarterly report identified isolation as a key focus area.",
+    "example_zh": "季度報告將 isolation 列為關鍵關注項目。"
   },
   {
     "word": "issuance",
@@ -2416,8 +2416,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "發行",
-    "example": "Our manager approved the issuance for this quarter.",
-    "example_zh": "經理已核准本季的發行安排。"
+    "example": "We discussed issuance during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 issuance。"
   },
   {
     "word": "itemization",
@@ -2425,9 +2425,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Business",
-    "meaning": "流程；作業",
-    "example": "The department tracks each itemization in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項流程。"
+    "meaning": "作業流程；處理程序",
+    "example": "The manager asked for an update on itemization before Friday.",
+    "example_zh": "經理要求在週五前提供 itemization 的最新進度。"
   },
   {
     "word": "job",
@@ -2436,8 +2436,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "工作",
-    "example": "The team reviewed the job before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項工作。"
+    "example": "Our team improved job to support the new project.",
+    "example_zh": "我們團隊已改善 job 以支援新專案。"
   },
   {
     "word": "judgment",
@@ -2445,9 +2445,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Business",
-    "meaning": "管理事項；結果",
-    "example": "Please include the judgment in tomorrow's email update.",
-    "example_zh": "請把這項管理事項加入明天的郵件更新。"
+    "meaning": "判斷；裁決",
+    "example": "The client requested details about judgment in the proposal.",
+    "example_zh": "客戶在提案中要求提供 judgment 的細節。"
   },
   {
     "word": "jurisdiction",
@@ -2455,9 +2455,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Business",
-    "meaning": "流程；作業",
-    "example": "Our manager approved the jurisdiction for this quarter.",
-    "example_zh": "經理已核准本季的流程安排。"
+    "meaning": "作業流程；處理程序",
+    "example": "The quarterly report identified jurisdiction as a key focus area.",
+    "example_zh": "季度報告將 jurisdiction 列為關鍵關注項目。"
   },
   {
     "word": "knowledge",
@@ -2466,8 +2466,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "知識",
-    "example": "The department tracks each knowledge in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項知識。"
+    "example": "We discussed knowledge during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 knowledge。"
   },
   {
     "word": "labor",
@@ -2476,8 +2476,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "勞務",
-    "example": "Please include the labor in tomorrow's email update.",
-    "example_zh": "請把這項勞務加入明天的郵件更新。"
+    "example": "The manager asked for an update on labor before Friday.",
+    "example_zh": "經理要求在週五前提供 labor 的最新進度。"
   },
   {
     "word": "launch",
@@ -2486,8 +2486,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "上市；啟動",
-    "example": "The team reviewed the launch before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項上市。"
+    "example": "Our team improved launch to support the new project.",
+    "example_zh": "我們團隊已改善 launch 以支援新專案。"
   },
   {
     "word": "leadership",
@@ -2496,8 +2496,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "領導力",
-    "example": "Our manager approved the leadership for this quarter.",
-    "example_zh": "經理已核准本季的領導力安排。"
+    "example": "The client requested details about leadership in the proposal.",
+    "example_zh": "客戶在提案中要求提供 leadership 的細節。"
   },
   {
     "word": "lease",
@@ -2506,8 +2506,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "租賃",
-    "example": "The client asked for the latest lease during the call.",
-    "example_zh": "客戶在通話中要求最新的租賃資訊。"
+    "example": "The quarterly report identified lease as a key focus area.",
+    "example_zh": "季度報告將 lease 列為關鍵關注項目。"
   },
   {
     "word": "ledger",
@@ -2516,8 +2516,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "分類帳",
-    "example": "The department tracks each ledger in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項分類帳。"
+    "example": "We discussed ledger during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 ledger。"
   },
   {
     "word": "legislation",
@@ -2526,8 +2526,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "法規",
-    "example": "The team reviewed the legislation before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項法規。"
+    "example": "The manager asked for an update on legislation before Friday.",
+    "example_zh": "經理要求在週五前提供 legislation 的最新進度。"
   },
   {
     "word": "liability",
@@ -2536,8 +2536,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "負債；責任",
-    "example": "Please include the liability in tomorrow's email update.",
-    "example_zh": "請把這項負債加入明天的郵件更新。"
+    "example": "Our team improved liability to support the new project.",
+    "example_zh": "我們團隊已改善 liability 以支援新專案。"
   },
   {
     "word": "license",
@@ -2546,8 +2546,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Legal",
     "meaning": "授權；執照",
-    "example": "The client asked for the latest license during the call.",
-    "example_zh": "客戶在通話中要求最新的授權資訊。"
+    "example": "The client requested details about license in the proposal.",
+    "example_zh": "客戶在提案中要求提供 license 的細節。"
   },
   {
     "word": "licensing",
@@ -2555,9 +2555,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Business",
-    "meaning": "進行中的作業",
-    "example": "The department tracks each licensing in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項進行中的作業。"
+    "meaning": "授權；核發執照",
+    "example": "The quarterly report identified licensing as a key focus area.",
+    "example_zh": "季度報告將 licensing 列為關鍵關注項目。"
   },
   {
     "word": "liquidation",
@@ -2566,8 +2566,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "清算",
-    "example": "Please include the liquidation in tomorrow's email update.",
-    "example_zh": "請把這項清算加入明天的郵件更新。"
+    "example": "We discussed liquidation during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 liquidation。"
   },
   {
     "word": "listing",
@@ -2575,9 +2575,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Business",
-    "meaning": "進行中的作業",
-    "example": "Our manager approved the listing for this quarter.",
-    "example_zh": "經理已核准本季的進行中的作業安排。"
+    "meaning": "清單；上市（掛牌）",
+    "example": "The manager asked for an update on listing before Friday.",
+    "example_zh": "經理要求在週五前提供 listing 的最新進度。"
   },
   {
     "word": "litigation",
@@ -2585,9 +2585,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Business",
-    "meaning": "流程；作業",
-    "example": "The client asked for the latest litigation during the call.",
-    "example_zh": "客戶在通話中要求最新的流程資訊。"
+    "meaning": "作業流程；處理程序",
+    "example": "Our team improved litigation to support the new project.",
+    "example_zh": "我們團隊已改善 litigation 以支援新專案。"
   },
   {
     "word": "location",
@@ -2595,9 +2595,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Business",
-    "meaning": "流程；作業",
-    "example": "The team reviewed the location before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項流程。"
+    "meaning": "作業流程；處理程序",
+    "example": "The client requested details about location in the proposal.",
+    "example_zh": "客戶在提案中要求提供 location 的細節。"
   },
   {
     "word": "logistics",
@@ -2606,8 +2606,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "物流",
-    "example": "Please include the logistics in tomorrow's email update.",
-    "example_zh": "請把這項物流加入明天的郵件更新。"
+    "example": "The quarterly report identified logistics as a key focus area.",
+    "example_zh": "季度報告將 logistics 列為關鍵關注項目。"
   },
   {
     "word": "longevity",
@@ -2616,8 +2616,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "特性；性質",
-    "example": "Our manager approved the longevity for this quarter.",
-    "example_zh": "經理已核准本季的特性安排。"
+    "example": "We discussed longevity during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 longevity。"
   },
   {
     "word": "maintenance",
@@ -2626,8 +2626,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "維護",
-    "example": "The department tracks each maintenance in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項維護。"
+    "example": "The manager asked for an update on maintenance before Friday.",
+    "example_zh": "經理要求在週五前提供 maintenance 的最新進度。"
   },
   {
     "word": "majority",
@@ -2636,8 +2636,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "特性；性質",
-    "example": "The team reviewed the majority before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項特性。"
+    "example": "Our team improved majority to support the new project.",
+    "example_zh": "我們團隊已改善 majority 以支援新專案。"
   },
   {
     "word": "management",
@@ -2646,8 +2646,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "管理",
-    "example": "Please include the management in tomorrow's email update.",
-    "example_zh": "請把這項管理加入明天的郵件更新。"
+    "example": "The client requested details about management in the proposal.",
+    "example_zh": "客戶在提案中要求提供 management 的細節。"
   },
   {
     "word": "manager",
@@ -2656,8 +2656,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "經理",
-    "example": "Our manager approved the manager for this quarter.",
-    "example_zh": "經理已核准本季的經理安排。"
+    "example": "The quarterly report identified manager as a key focus area.",
+    "example_zh": "季度報告將 manager 列為關鍵關注項目。"
   },
   {
     "word": "manufacturer",
@@ -2666,8 +2666,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "製造商",
-    "example": "The department tracks each manufacturer in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項製造商。"
+    "example": "We discussed manufacturer during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 manufacturer。"
   },
   {
     "word": "manufacturing",
@@ -2676,8 +2676,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "製造業",
-    "example": "The team reviewed the manufacturing before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項製造業。"
+    "example": "The manager asked for an update on manufacturing before Friday.",
+    "example_zh": "經理要求在週五前提供 manufacturing 的最新進度。"
   },
   {
     "word": "margin",
@@ -2686,8 +2686,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "利潤率",
-    "example": "Please include the margin in tomorrow's email update.",
-    "example_zh": "請把這項利潤率加入明天的郵件更新。"
+    "example": "Our team improved margin to support the new project.",
+    "example_zh": "我們團隊已改善 margin 以支援新專案。"
   },
   {
     "word": "market",
@@ -2696,8 +2696,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "市場",
-    "example": "Our manager approved the market for this quarter.",
-    "example_zh": "經理已核准本季的市場安排。"
+    "example": "The client requested details about market in the proposal.",
+    "example_zh": "客戶在提案中要求提供 market 的細節。"
   },
   {
     "word": "marketing",
@@ -2706,8 +2706,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "行銷",
-    "example": "The client asked for the latest marketing during the call.",
-    "example_zh": "客戶在通話中要求最新的行銷資訊。"
+    "example": "The quarterly report identified marketing as a key focus area.",
+    "example_zh": "季度報告將 marketing 列為關鍵關注項目。"
   },
   {
     "word": "material",
@@ -2716,8 +2716,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "材料",
-    "example": "The team reviewed the material before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項材料。"
+    "example": "We discussed material during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 material。"
   },
   {
     "word": "maturity",
@@ -2726,8 +2726,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "成熟度；到期",
-    "example": "Please include the maturity in tomorrow's email update.",
-    "example_zh": "請把這項成熟度加入明天的郵件更新。"
+    "example": "The manager asked for an update on maturity before Friday.",
+    "example_zh": "經理要求在週五前提供 maturity 的最新進度。"
   },
   {
     "word": "measurement",
@@ -2736,8 +2736,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "衡量",
-    "example": "Our manager approved the measurement for this quarter.",
-    "example_zh": "經理已核准本季的衡量安排。"
+    "example": "Our team improved measurement to support the new project.",
+    "example_zh": "我們團隊已改善 measurement 以支援新專案。"
   },
   {
     "word": "meeting",
@@ -2746,8 +2746,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "會議",
-    "example": "The team reviewed the meeting before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項會議。"
+    "example": "The client requested details about meeting in the proposal.",
+    "example_zh": "客戶在提案中要求提供 meeting 的細節。"
   },
   {
     "word": "membership",
@@ -2756,8 +2756,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "會員資格",
-    "example": "Please include the membership in tomorrow's email update.",
-    "example_zh": "請把這項會員資格加入明天的郵件更新。"
+    "example": "The quarterly report identified membership as a key focus area.",
+    "example_zh": "季度報告將 membership 列為關鍵關注項目。"
   },
   {
     "word": "memorandum",
@@ -2766,8 +2766,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "備忘錄",
-    "example": "Our manager approved the memorandum for this quarter.",
-    "example_zh": "經理已核准本季的備忘錄安排。"
+    "example": "We discussed memorandum during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 memorandum。"
   },
   {
     "word": "mention",
@@ -2775,9 +2775,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Business",
-    "meaning": "流程；作業",
-    "example": "The client asked for the latest mention during the call.",
-    "example_zh": "客戶在通話中要求最新的流程資訊。"
+    "meaning": "作業流程；處理程序",
+    "example": "The manager asked for an update on mention before Friday.",
+    "example_zh": "經理要求在週五前提供 mention 的最新進度。"
   },
   {
     "word": "merchant",
@@ -2786,8 +2786,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "商家",
-    "example": "The department tracks each merchant in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項商家。"
+    "example": "Our team improved merchant to support the new project.",
+    "example_zh": "我們團隊已改善 merchant 以支援新專案。"
   },
   {
     "word": "merger",
@@ -2796,8 +2796,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "合併",
-    "example": "The team reviewed the merger before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項合併。"
+    "example": "The client requested details about merger in the proposal.",
+    "example_zh": "客戶在提案中要求提供 merger 的細節。"
   },
   {
     "word": "metric",
@@ -2806,8 +2806,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "指標",
-    "example": "Our manager approved the metric for this quarter.",
-    "example_zh": "經理已核准本季的指標安排。"
+    "example": "The quarterly report identified metric as a key focus area.",
+    "example_zh": "季度報告將 metric 列為關鍵關注項目。"
   },
   {
     "word": "migration",
@@ -2815,9 +2815,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Finance",
-    "meaning": "流程；作業",
-    "example": "The client asked for the latest migration during the call.",
-    "example_zh": "客戶在通話中要求最新的流程資訊。"
+    "meaning": "作業流程；處理程序",
+    "example": "We discussed migration during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 migration。"
   },
   {
     "word": "milestone",
@@ -2826,8 +2826,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "里程碑",
-    "example": "The department tracks each milestone in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項里程碑。"
+    "example": "The manager asked for an update on milestone before Friday.",
+    "example_zh": "經理要求在週五前提供 milestone 的最新進度。"
   },
   {
     "word": "minority",
@@ -2836,8 +2836,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "特性；性質",
-    "example": "The team reviewed the minority before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項特性。"
+    "example": "Our team improved minority to support the new project.",
+    "example_zh": "我們團隊已改善 minority 以支援新專案。"
   },
   {
     "word": "mission",
@@ -2846,8 +2846,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "使命",
-    "example": "Please include the mission in tomorrow's email update.",
-    "example_zh": "請把這項使命加入明天的郵件更新。"
+    "example": "The client requested details about mission in the proposal.",
+    "example_zh": "客戶在提案中要求提供 mission 的細節。"
   },
   {
     "word": "model",
@@ -2856,8 +2856,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "模型",
-    "example": "Our manager approved the model for this quarter.",
-    "example_zh": "經理已核准本季的模型安排。"
+    "example": "The quarterly report identified model as a key focus area.",
+    "example_zh": "季度報告將 model 列為關鍵關注項目。"
   },
   {
     "word": "moderation",
@@ -2865,9 +2865,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Finance",
-    "meaning": "流程；作業",
-    "example": "The client asked for the latest moderation during the call.",
-    "example_zh": "客戶在通話中要求最新的流程資訊。"
+    "meaning": "作業流程；處理程序",
+    "example": "We discussed moderation during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 moderation。"
   },
   {
     "word": "modification",
@@ -2875,9 +2875,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Business",
-    "meaning": "流程；作業",
-    "example": "The department tracks each modification in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項流程。"
+    "meaning": "作業流程；處理程序",
+    "example": "The manager asked for an update on modification before Friday.",
+    "example_zh": "經理要求在週五前提供 modification 的最新進度。"
   },
   {
     "word": "monitoring",
@@ -2886,8 +2886,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "監控",
-    "example": "Please include the monitoring in tomorrow's email update.",
-    "example_zh": "請把這項監控加入明天的郵件更新。"
+    "example": "Our team improved monitoring to support the new project.",
+    "example_zh": "我們團隊已改善 monitoring 以支援新專案。"
   },
   {
     "word": "motivation",
@@ -2896,8 +2896,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "動機",
-    "example": "The client asked for the latest motivation during the call.",
-    "example_zh": "客戶在通話中要求最新的動機資訊。"
+    "example": "The client requested details about motivation in the proposal.",
+    "example_zh": "客戶在提案中要求提供 motivation 的細節。"
   },
   {
     "word": "multitasking",
@@ -2905,9 +2905,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Business",
-    "meaning": "進行中的作業",
-    "example": "The department tracks each multitasking in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項進行中的作業。"
+    "meaning": "多工處理",
+    "example": "The quarterly report identified multitasking as a key focus area.",
+    "example_zh": "季度報告將 multitasking 列為關鍵關注項目。"
   },
   {
     "word": "negotiation",
@@ -2916,8 +2916,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "談判",
-    "example": "The team reviewed the negotiation before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項談判。"
+    "example": "We discussed negotiation during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 negotiation。"
   },
   {
     "word": "network",
@@ -2926,8 +2926,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "網路；人脈",
-    "example": "Please include the network in tomorrow's email update.",
-    "example_zh": "請把這項網路加入明天的郵件更新。"
+    "example": "The manager asked for an update on network before Friday.",
+    "example_zh": "經理要求在週五前提供 network 的最新進度。"
   },
   {
     "word": "nomination",
@@ -2935,9 +2935,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Business",
-    "meaning": "流程；作業",
-    "example": "Our manager approved the nomination for this quarter.",
-    "example_zh": "經理已核准本季的流程安排。"
+    "meaning": "作業流程；處理程序",
+    "example": "Our team improved nomination to support the new project.",
+    "example_zh": "我們團隊已改善 nomination 以支援新專案。"
   },
   {
     "word": "notice",
@@ -2946,8 +2946,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "通知",
-    "example": "The client asked for the latest notice during the call.",
-    "example_zh": "客戶在通話中要求最新的通知資訊。"
+    "example": "The client requested details about notice in the proposal.",
+    "example_zh": "客戶在提案中要求提供 notice 的細節。"
   },
   {
     "word": "notification",
@@ -2956,8 +2956,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "通知",
-    "example": "The department tracks each notification in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項通知。"
+    "example": "The quarterly report identified notification as a key focus area.",
+    "example_zh": "季度報告將 notification 列為關鍵關注項目。"
   },
   {
     "word": "objective",
@@ -2966,8 +2966,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "目標",
-    "example": "The team reviewed the objective before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項目標。"
+    "example": "We discussed objective during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 objective。"
   },
   {
     "word": "obligation",
@@ -2976,8 +2976,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Legal",
     "meaning": "義務",
-    "example": "Please include the obligation in tomorrow's email update.",
-    "example_zh": "請把這項義務加入明天的郵件更新。"
+    "example": "The manager asked for an update on obligation before Friday.",
+    "example_zh": "經理要求在週五前提供 obligation 的最新進度。"
   },
   {
     "word": "observation",
@@ -2985,9 +2985,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Business",
-    "meaning": "流程；作業",
-    "example": "Our manager approved the observation for this quarter.",
-    "example_zh": "經理已核准本季的流程安排。"
+    "meaning": "作業流程；處理程序",
+    "example": "Our team improved observation to support the new project.",
+    "example_zh": "我們團隊已改善 observation 以支援新專案。"
   },
   {
     "word": "occupation",
@@ -2995,9 +2995,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Business",
-    "meaning": "流程；作業",
-    "example": "The client asked for the latest occupation during the call.",
-    "example_zh": "客戶在通話中要求最新的流程資訊。"
+    "meaning": "作業流程；處理程序",
+    "example": "The client requested details about occupation in the proposal.",
+    "example_zh": "客戶在提案中要求提供 occupation 的細節。"
   },
   {
     "word": "offer",
@@ -3006,8 +3006,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "提案；報價",
-    "example": "The team reviewed the offer before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項提案。"
+    "example": "The quarterly report identified offer as a key focus area.",
+    "example_zh": "季度報告將 offer 列為關鍵關注項目。"
   },
   {
     "word": "onboarding",
@@ -3015,9 +3015,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Business",
-    "meaning": "進行中的作業",
-    "example": "Our manager approved the onboarding for this quarter.",
-    "example_zh": "經理已核准本季的進行中的作業安排。"
+    "meaning": "新進人員到職流程",
+    "example": "We discussed onboarding during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 onboarding。"
   },
   {
     "word": "operation",
@@ -3026,8 +3026,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "營運；作業",
-    "example": "The client asked for the latest operation during the call.",
-    "example_zh": "客戶在通話中要求最新的營運資訊。"
+    "example": "The manager asked for an update on operation before Friday.",
+    "example_zh": "經理要求在週五前提供 operation 的最新進度。"
   },
   {
     "word": "opportunity",
@@ -3036,8 +3036,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "機會",
-    "example": "The team reviewed the opportunity before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項機會。"
+    "example": "Our team improved opportunity to support the new project.",
+    "example_zh": "我們團隊已改善 opportunity 以支援新專案。"
   },
   {
     "word": "optimization",
@@ -3046,8 +3046,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "最佳化",
-    "example": "Please include the optimization in tomorrow's email update.",
-    "example_zh": "請把這項最佳化加入明天的郵件更新。"
+    "example": "The client requested details about optimization in the proposal.",
+    "example_zh": "客戶在提案中要求提供 optimization 的細節。"
   },
   {
     "word": "option",
@@ -3056,8 +3056,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "選項",
-    "example": "Our manager approved the option for this quarter.",
-    "example_zh": "經理已核准本季的選項安排。"
+    "example": "The quarterly report identified option as a key focus area.",
+    "example_zh": "季度報告將 option 列為關鍵關注項目。"
   },
   {
     "word": "order",
@@ -3066,8 +3066,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "訂單",
-    "example": "The client asked for the latest order during the call.",
-    "example_zh": "客戶在通話中要求最新的訂單資訊。"
+    "example": "We discussed order during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 order。"
   },
   {
     "word": "organization",
@@ -3076,8 +3076,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "組織",
-    "example": "The team reviewed the organization before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項組織。"
+    "example": "The manager asked for an update on organization before Friday.",
+    "example_zh": "經理要求在週五前提供 organization 的最新進度。"
   },
   {
     "word": "orientation",
@@ -3086,8 +3086,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "到職培訓",
-    "example": "Please include the orientation in tomorrow's email update.",
-    "example_zh": "請把這項到職培訓加入明天的郵件更新。"
+    "example": "Our team improved orientation to support the new project.",
+    "example_zh": "我們團隊已改善 orientation 以支援新專案。"
   },
   {
     "word": "outcome",
@@ -3096,8 +3096,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "成果",
-    "example": "Our manager approved the outcome for this quarter.",
-    "example_zh": "經理已核准本季的成果安排。"
+    "example": "The client requested details about outcome in the proposal.",
+    "example_zh": "客戶在提案中要求提供 outcome 的細節。"
   },
   {
     "word": "output",
@@ -3106,8 +3106,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "產出",
-    "example": "The department tracks each output in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項產出。"
+    "example": "The quarterly report identified output as a key focus area.",
+    "example_zh": "季度報告將 output 列為關鍵關注項目。"
   },
   {
     "word": "outsourcing",
@@ -3116,8 +3116,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "外包",
-    "example": "Please include the outsourcing in tomorrow's email update.",
-    "example_zh": "請把這項外包加入明天的郵件更新。"
+    "example": "We discussed outsourcing during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 outsourcing。"
   },
   {
     "word": "overhead",
@@ -3126,8 +3126,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "間接成本",
-    "example": "Our manager approved the overhead for this quarter.",
-    "example_zh": "經理已核准本季的間接成本安排。"
+    "example": "The manager asked for an update on overhead before Friday.",
+    "example_zh": "經理要求在週五前提供 overhead 的最新進度。"
   },
   {
     "word": "overview",
@@ -3136,8 +3136,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "概覽",
-    "example": "The client asked for the latest overview during the call.",
-    "example_zh": "客戶在通話中要求最新的概覽資訊。"
+    "example": "Our team improved overview to support the new project.",
+    "example_zh": "我們團隊已改善 overview 以支援新專案。"
   },
   {
     "word": "ownership",
@@ -3146,8 +3146,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "所有權",
-    "example": "The department tracks each ownership in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項所有權。"
+    "example": "The client requested details about ownership in the proposal.",
+    "example_zh": "客戶在提案中要求提供 ownership 的細節。"
   },
   {
     "word": "package",
@@ -3156,8 +3156,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "套裝；包裹",
-    "example": "The team reviewed the package before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項套裝。"
+    "example": "The quarterly report identified package as a key focus area.",
+    "example_zh": "季度報告將 package 列為關鍵關注項目。"
   },
   {
     "word": "packaging",
@@ -3165,9 +3165,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Business",
-    "meaning": "進行中的作業",
-    "example": "Please include the packaging in tomorrow's email update.",
-    "example_zh": "請把這項進行中的作業加入明天的郵件更新。"
+    "meaning": "包裝；包裝設計",
+    "example": "We discussed packaging during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 packaging。"
   },
   {
     "word": "paperwork",
@@ -3176,8 +3176,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "文書作業",
-    "example": "The client asked for the latest paperwork during the call.",
-    "example_zh": "客戶在通話中要求最新的文書作業資訊。"
+    "example": "The manager asked for an update on paperwork before Friday.",
+    "example_zh": "經理要求在週五前提供 paperwork 的最新進度。"
   },
   {
     "word": "participant",
@@ -3186,8 +3186,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "參與者",
-    "example": "The department tracks each participant in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項參與者。"
+    "example": "Our team improved participant to support the new project.",
+    "example_zh": "我們團隊已改善 participant 以支援新專案。"
   },
   {
     "word": "participation",
@@ -3195,9 +3195,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Business",
-    "meaning": "流程；作業",
-    "example": "The team reviewed the participation before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項流程。"
+    "meaning": "作業流程；處理程序",
+    "example": "The client requested details about participation in the proposal.",
+    "example_zh": "客戶在提案中要求提供 participation 的細節。"
   },
   {
     "word": "partnership",
@@ -3206,8 +3206,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "夥伴關係",
-    "example": "Please include the partnership in tomorrow's email update.",
-    "example_zh": "請把這項夥伴關係加入明天的郵件更新。"
+    "example": "The quarterly report identified partnership as a key focus area.",
+    "example_zh": "季度報告將 partnership 列為關鍵關注項目。"
   },
   {
     "word": "payment",
@@ -3216,8 +3216,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "付款",
-    "example": "Our manager approved the payment for this quarter.",
-    "example_zh": "經理已核准本季的付款安排。"
+    "example": "We discussed payment during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 payment。"
   },
   {
     "word": "payroll",
@@ -3226,8 +3226,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "薪資名冊",
-    "example": "The client asked for the latest payroll during the call.",
-    "example_zh": "客戶在通話中要求最新的薪資名冊資訊。"
+    "example": "The manager asked for an update on payroll before Friday.",
+    "example_zh": "經理要求在週五前提供 payroll 的最新進度。"
   },
   {
     "word": "penalty",
@@ -3236,8 +3236,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "罰則",
-    "example": "The department tracks each penalty in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項罰則。"
+    "example": "Our team improved penalty to support the new project.",
+    "example_zh": "我們團隊已改善 penalty 以支援新專案。"
   },
   {
     "word": "pension",
@@ -3246,8 +3246,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "退休金",
-    "example": "The team reviewed the pension before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項退休金。"
+    "example": "The client requested details about pension in the proposal.",
+    "example_zh": "客戶在提案中要求提供 pension 的細節。"
   },
   {
     "word": "performance",
@@ -3256,8 +3256,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "績效",
-    "example": "Our manager approved the performance for this quarter.",
-    "example_zh": "經理已核准本季的績效安排。"
+    "example": "The quarterly report identified performance as a key focus area.",
+    "example_zh": "季度報告將 performance 列為關鍵關注項目。"
   },
   {
     "word": "permission",
@@ -3266,8 +3266,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Legal",
     "meaning": "許可",
-    "example": "The client asked for the latest permission during the call.",
-    "example_zh": "客戶在通話中要求最新的許可資訊。"
+    "example": "We discussed permission during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 permission。"
   },
   {
     "word": "permit",
@@ -3276,8 +3276,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Legal",
     "meaning": "許可證",
-    "example": "The department tracks each permit in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項許可證。"
+    "example": "The manager asked for an update on permit before Friday.",
+    "example_zh": "經理要求在週五前提供 permit 的最新進度。"
   },
   {
     "word": "personnel",
@@ -3286,8 +3286,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "人事",
-    "example": "The team reviewed the personnel before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項人事。"
+    "example": "Our team improved personnel to support the new project.",
+    "example_zh": "我們團隊已改善 personnel 以支援新專案。"
   },
   {
     "word": "pipeline",
@@ -3296,8 +3296,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "管線；案件池",
-    "example": "The client asked for the latest pipeline during the call.",
-    "example_zh": "客戶在通話中要求最新的管線資訊。"
+    "example": "The client requested details about pipeline in the proposal.",
+    "example_zh": "客戶在提案中要求提供 pipeline 的細節。"
   },
   {
     "word": "placement",
@@ -3305,9 +3305,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Business",
-    "meaning": "管理事項；結果",
-    "example": "The department tracks each placement in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項管理事項。"
+    "meaning": "配置；安置",
+    "example": "The quarterly report identified placement as a key focus area.",
+    "example_zh": "季度報告將 placement 列為關鍵關注項目。"
   },
   {
     "word": "planning",
@@ -3316,8 +3316,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "規劃",
-    "example": "Please include the planning in tomorrow's email update.",
-    "example_zh": "請把這項規劃加入明天的郵件更新。"
+    "example": "We discussed planning during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 planning。"
   },
   {
     "word": "platform",
@@ -3326,8 +3326,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "平台",
-    "example": "Our manager approved the platform for this quarter.",
-    "example_zh": "經理已核准本季的平台安排。"
+    "example": "The manager asked for an update on platform before Friday.",
+    "example_zh": "經理要求在週五前提供 platform 的最新進度。"
   },
   {
     "word": "policy",
@@ -3336,8 +3336,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Legal",
     "meaning": "政策",
-    "example": "The client asked for the latest policy during the call.",
-    "example_zh": "客戶在通話中要求最新的政策資訊。"
+    "example": "Our team improved policy to support the new project.",
+    "example_zh": "我們團隊已改善 policy 以支援新專案。"
   },
   {
     "word": "portfolio",
@@ -3346,8 +3346,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "投資組合",
-    "example": "The department tracks each portfolio in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項投資組合。"
+    "example": "The client requested details about portfolio in the proposal.",
+    "example_zh": "客戶在提案中要求提供 portfolio 的細節。"
   },
   {
     "word": "position",
@@ -3356,8 +3356,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "職位；立場",
-    "example": "The team reviewed the position before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項職位。"
+    "example": "The quarterly report identified position as a key focus area.",
+    "example_zh": "季度報告將 position 列為關鍵關注項目。"
   },
   {
     "word": "possibility",
@@ -3366,8 +3366,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "特性；性質",
-    "example": "Please include the possibility in tomorrow's email update.",
-    "example_zh": "請把這項特性加入明天的郵件更新。"
+    "example": "We discussed possibility during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 possibility。"
   },
   {
     "word": "postponement",
@@ -3375,9 +3375,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Business",
-    "meaning": "管理事項；結果",
-    "example": "Our manager approved the postponement for this quarter.",
-    "example_zh": "經理已核准本季的管理事項安排。"
+    "meaning": "延期；延後",
+    "example": "The manager asked for an update on postponement before Friday.",
+    "example_zh": "經理要求在週五前提供 postponement 的最新進度。"
   },
   {
     "word": "potential",
@@ -3386,8 +3386,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "潛力",
-    "example": "The client asked for the latest potential during the call.",
-    "example_zh": "客戶在通話中要求最新的潛力資訊。"
+    "example": "Our team improved potential to support the new project.",
+    "example_zh": "我們團隊已改善 potential 以支援新專案。"
   },
   {
     "word": "practice",
@@ -3396,8 +3396,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "實務",
-    "example": "The department tracks each practice in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項實務。"
+    "example": "The client requested details about practice in the proposal.",
+    "example_zh": "客戶在提案中要求提供 practice 的細節。"
   },
   {
     "word": "preparation",
@@ -3406,8 +3406,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "準備",
-    "example": "Our manager approved the preparation for this quarter.",
-    "example_zh": "經理已核准本季的準備安排。"
+    "example": "The quarterly report identified preparation as a key focus area.",
+    "example_zh": "季度報告將 preparation 列為關鍵關注項目。"
   },
   {
     "word": "presentation",
@@ -3416,8 +3416,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "簡報",
-    "example": "The department tracks each presentation in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項簡報。"
+    "example": "We discussed presentation during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 presentation。"
   },
   {
     "word": "pricing",
@@ -3426,8 +3426,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "定價",
-    "example": "Please include the pricing in tomorrow's email update.",
-    "example_zh": "請把這項定價加入明天的郵件更新。"
+    "example": "The manager asked for an update on pricing before Friday.",
+    "example_zh": "經理要求在週五前提供 pricing 的最新進度。"
   },
   {
     "word": "priority",
@@ -3436,8 +3436,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "優先順序",
-    "example": "Our manager approved the priority for this quarter.",
-    "example_zh": "經理已核准本季的優先順序安排。"
+    "example": "Our team improved priority to support the new project.",
+    "example_zh": "我們團隊已改善 priority 以支援新專案。"
   },
   {
     "word": "privacy",
@@ -3446,8 +3446,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Legal",
     "meaning": "隱私",
-    "example": "The client asked for the latest privacy during the call.",
-    "example_zh": "客戶在通話中要求最新的隱私資訊。"
+    "example": "The client requested details about privacy in the proposal.",
+    "example_zh": "客戶在提案中要求提供 privacy 的細節。"
   },
   {
     "word": "probability",
@@ -3456,8 +3456,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "特性；性質",
-    "example": "The department tracks each probability in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項特性。"
+    "example": "The quarterly report identified probability as a key focus area.",
+    "example_zh": "季度報告將 probability 列為關鍵關注項目。"
   },
   {
     "word": "procedure",
@@ -3466,8 +3466,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "程序",
-    "example": "The team reviewed the procedure before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項程序。"
+    "example": "We discussed procedure during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 procedure。"
   },
   {
     "word": "process",
@@ -3476,8 +3476,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "流程",
-    "example": "Please include the process in tomorrow's email update.",
-    "example_zh": "請把這項流程加入明天的郵件更新。"
+    "example": "The manager asked for an update on process before Friday.",
+    "example_zh": "經理要求在週五前提供 process 的最新進度。"
   },
   {
     "word": "procurement",
@@ -3486,8 +3486,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Purchasing",
     "meaning": "採購",
-    "example": "Our manager approved the procurement for this quarter.",
-    "example_zh": "經理已核准本季的採購安排。"
+    "example": "Our team improved procurement to support the new project.",
+    "example_zh": "我們團隊已改善 procurement 以支援新專案。"
   },
   {
     "word": "producer",
@@ -3496,8 +3496,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "製作人；生產者",
-    "example": "The client asked for the latest producer during the call.",
-    "example_zh": "客戶在通話中要求最新的製作人資訊。"
+    "example": "The client requested details about producer in the proposal.",
+    "example_zh": "客戶在提案中要求提供 producer 的細節。"
   },
   {
     "word": "product",
@@ -3506,8 +3506,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "產品",
-    "example": "The department tracks each product in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項產品。"
+    "example": "The quarterly report identified product as a key focus area.",
+    "example_zh": "季度報告將 product 列為關鍵關注項目。"
   },
   {
     "word": "production",
@@ -3516,8 +3516,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "生產",
-    "example": "The team reviewed the production before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項生產。"
+    "example": "We discussed production during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 production。"
   },
   {
     "word": "productivity",
@@ -3526,8 +3526,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "生產力；工作效率",
-    "example": "Please include the productivity in tomorrow's email update.",
-    "example_zh": "請把這項生產力加入明天的郵件更新。"
+    "example": "The manager asked for an update on productivity before Friday.",
+    "example_zh": "經理要求在週五前提供 productivity 的最新進度。"
   },
   {
     "word": "professional",
@@ -3536,8 +3536,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "專業人士",
-    "example": "Our manager approved the professional for this quarter.",
-    "example_zh": "經理已核准本季的專業人士安排。"
+    "example": "Our team improved professional to support the new project.",
+    "example_zh": "我們團隊已改善 professional 以支援新專案。"
   },
   {
     "word": "profit",
@@ -3546,8 +3546,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "利潤",
-    "example": "The client asked for the latest profit during the call.",
-    "example_zh": "客戶在通話中要求最新的利潤資訊。"
+    "example": "The client requested details about profit in the proposal.",
+    "example_zh": "客戶在提案中要求提供 profit 的細節。"
   },
   {
     "word": "projection",
@@ -3556,8 +3556,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "預估",
-    "example": "The department tracks each projection in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項預估。"
+    "example": "The quarterly report identified projection as a key focus area.",
+    "example_zh": "季度報告將 projection 列為關鍵關注項目。"
   },
   {
     "word": "promotion",
@@ -3566,8 +3566,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "促銷；晉升",
-    "example": "The team reviewed the promotion before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項促銷。"
+    "example": "We discussed promotion during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 promotion。"
   },
   {
     "word": "property",
@@ -3576,8 +3576,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "資產；財產",
-    "example": "Please include the property in tomorrow's email update.",
-    "example_zh": "請把這項資產加入明天的郵件更新。"
+    "example": "The manager asked for an update on property before Friday.",
+    "example_zh": "經理要求在週五前提供 property 的最新進度。"
   },
   {
     "word": "proposal",
@@ -3586,8 +3586,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "提案",
-    "example": "Our manager approved the proposal for this quarter.",
-    "example_zh": "經理已核准本季的提案安排。"
+    "example": "Our team improved proposal to support the new project.",
+    "example_zh": "我們團隊已改善 proposal 以支援新專案。"
   },
   {
     "word": "prospect",
@@ -3596,8 +3596,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "潛在客戶",
-    "example": "The client asked for the latest prospect during the call.",
-    "example_zh": "客戶在通話中要求最新的潛在客戶資訊。"
+    "example": "The client requested details about prospect in the proposal.",
+    "example_zh": "客戶在提案中要求提供 prospect 的細節。"
   },
   {
     "word": "protection",
@@ -3606,8 +3606,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "保護",
-    "example": "The department tracks each protection in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項保護。"
+    "example": "The quarterly report identified protection as a key focus area.",
+    "example_zh": "季度報告將 protection 列為關鍵關注項目。"
   },
   {
     "word": "protocol",
@@ -3616,8 +3616,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "協定",
-    "example": "The team reviewed the protocol before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項協定。"
+    "example": "We discussed protocol during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 protocol。"
   },
   {
     "word": "provider",
@@ -3626,8 +3626,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "供應方",
-    "example": "Please include the provider in tomorrow's email update.",
-    "example_zh": "請把這項供應方加入明天的郵件更新。"
+    "example": "The manager asked for an update on provider before Friday.",
+    "example_zh": "經理要求在週五前提供 provider 的最新進度。"
   },
   {
     "word": "provision",
@@ -3636,8 +3636,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "條款；供給",
-    "example": "Our manager approved the provision for this quarter.",
-    "example_zh": "經理已核准本季的條款安排。"
+    "example": "Our team improved provision to support the new project.",
+    "example_zh": "我們團隊已改善 provision 以支援新專案。"
   },
   {
     "word": "publicity",
@@ -3646,8 +3646,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "宣傳",
-    "example": "The client asked for the latest publicity during the call.",
-    "example_zh": "客戶在通話中要求最新的宣傳資訊。"
+    "example": "The client requested details about publicity in the proposal.",
+    "example_zh": "客戶在提案中要求提供 publicity 的細節。"
   },
   {
     "word": "purchase",
@@ -3656,8 +3656,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "採購",
-    "example": "The department tracks each purchase in the monthly report.",
-    "example_zh": "部門會在月報中追蹤各項採購。"
+    "example": "The quarterly report identified purchase as a key focus area.",
+    "example_zh": "季度報告將 purchase 列為關鍵關注項目。"
   },
   {
     "word": "abbreviation",
@@ -3666,8 +3666,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "縮寫",
-    "example": "The team reviewed the abbreviation during the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項縮寫。"
+    "example": "We discussed abbreviation during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 abbreviation。"
   },
   {
     "word": "absenteeism",
@@ -3676,8 +3676,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "缺勤率",
-    "example": "HR reviewed the absenteeism in the monthly people report.",
-    "example_zh": "人資在月度人力報告中審查了缺勤率。"
+    "example": "The manager asked for an update on absenteeism before Friday.",
+    "example_zh": "經理要求在週五前提供 absenteeism 的最新進度。"
   },
   {
     "word": "accessibility",
@@ -3686,8 +3686,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Service",
     "meaning": "可及性",
-    "example": "Customer service handled the accessibility within one business day.",
-    "example_zh": "客服在一個工作天內處理了這項可及性。"
+    "example": "Our team improved accessibility to support the new project.",
+    "example_zh": "我們團隊已改善 accessibility 以支援新專案。"
   },
   {
     "word": "accommodation",
@@ -3696,8 +3696,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Travel",
     "meaning": "住宿安排",
-    "example": "The travel desk confirmed the accommodation for the business trip.",
-    "example_zh": "差旅窗口已確認這次出差的住宿安排。"
+    "example": "The client requested details about accommodation in the proposal.",
+    "example_zh": "客戶在提案中要求提供 accommodation 的細節。"
   },
   {
     "word": "accumulation",
@@ -3706,8 +3706,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "累積量",
-    "example": "The finance team reviewed the accumulation before closing this month's books.",
-    "example_zh": "財務團隊在月結前審查了這項累積量。"
+    "example": "The quarterly report identified accumulation as a key focus area.",
+    "example_zh": "季度報告將 accumulation 列為關鍵關注項目。"
   },
   {
     "word": "accuracy",
@@ -3716,8 +3716,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "準確度",
-    "example": "The analyst highlighted the accuracy in the monthly report.",
-    "example_zh": "分析師在月報中標註了這項準確度。"
+    "example": "We discussed accuracy during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 accuracy。"
   },
   {
     "word": "acknowledgment",
@@ -3726,8 +3726,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "確認回覆",
-    "example": "The team reviewed the acknowledgment during the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項確認回覆。"
+    "example": "The manager asked for an update on acknowledgment before Friday.",
+    "example_zh": "經理要求在週五前提供 acknowledgment 的最新進度。"
   },
   {
     "word": "adaptability",
@@ -3736,8 +3736,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Training",
     "meaning": "適應能力",
-    "example": "The trainer explained the adaptability in today's session.",
-    "example_zh": "講師在今天的訓練課程說明了適應能力。"
+    "example": "Our team improved adaptability to support the new project.",
+    "example_zh": "我們團隊已改善 adaptability 以支援新專案。"
   },
   {
     "word": "admission",
@@ -3746,8 +3746,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "准入；入場許可",
-    "example": "Administration filed the admission for record keeping.",
-    "example_zh": "行政部已將這項准入完成歸檔。"
+    "example": "The client requested details about admission in the proposal.",
+    "example_zh": "客戶在提案中要求提供 admission 的細節。"
   },
   {
     "word": "affordability",
@@ -3756,8 +3756,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "可負擔性",
-    "example": "The finance team reviewed the affordability before closing this month's books.",
-    "example_zh": "財務團隊在月結前審查了這項可負擔性。"
+    "example": "The quarterly report identified affordability as a key focus area.",
+    "example_zh": "季度報告將 affordability 列為關鍵關注項目。"
   },
   {
     "word": "affiliation",
@@ -3766,8 +3766,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "隸屬關係",
-    "example": "Administration filed the affiliation for record keeping.",
-    "example_zh": "行政部已將這項隸屬關係完成歸檔。"
+    "example": "We discussed affiliation during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 affiliation。"
   },
   {
     "word": "aftermarket",
@@ -3776,8 +3776,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Sales",
     "meaning": "售後市場",
-    "example": "The team reviewed the aftermarket during the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項售後市場。"
+    "example": "The manager asked for an update on aftermarket before Friday.",
+    "example_zh": "經理要求在週五前提供 aftermarket 的最新進度。"
   },
   {
     "word": "amendment",
@@ -3786,8 +3786,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "修訂條款",
-    "example": "Legal checked the amendment before signing the agreement.",
-    "example_zh": "法務在簽約前檢查了這項修訂條款。"
+    "example": "Our team improved amendment to support the new project.",
+    "example_zh": "我們團隊已改善 amendment 以支援新專案。"
   },
   {
     "word": "analytics",
@@ -3796,8 +3796,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "數據分析",
-    "example": "The analyst highlighted the analytics in the monthly report.",
-    "example_zh": "分析師在月報中標註了這項數據分析。"
+    "example": "The client requested details about analytics in the proposal.",
+    "example_zh": "客戶在提案中要求提供 analytics 的細節。"
   },
   {
     "word": "authorization",
@@ -3806,8 +3806,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "授權",
-    "example": "Legal checked the authorization before signing the agreement.",
-    "example_zh": "法務在簽約前檢查了這項授權。"
+    "example": "The quarterly report identified authorization as a key focus area.",
+    "example_zh": "季度報告將 authorization 列為關鍵關注項目。"
   },
   {
     "word": "backlog",
@@ -3816,8 +3816,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "待辦積壓",
-    "example": "Operations tracked the backlog to improve efficiency.",
-    "example_zh": "營運部持續追蹤待辦積壓以提升效率。"
+    "example": "We discussed backlog during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 backlog。"
   },
   {
     "word": "backup",
@@ -3826,8 +3826,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "備份",
-    "example": "The IT team tested the backup before release.",
-    "example_zh": "資訊團隊在發布前測試了這項備份。"
+    "example": "The manager asked for an update on backup before Friday.",
+    "example_zh": "經理要求在週五前提供 backup 的最新進度。"
   },
   {
     "word": "bidder",
@@ -3836,8 +3836,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Purchasing",
     "meaning": "投標者",
-    "example": "Purchasing confirmed the bidder with the supplier this morning.",
-    "example_zh": "採購今早已向供應商確認這項投標者。"
+    "example": "Our team improved bidder to support the new project.",
+    "example_zh": "我們團隊已改善 bidder 以支援新專案。"
   },
   {
     "word": "blueprint",
@@ -3846,8 +3846,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "藍圖",
-    "example": "The team reviewed the blueprint during the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項藍圖。"
+    "example": "The client requested details about blueprint in the proposal.",
+    "example_zh": "客戶在提案中要求提供 blueprint 的細節。"
   },
   {
     "word": "boardroom",
@@ -3856,8 +3856,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Meeting",
     "meaning": "董事會會議室",
-    "example": "We added the boardroom to the meeting agenda.",
-    "example_zh": "我們已把這項董事會會議室加入會議議程。"
+    "example": "The quarterly report identified boardroom as a key focus area.",
+    "example_zh": "季度報告將 boardroom 列為關鍵關注項目。"
   },
   {
     "word": "booklet",
@@ -3866,8 +3866,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Training",
     "meaning": "手冊",
-    "example": "The trainer explained the booklet in today's session.",
-    "example_zh": "講師在今天的訓練課程說明了手冊。"
+    "example": "We discussed booklet during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 booklet。"
   },
   {
     "word": "briefing",
@@ -3876,8 +3876,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Meeting",
     "meaning": "簡報說明",
-    "example": "We added the briefing to the meeting agenda.",
-    "example_zh": "我們已把這項簡報說明加入會議議程。"
+    "example": "The manager asked for an update on briefing before Friday.",
+    "example_zh": "經理要求在週五前提供 briefing 的最新進度。"
   },
   {
     "word": "broadcast",
@@ -3886,8 +3886,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "公告發布",
-    "example": "The team reviewed the broadcast during the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項公告發布。"
+    "example": "Our team improved broadcast to support the new project.",
+    "example_zh": "我們團隊已改善 broadcast 以支援新專案。"
   },
   {
     "word": "burden",
@@ -3896,8 +3896,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "負擔成本",
-    "example": "The finance team reviewed the burden before closing this month's books.",
-    "example_zh": "財務團隊在月結前審查了這項負擔成本。"
+    "example": "The client requested details about burden in the proposal.",
+    "example_zh": "客戶在提案中要求提供 burden 的細節。"
   },
   {
     "word": "calibration",
@@ -3906,8 +3906,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Manufacturing",
     "meaning": "校準",
-    "example": "The plant manager monitored the calibration on the production line.",
-    "example_zh": "廠務主管在線上監控這項校準。"
+    "example": "The quarterly report identified calibration as a key focus area.",
+    "example_zh": "季度報告將 calibration 列為關鍵關注項目。"
   },
   {
     "word": "capability",
@@ -3916,8 +3916,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Training",
     "meaning": "能力",
-    "example": "The trainer explained the capability in today's session.",
-    "example_zh": "講師在今天的訓練課程說明了能力。"
+    "example": "We discussed capability during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 capability。"
   },
   {
     "word": "chain",
@@ -3926,8 +3926,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "供應鏈",
-    "example": "The logistics team updated the chain before shipment.",
-    "example_zh": "物流團隊在出貨前更新了這項供應鏈。"
+    "example": "The manager asked for an update on chain before Friday.",
+    "example_zh": "經理要求在週五前提供 chain 的最新進度。"
   },
   {
     "word": "clearance",
@@ -3936,8 +3936,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "清關；核准",
-    "example": "The logistics team updated the clearance before shipment.",
-    "example_zh": "物流團隊在出貨前更新了這項清關。"
+    "example": "Our team improved clearance to support the new project.",
+    "example_zh": "我們團隊已改善 clearance 以支援新專案。"
   },
   {
     "word": "clientele",
@@ -3946,8 +3946,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Sales",
     "meaning": "客戶群",
-    "example": "The team reviewed the clientele during the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項客戶群。"
+    "example": "The client requested details about clientele in the proposal.",
+    "example_zh": "客戶在提案中要求提供 clientele 的細節。"
   },
   {
     "word": "commentary",
@@ -3956,8 +3956,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "評論意見",
-    "example": "The analyst highlighted the commentary in the monthly report.",
-    "example_zh": "分析師在月報中標註了這項評論意見。"
+    "example": "The quarterly report identified commentary as a key focus area.",
+    "example_zh": "季度報告將 commentary 列為關鍵關注項目。"
   },
   {
     "word": "commission",
@@ -3966,8 +3966,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Sales",
     "meaning": "佣金",
-    "example": "The team reviewed the commission during the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項佣金。"
+    "example": "We discussed commission during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 commission。"
   },
   {
     "word": "commodity",
@@ -3976,8 +3976,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Purchasing",
     "meaning": "商品原料",
-    "example": "Purchasing confirmed the commodity with the supplier this morning.",
-    "example_zh": "採購今早已向供應商確認這項商品原料。"
+    "example": "The manager asked for an update on commodity before Friday.",
+    "example_zh": "經理要求在週五前提供 commodity 的最新進度。"
   },
   {
     "word": "constraint",
@@ -3986,8 +3986,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "限制條件",
-    "example": "The team reviewed the constraint during the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項限制條件。"
+    "example": "Our team improved constraint to support the new project.",
+    "example_zh": "我們團隊已改善 constraint 以支援新專案。"
   },
   {
     "word": "curfew",
@@ -3996,8 +3996,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Travel",
     "meaning": "宵禁規定",
-    "example": "The travel desk confirmed the curfew for the business trip.",
-    "example_zh": "差旅窗口已確認這次出差的宵禁規定。"
+    "example": "The client requested details about curfew in the proposal.",
+    "example_zh": "客戶在提案中要求提供 curfew 的細節。"
   },
   {
     "word": "custodian",
@@ -4006,8 +4006,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "保管人",
-    "example": "Administration filed the custodian for record keeping.",
-    "example_zh": "行政部已將這項保管人完成歸檔。"
+    "example": "The quarterly report identified custodian as a key focus area.",
+    "example_zh": "季度報告將 custodian 列為關鍵關注項目。"
   },
   {
     "word": "debtor",
@@ -4016,8 +4016,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "債務人",
-    "example": "The finance team reviewed the debtor before closing this month's books.",
-    "example_zh": "財務團隊在月結前審查了這項債務人。"
+    "example": "We discussed debtor during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 debtor。"
   },
   {
     "word": "designation",
@@ -4026,8 +4026,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "職稱",
-    "example": "HR reviewed the designation in the monthly people report.",
-    "example_zh": "人資在月度人力報告中審查了職稱。"
+    "example": "The manager asked for an update on designation before Friday.",
+    "example_zh": "經理要求在週五前提供 designation 的最新進度。"
   },
   {
     "word": "detection",
@@ -4036,8 +4036,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Quality",
     "meaning": "偵測",
-    "example": "The team reviewed the detection during the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項偵測。"
+    "example": "Our team improved detection to support the new project.",
+    "example_zh": "我們團隊已改善 detection 以支援新專案。"
   },
   {
     "word": "deviation",
@@ -4046,8 +4046,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Quality",
     "meaning": "偏差",
-    "example": "The team reviewed the deviation during the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項偏差。"
+    "example": "The client requested details about deviation in the proposal.",
+    "example_zh": "客戶在提案中要求提供 deviation 的細節。"
   },
   {
     "word": "disbursement",
@@ -4056,8 +4056,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "款項撥付",
-    "example": "The finance team reviewed the disbursement before closing this month's books.",
-    "example_zh": "財務團隊在月結前審查了這項款項撥付。"
+    "example": "The quarterly report identified disbursement as a key focus area.",
+    "example_zh": "季度報告將 disbursement 列為關鍵關注項目。"
   },
   {
     "word": "disclaimer",
@@ -4066,8 +4066,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "免責聲明",
-    "example": "Legal checked the disclaimer before signing the agreement.",
-    "example_zh": "法務在簽約前檢查了這項免責聲明。"
+    "example": "We discussed disclaimer during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 disclaimer。"
   },
   {
     "word": "discrepancy",
@@ -4076,8 +4076,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "差異；不一致",
-    "example": "The analyst highlighted the discrepancy in the monthly report.",
-    "example_zh": "分析師在月報中標註了這項差異。"
+    "example": "The manager asked for an update on discrepancy before Friday.",
+    "example_zh": "經理要求在週五前提供 discrepancy 的最新進度。"
   },
   {
     "word": "disruption",
@@ -4086,8 +4086,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "中斷",
-    "example": "Operations tracked the disruption to improve efficiency.",
-    "example_zh": "營運部持續追蹤中斷以提升效率。"
+    "example": "Our team improved disruption to support the new project.",
+    "example_zh": "我們團隊已改善 disruption 以支援新專案。"
   },
   {
     "word": "draft",
@@ -4096,8 +4096,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "草案",
-    "example": "Legal checked the draft before signing the agreement.",
-    "example_zh": "法務在簽約前檢查了這項草案。"
+    "example": "The client requested details about draft in the proposal.",
+    "example_zh": "客戶在提案中要求提供 draft 的細節。"
   },
   {
     "word": "duration",
@@ -4106,8 +4106,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Schedule",
     "meaning": "期間",
-    "example": "The coordinator adjusted the duration for next week.",
-    "example_zh": "協調人員已調整下週的期間。"
+    "example": "The quarterly report identified duration as a key focus area.",
+    "example_zh": "季度報告將 duration 列為關鍵關注項目。"
   },
   {
     "word": "endorsement",
@@ -4116,8 +4116,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "背書；推薦",
-    "example": "Marketing measured the endorsement after the campaign launch.",
-    "example_zh": "行銷部在活動上線後衡量了這項背書。"
+    "example": "We discussed endorsement during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 endorsement。"
   },
   {
     "word": "entity",
@@ -4126,8 +4126,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "法人實體",
-    "example": "Administration filed the entity for record keeping.",
-    "example_zh": "行政部已將這項法人實體完成歸檔。"
+    "example": "The manager asked for an update on entity before Friday.",
+    "example_zh": "經理要求在週五前提供 entity 的最新進度。"
   },
   {
     "word": "exporter",
@@ -4136,8 +4136,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "出口商",
-    "example": "The logistics team updated the exporter before shipment.",
-    "example_zh": "物流團隊在出貨前更新了這項出口商。"
+    "example": "Our team improved exporter to support the new project.",
+    "example_zh": "我們團隊已改善 exporter 以支援新專案。"
   },
   {
     "word": "facilitation",
@@ -4146,8 +4146,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "促進作業",
-    "example": "Administration filed the facilitation for record keeping.",
-    "example_zh": "行政部已將這項促進作業完成歸檔。"
+    "example": "The client requested details about facilitation in the proposal.",
+    "example_zh": "客戶在提案中要求提供 facilitation 的細節。"
   },
   {
     "word": "fulfillment",
@@ -4156,8 +4156,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "履約；出貨完成",
-    "example": "The logistics team updated the fulfillment before shipment.",
-    "example_zh": "物流團隊在出貨前更新了這項履約。"
+    "example": "The quarterly report identified fulfillment as a key focus area.",
+    "example_zh": "季度報告將 fulfillment 列為關鍵關注項目。"
   },
   {
     "word": "gateway",
@@ -4166,8 +4166,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "入口平台",
-    "example": "The IT team tested the gateway before release.",
-    "example_zh": "資訊團隊在發布前測試了這項入口平台。"
+    "example": "We discussed gateway during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 gateway。"
   },
   {
     "word": "handover",
@@ -4176,8 +4176,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "交接",
-    "example": "The team reviewed the handover during the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項交接。"
+    "example": "The manager asked for an update on handover before Friday.",
+    "example_zh": "經理要求在週五前提供 handover 的最新進度。"
   },
   {
     "word": "highlight",
@@ -4186,8 +4186,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "重點",
-    "example": "The analyst highlighted the highlight in the monthly report.",
-    "example_zh": "分析師在月報中標註了這項重點。"
+    "example": "Our team improved highlight to support the new project.",
+    "example_zh": "我們團隊已改善 highlight 以支援新專案。"
   },
   {
     "word": "hiring",
@@ -4196,8 +4196,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Hiring",
     "meaning": "招募",
-    "example": "HR discussed the hiring during the interview process.",
-    "example_zh": "人資在面試流程中討論了這項招募。"
+    "example": "The client requested details about hiring in the proposal.",
+    "example_zh": "客戶在提案中要求提供 hiring 的細節。"
   },
   {
     "word": "implementation",
@@ -4206,8 +4206,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "執行落地",
-    "example": "The team reviewed the implementation during the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項執行落地。"
+    "example": "The quarterly report identified implementation as a key focus area.",
+    "example_zh": "季度報告將 implementation 列為關鍵關注項目。"
   },
   {
     "word": "importer",
@@ -4216,8 +4216,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "進口商",
-    "example": "The logistics team updated the importer before shipment.",
-    "example_zh": "物流團隊在出貨前更新了這項進口商。"
+    "example": "We discussed importer during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 importer。"
   },
   {
     "word": "incident",
@@ -4226,8 +4226,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Service",
     "meaning": "事件",
-    "example": "Customer service handled the incident within one business day.",
-    "example_zh": "客服在一個工作天內處理了這項事件。"
+    "example": "The manager asked for an update on incident before Friday.",
+    "example_zh": "經理要求在週五前提供 incident 的最新進度。"
   },
   {
     "word": "induction",
@@ -4236,8 +4236,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Training",
     "meaning": "新人訓練",
-    "example": "The trainer explained the induction in today's session.",
-    "example_zh": "講師在今天的訓練課程說明了新人訓練。"
+    "example": "Our team improved induction to support the new project.",
+    "example_zh": "我們團隊已改善 induction 以支援新專案。"
   },
   {
     "word": "initiative",
@@ -4246,8 +4246,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Strategy",
     "meaning": "倡議方案",
-    "example": "The leadership team reviewed the initiative in the quarterly meeting.",
-    "example_zh": "管理層在季度會議檢視了這項倡議方案。"
+    "example": "The client requested details about initiative in the proposal.",
+    "example_zh": "客戶在提案中要求提供 initiative 的細節。"
   },
   {
     "word": "integration",
@@ -4256,8 +4256,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "整合",
-    "example": "The IT team tested the integration before release.",
-    "example_zh": "資訊團隊在發布前測試了這項整合。"
+    "example": "The quarterly report identified integration as a key focus area.",
+    "example_zh": "季度報告將 integration 列為關鍵關注項目。"
   },
   {
     "word": "invoicee",
@@ -4266,8 +4266,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "受款方",
-    "example": "The finance team reviewed the invoicee before closing this month's books.",
-    "example_zh": "財務團隊在月結前審查了這項受款方。"
+    "example": "We discussed invoicee during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 invoicee。"
   },
   {
     "word": "issuer",
@@ -4276,8 +4276,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "發行方",
-    "example": "The finance team reviewed the issuer before closing this month's books.",
-    "example_zh": "財務團隊在月結前審查了這項發行方。"
+    "example": "The manager asked for an update on issuer before Friday.",
+    "example_zh": "經理要求在週五前提供 issuer 的最新進度。"
   },
   {
     "word": "iteration",
@@ -4286,8 +4286,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "迭代",
-    "example": "The team reviewed the iteration during the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項迭代。"
+    "example": "Our team improved iteration to support the new project.",
+    "example_zh": "我們團隊已改善 iteration 以支援新專案。"
   },
   {
     "word": "journey",
@@ -4296,8 +4296,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Travel",
     "meaning": "行程",
-    "example": "The travel desk confirmed the journey for the business trip.",
-    "example_zh": "差旅窗口已確認這次出差的行程。"
+    "example": "The client requested details about journey in the proposal.",
+    "example_zh": "客戶在提案中要求提供 journey 的細節。"
   },
   {
     "word": "justification",
@@ -4306,8 +4306,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "合理說明",
-    "example": "The analyst highlighted the justification in the monthly report.",
-    "example_zh": "分析師在月報中標註了這項合理說明。"
+    "example": "The quarterly report identified justification as a key focus area.",
+    "example_zh": "季度報告將 justification 列為關鍵關注項目。"
   },
   {
     "word": "liquidity",
@@ -4316,8 +4316,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "流動性",
-    "example": "The finance team reviewed the liquidity before closing this month's books.",
-    "example_zh": "財務團隊在月結前審查了這項流動性。"
+    "example": "We discussed liquidity during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 liquidity。"
   },
   {
     "word": "manpower",
@@ -4326,8 +4326,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "人力",
-    "example": "HR reviewed the manpower in the monthly people report.",
-    "example_zh": "人資在月度人力報告中審查了人力。"
+    "example": "The manager asked for an update on manpower before Friday.",
+    "example_zh": "經理要求在週五前提供 manpower 的最新進度。"
   },
   {
     "word": "marketplace",
@@ -4336,8 +4336,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "市場平台",
-    "example": "Marketing measured the marketplace after the campaign launch.",
-    "example_zh": "行銷部在活動上線後衡量了這項市場平台。"
+    "example": "Our team improved marketplace to support the new project.",
+    "example_zh": "我們團隊已改善 marketplace 以支援新專案。"
   },
   {
     "word": "minimum",
@@ -4346,8 +4346,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "最低標準",
-    "example": "Operations tracked the minimum to improve efficiency.",
-    "example_zh": "營運部持續追蹤最低標準以提升效率。"
+    "example": "The client requested details about minimum in the proposal.",
+    "example_zh": "客戶在提案中要求提供 minimum 的細節。"
   },
   {
     "word": "moderator",
@@ -4356,8 +4356,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Meeting",
     "meaning": "主持人",
-    "example": "We added the moderator to the meeting agenda.",
-    "example_zh": "我們已把這項主持人加入會議議程。"
+    "example": "The quarterly report identified moderator as a key focus area.",
+    "example_zh": "季度報告將 moderator 列為關鍵關注項目。"
   },
   {
     "word": "networking",
@@ -4366,8 +4366,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "人脈交流",
-    "example": "The team reviewed the networking during the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項人脈交流。"
+    "example": "We discussed networking during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 networking。"
   },
   {
     "word": "occupancy",
@@ -4376,8 +4376,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Travel",
     "meaning": "入住率",
-    "example": "The travel desk confirmed the occupancy for the business trip.",
-    "example_zh": "差旅窗口已確認這次出差的入住率。"
+    "example": "The manager asked for an update on occupancy before Friday.",
+    "example_zh": "經理要求在週五前提供 occupancy 的最新進度。"
   },
   {
     "word": "offering",
@@ -4386,8 +4386,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "產品提案",
-    "example": "Marketing measured the offering after the campaign launch.",
-    "example_zh": "行銷部在活動上線後衡量了這項產品提案。"
+    "example": "Our team improved offering to support the new project.",
+    "example_zh": "我們團隊已改善 offering 以支援新專案。"
   },
   {
     "word": "opening",
@@ -4396,8 +4396,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Hiring",
     "meaning": "職缺；開幕",
-    "example": "HR discussed the opening during the interview process.",
-    "example_zh": "人資在面試流程中討論了這項職缺。"
+    "example": "The client requested details about opening in the proposal.",
+    "example_zh": "客戶在提案中要求提供 opening 的細節。"
   },
   {
     "word": "penetration",
@@ -4406,8 +4406,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "市場滲透率",
-    "example": "Marketing measured the penetration after the campaign launch.",
-    "example_zh": "行銷部在活動上線後衡量了這項市場滲透率。"
+    "example": "The quarterly report identified penetration as a key focus area.",
+    "example_zh": "季度報告將 penetration 列為關鍵關注項目。"
   },
   {
     "word": "positioning",
@@ -4416,8 +4416,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "市場定位",
-    "example": "Marketing measured the positioning after the campaign launch.",
-    "example_zh": "行銷部在活動上線後衡量了這項市場定位。"
+    "example": "We discussed positioning during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 positioning。"
   },
   {
     "word": "prerequisite",
@@ -4426,8 +4426,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Training",
     "meaning": "先決條件",
-    "example": "The trainer explained the prerequisite in today's session.",
-    "example_zh": "講師在今天的訓練課程說明了先決條件。"
+    "example": "The manager asked for an update on prerequisite before Friday.",
+    "example_zh": "經理要求在週五前提供 prerequisite 的最新進度。"
   },
   {
     "word": "profitability",
@@ -4436,8 +4436,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "獲利能力",
-    "example": "The finance team reviewed the profitability before closing this month's books.",
-    "example_zh": "財務團隊在月結前審查了這項獲利能力。"
+    "example": "Our team improved profitability to support the new project.",
+    "example_zh": "我們團隊已改善 profitability 以支援新專案。"
   },
   {
     "word": "punctuality",
@@ -4446,8 +4446,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Schedule",
     "meaning": "準時率",
-    "example": "The coordinator adjusted the punctuality for next week.",
-    "example_zh": "協調人員已調整下週的準時率。"
+    "example": "The client requested details about punctuality in the proposal.",
+    "example_zh": "客戶在提案中要求提供 punctuality 的細節。"
   },
   {
     "word": "qualification",
@@ -4456,8 +4456,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Hiring",
     "meaning": "資格條件",
-    "example": "HR discussed the qualification during the interview process.",
-    "example_zh": "人資在面試流程中討論了這項資格條件。"
+    "example": "The quarterly report identified qualification as a key focus area.",
+    "example_zh": "季度報告將 qualification 列為關鍵關注項目。"
   },
   {
     "word": "quantity",
@@ -4466,8 +4466,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "數量",
-    "example": "The logistics team updated the quantity before shipment.",
-    "example_zh": "物流團隊在出貨前更新了這項數量。"
+    "example": "We discussed quantity during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 quantity。"
   },
   {
     "word": "questionnaire",
@@ -4476,8 +4476,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "問卷",
-    "example": "Marketing measured the questionnaire after the campaign launch.",
-    "example_zh": "行銷部在活動上線後衡量了這項問卷。"
+    "example": "The manager asked for an update on questionnaire before Friday.",
+    "example_zh": "經理要求在週五前提供 questionnaire 的最新進度。"
   },
   {
     "word": "quotation",
@@ -4486,8 +4486,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Sales",
     "meaning": "報價單",
-    "example": "The team reviewed the quotation during the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項報價單。"
+    "example": "Our team improved quotation to support the new project.",
+    "example_zh": "我們團隊已改善 quotation 以支援新專案。"
   },
   {
     "word": "readiness",
@@ -4496,8 +4496,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "準備程度",
-    "example": "The team reviewed the readiness during the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項準備程度。"
+    "example": "The client requested details about readiness in the proposal.",
+    "example_zh": "客戶在提案中要求提供 readiness 的細節。"
   },
   {
     "word": "receipt",
@@ -4506,8 +4506,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "收據",
-    "example": "The finance team reviewed the receipt before closing this month's books.",
-    "example_zh": "財務團隊在月結前審查了這項收據。"
+    "example": "The quarterly report identified receipt as a key focus area.",
+    "example_zh": "季度報告將 receipt 列為關鍵關注項目。"
   },
   {
     "word": "reception",
@@ -4516,8 +4516,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Service",
     "meaning": "接待",
-    "example": "Customer service handled the reception within one business day.",
-    "example_zh": "客服在一個工作天內處理了這項接待。"
+    "example": "We discussed reception during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 reception。"
   },
   {
     "word": "recognition",
@@ -4526,8 +4526,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "表揚；辨識",
-    "example": "HR reviewed the recognition in the monthly people report.",
-    "example_zh": "人資在月度人力報告中審查了表揚。"
+    "example": "The manager asked for an update on recognition before Friday.",
+    "example_zh": "經理要求在週五前提供 recognition 的最新進度。"
   },
   {
     "word": "recommendation",
@@ -4536,8 +4536,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "建議方案",
-    "example": "The analyst highlighted the recommendation in the monthly report.",
-    "example_zh": "分析師在月報中標註了這項建議方案。"
+    "example": "Our team improved recommendation to support the new project.",
+    "example_zh": "我們團隊已改善 recommendation 以支援新專案。"
   },
   {
     "word": "reconciliation",
@@ -4546,8 +4546,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "帳務核對",
-    "example": "The finance team reviewed the reconciliation before closing this month's books.",
-    "example_zh": "財務團隊在月結前審查了這項帳務核對。"
+    "example": "The client requested details about reconciliation in the proposal.",
+    "example_zh": "客戶在提案中要求提供 reconciliation 的細節。"
   },
   {
     "word": "recruitment",
@@ -4556,8 +4556,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Hiring",
     "meaning": "招募",
-    "example": "HR discussed the recruitment during the interview process.",
-    "example_zh": "人資在面試流程中討論了這項招募。"
+    "example": "The quarterly report identified recruitment as a key focus area.",
+    "example_zh": "季度報告將 recruitment 列為關鍵關注項目。"
   },
   {
     "word": "reduction",
@@ -4566,8 +4566,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "減少",
-    "example": "The finance team reviewed the reduction before closing this month's books.",
-    "example_zh": "財務團隊在月結前審查了這項減少。"
+    "example": "We discussed reduction during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 reduction。"
   },
   {
     "word": "reference",
@@ -4576,8 +4576,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "參考資料",
-    "example": "Administration filed the reference for record keeping.",
-    "example_zh": "行政部已將這項參考資料完成歸檔。"
+    "example": "The manager asked for an update on reference before Friday.",
+    "example_zh": "經理要求在週五前提供 reference 的最新進度。"
   },
   {
     "word": "refund",
@@ -4586,8 +4586,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Service",
     "meaning": "退款",
-    "example": "Customer service handled the refund within one business day.",
-    "example_zh": "客服在一個工作天內處理了這項退款。"
+    "example": "Our team improved refund to support the new project.",
+    "example_zh": "我們團隊已改善 refund 以支援新專案。"
   },
   {
     "word": "registration",
@@ -4596,8 +4596,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "登記",
-    "example": "Administration filed the registration for record keeping.",
-    "example_zh": "行政部已將這項登記完成歸檔。"
+    "example": "The client requested details about registration in the proposal.",
+    "example_zh": "客戶在提案中要求提供 registration 的細節。"
   },
   {
     "word": "regulation",
@@ -4606,8 +4606,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "法規",
-    "example": "Legal checked the regulation before signing the agreement.",
-    "example_zh": "法務在簽約前檢查了這項法規。"
+    "example": "The quarterly report identified regulation as a key focus area.",
+    "example_zh": "季度報告將 regulation 列為關鍵關注項目。"
   },
   {
     "word": "reimbursement",
@@ -4616,8 +4616,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "報銷",
-    "example": "The finance team reviewed the reimbursement before closing this month's books.",
-    "example_zh": "財務團隊在月結前審查了這項報銷。"
+    "example": "We discussed reimbursement during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 reimbursement。"
   },
   {
     "word": "reliability",
@@ -4626,8 +4626,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Quality",
     "meaning": "可靠性",
-    "example": "The team reviewed the reliability during the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項可靠性。"
+    "example": "The manager asked for an update on reliability before Friday.",
+    "example_zh": "經理要求在週五前提供 reliability 的最新進度。"
   },
   {
     "word": "reminder",
@@ -4636,8 +4636,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "提醒通知",
-    "example": "The team reviewed the reminder during the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項提醒通知。"
+    "example": "Our team improved reminder to support the new project.",
+    "example_zh": "我們團隊已改善 reminder 以支援新專案。"
   },
   {
     "word": "renovation",
@@ -4646,8 +4646,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "整修",
-    "example": "Operations tracked the renovation to improve efficiency.",
-    "example_zh": "營運部持續追蹤整修以提升效率。"
+    "example": "The client requested details about renovation in the proposal.",
+    "example_zh": "客戶在提案中要求提供 renovation 的細節。"
   },
   {
     "word": "replacement",
@@ -4656,8 +4656,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Service",
     "meaning": "替換品",
-    "example": "Customer service handled the replacement within one business day.",
-    "example_zh": "客服在一個工作天內處理了這項替換品。"
+    "example": "The quarterly report identified replacement as a key focus area.",
+    "example_zh": "季度報告將 replacement 列為關鍵關注項目。"
   },
   {
     "word": "reputation",
@@ -4666,8 +4666,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "聲譽",
-    "example": "Marketing measured the reputation after the campaign launch.",
-    "example_zh": "行銷部在活動上線後衡量了這項聲譽。"
+    "example": "We discussed reputation during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 reputation。"
   },
   {
     "word": "requirement",
@@ -4676,8 +4676,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "需求條件",
-    "example": "The team reviewed the requirement during the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項需求條件。"
+    "example": "The manager asked for an update on requirement before Friday.",
+    "example_zh": "經理要求在週五前提供 requirement 的最新進度。"
   },
   {
     "word": "reservation",
@@ -4686,8 +4686,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Travel",
     "meaning": "預訂",
-    "example": "The travel desk confirmed the reservation for the business trip.",
-    "example_zh": "差旅窗口已確認這次出差的預訂。"
+    "example": "Our team improved reservation to support the new project.",
+    "example_zh": "我們團隊已改善 reservation 以支援新專案。"
   },
   {
     "word": "resignation",
@@ -4696,8 +4696,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "離職",
-    "example": "HR reviewed the resignation in the monthly people report.",
-    "example_zh": "人資在月度人力報告中審查了離職。"
+    "example": "The client requested details about resignation in the proposal.",
+    "example_zh": "客戶在提案中要求提供 resignation 的細節。"
   },
   {
     "word": "resolution",
@@ -4706,8 +4706,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Service",
     "meaning": "解決方案",
-    "example": "Customer service handled the resolution within one business day.",
-    "example_zh": "客服在一個工作天內處理了這項解決方案。"
+    "example": "The quarterly report identified resolution as a key focus area.",
+    "example_zh": "季度報告將 resolution 列為關鍵關注項目。"
   },
   {
     "word": "resource",
@@ -4716,8 +4716,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "資源",
-    "example": "The team reviewed the resource during the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項資源。"
+    "example": "We discussed resource during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 resource。"
   },
   {
     "word": "responsiveness",
@@ -4726,8 +4726,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Service",
     "meaning": "回應速度",
-    "example": "Customer service handled the responsiveness within one business day.",
-    "example_zh": "客服在一個工作天內處理了這項回應速度。"
+    "example": "The manager asked for an update on responsiveness before Friday.",
+    "example_zh": "經理要求在週五前提供 responsiveness 的最新進度。"
   },
   {
     "word": "retention",
@@ -4736,8 +4736,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "留任率",
-    "example": "HR reviewed the retention in the monthly people report.",
-    "example_zh": "人資在月度人力報告中審查了留任率。"
+    "example": "Our team improved retention to support the new project.",
+    "example_zh": "我們團隊已改善 retention 以支援新專案。"
   },
   {
     "word": "revenue",
@@ -4746,8 +4746,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "營收",
-    "example": "The finance team reviewed the revenue before closing this month's books.",
-    "example_zh": "財務團隊在月結前審查了這項營收。"
+    "example": "The client requested details about revenue in the proposal.",
+    "example_zh": "客戶在提案中要求提供 revenue 的細節。"
   },
   {
     "word": "reviewer",
@@ -4756,8 +4756,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "審查者",
-    "example": "The analyst highlighted the reviewer in the monthly report.",
-    "example_zh": "分析師在月報中標註了這項審查者。"
+    "example": "The quarterly report identified reviewer as a key focus area.",
+    "example_zh": "季度報告將 reviewer 列為關鍵關注項目。"
   },
   {
     "word": "revision",
@@ -4766,8 +4766,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "修訂版",
-    "example": "The analyst highlighted the revision in the monthly report.",
-    "example_zh": "分析師在月報中標註了這項修訂版。"
+    "example": "We discussed revision during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 revision。"
   },
   {
     "word": "risk",
@@ -4776,8 +4776,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "風險",
-    "example": "The finance team reviewed the risk before closing this month's books.",
-    "example_zh": "財務團隊在月結前審查了這項風險。"
+    "example": "The manager asked for an update on risk before Friday.",
+    "example_zh": "經理要求在週五前提供 risk 的最新進度。"
   },
   {
     "word": "rollout",
@@ -4786,8 +4786,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "上線推行",
-    "example": "The team reviewed the rollout during the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項上線推行。"
+    "example": "Our team improved rollout to support the new project.",
+    "example_zh": "我們團隊已改善 rollout 以支援新專案。"
   },
   {
     "word": "routing",
@@ -4796,8 +4796,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "路由安排",
-    "example": "The logistics team updated the routing before shipment.",
-    "example_zh": "物流團隊在出貨前更新了這項路由安排。"
+    "example": "The client requested details about routing in the proposal.",
+    "example_zh": "客戶在提案中要求提供 routing 的細節。"
   },
   {
     "word": "royalty",
@@ -4806,8 +4806,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "權利金",
-    "example": "The finance team reviewed the royalty before closing this month's books.",
-    "example_zh": "財務團隊在月結前審查了這項權利金。"
+    "example": "The quarterly report identified royalty as a key focus area.",
+    "example_zh": "季度報告將 royalty 列為關鍵關注項目。"
   },
   {
     "word": "safeguard",
@@ -4816,8 +4816,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Security",
     "meaning": "防護措施",
-    "example": "The security team reinforced the safeguard at the main office.",
-    "example_zh": "資安團隊在總部強化了這項防護措施。"
+    "example": "We discussed safeguard during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 safeguard。"
   },
   {
     "word": "salary",
@@ -4826,8 +4826,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "薪資",
-    "example": "HR reviewed the salary in the monthly people report.",
-    "example_zh": "人資在月度人力報告中審查了薪資。"
+    "example": "The manager asked for an update on salary before Friday.",
+    "example_zh": "經理要求在週五前提供 salary 的最新進度。"
   },
   {
     "word": "satisfaction",
@@ -4836,8 +4836,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Service",
     "meaning": "滿意度",
-    "example": "Customer service handled the satisfaction within one business day.",
-    "example_zh": "客服在一個工作天內處理了這項滿意度。"
+    "example": "Our team improved satisfaction to support the new project.",
+    "example_zh": "我們團隊已改善 satisfaction 以支援新專案。"
   },
   {
     "word": "scenario",
@@ -4846,8 +4846,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Training",
     "meaning": "情境",
-    "example": "The trainer explained the scenario in today's session.",
-    "example_zh": "講師在今天的訓練課程說明了情境。"
+    "example": "The client requested details about scenario in the proposal.",
+    "example_zh": "客戶在提案中要求提供 scenario 的細節。"
   },
   {
     "word": "scheduling",
@@ -4856,8 +4856,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Schedule",
     "meaning": "排程",
-    "example": "The coordinator adjusted the scheduling for next week.",
-    "example_zh": "協調人員已調整下週的排程。"
+    "example": "The quarterly report identified scheduling as a key focus area.",
+    "example_zh": "季度報告將 scheduling 列為關鍵關注項目。"
   },
   {
     "word": "screening",
@@ -4866,8 +4866,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Hiring",
     "meaning": "篩選",
-    "example": "HR discussed the screening during the interview process.",
-    "example_zh": "人資在面試流程中討論了這項篩選。"
+    "example": "We discussed screening during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 screening。"
   },
   {
     "word": "security",
@@ -4876,8 +4876,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Security",
     "meaning": "安全性",
-    "example": "The security team reinforced the security at the main office.",
-    "example_zh": "資安團隊在總部強化了這項安全性。"
+    "example": "The manager asked for an update on security before Friday.",
+    "example_zh": "經理要求在週五前提供 security 的最新進度。"
   },
   {
     "word": "segmentation",
@@ -4886,8 +4886,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "市場區隔",
-    "example": "Marketing measured the segmentation after the campaign launch.",
-    "example_zh": "行銷部在活動上線後衡量了這項市場區隔。"
+    "example": "Our team improved segmentation to support the new project.",
+    "example_zh": "我們團隊已改善 segmentation 以支援新專案。"
   },
   {
     "word": "settlement",
@@ -4896,8 +4896,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "結算",
-    "example": "The finance team reviewed the settlement before closing this month's books.",
-    "example_zh": "財務團隊在月結前審查了這項結算。"
+    "example": "The client requested details about settlement in the proposal.",
+    "example_zh": "客戶在提案中要求提供 settlement 的細節。"
   },
   {
     "word": "shareholder",
@@ -4906,8 +4906,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "股東",
-    "example": "The finance team reviewed the shareholder before closing this month's books.",
-    "example_zh": "財務團隊在月結前審查了這項股東。"
+    "example": "The quarterly report identified shareholder as a key focus area.",
+    "example_zh": "季度報告將 shareholder 列為關鍵關注項目。"
   },
   {
     "word": "shipment",
@@ -4916,8 +4916,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "貨運批次",
-    "example": "The logistics team updated the shipment before shipment.",
-    "example_zh": "物流團隊在出貨前更新了這項貨運批次。"
+    "example": "We discussed shipment during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 shipment。"
   },
   {
     "word": "shortage",
@@ -4926,8 +4926,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "短缺",
-    "example": "The logistics team updated the shortage before shipment.",
-    "example_zh": "物流團隊在出貨前更新了這項短缺。"
+    "example": "The manager asked for an update on shortage before Friday.",
+    "example_zh": "經理要求在週五前提供 shortage 的最新進度。"
   },
   {
     "word": "signature",
@@ -4936,8 +4936,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "簽名；簽署",
-    "example": "Legal checked the signature before signing the agreement.",
-    "example_zh": "法務在簽約前檢查了這項簽名。"
+    "example": "Our team improved signature to support the new project.",
+    "example_zh": "我們團隊已改善 signature 以支援新專案。"
   },
   {
     "word": "simulation",
@@ -4946,8 +4946,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Training",
     "meaning": "模擬演練",
-    "example": "The trainer explained the simulation in today's session.",
-    "example_zh": "講師在今天的訓練課程說明了模擬演練。"
+    "example": "The client requested details about simulation in the proposal.",
+    "example_zh": "客戶在提案中要求提供 simulation 的細節。"
   },
   {
     "word": "solvency",
@@ -4956,8 +4956,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "償債能力",
-    "example": "The finance team reviewed the solvency before closing this month's books.",
-    "example_zh": "財務團隊在月結前審查了這項償債能力。"
+    "example": "The quarterly report identified solvency as a key focus area.",
+    "example_zh": "季度報告將 solvency 列為關鍵關注項目。"
   },
   {
     "word": "specification",
@@ -4966,8 +4966,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Manufacturing",
     "meaning": "規格",
-    "example": "The plant manager monitored the specification on the production line.",
-    "example_zh": "廠務主管在線上監控這項規格。"
+    "example": "We discussed specification during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 specification。"
   },
   {
     "word": "stakeholder",
@@ -4976,8 +4976,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "利害關係人",
-    "example": "The team reviewed the stakeholder during the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項利害關係人。"
+    "example": "The manager asked for an update on stakeholder before Friday.",
+    "example_zh": "經理要求在週五前提供 stakeholder 的最新進度。"
   },
   {
     "word": "standardization",
@@ -4986,8 +4986,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Quality",
     "meaning": "標準化",
-    "example": "The team reviewed the standardization during the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項標準化。"
+    "example": "Our team improved standardization to support the new project.",
+    "example_zh": "我們團隊已改善 standardization 以支援新專案。"
   },
   {
     "word": "statement",
@@ -4996,8 +4996,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "報表；聲明",
-    "example": "The finance team reviewed the statement before closing this month's books.",
-    "example_zh": "財務團隊在月結前審查了這項報表。"
+    "example": "The client requested details about statement in the proposal.",
+    "example_zh": "客戶在提案中要求提供 statement 的細節。"
   },
   {
     "word": "stationery",
@@ -5006,8 +5006,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Office",
     "meaning": "文具",
-    "example": "The office manager ordered the stationery for the new staff.",
-    "example_zh": "辦公室管理員已為新同仁採買文具。"
+    "example": "The quarterly report identified stationery as a key focus area.",
+    "example_zh": "季度報告將 stationery 列為關鍵關注項目。"
   },
   {
     "word": "stock",
@@ -5016,8 +5016,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "庫存",
-    "example": "The logistics team updated the stock before shipment.",
-    "example_zh": "物流團隊在出貨前更新了這項庫存。"
+    "example": "We discussed stock during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 stock。"
   },
   {
     "word": "strategy",
@@ -5026,8 +5026,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Strategy",
     "meaning": "策略",
-    "example": "The leadership team reviewed the strategy in the quarterly meeting.",
-    "example_zh": "管理層在季度會議檢視了這項策略。"
+    "example": "The manager asked for an update on strategy before Friday.",
+    "example_zh": "經理要求在週五前提供 strategy 的最新進度。"
   },
   {
     "word": "submission",
@@ -5036,8 +5036,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "提交資料",
-    "example": "Administration filed the submission for record keeping.",
-    "example_zh": "行政部已將這項提交資料完成歸檔。"
+    "example": "Our team improved submission to support the new project.",
+    "example_zh": "我們團隊已改善 submission 以支援新專案。"
   },
   {
     "word": "subscriber",
@@ -5046,8 +5046,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "訂閱戶",
-    "example": "Marketing measured the subscriber after the campaign launch.",
-    "example_zh": "行銷部在活動上線後衡量了這項訂閱戶。"
+    "example": "The client requested details about subscriber in the proposal.",
+    "example_zh": "客戶在提案中要求提供 subscriber 的細節。"
   },
   {
     "word": "subsidy",
@@ -5056,8 +5056,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "補助",
-    "example": "The finance team reviewed the subsidy before closing this month's books.",
-    "example_zh": "財務團隊在月結前審查了這項補助。"
+    "example": "The quarterly report identified subsidy as a key focus area.",
+    "example_zh": "季度報告將 subsidy 列為關鍵關注項目。"
   },
   {
     "word": "substitution",
@@ -5066,8 +5066,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "替代方案",
-    "example": "Operations tracked the substitution to improve efficiency.",
-    "example_zh": "營運部持續追蹤替代方案以提升效率。"
+    "example": "We discussed substitution during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 substitution。"
   },
   {
     "word": "supervision",
@@ -5076,8 +5076,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "監督",
-    "example": "HR reviewed the supervision in the monthly people report.",
-    "example_zh": "人資在月度人力報告中審查了監督。"
+    "example": "The manager asked for an update on supervision before Friday.",
+    "example_zh": "經理要求在週五前提供 supervision 的最新進度。"
   },
   {
     "word": "supplier",
@@ -5086,8 +5086,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Purchasing",
     "meaning": "供應商",
-    "example": "Purchasing confirmed the supplier with the supplier this morning.",
-    "example_zh": "採購今早已向供應商確認這項供應商。"
+    "example": "Our team improved supplier to support the new project.",
+    "example_zh": "我們團隊已改善 supplier 以支援新專案。"
   },
   {
     "word": "sustainability",
@@ -5096,8 +5096,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Strategy",
     "meaning": "永續性",
-    "example": "The leadership team reviewed the sustainability in the quarterly meeting.",
-    "example_zh": "管理層在季度會議檢視了這項永續性。"
+    "example": "The client requested details about sustainability in the proposal.",
+    "example_zh": "客戶在提案中要求提供 sustainability 的細節。"
   },
   {
     "word": "syllabus",
@@ -5106,8 +5106,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Training",
     "meaning": "課程大綱",
-    "example": "The trainer explained the syllabus in today's session.",
-    "example_zh": "講師在今天的訓練課程說明了課程大綱。"
+    "example": "The quarterly report identified syllabus as a key focus area.",
+    "example_zh": "季度報告將 syllabus 列為關鍵關注項目。"
   },
   {
     "word": "tactic",
@@ -5116,8 +5116,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Strategy",
     "meaning": "戰術",
-    "example": "The leadership team reviewed the tactic in the quarterly meeting.",
-    "example_zh": "管理層在季度會議檢視了這項戰術。"
+    "example": "We discussed tactic during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 tactic。"
   },
   {
     "word": "tariff",
@@ -5126,8 +5126,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "關稅",
-    "example": "The logistics team updated the tariff before shipment.",
-    "example_zh": "物流團隊在出貨前更新了這項關稅。"
+    "example": "The manager asked for an update on tariff before Friday.",
+    "example_zh": "經理要求在週五前提供 tariff 的最新進度。"
   },
   {
     "word": "taxation",
@@ -5136,8 +5136,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "課稅",
-    "example": "The finance team reviewed the taxation before closing this month's books.",
-    "example_zh": "財務團隊在月結前審查了這項課稅。"
+    "example": "Our team improved taxation to support the new project.",
+    "example_zh": "我們團隊已改善 taxation 以支援新專案。"
   },
   {
     "word": "teleconference",
@@ -5146,8 +5146,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Meeting",
     "meaning": "電話會議",
-    "example": "We added the teleconference to the meeting agenda.",
-    "example_zh": "我們已把這項電話會議加入會議議程。"
+    "example": "The client requested details about teleconference in the proposal.",
+    "example_zh": "客戶在提案中要求提供 teleconference 的細節。"
   },
   {
     "word": "tender",
@@ -5156,8 +5156,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Purchasing",
     "meaning": "投標案",
-    "example": "Purchasing confirmed the tender with the supplier this morning.",
-    "example_zh": "採購今早已向供應商確認這項投標案。"
+    "example": "The quarterly report identified tender as a key focus area.",
+    "example_zh": "季度報告將 tender 列為關鍵關注項目。"
   },
   {
     "word": "termination",
@@ -5166,8 +5166,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "終止",
-    "example": "Legal checked the termination before signing the agreement.",
-    "example_zh": "法務在簽約前檢查了這項終止。"
+    "example": "We discussed termination during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 termination。"
   },
   {
     "word": "throughput",
@@ -5176,8 +5176,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Manufacturing",
     "meaning": "產出量",
-    "example": "The plant manager monitored the throughput on the production line.",
-    "example_zh": "廠務主管在線上監控這項產出量。"
+    "example": "The manager asked for an update on throughput before Friday.",
+    "example_zh": "經理要求在週五前提供 throughput 的最新進度。"
   },
   {
     "word": "timeframe",
@@ -5186,8 +5186,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Schedule",
     "meaning": "時間範圍",
-    "example": "The coordinator adjusted the timeframe for next week.",
-    "example_zh": "協調人員已調整下週的時間範圍。"
+    "example": "Our team improved timeframe to support the new project.",
+    "example_zh": "我們團隊已改善 timeframe 以支援新專案。"
   },
   {
     "word": "tolerance",
@@ -5196,8 +5196,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Quality",
     "meaning": "允收公差",
-    "example": "The team reviewed the tolerance during the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項允收公差。"
+    "example": "The client requested details about tolerance in the proposal.",
+    "example_zh": "客戶在提案中要求提供 tolerance 的細節。"
   },
   {
     "word": "tracking",
@@ -5206,8 +5206,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "追蹤",
-    "example": "The logistics team updated the tracking before shipment.",
-    "example_zh": "物流團隊在出貨前更新了這項追蹤。"
+    "example": "The quarterly report identified tracking as a key focus area.",
+    "example_zh": "季度報告將 tracking 列為關鍵關注項目。"
   },
   {
     "word": "trainee",
@@ -5216,8 +5216,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Training",
     "meaning": "受訓人員",
-    "example": "The trainer explained the trainee in today's session.",
-    "example_zh": "講師在今天的訓練課程說明了受訓人員。"
+    "example": "We discussed trainee during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 trainee。"
   },
   {
     "word": "transaction",
@@ -5226,8 +5226,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "交易",
-    "example": "The finance team reviewed the transaction before closing this month's books.",
-    "example_zh": "財務團隊在月結前審查了這項交易。"
+    "example": "The manager asked for an update on transaction before Friday.",
+    "example_zh": "經理要求在週五前提供 transaction 的最新進度。"
   },
   {
     "word": "transcript",
@@ -5236,8 +5236,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Meeting",
     "meaning": "會議紀錄",
-    "example": "We added the transcript to the meeting agenda.",
-    "example_zh": "我們已把這項會議紀錄加入會議議程。"
+    "example": "Our team improved transcript to support the new project.",
+    "example_zh": "我們團隊已改善 transcript 以支援新專案。"
   },
   {
     "word": "transportation",
@@ -5246,8 +5246,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "運輸",
-    "example": "The logistics team updated the transportation before shipment.",
-    "example_zh": "物流團隊在出貨前更新了這項運輸。"
+    "example": "The client requested details about transportation in the proposal.",
+    "example_zh": "客戶在提案中要求提供 transportation 的細節。"
   },
   {
     "word": "turnover",
@@ -5256,8 +5256,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "流動率；營業額",
-    "example": "HR reviewed the turnover in the monthly people report.",
-    "example_zh": "人資在月度人力報告中審查了流動率。"
+    "example": "The quarterly report identified turnover as a key focus area.",
+    "example_zh": "季度報告將 turnover 列為關鍵關注項目。"
   },
   {
     "word": "underwriting",
@@ -5266,8 +5266,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "承銷",
-    "example": "The finance team reviewed the underwriting before closing this month's books.",
-    "example_zh": "財務團隊在月結前審查了這項承銷。"
+    "example": "We discussed underwriting during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 underwriting。"
   },
   {
     "word": "upgrade",
@@ -5276,8 +5276,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "升級",
-    "example": "The IT team tested the upgrade before release.",
-    "example_zh": "資訊團隊在發布前測試了這項升級。"
+    "example": "The manager asked for an update on upgrade before Friday.",
+    "example_zh": "經理要求在週五前提供 upgrade 的最新進度。"
   },
   {
     "word": "urgency",
@@ -5286,8 +5286,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Service",
     "meaning": "急迫性",
-    "example": "Customer service handled the urgency within one business day.",
-    "example_zh": "客服在一個工作天內處理了這項急迫性。"
+    "example": "Our team improved urgency to support the new project.",
+    "example_zh": "我們團隊已改善 urgency 以支援新專案。"
   },
   {
     "word": "utilization",
@@ -5296,8 +5296,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "利用率",
-    "example": "Operations tracked the utilization to improve efficiency.",
-    "example_zh": "營運部持續追蹤利用率以提升效率。"
+    "example": "The client requested details about utilization in the proposal.",
+    "example_zh": "客戶在提案中要求提供 utilization 的細節。"
   },
   {
     "word": "vacancy",
@@ -5306,8 +5306,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Hiring",
     "meaning": "職缺",
-    "example": "HR discussed the vacancy during the interview process.",
-    "example_zh": "人資在面試流程中討論了這項職缺。"
+    "example": "The quarterly report identified vacancy as a key focus area.",
+    "example_zh": "季度報告將 vacancy 列為關鍵關注項目。"
   },
   {
     "word": "valuation",
@@ -5316,8 +5316,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "估值",
-    "example": "The finance team reviewed the valuation before closing this month's books.",
-    "example_zh": "財務團隊在月結前審查了這項估值。"
+    "example": "We discussed valuation during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 valuation。"
   },
   {
     "word": "variation",
@@ -5326,8 +5326,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "變動",
-    "example": "The analyst highlighted the variation in the monthly report.",
-    "example_zh": "分析師在月報中標註了這項變動。"
+    "example": "The manager asked for an update on variation before Friday.",
+    "example_zh": "經理要求在週五前提供 variation 的最新進度。"
   },
   {
     "word": "vendor",
@@ -5336,8 +5336,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Purchasing",
     "meaning": "供應商",
-    "example": "Purchasing confirmed the vendor with the supplier this morning.",
-    "example_zh": "採購今早已向供應商確認這項供應商。"
+    "example": "Our team improved vendor to support the new project.",
+    "example_zh": "我們團隊已改善 vendor 以支援新專案。"
   },
   {
     "word": "verification",
@@ -5346,8 +5346,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Quality",
     "meaning": "驗證",
-    "example": "The team reviewed the verification during the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項驗證。"
+    "example": "The client requested details about verification in the proposal.",
+    "example_zh": "客戶在提案中要求提供 verification 的細節。"
   },
   {
     "word": "viability",
@@ -5356,8 +5356,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Strategy",
     "meaning": "可行性",
-    "example": "The leadership team reviewed the viability in the quarterly meeting.",
-    "example_zh": "管理層在季度會議檢視了這項可行性。"
+    "example": "The quarterly report identified viability as a key focus area.",
+    "example_zh": "季度報告將 viability 列為關鍵關注項目。"
   },
   {
     "word": "visibility",
@@ -5366,8 +5366,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "可見度",
-    "example": "Marketing measured the visibility after the campaign launch.",
-    "example_zh": "行銷部在活動上線後衡量了這項可見度。"
+    "example": "We discussed visibility during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 visibility。"
   },
   {
     "word": "warranty",
@@ -5376,8 +5376,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Service",
     "meaning": "保固",
-    "example": "Customer service handled the warranty within one business day.",
-    "example_zh": "客服在一個工作天內處理了這項保固。"
+    "example": "The manager asked for an update on warranty before Friday.",
+    "example_zh": "經理要求在週五前提供 warranty 的最新進度。"
   },
   {
     "word": "wholesaler",
@@ -5386,8 +5386,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Sales",
     "meaning": "批發商",
-    "example": "The team reviewed the wholesaler during the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項批發商。"
+    "example": "Our team improved wholesaler to support the new project.",
+    "example_zh": "我們團隊已改善 wholesaler 以支援新專案。"
   },
   {
     "word": "workflow",
@@ -5396,8 +5396,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "工作流程",
-    "example": "Operations tracked the workflow to improve efficiency.",
-    "example_zh": "營運部持續追蹤工作流程以提升效率。"
+    "example": "The client requested details about workflow in the proposal.",
+    "example_zh": "客戶在提案中要求提供 workflow 的細節。"
   },
   {
     "word": "workforce",
@@ -5406,8 +5406,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "勞動力",
-    "example": "HR reviewed the workforce in the monthly people report.",
-    "example_zh": "人資在月度人力報告中審查了勞動力。"
+    "example": "The quarterly report identified workforce as a key focus area.",
+    "example_zh": "季度報告將 workforce 列為關鍵關注項目。"
   },
   {
     "word": "workload",
@@ -5416,8 +5416,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "工作量",
-    "example": "HR reviewed the workload in the monthly people report.",
-    "example_zh": "人資在月度人力報告中審查了工作量。"
+    "example": "We discussed workload during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 workload。"
   },
   {
     "word": "workshop",
@@ -5426,8 +5426,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Training",
     "meaning": "工作坊",
-    "example": "The trainer explained the workshop in today's session.",
-    "example_zh": "講師在今天的訓練課程說明了工作坊。"
+    "example": "The manager asked for an update on workshop before Friday.",
+    "example_zh": "經理要求在週五前提供 workshop 的最新進度。"
   },
   {
     "word": "yield",
@@ -5436,8 +5436,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Manufacturing",
     "meaning": "產出率",
-    "example": "The plant manager monitored the yield on the production line.",
-    "example_zh": "廠務主管在線上監控這項產出率。"
+    "example": "Our team improved yield to support the new project.",
+    "example_zh": "我們團隊已改善 yield 以支援新專案。"
   },
   {
     "word": "accreditation",
@@ -5446,8 +5446,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Training",
     "meaning": "認證資格",
-    "example": "The trainer explained the accreditation in class.",
-    "example_zh": "團隊已在每週會議中檢視這項認證資格。"
+    "example": "The client requested details about accreditation in the proposal.",
+    "example_zh": "客戶在提案中要求提供 accreditation 的細節。"
   },
   {
     "word": "activator",
@@ -5456,8 +5456,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Manufacturing",
     "meaning": "啟動器",
-    "example": "The factory monitored the activator on the line.",
-    "example_zh": "團隊已在每週會議中檢視這項啟動器。"
+    "example": "The quarterly report identified activator as a key focus area.",
+    "example_zh": "季度報告將 activator 列為關鍵關注項目。"
   },
   {
     "word": "addendum",
@@ -5466,8 +5466,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "附錄條款",
-    "example": "Legal confirmed the addendum before signing.",
-    "example_zh": "團隊已在每週會議中檢視這項附錄條款。"
+    "example": "We discussed addendum during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 addendum。"
   },
   {
     "word": "adjuster",
@@ -5476,8 +5476,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "理算人員",
-    "example": "The finance team reviewed the adjuster before the monthly closing.",
-    "example_zh": "團隊已在每週會議中檢視這項理算人員。"
+    "example": "The manager asked for an update on adjuster before Friday.",
+    "example_zh": "經理要求在週五前提供 adjuster 的最新進度。"
   },
   {
     "word": "adopter",
@@ -5486,8 +5486,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "採用者",
-    "example": "Marketing measured the adopter after launch.",
-    "example_zh": "團隊已在每週會議中檢視這項採用者。"
+    "example": "Our team improved adopter to support the new project.",
+    "example_zh": "我們團隊已改善 adopter 以支援新專案。"
   },
   {
     "word": "advisory",
@@ -5496,8 +5496,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "諮詢委員會",
-    "example": "Administration filed the advisory for records.",
-    "example_zh": "團隊已在每週會議中檢視這項諮詢委員會。"
+    "example": "The client requested details about advisory in the proposal.",
+    "example_zh": "客戶在提案中要求提供 advisory 的細節。"
   },
   {
     "word": "affidavit",
@@ -5506,8 +5506,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "宣誓書",
-    "example": "Legal confirmed the affidavit before signing.",
-    "example_zh": "團隊已在每週會議中檢視這項宣誓書。"
+    "example": "The quarterly report identified affidavit as a key focus area.",
+    "example_zh": "季度報告將 affidavit 列為關鍵關注項目。"
   },
   {
     "word": "aggregator",
@@ -5516,8 +5516,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "整合平台",
-    "example": "The IT team tested the aggregator before deployment.",
-    "example_zh": "團隊已在每週會議中檢視這項整合平台。"
+    "example": "We discussed aggregator during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 aggregator。"
   },
   {
     "word": "airwaybill",
@@ -5526,8 +5526,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "空運提單",
-    "example": "Logistics updated the airwaybill before shipment.",
-    "example_zh": "團隊已在每週會議中檢視這項空運提單。"
+    "example": "The manager asked for an update on airwaybill before Friday.",
+    "example_zh": "經理要求在週五前提供 airwaybill 的最新進度。"
   },
   {
     "word": "alertness",
@@ -5536,8 +5536,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Security",
     "meaning": "警覺性",
-    "example": "The security team monitored the alertness daily.",
-    "example_zh": "團隊已在每週會議中檢視這項警覺性。"
+    "example": "Our team improved alertness to support the new project.",
+    "example_zh": "我們團隊已改善 alertness 以支援新專案。"
   },
   {
     "word": "alignment",
@@ -5546,8 +5546,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "對齊一致性",
-    "example": "The project manager documented the alignment this week.",
-    "example_zh": "團隊已在每週會議中檢視這項對齊一致性。"
+    "example": "The client requested details about alignment in the proposal.",
+    "example_zh": "客戶在提案中要求提供 alignment 的細節。"
   },
   {
     "word": "annuity",
@@ -5556,8 +5556,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "年金",
-    "example": "The finance team reviewed the annuity before the monthly closing.",
-    "example_zh": "團隊已在每週會議中檢視這項年金。"
+    "example": "The quarterly report identified annuity as a key focus area.",
+    "example_zh": "季度報告將 annuity 列為關鍵關注項目。"
   },
   {
     "word": "appointee",
@@ -5566,8 +5566,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "受任命者",
-    "example": "HR discussed the appointee during the monthly meeting.",
-    "example_zh": "團隊已在每週會議中檢視這項受任命者。"
+    "example": "We discussed appointee during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 appointee。"
   },
   {
     "word": "arbitration",
@@ -5576,8 +5576,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "仲裁",
-    "example": "Legal confirmed the arbitration before signing.",
-    "example_zh": "團隊已在每週會議中檢視這項仲裁。"
+    "example": "The manager asked for an update on arbitration before Friday.",
+    "example_zh": "經理要求在週五前提供 arbitration 的最新進度。"
   },
   {
     "word": "assembler",
@@ -5586,8 +5586,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Manufacturing",
     "meaning": "裝配員",
-    "example": "The factory monitored the assembler on the line.",
-    "example_zh": "團隊已在每週會議中檢視這項裝配員。"
+    "example": "Our team improved assembler to support the new project.",
+    "example_zh": "我們團隊已改善 assembler 以支援新專案。"
   },
   {
     "word": "attestation",
@@ -5596,8 +5596,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "證明文件",
-    "example": "Legal confirmed the attestation before signing.",
-    "example_zh": "團隊已在每週會議中檢視這項證明文件。"
+    "example": "The client requested details about attestation in the proposal.",
+    "example_zh": "客戶在提案中要求提供 attestation 的細節。"
   },
   {
     "word": "authenticator",
@@ -5606,8 +5606,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Security",
     "meaning": "驗證工具",
-    "example": "The security team monitored the authenticator daily.",
-    "example_zh": "團隊已在每週會議中檢視這項驗證工具。"
+    "example": "The quarterly report identified authenticator as a key focus area.",
+    "example_zh": "季度報告將 authenticator 列為關鍵關注項目。"
   },
   {
     "word": "availabilityrate",
@@ -5616,8 +5616,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "可用率",
-    "example": "Operations tracked the availabilityrate to improve output.",
-    "example_zh": "團隊已在每週會議中檢視這項可用率。"
+    "example": "We discussed availabilityrate during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 availabilityrate。"
   },
   {
     "word": "backorder",
@@ -5626,8 +5626,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "延後交貨訂單",
-    "example": "Logistics updated the backorder before shipment.",
-    "example_zh": "團隊已在每週會議中檢視這項延後交貨訂單。"
+    "example": "The manager asked for an update on backorder before Friday.",
+    "example_zh": "經理要求在週五前提供 backorder 的最新進度。"
   },
   {
     "word": "balancing",
@@ -5636,8 +5636,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "平衡調整",
-    "example": "The finance team reviewed the balancing before the monthly closing.",
-    "example_zh": "團隊已在每週會議中檢視這項平衡調整。"
+    "example": "Our team improved balancing to support the new project.",
+    "example_zh": "我們團隊已改善 balancing 以支援新專案。"
   },
   {
     "word": "basefare",
@@ -5646,8 +5646,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Travel",
     "meaning": "基本票價",
-    "example": "The travel desk confirmed the basefare for the trip.",
-    "example_zh": "團隊已在每週會議中檢視這項基本票價。"
+    "example": "The client requested details about basefare in the proposal.",
+    "example_zh": "客戶在提案中要求提供 basefare 的細節。"
   },
   {
     "word": "benchmarking",
@@ -5656,8 +5656,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "標竿比較",
-    "example": "The analyst highlighted the benchmarking in the report.",
-    "example_zh": "團隊已在每週會議中檢視這項標竿比較。"
+    "example": "The quarterly report identified benchmarking as a key focus area.",
+    "example_zh": "季度報告將 benchmarking 列為關鍵關注項目。"
   },
   {
     "word": "bidbond",
@@ -5666,8 +5666,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Purchasing",
     "meaning": "投標保證金",
-    "example": "Purchasing confirmed the bidbond with the vendor.",
-    "example_zh": "團隊已在每週會議中檢視這項投標保證金。"
+    "example": "We discussed bidbond during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 bidbond。"
   },
   {
     "word": "biosafety",
@@ -5676,8 +5676,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Quality",
     "meaning": "生物安全",
-    "example": "Quality control reviewed the biosafety before approval.",
-    "example_zh": "團隊已在每週會議中檢視這項生物安全。"
+    "example": "The manager asked for an update on biosafety before Friday.",
+    "example_zh": "經理要求在週五前提供 biosafety 的最新進度。"
   },
   {
     "word": "blackout",
@@ -5686,8 +5686,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "停電中斷",
-    "example": "Operations tracked the blackout to improve output.",
-    "example_zh": "團隊已在每週會議中檢視這項停電中斷。"
+    "example": "Our team improved blackout to support the new project.",
+    "example_zh": "我們團隊已改善 blackout 以支援新專案。"
   },
   {
     "word": "blockchain",
@@ -5696,8 +5696,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "區塊鏈",
-    "example": "The IT team tested the blockchain before deployment.",
-    "example_zh": "團隊已在每週會議中檢視這項區塊鏈。"
+    "example": "The client requested details about blockchain in the proposal.",
+    "example_zh": "客戶在提案中要求提供 blockchain 的細節。"
   },
   {
     "word": "boarder",
@@ -5706,8 +5706,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Travel",
     "meaning": "住宿者",
-    "example": "The travel desk confirmed the boarder for the trip.",
-    "example_zh": "團隊已在每週會議中檢視這項住宿者。"
+    "example": "The quarterly report identified boarder as a key focus area.",
+    "example_zh": "季度報告將 boarder 列為關鍵關注項目。"
   },
   {
     "word": "bondholder",
@@ -5716,8 +5716,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "債券持有人",
-    "example": "The finance team reviewed the bondholder before the monthly closing.",
-    "example_zh": "團隊已在每週會議中檢視這項債券持有人。"
+    "example": "We discussed bondholder during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 bondholder。"
   },
   {
     "word": "booker",
@@ -5726,8 +5726,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Travel",
     "meaning": "訂位人員",
-    "example": "The travel desk confirmed the booker for the trip.",
-    "example_zh": "團隊已在每週會議中檢視這項訂位人員。"
+    "example": "The manager asked for an update on booker before Friday.",
+    "example_zh": "經理要求在週五前提供 booker 的最新進度。"
   },
   {
     "word": "bottleneck",
@@ -5736,8 +5736,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "瓶頸",
-    "example": "Operations tracked the bottleneck to improve output.",
-    "example_zh": "團隊已在每週會議中檢視這項瓶頸。"
+    "example": "Our team improved bottleneck to support the new project.",
+    "example_zh": "我們團隊已改善 bottleneck 以支援新專案。"
   },
   {
     "word": "breakpoint",
@@ -5746,8 +5746,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "臨界點",
-    "example": "The IT team tested the breakpoint before deployment.",
-    "example_zh": "團隊已在每週會議中檢視這項臨界點。"
+    "example": "The client requested details about breakpoint in the proposal.",
+    "example_zh": "客戶在提案中要求提供 breakpoint 的細節。"
   },
   {
     "word": "briefcase",
@@ -5756,8 +5756,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Office",
     "meaning": "公事包",
-    "example": "The office manager checked the briefcase this morning.",
-    "example_zh": "團隊已在每週會議中檢視這項公事包。"
+    "example": "The quarterly report identified briefcase as a key focus area.",
+    "example_zh": "季度報告將 briefcase 列為關鍵關注項目。"
   },
   {
     "word": "brokerage",
@@ -5766,8 +5766,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "經紀業務",
-    "example": "The finance team reviewed the brokerage before the monthly closing.",
-    "example_zh": "團隊已在每週會議中檢視這項經紀業務。"
+    "example": "We discussed brokerage during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 brokerage。"
   },
   {
     "word": "buffer",
@@ -5776,8 +5776,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "緩衝",
-    "example": "Operations tracked the buffer to improve output.",
-    "example_zh": "團隊已在每週會議中檢視這項緩衝。"
+    "example": "The manager asked for an update on buffer before Friday.",
+    "example_zh": "經理要求在週五前提供 buffer 的最新進度。"
   },
   {
     "word": "burnrate",
@@ -5786,8 +5786,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "燒錢速度",
-    "example": "The finance team reviewed the burnrate before the monthly closing.",
-    "example_zh": "團隊已在每週會議中檢視這項燒錢速度。"
+    "example": "Our team improved burnrate to support the new project.",
+    "example_zh": "我們團隊已改善 burnrate 以支援新專案。"
   },
   {
     "word": "businesscase",
@@ -5796,8 +5796,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Strategy",
     "meaning": "商業論證",
-    "example": "The leadership team reviewed the businesscase this quarter.",
-    "example_zh": "團隊已在每週會議中檢視這項商業論證。"
+    "example": "The client requested details about businesscase in the proposal.",
+    "example_zh": "客戶在提案中要求提供 businesscase 的細節。"
   },
   {
     "word": "callcenter",
@@ -5806,8 +5806,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Service",
     "meaning": "客服中心",
-    "example": "Customer service handled the callcenter quickly.",
-    "example_zh": "團隊已在每週會議中檢視這項客服中心。"
+    "example": "The quarterly report identified callcenter as a key focus area.",
+    "example_zh": "季度報告將 callcenter 列為關鍵關注項目。"
   },
   {
     "word": "cancelation",
@@ -5816,8 +5816,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Service",
     "meaning": "取消作業",
-    "example": "Customer service handled the cancelation quickly.",
-    "example_zh": "團隊已在每週會議中檢視這項取消作業。"
+    "example": "We discussed cancelation during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 cancelation。"
   },
   {
     "word": "capitalization",
@@ -5826,8 +5826,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "資本化",
-    "example": "The finance team reviewed the capitalization before the monthly closing.",
-    "example_zh": "團隊已在每週會議中檢視這項資本化。"
+    "example": "The manager asked for an update on capitalization before Friday.",
+    "example_zh": "經理要求在週五前提供 capitalization 的最新進度。"
   },
   {
     "word": "caretaker",
@@ -5836,8 +5836,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "管理員",
-    "example": "Administration filed the caretaker for records.",
-    "example_zh": "團隊已在每週會議中檢視這項管理員。"
+    "example": "Our team improved caretaker to support the new project.",
+    "example_zh": "我們團隊已改善 caretaker 以支援新專案。"
   },
   {
     "word": "carpool",
@@ -5846,8 +5846,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Travel",
     "meaning": "共乘安排",
-    "example": "The travel desk confirmed the carpool for the trip.",
-    "example_zh": "團隊已在每週會議中檢視這項共乘安排。"
+    "example": "The client requested details about carpool in the proposal.",
+    "example_zh": "客戶在提案中要求提供 carpool 的細節。"
   },
   {
     "word": "cashflow",
@@ -5856,8 +5856,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "現金流",
-    "example": "The finance team reviewed the cashflow before the monthly closing.",
-    "example_zh": "團隊已在每週會議中檢視這項現金流。"
+    "example": "The quarterly report identified cashflow as a key focus area.",
+    "example_zh": "季度報告將 cashflow 列為關鍵關注項目。"
   },
   {
     "word": "chairmanship",
@@ -5866,8 +5866,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Meeting",
     "meaning": "主席職位",
-    "example": "We addressed the chairmanship in today's meeting.",
-    "example_zh": "團隊已在每週會議中檢視這項主席職位。"
+    "example": "We discussed chairmanship during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 chairmanship。"
   },
   {
     "word": "claimant",
@@ -5876,8 +5876,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Service",
     "meaning": "索賠人",
-    "example": "Customer service handled the claimant quickly.",
-    "example_zh": "團隊已在每週會議中檢視這項索賠人。"
+    "example": "The manager asked for an update on claimant before Friday.",
+    "example_zh": "經理要求在週五前提供 claimant 的最新進度。"
   },
   {
     "word": "cleanup",
@@ -5886,8 +5886,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "清理作業",
-    "example": "Operations tracked the cleanup to improve output.",
-    "example_zh": "團隊已在每週會議中檢視這項清理作業。"
+    "example": "Our team improved cleanup to support the new project.",
+    "example_zh": "我們團隊已改善 cleanup 以支援新專案。"
   },
   {
     "word": "clearing",
@@ -5896,8 +5896,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "結算作業",
-    "example": "The finance team reviewed the clearing before the monthly closing.",
-    "example_zh": "團隊已在每週會議中檢視這項結算作業。"
+    "example": "The client requested details about clearing in the proposal.",
+    "example_zh": "客戶在提案中要求提供 clearing 的細節。"
   },
   {
     "word": "clocking",
@@ -5906,8 +5906,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "打卡紀錄",
-    "example": "HR discussed the clocking during the monthly meeting.",
-    "example_zh": "團隊已在每週會議中檢視這項打卡紀錄。"
+    "example": "The quarterly report identified clocking as a key focus area.",
+    "example_zh": "季度報告將 clocking 列為關鍵關注項目。"
   },
   {
     "word": "coauthor",
@@ -5916,8 +5916,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "共同作者",
-    "example": "The team reviewed the coauthor in the weekly meeting.",
-    "example_zh": "團隊已在每週會議中檢視這項共同作者。"
+    "example": "We discussed coauthor during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 coauthor。"
   },
   {
     "word": "cofounder",
@@ -5926,8 +5926,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Strategy",
     "meaning": "共同創辦人",
-    "example": "The leadership team reviewed the cofounder this quarter.",
-    "example_zh": "團隊已在每週會議中檢視這項共同創辦人。"
+    "example": "The manager asked for an update on cofounder before Friday.",
+    "example_zh": "經理要求在週五前提供 cofounder 的最新進度。"
   },
   {
     "word": "cohesion",
@@ -5936,8 +5936,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "凝聚力",
-    "example": "HR discussed the cohesion during the monthly meeting.",
-    "example_zh": "團隊已在每週會議中檢視這項凝聚力。"
+    "example": "Our team improved cohesion to support the new project.",
+    "example_zh": "我們團隊已改善 cohesion 以支援新專案。"
   },
   {
     "word": "coinsurance",
@@ -5946,8 +5946,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "共同保險",
-    "example": "The finance team reviewed the coinsurance before the monthly closing.",
-    "example_zh": "團隊已在每週會議中檢視這項共同保險。"
+    "example": "The client requested details about coinsurance in the proposal.",
+    "example_zh": "客戶在提案中要求提供 coinsurance 的細節。"
   },
   {
     "word": "coldchain",
@@ -5956,8 +5956,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "冷鏈",
-    "example": "Logistics updated the coldchain before shipment.",
-    "example_zh": "團隊已在每週會議中檢視這項冷鏈。"
+    "example": "The quarterly report identified coldchain as a key focus area.",
+    "example_zh": "季度報告將 coldchain 列為關鍵關注項目。"
   },
   {
     "word": "collateral",
@@ -5966,8 +5966,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "擔保品",
-    "example": "The finance team reviewed the collateral before the monthly closing.",
-    "example_zh": "團隊已在每週會議中檢視這項擔保品。"
+    "example": "We discussed collateral during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 collateral。"
   },
   {
     "word": "collective",
@@ -5976,8 +5976,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "集體協議",
-    "example": "HR discussed the collective during the monthly meeting.",
-    "example_zh": "團隊已在每週會議中檢視這項集體協議。"
+    "example": "The manager asked for an update on collective before Friday.",
+    "example_zh": "經理要求在週五前提供 collective 的最新進度。"
   },
   {
     "word": "colorcode",
@@ -5986,8 +5986,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Manufacturing",
     "meaning": "色碼標示",
-    "example": "The factory monitored the colorcode on the line.",
-    "example_zh": "團隊已在每週會議中檢視這項色碼標示。"
+    "example": "Our team improved colorcode to support the new project.",
+    "example_zh": "我們團隊已改善 colorcode 以支援新專案。"
   },
   {
     "word": "comeback",
@@ -5996,8 +5996,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Sales",
     "meaning": "回升",
-    "example": "Sales tracked the comeback in the pipeline report.",
-    "example_zh": "團隊已在每週會議中檢視這項回升。"
+    "example": "The client requested details about comeback in the proposal.",
+    "example_zh": "客戶在提案中要求提供 comeback 的細節。"
   },
   {
     "word": "compliancecheck",
@@ -6006,8 +6006,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "合規檢查",
-    "example": "Legal confirmed the compliancecheck before signing.",
-    "example_zh": "團隊已在每週會議中檢視這項合規檢查。"
+    "example": "The quarterly report identified compliancecheck as a key focus area.",
+    "example_zh": "季度報告將 compliancecheck 列為關鍵關注項目。"
   },
   {
     "word": "concession",
@@ -6016,8 +6016,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Sales",
     "meaning": "讓利條件",
-    "example": "Sales tracked the concession in the pipeline report.",
-    "example_zh": "團隊已在每週會議中檢視這項讓利條件。"
+    "example": "We discussed concession during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 concession。"
   },
   {
     "word": "concurrency",
@@ -6026,8 +6026,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "並行作業量",
-    "example": "The IT team tested the concurrency before deployment.",
-    "example_zh": "團隊已在每週會議中檢視這項同時處理量。"
+    "example": "The manager asked for an update on concurrency before Friday.",
+    "example_zh": "經理要求在週五前提供 concurrency 的最新進度。"
   },
   {
     "word": "confidentiality",
@@ -6036,8 +6036,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "保密性",
-    "example": "Legal confirmed the confidentiality before signing.",
-    "example_zh": "團隊已在每週會議中檢視這項保密性。"
+    "example": "Our team improved confidentiality to support the new project.",
+    "example_zh": "我們團隊已改善 confidentiality 以支援新專案。"
   },
   {
     "word": "conformance",
@@ -6046,8 +6046,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Quality",
     "meaning": "符合性",
-    "example": "Quality control reviewed the conformance before approval.",
-    "example_zh": "團隊已在每週會議中檢視這項符合性。"
+    "example": "The client requested details about conformance in the proposal.",
+    "example_zh": "客戶在提案中要求提供 conformance 的細節。"
   },
   {
     "word": "consortium",
@@ -6056,8 +6056,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Strategy",
     "meaning": "聯盟",
-    "example": "The leadership team reviewed the consortium this quarter.",
-    "example_zh": "團隊已在每週會議中檢視這項聯盟。"
+    "example": "The quarterly report identified consortium as a key focus area.",
+    "example_zh": "季度報告將 consortium 列為關鍵關注項目。"
   },
   {
     "word": "consul",
@@ -6066,8 +6066,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Travel",
     "meaning": "領事",
-    "example": "The travel desk confirmed the consul for the trip.",
-    "example_zh": "團隊已在每週會議中檢視這項領事。"
+    "example": "We discussed consul during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 consul。"
   },
   {
     "word": "contactless",
@@ -6076,8 +6076,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "感應支付",
-    "example": "The finance team reviewed the contactless before the monthly closing.",
-    "example_zh": "團隊已在每週會議中檢視這項感應支付。"
+    "example": "The manager asked for an update on contactless before Friday.",
+    "example_zh": "經理要求在週五前提供 contactless 的最新進度。"
   },
   {
     "word": "contamination",
@@ -6086,8 +6086,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Quality",
     "meaning": "污染",
-    "example": "Quality control reviewed the contamination before approval.",
-    "example_zh": "團隊已在每週會議中檢視這項污染。"
+    "example": "Our team improved contamination to support the new project.",
+    "example_zh": "我們團隊已改善 contamination 以支援新專案。"
   },
   {
     "word": "contingencyfund",
@@ -6096,8 +6096,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "備用基金",
-    "example": "The finance team reviewed the contingencyfund before the monthly closing.",
-    "example_zh": "團隊已在每週會議中檢視這項備用基金。"
+    "example": "The client requested details about contingencyfund in the proposal.",
+    "example_zh": "客戶在提案中要求提供 contingencyfund 的細節。"
   },
   {
     "word": "contracting",
@@ -6106,8 +6106,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "承攬作業",
-    "example": "Legal confirmed the contracting before signing.",
-    "example_zh": "團隊已在每週會議中檢視這項承攬作業。"
+    "example": "The quarterly report identified contracting as a key focus area.",
+    "example_zh": "季度報告將 contracting 列為關鍵關注項目。"
   },
   {
     "word": "conveyance",
@@ -6116,8 +6116,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "運輸工具",
-    "example": "Logistics updated the conveyance before shipment.",
-    "example_zh": "團隊已在每週會議中檢視這項運輸工具。"
+    "example": "We discussed conveyance during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 conveyance。"
   },
   {
     "word": "cooldown",
@@ -6126,8 +6126,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "降溫期",
-    "example": "Operations tracked the cooldown to improve output.",
-    "example_zh": "團隊已在每週會議中檢視這項降溫期。"
+    "example": "The manager asked for an update on cooldown before Friday.",
+    "example_zh": "經理要求在週五前提供 cooldown 的最新進度。"
   },
   {
     "word": "coownership",
@@ -6136,8 +6136,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "共同所有權",
-    "example": "Legal confirmed the coownership before signing.",
-    "example_zh": "團隊已在每週會議中檢視這項共同所有權。"
+    "example": "Our team improved coownership to support the new project.",
+    "example_zh": "我們團隊已改善 coownership 以支援新專案。"
   },
   {
     "word": "copywriter",
@@ -6146,8 +6146,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "文案撰寫者",
-    "example": "Marketing measured the copywriter after launch.",
-    "example_zh": "團隊已在每週會議中檢視這項文案撰寫者。"
+    "example": "The client requested details about copywriter in the proposal.",
+    "example_zh": "客戶在提案中要求提供 copywriter 的細節。"
   },
   {
     "word": "correlation",
@@ -6156,8 +6156,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "相關性",
-    "example": "The analyst highlighted the correlation in the report.",
-    "example_zh": "團隊已在每週會議中檢視這項相關性。"
+    "example": "The quarterly report identified correlation as a key focus area.",
+    "example_zh": "季度報告將 correlation 列為關鍵關注項目。"
   },
   {
     "word": "counteroffer",
@@ -6166,8 +6166,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Sales",
     "meaning": "還價",
-    "example": "Sales tracked the counteroffer in the pipeline report.",
-    "example_zh": "團隊已在每週會議中檢視這項還價。"
+    "example": "We discussed counteroffer during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 counteroffer。"
   },
   {
     "word": "crate",
@@ -6176,8 +6176,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "裝運箱",
-    "example": "Logistics updated the crate before shipment.",
-    "example_zh": "團隊已在每週會議中檢視這項裝運箱。"
+    "example": "The manager asked for an update on crate before Friday.",
+    "example_zh": "經理要求在週五前提供 crate 的最新進度。"
   },
   {
     "word": "creditline",
@@ -6186,8 +6186,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "信用額度",
-    "example": "The finance team reviewed the creditline before the monthly closing.",
-    "example_zh": "團隊已在每週會議中檢視這項信用額度。"
+    "example": "Our team improved creditline to support the new project.",
+    "example_zh": "我們團隊已改善 creditline 以支援新專案。"
   },
   {
     "word": "crosscheck",
@@ -6196,8 +6196,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Quality",
     "meaning": "交叉檢查",
-    "example": "Quality control reviewed the crosscheck before approval.",
-    "example_zh": "團隊已在每週會議中檢視這項交叉檢查。"
+    "example": "The client requested details about crosscheck in the proposal.",
+    "example_zh": "客戶在提案中要求提供 crosscheck 的細節。"
   },
   {
     "word": "crossselling",
@@ -6206,8 +6206,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Sales",
     "meaning": "交叉銷售",
-    "example": "Sales tracked the crossselling in the pipeline report.",
-    "example_zh": "團隊已在每週會議中檢視這項交叉銷售。"
+    "example": "The quarterly report identified crossselling as a key focus area.",
+    "example_zh": "季度報告將 crossselling 列為關鍵關注項目。"
   },
   {
     "word": "crowdfunding",
@@ -6216,8 +6216,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "群眾募資",
-    "example": "The finance team reviewed the crowdfunding before the monthly closing.",
-    "example_zh": "團隊已在每週會議中檢視這項群眾募資。"
+    "example": "We discussed crowdfunding during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 crowdfunding。"
   },
   {
     "word": "custody",
@@ -6226,8 +6226,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "保管",
-    "example": "Administration filed the custody for records.",
-    "example_zh": "團隊已在每週會議中檢視這項保管。"
+    "example": "The manager asked for an update on custody before Friday.",
+    "example_zh": "經理要求在週五前提供 custody 的最新進度。"
   },
   {
     "word": "cybersecurity",
@@ -6236,8 +6236,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Security",
     "meaning": "網路安全",
-    "example": "The security team monitored the cybersecurity daily.",
-    "example_zh": "團隊已在每週會議中檢視這項網路安全。"
+    "example": "Our team improved cybersecurity to support the new project.",
+    "example_zh": "我們團隊已改善 cybersecurity 以支援新專案。"
   },
   {
     "word": "datacenter",
@@ -6246,8 +6246,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "資料中心",
-    "example": "The IT team tested the datacenter before deployment.",
-    "example_zh": "團隊已在每週會議中檢視這項資料中心。"
+    "example": "The client requested details about datacenter in the proposal.",
+    "example_zh": "客戶在提案中要求提供 datacenter 的細節。"
   },
   {
     "word": "datapoint",
@@ -6256,8 +6256,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "數據點",
-    "example": "The analyst highlighted the datapoint in the report.",
-    "example_zh": "團隊已在每週會議中檢視這項數據點。"
+    "example": "The quarterly report identified datapoint as a key focus area.",
+    "example_zh": "季度報告將 datapoint 列為關鍵關注項目。"
   },
   {
     "word": "deactivation",
@@ -6266,8 +6266,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "停用",
-    "example": "The IT team tested the deactivation before deployment.",
-    "example_zh": "團隊已在每週會議中檢視這項停用。"
+    "example": "We discussed deactivation during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 deactivation。"
   },
   {
     "word": "debriefing",
@@ -6276,8 +6276,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Meeting",
     "meaning": "檢討會",
-    "example": "We addressed the debriefing in today's meeting.",
-    "example_zh": "團隊已在每週會議中檢視這項檢討會。"
+    "example": "The manager asked for an update on debriefing before Friday.",
+    "example_zh": "經理要求在週五前提供 debriefing 的最新進度。"
   },
   {
     "word": "decentralization",
@@ -6286,8 +6286,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Strategy",
     "meaning": "去中心化",
-    "example": "The leadership team reviewed the decentralization this quarter.",
-    "example_zh": "團隊已在每週會議中檢視這項去中心化。"
+    "example": "Our team improved decentralization to support the new project.",
+    "example_zh": "我們團隊已改善 decentralization 以支援新專案。"
   },
   {
     "word": "deferral",
@@ -6296,8 +6296,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "遞延",
-    "example": "The finance team reviewed the deferral before the monthly closing.",
-    "example_zh": "團隊已在每週會議中檢視這項遞延。"
+    "example": "The client requested details about deferral in the proposal.",
+    "example_zh": "客戶在提案中要求提供 deferral 的細節。"
   },
   {
     "word": "delisting",
@@ -6306,8 +6306,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "下市",
-    "example": "The finance team reviewed the delisting before the monthly closing.",
-    "example_zh": "團隊已在每週會議中檢視這項下市。"
+    "example": "The quarterly report identified delisting as a key focus area.",
+    "example_zh": "季度報告將 delisting 列為關鍵關注項目。"
   },
   {
     "word": "deliverable",
@@ -6316,8 +6316,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "交付成果",
-    "example": "The project manager documented the deliverable this week.",
-    "example_zh": "團隊已在每週會議中檢視這項交付成果。"
+    "example": "We discussed deliverable during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 deliverable。"
   },
   {
     "word": "demurrage",
@@ -6326,8 +6326,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "滯箱費",
-    "example": "Logistics updated the demurrage before shipment.",
-    "example_zh": "團隊已在每週會議中檢視這項滯箱費。"
+    "example": "The manager asked for an update on demurrage before Friday.",
+    "example_zh": "經理要求在週五前提供 demurrage 的最新進度。"
   },
   {
     "word": "deregulation",
@@ -6336,8 +6336,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "鬆綁管制",
-    "example": "Legal confirmed the deregulation before signing.",
-    "example_zh": "團隊已在每週會議中檢視這項鬆綁管制。"
+    "example": "Our team improved deregulation to support the new project.",
+    "example_zh": "我們團隊已改善 deregulation 以支援新專案。"
   },
   {
     "word": "designee",
@@ -6346,8 +6346,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "被指定人",
-    "example": "HR discussed the designee during the monthly meeting.",
-    "example_zh": "團隊已在每週會議中檢視這項被指定人。"
+    "example": "The client requested details about designee in the proposal.",
+    "example_zh": "客戶在提案中要求提供 designee 的細節。"
   },
   {
     "word": "deskwork",
@@ -6356,8 +6356,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Office",
     "meaning": "文書工作",
-    "example": "The office manager checked the deskwork this morning.",
-    "example_zh": "團隊已在每週會議中檢視這項文書工作。"
+    "example": "The quarterly report identified deskwork as a key focus area.",
+    "example_zh": "季度報告將 deskwork 列為關鍵關注項目。"
   },
   {
     "word": "detour",
@@ -6366,8 +6366,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Travel",
     "meaning": "繞道",
-    "example": "The travel desk confirmed the detour for the trip.",
-    "example_zh": "團隊已在每週會議中檢視這項繞道。"
+    "example": "We discussed detour during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 detour。"
   },
   {
     "word": "devaluation",
@@ -6376,8 +6376,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "貶值",
-    "example": "The finance team reviewed the devaluation before the monthly closing.",
-    "example_zh": "團隊已在每週會議中檢視這項貶值。"
+    "example": "The manager asked for an update on devaluation before Friday.",
+    "example_zh": "經理要求在週五前提供 devaluation 的最新進度。"
   },
   {
     "word": "directorship",
@@ -6386,8 +6386,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "董事職位",
-    "example": "Administration filed the directorship for records.",
-    "example_zh": "團隊已在每週會議中檢視這項董事職位。"
+    "example": "Our team improved directorship to support the new project.",
+    "example_zh": "我們團隊已改善 directorship 以支援新專案。"
   },
   {
     "word": "disagreement",
@@ -6396,8 +6396,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Meeting",
     "meaning": "分歧",
-    "example": "We addressed the disagreement in today's meeting.",
-    "example_zh": "團隊已在每週會議中檢視這項分歧。"
+    "example": "The client requested details about disagreement in the proposal.",
+    "example_zh": "客戶在提案中要求提供 disagreement 的細節。"
   },
   {
     "word": "discontinuation",
@@ -6406,8 +6406,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Manufacturing",
     "meaning": "停產",
-    "example": "The factory monitored the discontinuation on the line.",
-    "example_zh": "團隊已在每週會議中檢視這項停產。"
+    "example": "The quarterly report identified discontinuation as a key focus area.",
+    "example_zh": "季度報告將 discontinuation 列為關鍵關注項目。"
   },
   {
     "word": "disqualification",
@@ -6416,8 +6416,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Hiring",
     "meaning": "取消資格",
-    "example": "The team reviewed the disqualification in the weekly meeting.",
-    "example_zh": "團隊已在每週會議中檢視這項取消資格。"
+    "example": "We discussed disqualification during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 disqualification。"
   },
   {
     "word": "dissatisfaction",
@@ -6426,8 +6426,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Service",
     "meaning": "不滿意度",
-    "example": "Customer service handled the dissatisfaction quickly.",
-    "example_zh": "團隊已在每週會議中檢視這項不滿意度。"
+    "example": "The manager asked for an update on dissatisfaction before Friday.",
+    "example_zh": "經理要求在週五前提供 dissatisfaction 的最新進度。"
   },
   {
     "word": "diversion",
@@ -6436,8 +6436,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "改道；轉運",
-    "example": "Logistics updated the diversion before shipment.",
-    "example_zh": "團隊已在每週會議中檢視這項改道。"
+    "example": "Our team improved diversion to support the new project.",
+    "example_zh": "我們團隊已改善 diversion 以支援新專案。"
   },
   {
     "word": "dividend",
@@ -6446,8 +6446,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "股利",
-    "example": "The finance team reviewed the dividend before the monthly closing.",
-    "example_zh": "團隊已在每週會議中檢視這項股利。"
+    "example": "The client requested details about dividend in the proposal.",
+    "example_zh": "客戶在提案中要求提供 dividend 的細節。"
   },
   {
     "word": "documentary",
@@ -6456,8 +6456,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "單據",
-    "example": "Logistics updated the documentary before shipment.",
-    "example_zh": "團隊已在每週會議中檢視這項單據。"
+    "example": "The quarterly report identified documentary as a key focus area.",
+    "example_zh": "季度報告將 documentary 列為關鍵關注項目。"
   },
   {
     "word": "doorstep",
@@ -6466,8 +6466,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Service",
     "meaning": "到府地點",
-    "example": "Customer service handled the doorstep quickly.",
-    "example_zh": "團隊已在每週會議中檢視這項到府地點。"
+    "example": "We discussed doorstep during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 doorstep。"
   },
   {
     "word": "downgrade",
@@ -6476,8 +6476,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Service",
     "meaning": "降級",
-    "example": "Customer service handled the downgrade quickly.",
-    "example_zh": "團隊已在每週會議中檢視這項降級。"
+    "example": "The manager asked for an update on downgrade before Friday.",
+    "example_zh": "經理要求在週五前提供 downgrade 的最新進度。"
   },
   {
     "word": "drawdown",
@@ -6486,8 +6486,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "提領",
-    "example": "The finance team reviewed the drawdown before the monthly closing.",
-    "example_zh": "團隊已在每週會議中檢視這項提領。"
+    "example": "Our team improved drawdown to support the new project.",
+    "example_zh": "我們團隊已改善 drawdown 以支援新專案。"
   },
   {
     "word": "dresscode",
@@ -6496,8 +6496,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "服裝規範",
-    "example": "HR discussed the dresscode during the monthly meeting.",
-    "example_zh": "團隊已在每週會議中檢視這項服裝規範。"
+    "example": "The client requested details about dresscode in the proposal.",
+    "example_zh": "客戶在提案中要求提供 dresscode 的細節。"
   },
   {
     "word": "duediligence",
@@ -6506,8 +6506,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "盡職調查",
-    "example": "Legal confirmed the duediligence before signing.",
-    "example_zh": "團隊已在每週會議中檢視這項盡職調查。"
+    "example": "The quarterly report identified duediligence as a key focus area.",
+    "example_zh": "季度報告將 duediligence 列為關鍵關注項目。"
   },
   {
     "word": "arrears",
@@ -6516,8 +6516,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "欠款",
-    "example": "The team reviewed the arrears in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項欠款。"
+    "example": "We discussed arrears during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 arrears。"
   },
   {
     "word": "audittrail",
@@ -6526,8 +6526,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "稽核軌跡",
-    "example": "The team reviewed the audittrail in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項稽核軌跡。"
+    "example": "The manager asked for an update on audittrail before Friday.",
+    "example_zh": "經理要求在週五前提供 audittrail 的最新進度。"
   },
   {
     "word": "autopay",
@@ -6536,8 +6536,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "自動扣款",
-    "example": "The team reviewed the autopay in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項自動扣款。"
+    "example": "Our team improved autopay to support the new project.",
+    "example_zh": "我們團隊已改善 autopay 以支援新專案。"
   },
   {
     "word": "backoffice",
@@ -6546,8 +6546,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Office",
     "meaning": "後勤部門",
-    "example": "The team reviewed the backoffice in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項後勤部門。"
+    "example": "The client requested details about backoffice in the proposal.",
+    "example_zh": "客戶在提案中要求提供 backoffice 的細節。"
   },
   {
     "word": "boardmember",
@@ -6556,8 +6556,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "董事會成員",
-    "example": "The team reviewed the boardmember in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項董事會成員。"
+    "example": "The quarterly report identified boardmember as a key focus area.",
+    "example_zh": "季度報告將 boardmember 列為關鍵關注項目。"
   },
   {
     "word": "clause",
@@ -6566,8 +6566,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "條款",
-    "example": "The team reviewed the clause in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項條款。"
+    "example": "We discussed clause during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 clause。"
   },
   {
     "word": "cod",
@@ -6576,8 +6576,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "貨到付款",
-    "example": "The team reviewed the cod in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項貨到付款。"
+    "example": "The manager asked for an update on cod before Friday.",
+    "example_zh": "經理要求在週五前提供 cod 的最新進度。"
   },
   {
     "word": "comarketing",
@@ -6586,8 +6586,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "聯合行銷",
-    "example": "The team reviewed the comarketing in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項聯合行銷。"
+    "example": "Our team improved comarketing to support the new project.",
+    "example_zh": "我們團隊已改善 comarketing 以支援新專案。"
   },
   {
     "word": "copayment",
@@ -6596,8 +6596,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "自付額",
-    "example": "The team reviewed the copayment in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項自付額。"
+    "example": "The client requested details about copayment in the proposal.",
+    "example_zh": "客戶在提案中要求提供 copayment 的細節。"
   },
   {
     "word": "downsizing",
@@ -6606,8 +6606,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "縮編",
-    "example": "The team reviewed the downsizing in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項縮編。"
+    "example": "The quarterly report identified downsizing as a key focus area.",
+    "example_zh": "季度報告將 downsizing 列為關鍵關注項目。"
   },
   {
     "word": "ecommerce",
@@ -6616,8 +6616,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Sales",
     "meaning": "電子商務",
-    "example": "The team reviewed the ecommerce in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項電子商務。"
+    "example": "We discussed ecommerce during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 ecommerce。"
   },
   {
     "word": "franchisee",
@@ -6626,8 +6626,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Sales",
     "meaning": "加盟主",
-    "example": "The team reviewed the franchisee in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項加盟主。"
+    "example": "The manager asked for an update on franchisee before Friday.",
+    "example_zh": "經理要求在週五前提供 franchisee 的最新進度。"
   },
   {
     "word": "headhunter",
@@ -6636,8 +6636,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Hiring",
     "meaning": "獵才顧問",
-    "example": "The team reviewed the headhunter in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項獵才顧問。"
+    "example": "Our team improved headhunter to support the new project.",
+    "example_zh": "我們團隊已改善 headhunter 以支援新專案。"
   },
   {
     "word": "hotline",
@@ -6646,8 +6646,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Service",
     "meaning": "專線",
-    "example": "The team reviewed the hotline in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項專線。"
+    "example": "The client requested details about hotline in the proposal.",
+    "example_zh": "客戶在提案中要求提供 hotline 的細節。"
   },
   {
     "word": "incoterm",
@@ -6656,8 +6656,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "國貿條規",
-    "example": "The team reviewed the incoterm in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項國貿條規。"
+    "example": "The quarterly report identified incoterm as a key focus area.",
+    "example_zh": "季度報告將 incoterm 列為關鍵關注項目。"
   },
   {
     "word": "indemnity",
@@ -6666,8 +6666,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "賠償責任",
-    "example": "The team reviewed the indemnity in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項賠償責任。"
+    "example": "We discussed indemnity during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 indemnity。"
   },
   {
     "word": "insolvency",
@@ -6676,8 +6676,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "無力償債",
-    "example": "The team reviewed the insolvency in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項無力償債。"
+    "example": "The manager asked for an update on insolvency before Friday.",
+    "example_zh": "經理要求在週五前提供 insolvency 的最新進度。"
   },
   {
     "word": "inventoryturnover",
@@ -6686,8 +6686,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "存貨周轉率",
-    "example": "The team reviewed the inventoryturnover in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項存貨周轉率。"
+    "example": "Our team improved inventoryturnover to support the new project.",
+    "example_zh": "我們團隊已改善 inventoryturnover 以支援新專案。"
   },
   {
     "word": "jobgrade",
@@ -6696,8 +6696,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "職等",
-    "example": "The team reviewed the jobgrade in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項職等。"
+    "example": "The client requested details about jobgrade in the proposal.",
+    "example_zh": "客戶在提案中要求提供 jobgrade 的細節。"
   },
   {
     "word": "kpi",
@@ -6706,8 +6706,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "關鍵績效指標",
-    "example": "The team reviewed the kpi in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項關鍵績效指標。"
+    "example": "The quarterly report identified kpi as a key focus area.",
+    "example_zh": "季度報告將 kpi 列為關鍵關注項目。"
   },
   {
     "word": "leadtime",
@@ -6716,8 +6716,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "前置時間",
-    "example": "The team reviewed the leadtime in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項前置時間。"
+    "example": "We discussed leadtime during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 leadtime。"
   },
   {
     "word": "middleware",
@@ -6726,8 +6726,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "中介軟體",
-    "example": "The team reviewed the middleware in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項中介軟體。"
+    "example": "The manager asked for an update on middleware before Friday.",
+    "example_zh": "經理要求在週五前提供 middleware 的最新進度。"
   },
   {
     "word": "offboarding",
@@ -6736,8 +6736,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "離職交接",
-    "example": "The team reviewed the offboarding in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項離職交接。"
+    "example": "Our team improved offboarding to support the new project.",
+    "example_zh": "我們團隊已改善 offboarding 以支援新專案。"
   },
   {
     "word": "overtime",
@@ -6746,8 +6746,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "加班時數",
-    "example": "The team reviewed the overtime in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項加班時數。"
+    "example": "The client requested details about overtime in the proposal.",
+    "example_zh": "客戶在提案中要求提供 overtime 的細節。"
   },
   {
     "word": "preorder",
@@ -6756,8 +6756,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Sales",
     "meaning": "預購單",
-    "example": "The team reviewed the preorder in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項預購單。"
+    "example": "The quarterly report identified preorder as a key focus area.",
+    "example_zh": "季度報告將 preorder 列為關鍵關注項目。"
   },
   {
     "word": "profitshare",
@@ -6766,8 +6766,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "分潤",
-    "example": "The team reviewed the profitshare in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項分潤。"
+    "example": "We discussed profitshare during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 profitshare。"
   },
   {
     "word": "proofreading",
@@ -6776,8 +6776,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "校稿",
-    "example": "The team reviewed the proofreading in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項校稿。"
+    "example": "The manager asked for an update on proofreading before Friday.",
+    "example_zh": "經理要求在週五前提供 proofreading 的最新進度。"
   },
   {
     "word": "referrer",
@@ -6786,8 +6786,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Hiring",
     "meaning": "推薦人",
-    "example": "The team reviewed the referrer in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項推薦人。"
+    "example": "Our team improved referrer to support the new project.",
+    "example_zh": "我們團隊已改善 referrer 以支援新專案。"
   },
   {
     "word": "roadmap",
@@ -6796,8 +6796,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "路線圖",
-    "example": "The team reviewed the roadmap in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項路線圖。"
+    "example": "The client requested details about roadmap in the proposal.",
+    "example_zh": "客戶在提案中要求提供 roadmap 的細節。"
   },
   {
     "word": "showroom",
@@ -6806,8 +6806,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Sales",
     "meaning": "展示間",
-    "example": "The team reviewed the showroom in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項展示間。"
+    "example": "The quarterly report identified showroom as a key focus area.",
+    "example_zh": "季度報告將 showroom 列為關鍵關注項目。"
   },
   {
     "word": "timesheet",
@@ -6816,8 +6816,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "工時表",
-    "example": "The team reviewed the timesheet in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項工時表。"
+    "example": "We discussed timesheet during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 timesheet。"
   },
   {
     "word": "touchpoint",
@@ -6826,8 +6826,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "接觸點",
-    "example": "The team reviewed the touchpoint in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項接觸點。"
+    "example": "The manager asked for an update on touchpoint before Friday.",
+    "example_zh": "經理要求在週五前提供 touchpoint 的最新進度。"
   },
   {
     "word": "upselling",
@@ -6836,8 +6836,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Sales",
     "meaning": "加價銷售",
-    "example": "The team reviewed the upselling in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項加價銷售。"
+    "example": "Our team improved upselling to support the new project.",
+    "example_zh": "我們團隊已改善 upselling 以支援新專案。"
   },
   {
     "word": "walkthrough",
@@ -6846,8 +6846,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Training",
     "meaning": "操作導覽",
-    "example": "The team reviewed the walkthrough in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項操作導覽。"
+    "example": "The client requested details about walkthrough in the proposal.",
+    "example_zh": "客戶在提案中要求提供 walkthrough 的細節。"
   },
   {
     "word": "absorption",
@@ -6856,8 +6856,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "吸收率",
-    "example": "The finance team reviewed the absorption before closing the monthly books.",
-    "example_zh": "財務團隊在月結前審查了這項吸收率。"
+    "example": "The quarterly report identified absorption as a key focus area.",
+    "example_zh": "季度報告將 absorption 列為關鍵關注項目。"
   },
   {
     "word": "abundance",
@@ -6866,8 +6866,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "充足供給",
-    "example": "Operations tracked the abundance to improve efficiency.",
-    "example_zh": "營運部持續追蹤這項充足供給以提升效率。"
+    "example": "We discussed abundance during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 abundance。"
   },
   {
     "word": "acceptance",
@@ -6876,8 +6876,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "驗收",
-    "example": "Legal checked the acceptance before signing the contract.",
-    "example_zh": "法務在簽約前檢查了這項驗收。"
+    "example": "The manager asked for an update on acceptance before Friday.",
+    "example_zh": "經理要求在週五前提供 acceptance 的最新進度。"
   },
   {
     "word": "access",
@@ -6886,8 +6886,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "存取權限",
-    "example": "The IT team tested the access before release.",
-    "example_zh": "資訊團隊在發布前測試了這項存取權限。"
+    "example": "Our team improved access to support the new project.",
+    "example_zh": "我們團隊已改善 access 以支援新專案。"
   },
   {
     "word": "accessory",
@@ -6896,8 +6896,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Sales",
     "meaning": "配件",
-    "example": "The team reviewed the accessory in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項配件。"
+    "example": "The client requested details about accessory in the proposal.",
+    "example_zh": "客戶在提案中要求提供 accessory 的細節。"
   },
   {
     "word": "accrual",
@@ -6906,8 +6906,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "應計帳款",
-    "example": "The finance team reviewed the accrual before closing the monthly books.",
-    "example_zh": "財務團隊在月結前審查了這項應計項目。"
+    "example": "The quarterly report identified accrual as a key focus area.",
+    "example_zh": "季度報告將 accrual 列為關鍵關注項目。"
   },
   {
     "word": "achievement",
@@ -6916,8 +6916,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "成果",
-    "example": "The analyst highlighted the achievement in the monthly report.",
-    "example_zh": "分析師在月報中標註了這項成果。"
+    "example": "We discussed achievement during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 achievement。"
   },
   {
     "word": "acknowledgement",
@@ -6926,8 +6926,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "確認函",
-    "example": "The team reviewed the acknowledgement in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項確認函。"
+    "example": "The manager asked for an update on acknowledgement before Friday.",
+    "example_zh": "經理要求在週五前提供 acknowledgement 的最新進度。"
   },
   {
     "word": "acquisitioncost",
@@ -6936,8 +6936,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "收購成本",
-    "example": "The finance team reviewed the acquisitioncost before closing the monthly books.",
-    "example_zh": "財務團隊在月結前審查了這項收購成本。"
+    "example": "Our team improved acquisitioncost to support the new project.",
+    "example_zh": "我們團隊已改善 acquisitioncost 以支援新專案。"
   },
   {
     "word": "actuary",
@@ -6946,8 +6946,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "精算師",
-    "example": "The finance team reviewed the actuary before closing the monthly books.",
-    "example_zh": "財務團隊在月結前審查了這項精算師。"
+    "example": "The client requested details about actuary in the proposal.",
+    "example_zh": "客戶在提案中要求提供 actuary 的細節。"
   },
   {
     "word": "adaptationplan",
@@ -6956,8 +6956,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "調整計畫",
-    "example": "The team reviewed the adaptationplan in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項調整計畫。"
+    "example": "The quarterly report identified adaptationplan as a key focus area.",
+    "example_zh": "季度報告將 adaptationplan 列為關鍵關注項目。"
   },
   {
     "word": "additive",
@@ -6966,8 +6966,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Manufacturing",
     "meaning": "添加劑",
-    "example": "The plant manager monitored the additive on the production line.",
-    "example_zh": "廠務主管在線上監控這項添加劑。"
+    "example": "We discussed additive during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 additive。"
   },
   {
     "word": "adherence",
@@ -6976,8 +6976,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "遵循度",
-    "example": "Legal checked the adherence before signing the contract.",
-    "example_zh": "法務在簽約前檢查了這項遵循度。"
+    "example": "The manager asked for an update on adherence before Friday.",
+    "example_zh": "經理要求在週五前提供 adherence 的最新進度。"
   },
   {
     "word": "adjustmentnote",
@@ -6986,8 +6986,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "調整通知",
-    "example": "The finance team reviewed the adjustmentnote before closing the monthly books.",
-    "example_zh": "財務團隊在月結前審查了這項調整通知。"
+    "example": "Our team improved adjustmentnote to support the new project.",
+    "example_zh": "我們團隊已改善 adjustmentnote 以支援新專案。"
   },
   {
     "word": "administratorrole",
@@ -6996,8 +6996,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "管理職務",
-    "example": "Administration filed the administratorrole for record keeping.",
-    "example_zh": "行政部已將這項管理職務完成歸檔。"
+    "example": "The client requested details about administratorrole in the proposal.",
+    "example_zh": "客戶在提案中要求提供 administratorrole 的細節。"
   },
   {
     "word": "adoption",
@@ -7006,8 +7006,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "採用率",
-    "example": "Operations tracked the adoption to improve efficiency.",
-    "example_zh": "營運部持續追蹤這項採用率以提升效率。"
+    "example": "The quarterly report identified adoption as a key focus area.",
+    "example_zh": "季度報告將 adoption 列為關鍵關注項目。"
   },
   {
     "word": "advancement",
@@ -7016,8 +7016,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "晉升進展",
-    "example": "HR reviewed the advancement in the monthly people report.",
-    "example_zh": "人資在月度人力報告中審查了這項晉升進展。"
+    "example": "We discussed advancement during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 advancement。"
   },
   {
     "word": "adversity",
@@ -7026,8 +7026,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Strategy",
     "meaning": "逆風因素",
-    "example": "The leadership team reviewed the adversity in the quarterly meeting.",
-    "example_zh": "管理層在季度會議檢視了這項逆風因素。"
+    "example": "The manager asked for an update on adversity before Friday.",
+    "example_zh": "經理要求在週五前提供 adversity 的最新進度。"
   },
   {
     "word": "advocate",
@@ -7036,8 +7036,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "倡議者",
-    "example": "The team reviewed the advocate in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項倡議者。"
+    "example": "Our team improved advocate to support the new project.",
+    "example_zh": "我們團隊已改善 advocate 以支援新專案。"
   },
   {
     "word": "affinity",
@@ -7046,8 +7046,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "品牌親和力",
-    "example": "Marketing measured the affinity after the campaign launch.",
-    "example_zh": "行銷部在活動上線後衡量了這項品牌親和力。"
+    "example": "The client requested details about affinity in the proposal.",
+    "example_zh": "客戶在提案中要求提供 affinity 的細節。"
   },
   {
     "word": "agendaitem",
@@ -7056,8 +7056,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Meeting",
     "meaning": "議程主題",
-    "example": "We added the agendaitem to the meeting agenda.",
-    "example_zh": "我們已把這項議程項目加入會議議程。"
+    "example": "The quarterly report identified agendaitem as a key focus area.",
+    "example_zh": "季度報告將 agendaitem 列為關鍵關注項目。"
   },
   {
     "word": "aggregaterate",
@@ -7066,8 +7066,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "彙總比率",
-    "example": "The analyst highlighted the aggregaterate in the monthly report.",
-    "example_zh": "分析師在月報中標註了這項彙總比率。"
+    "example": "We discussed aggregaterate during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 aggregaterate。"
   },
   {
     "word": "agreementterm",
@@ -7076,8 +7076,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "合約條件",
-    "example": "Legal checked the agreementterm before signing the contract.",
-    "example_zh": "法務在簽約前檢查了這項合約條件。"
+    "example": "The manager asked for an update on agreementterm before Friday.",
+    "example_zh": "經理要求在週五前提供 agreementterm 的最新進度。"
   },
   {
     "word": "airfreight",
@@ -7086,8 +7086,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "空運",
-    "example": "The logistics team updated the airfreight before shipment.",
-    "example_zh": "物流團隊在出貨前更新了這項空運。"
+    "example": "Our team improved airfreight to support the new project.",
+    "example_zh": "我們團隊已改善 airfreight 以支援新專案。"
   },
   {
     "word": "alert",
@@ -7096,8 +7096,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Security",
     "meaning": "警示",
-    "example": "The security team reinforced the alert at the main office.",
-    "example_zh": "資安團隊在總部強化了這項警示。"
+    "example": "The client requested details about alert in the proposal.",
+    "example_zh": "客戶在提案中要求提供 alert 的細節。"
   },
   {
     "word": "alignmentplan",
@@ -7106,8 +7106,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "對齊方案",
-    "example": "The team reviewed the alignmentplan in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項對齊方案。"
+    "example": "The quarterly report identified alignmentplan as a key focus area.",
+    "example_zh": "季度報告將 alignmentplan 列為關鍵關注項目。"
   },
   {
     "word": "allowancerate",
@@ -7116,8 +7116,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "補助比率",
-    "example": "HR reviewed the allowancerate in the monthly people report.",
-    "example_zh": "人資在月度人力報告中審查了這項補助比率。"
+    "example": "We discussed allowancerate during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 allowancerate。"
   },
   {
     "word": "amortization",
@@ -7126,8 +7126,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "攤銷",
-    "example": "The finance team reviewed the amortization before closing the monthly books.",
-    "example_zh": "財務團隊在月結前審查了這項攤銷。"
+    "example": "The manager asked for an update on amortization before Friday.",
+    "example_zh": "經理要求在週五前提供 amortization 的最新進度。"
   },
   {
     "word": "analysisreport",
@@ -7136,8 +7136,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "分析報告",
-    "example": "The analyst highlighted the analysisreport in the monthly report.",
-    "example_zh": "分析師在月報中標註了這項分析報告。"
+    "example": "Our team improved analysisreport to support the new project.",
+    "example_zh": "我們團隊已改善 analysisreport 以支援新專案。"
   },
   {
     "word": "announcementmail",
@@ -7146,8 +7146,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "公告郵件",
-    "example": "The team reviewed the announcementmail in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項公告郵件。"
+    "example": "The client requested details about announcementmail in the proposal.",
+    "example_zh": "客戶在提案中要求提供 announcementmail 的細節。"
   },
   {
     "word": "anomaly",
@@ -7156,8 +7156,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "異常值",
-    "example": "The analyst highlighted the anomaly in the monthly report.",
-    "example_zh": "分析師在月報中標註了這項異常值。"
+    "example": "The quarterly report identified anomaly as a key focus area.",
+    "example_zh": "季度報告將 anomaly 列為關鍵關注項目。"
   },
   {
     "word": "approvalflow",
@@ -7166,8 +7166,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "核准流程",
-    "example": "Administration filed the approvalflow for record keeping.",
-    "example_zh": "行政部已將這項核准流程完成歸檔。"
+    "example": "We discussed approvalflow during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 approvalflow。"
   },
   {
     "word": "approvalnote",
@@ -7176,8 +7176,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "核准通知",
-    "example": "Administration filed the approvalnote for record keeping.",
-    "example_zh": "行政部已將這項核准通知完成歸檔。"
+    "example": "The manager asked for an update on approvalnote before Friday.",
+    "example_zh": "經理要求在週五前提供 approvalnote 的最新進度。"
   },
   {
     "word": "arbitrator",
@@ -7186,8 +7186,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "仲裁人",
-    "example": "Legal checked the arbitrator before signing the contract.",
-    "example_zh": "法務在簽約前檢查了這項仲裁人。"
+    "example": "Our team improved arbitrator to support the new project.",
+    "example_zh": "我們團隊已改善 arbitrator 以支援新專案。"
   },
   {
     "word": "arrival",
@@ -7196,8 +7196,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Travel",
     "meaning": "到達時間",
-    "example": "The travel desk confirmed the arrival for the business trip.",
-    "example_zh": "差旅窗口已確認這次出差的到達時間。"
+    "example": "The client requested details about arrival in the proposal.",
+    "example_zh": "客戶在提案中要求提供 arrival 的細節。"
   },
   {
     "word": "assortment",
@@ -7206,8 +7206,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "商品組合",
-    "example": "Marketing measured the assortment after the campaign launch.",
-    "example_zh": "行銷部在活動上線後衡量了這項商品組合。"
+    "example": "The quarterly report identified assortment as a key focus area.",
+    "example_zh": "季度報告將 assortment 列為關鍵關注項目。"
   },
   {
     "word": "auditlog",
@@ -7216,8 +7216,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "稽核紀錄",
-    "example": "The finance team reviewed the auditlog before closing the monthly books.",
-    "example_zh": "財務團隊在月結前審查了這項稽核紀錄。"
+    "example": "We discussed auditlog during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 auditlog。"
   },
   {
     "word": "automationplan",
@@ -7226,8 +7226,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "自動化計畫",
-    "example": "Operations tracked the automationplan to improve efficiency.",
-    "example_zh": "營運部持續追蹤這項自動化計畫以提升效率。"
+    "example": "The manager asked for an update on automationplan before Friday.",
+    "example_zh": "經理要求在週五前提供 automationplan 的最新進度。"
   },
   {
     "word": "availabilitycheck",
@@ -7236,8 +7236,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "可用性檢查",
-    "example": "Operations tracked the availabilitycheck to improve efficiency.",
-    "example_zh": "營運部持續追蹤這項可用性檢查以提升效率。"
+    "example": "Our team improved availabilitycheck to support the new project.",
+    "example_zh": "我們團隊已改善 availabilitycheck 以支援新專案。"
   },
   {
     "word": "award",
@@ -7246,8 +7246,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "獎項",
-    "example": "HR reviewed the award in the monthly people report.",
-    "example_zh": "人資在月度人力報告中審查了這項獎項。"
+    "example": "The client requested details about award in the proposal.",
+    "example_zh": "客戶在提案中要求提供 award 的細節。"
   },
   {
     "word": "backordercase",
@@ -7256,8 +7256,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "延遲訂單案件",
-    "example": "The logistics team updated the backordercase before shipment.",
-    "example_zh": "物流團隊在出貨前更新了這項延遲訂單案件。"
+    "example": "The quarterly report identified backordercase as a key focus area.",
+    "example_zh": "季度報告將 backordercase 列為關鍵關注項目。"
   },
   {
     "word": "backuplog",
@@ -7266,8 +7266,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "備援紀錄",
-    "example": "The IT team tested the backuplog before release.",
-    "example_zh": "資訊團隊在發布前測試了這項備援紀錄。"
+    "example": "We discussed backuplog during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 backuplog。"
   },
   {
     "word": "balancebook",
@@ -7276,8 +7276,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "帳務結存",
-    "example": "The finance team reviewed the balancebook before closing the monthly books.",
-    "example_zh": "財務團隊在月結前審查了這項帳務結存。"
+    "example": "The manager asked for an update on balancebook before Friday.",
+    "example_zh": "經理要求在週五前提供 balancebook 的最新進度。"
   },
   {
     "word": "balancer",
@@ -7286,8 +7286,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "平衡機制",
-    "example": "Operations tracked the balancer to improve efficiency.",
-    "example_zh": "營運部持續追蹤這項平衡機制以提升效率。"
+    "example": "Our team improved balancer to support the new project.",
+    "example_zh": "我們團隊已改善 balancer 以支援新專案。"
   },
   {
     "word": "baseline",
@@ -7296,8 +7296,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "基準線",
-    "example": "The team reviewed the baseline in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項基準線。"
+    "example": "The client requested details about baseline in the proposal.",
+    "example_zh": "客戶在提案中要求提供 baseline 的細節。"
   },
   {
     "word": "batch",
@@ -7306,8 +7306,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Manufacturing",
     "meaning": "批次",
-    "example": "The plant manager monitored the batch on the production line.",
-    "example_zh": "廠務主管在線上監控這項批次。"
+    "example": "The quarterly report identified batch as a key focus area.",
+    "example_zh": "季度報告將 batch 列為關鍵關注項目。"
   },
   {
     "word": "benchmarkrate",
@@ -7316,8 +7316,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "基準比率",
-    "example": "The analyst highlighted the benchmarkrate in the monthly report.",
-    "example_zh": "分析師在月報中標註了這項基準比率。"
+    "example": "We discussed benchmarkrate during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 benchmarkrate。"
   },
   {
     "word": "bidderlist",
@@ -7326,8 +7326,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Purchasing",
     "meaning": "投標名單",
-    "example": "Purchasing confirmed the bidderlist with the supplier this morning.",
-    "example_zh": "採購今早已向供應商確認這項投標名單。"
+    "example": "The manager asked for an update on bidderlist before Friday.",
+    "example_zh": "經理要求在週五前提供 bidderlist 的最新進度。"
   },
   {
     "word": "billingcycle",
@@ -7336,8 +7336,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "帳單週期",
-    "example": "The finance team reviewed the billingcycle before closing the monthly books.",
-    "example_zh": "財務團隊在月結前審查了這項帳單週期。"
+    "example": "Our team improved billingcycle to support the new project.",
+    "example_zh": "我們團隊已改善 billingcycle 以支援新專案。"
   },
   {
     "word": "boardmeeting",
@@ -7346,8 +7346,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Meeting",
     "meaning": "董事會議",
-    "example": "We added the boardmeeting to the meeting agenda.",
-    "example_zh": "我們已把這項董事會議加入會議議程。"
+    "example": "The client requested details about boardmeeting in the proposal.",
+    "example_zh": "客戶在提案中要求提供 boardmeeting 的細節。"
   },
   {
     "word": "bond",
@@ -7356,8 +7356,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "債券",
-    "example": "The finance team reviewed the bond before closing the monthly books.",
-    "example_zh": "財務團隊在月結前審查了這項債券。"
+    "example": "The quarterly report identified bond as a key focus area.",
+    "example_zh": "季度報告將 bond 列為關鍵關注項目。"
   },
   {
     "word": "bookerid",
@@ -7366,8 +7366,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Travel",
     "meaning": "訂位編號",
-    "example": "The travel desk confirmed the bookerid for the business trip.",
-    "example_zh": "差旅窗口已確認這次出差的訂位編號。"
+    "example": "We discussed bookerid during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 bookerid。"
   },
   {
     "word": "branch",
@@ -7376,8 +7376,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "分公司",
-    "example": "Administration filed the branch for record keeping.",
-    "example_zh": "行政部已將這項分公司完成歸檔。"
+    "example": "The manager asked for an update on branch before Friday.",
+    "example_zh": "經理要求在週五前提供 branch 的最新進度。"
   },
   {
     "word": "breakpointplan",
@@ -7386,8 +7386,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "臨界應變方案",
-    "example": "The team reviewed the breakpointplan in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項臨界應變方案。"
+    "example": "Our team improved breakpointplan to support the new project.",
+    "example_zh": "我們團隊已改善 breakpointplan 以支援新專案。"
   },
   {
     "word": "brief",
@@ -7396,8 +7396,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Meeting",
     "meaning": "簡報摘要",
-    "example": "We added the brief to the meeting agenda.",
-    "example_zh": "我們已把這項簡報摘要加入會議議程。"
+    "example": "The client requested details about brief in the proposal.",
+    "example_zh": "客戶在提案中要求提供 brief 的細節。"
   },
   {
     "word": "broadcastmail",
@@ -7406,8 +7406,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "群發郵件",
-    "example": "The team reviewed the broadcastmail in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項群發郵件。"
+    "example": "The quarterly report identified broadcastmail as a key focus area.",
+    "example_zh": "季度報告將 broadcastmail 列為關鍵關注項目。"
   },
   {
     "word": "budgetline",
@@ -7416,8 +7416,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "預算科目",
-    "example": "The finance team reviewed the budgetline before closing the monthly books.",
-    "example_zh": "財務團隊在月結前審查了這項預算科目。"
+    "example": "We discussed budgetline during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 budgetline。"
   },
   {
     "word": "budgetplan",
@@ -7426,8 +7426,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "預算規劃",
-    "example": "The finance team reviewed the budgetplan before closing the monthly books.",
-    "example_zh": "財務團隊在月結前審查了這項預算規劃。"
+    "example": "The manager asked for an update on budgetplan before Friday.",
+    "example_zh": "經理要求在週五前提供 budgetplan 的最新進度。"
   },
   {
     "word": "budgetreview",
@@ -7436,8 +7436,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "預算審查",
-    "example": "The finance team reviewed the budgetreview before closing the monthly books.",
-    "example_zh": "財務團隊在月結前審查了這項預算審查。"
+    "example": "Our team improved budgetreview to support the new project.",
+    "example_zh": "我們團隊已改善 budgetreview 以支援新專案。"
   },
   {
     "word": "bufferstock",
@@ -7446,8 +7446,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "緩衝庫存",
-    "example": "The logistics team updated the bufferstock before shipment.",
-    "example_zh": "物流團隊在出貨前更新了這項緩衝庫存。"
+    "example": "The client requested details about bufferstock in the proposal.",
+    "example_zh": "客戶在提案中要求提供 bufferstock 的細節。"
   },
   {
     "word": "bulletinmail",
@@ -7456,8 +7456,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "公告郵件",
-    "example": "The team reviewed the bulletinmail in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項公告郵件。"
+    "example": "The quarterly report identified bulletinmail as a key focus area.",
+    "example_zh": "季度報告將 bulletinmail 列為關鍵關注項目。"
   },
   {
     "word": "businessunit",
@@ -7466,8 +7466,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "事業單位",
-    "example": "Administration filed the businessunit for record keeping.",
-    "example_zh": "行政部已將這項事業單位完成歸檔。"
+    "example": "We discussed businessunit during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 businessunit。"
   },
   {
     "word": "buyerprofile",
@@ -7476,8 +7476,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Purchasing",
     "meaning": "採購輪廓",
-    "example": "Purchasing confirmed the buyerprofile with the supplier this morning.",
-    "example_zh": "採購今早已向供應商確認這項採購輪廓。"
+    "example": "The manager asked for an update on buyerprofile before Friday.",
+    "example_zh": "經理要求在週五前提供 buyerprofile 的最新進度。"
   },
   {
     "word": "calculationsheet",
@@ -7486,8 +7486,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "計算表",
-    "example": "The finance team reviewed the calculationsheet before closing the monthly books.",
-    "example_zh": "財務團隊在月結前審查了這項計算表。"
+    "example": "Our team improved calculationsheet to support the new project.",
+    "example_zh": "我們團隊已改善 calculationsheet 以支援新專案。"
   },
   {
     "word": "callrecord",
@@ -7496,8 +7496,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Service",
     "meaning": "通話紀錄",
-    "example": "Customer service handled the callrecord within one business day.",
-    "example_zh": "客服在一個工作天內處理了這項通話紀錄。"
+    "example": "The client requested details about callrecord in the proposal.",
+    "example_zh": "客戶在提案中要求提供 callrecord 的細節。"
   },
   {
     "word": "capacityplan",
@@ -7506,8 +7506,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Manufacturing",
     "meaning": "產能規劃",
-    "example": "The plant manager monitored the capacityplan on the production line.",
-    "example_zh": "廠務主管在線上監控這項產能規劃。"
+    "example": "The quarterly report identified capacityplan as a key focus area.",
+    "example_zh": "季度報告將 capacityplan 列為關鍵關注項目。"
   },
   {
     "word": "cargo",
@@ -7516,8 +7516,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "貨物",
-    "example": "The logistics team updated the cargo before shipment.",
-    "example_zh": "物流團隊在出貨前更新了這項貨物。"
+    "example": "We discussed cargo during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 cargo。"
   },
   {
     "word": "catalogue",
@@ -7526,8 +7526,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "產品型錄",
-    "example": "Marketing measured the catalogue after the campaign launch.",
-    "example_zh": "行銷部在活動上線後衡量了這項產品型錄。"
+    "example": "The manager asked for an update on catalogue before Friday.",
+    "example_zh": "經理要求在週五前提供 catalogue 的最新進度。"
   },
   {
     "word": "certificationmark",
@@ -7536,8 +7536,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Quality",
     "meaning": "認證標章",
-    "example": "The team reviewed the certificationmark in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項認證標章。"
+    "example": "Our team improved certificationmark to support the new project.",
+    "example_zh": "我們團隊已改善 certificationmark 以支援新專案。"
   },
   {
     "word": "chair",
@@ -7546,8 +7546,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Meeting",
     "meaning": "主席職位",
-    "example": "We added the chair to the meeting agenda.",
-    "example_zh": "我們已把這項主席職位加入會議議程。"
+    "example": "The client requested details about chair in the proposal.",
+    "example_zh": "客戶在提案中要求提供 chair 的細節。"
   },
   {
     "word": "checkpointlog",
@@ -7556,8 +7556,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Quality",
     "meaning": "檢查點紀錄",
-    "example": "The team reviewed the checkpointlog in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項檢查點紀錄。"
+    "example": "The quarterly report identified checkpointlog as a key focus area.",
+    "example_zh": "季度報告將 checkpointlog 列為關鍵關注項目。"
   },
   {
     "word": "clearancecode",
@@ -7566,8 +7566,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "通關代碼",
-    "example": "The logistics team updated the clearancecode before shipment.",
-    "example_zh": "物流團隊在出貨前更新了這項通關代碼。"
+    "example": "We discussed clearancecode during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 clearancecode。"
   },
   {
     "word": "clientaccount",
@@ -7576,8 +7576,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Sales",
     "meaning": "客戶帳戶",
-    "example": "The team reviewed the clientaccount in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項客戶帳戶。"
+    "example": "The manager asked for an update on clientaccount before Friday.",
+    "example_zh": "經理要求在週五前提供 clientaccount 的最新進度。"
   },
   {
     "word": "closing",
@@ -7586,8 +7586,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "結帳作業",
-    "example": "The finance team reviewed the closing before closing the monthly books.",
-    "example_zh": "財務團隊在月結前審查了這項結帳作業。"
+    "example": "Our team improved closing to support the new project.",
+    "example_zh": "我們團隊已改善 closing 以支援新專案。"
   },
   {
     "word": "coaching",
@@ -7596,8 +7596,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Training",
     "meaning": "教練式培訓",
-    "example": "The trainer explained the coaching in today's training session.",
-    "example_zh": "講師在今天的訓練課程說明了這項教練式培訓。"
+    "example": "The client requested details about coaching in the proposal.",
+    "example_zh": "客戶在提案中要求提供 coaching 的細節。"
   },
   {
     "word": "codebook",
@@ -7606,8 +7606,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "代碼手冊",
-    "example": "The IT team tested the codebook before release.",
-    "example_zh": "資訊團隊在發布前測試了這項代碼手冊。"
+    "example": "The quarterly report identified codebook as a key focus area.",
+    "example_zh": "季度報告將 codebook 列為關鍵關注項目。"
   },
   {
     "word": "collaborationtool",
@@ -7616,8 +7616,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "協作工具",
-    "example": "The team reviewed the collaborationtool in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項協作工具。"
+    "example": "We discussed collaborationtool during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 collaborationtool。"
   },
   {
     "word": "commissionrate",
@@ -7626,8 +7626,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Sales",
     "meaning": "佣金比率",
-    "example": "The team reviewed the commissionrate in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項佣金比率。"
+    "example": "The manager asked for an update on commissionrate before Friday.",
+    "example_zh": "經理要求在週五前提供 commissionrate 的最新進度。"
   },
   {
     "word": "communicationplan",
@@ -7636,8 +7636,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "溝通計畫",
-    "example": "The team reviewed the communicationplan in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項溝通計畫。"
+    "example": "Our team improved communicationplan to support the new project.",
+    "example_zh": "我們團隊已改善 communicationplan 以支援新專案。"
   },
   {
     "word": "complianceaudit",
@@ -7646,8 +7646,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "合規稽核",
-    "example": "Legal checked the complianceaudit before signing the contract.",
-    "example_zh": "法務在簽約前檢查了這項合規稽核。"
+    "example": "The client requested details about complianceaudit in the proposal.",
+    "example_zh": "客戶在提案中要求提供 complianceaudit 的細節。"
   },
   {
     "word": "complianceofficer",
@@ -7656,8 +7656,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "合規主管",
-    "example": "Legal checked the complianceofficer before signing the contract.",
-    "example_zh": "法務在簽約前檢查了這項合規主管。"
+    "example": "The quarterly report identified complianceofficer as a key focus area.",
+    "example_zh": "季度報告將 complianceofficer 列為關鍵關注項目。"
   },
   {
     "word": "componentlist",
@@ -7666,8 +7666,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Manufacturing",
     "meaning": "零件清單",
-    "example": "The plant manager monitored the componentlist on the production line.",
-    "example_zh": "廠務主管在線上監控這項零件清單。"
+    "example": "We discussed componentlist during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 componentlist。"
   },
   {
     "word": "confirmationmail",
@@ -7676,8 +7676,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "確認郵件",
-    "example": "The team reviewed the confirmationmail in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項確認郵件。"
+    "example": "The manager asked for an update on confirmationmail before Friday.",
+    "example_zh": "經理要求在週五前提供 confirmationmail 的最新進度。"
   },
   {
     "word": "consignmentnote",
@@ -7686,8 +7686,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "託運單",
-    "example": "The logistics team updated the consignmentnote before shipment.",
-    "example_zh": "物流團隊在出貨前更新了這項託運單。"
+    "example": "Our team improved consignmentnote to support the new project.",
+    "example_zh": "我們團隊已改善 consignmentnote 以支援新專案。"
   },
   {
     "word": "consultation",
@@ -7696,8 +7696,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Service",
     "meaning": "諮詢會談",
-    "example": "Customer service handled the consultation within one business day.",
-    "example_zh": "客服在一個工作天內處理了這項諮詢會談。"
+    "example": "The client requested details about consultation in the proposal.",
+    "example_zh": "客戶在提案中要求提供 consultation 的細節。"
   },
   {
     "word": "contactpoint",
@@ -7706,8 +7706,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "聯絡窗口",
-    "example": "The team reviewed the contactpoint in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項聯絡窗口。"
+    "example": "The quarterly report identified contactpoint as a key focus area.",
+    "example_zh": "季度報告將 contactpoint 列為關鍵關注項目。"
   },
   {
     "word": "contingencyplan",
@@ -7716,8 +7716,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "應變計畫",
-    "example": "The team reviewed the contingencyplan in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項應變計畫。"
+    "example": "We discussed contingencyplan during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 contingencyplan。"
   },
   {
     "word": "contractnote",
@@ -7726,8 +7726,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "合約備註",
-    "example": "Legal checked the contractnote before signing the contract.",
-    "example_zh": "法務在簽約前檢查了這項合約備註。"
+    "example": "The manager asked for an update on contractnote before Friday.",
+    "example_zh": "經理要求在週五前提供 contractnote 的最新進度。"
   },
   {
     "word": "contributor",
@@ -7736,8 +7736,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "貢獻者",
-    "example": "The team reviewed the contributor in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項貢獻者。"
+    "example": "Our team improved contributor to support the new project.",
+    "example_zh": "我們團隊已改善 contributor 以支援新專案。"
   },
   {
     "word": "controlpanel",
@@ -7746,8 +7746,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "控制面板",
-    "example": "The IT team tested the controlpanel before release.",
-    "example_zh": "資訊團隊在發布前測試了這項控制面板。"
+    "example": "The client requested details about controlpanel in the proposal.",
+    "example_zh": "客戶在提案中要求提供 controlpanel 的細節。"
   },
   {
     "word": "conversionrate",
@@ -7756,8 +7756,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "轉換率",
-    "example": "Marketing measured the conversionrate after the campaign launch.",
-    "example_zh": "行銷部在活動上線後衡量了這項轉換率。"
+    "example": "The quarterly report identified conversionrate as a key focus area.",
+    "example_zh": "季度報告將 conversionrate 列為關鍵關注項目。"
   },
   {
     "word": "coordinator",
@@ -7766,8 +7766,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "協調人員",
-    "example": "The team reviewed the coordinator in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項協調人員。"
+    "example": "We discussed coordinator during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 coordinator。"
   },
   {
     "word": "costcenter",
@@ -7776,8 +7776,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "成本中心",
-    "example": "The finance team reviewed the costcenter before closing the monthly books.",
-    "example_zh": "財務團隊在月結前審查了這項成本中心。"
+    "example": "The manager asked for an update on costcenter before Friday.",
+    "example_zh": "經理要求在週五前提供 costcenter 的最新進度。"
   },
   {
     "word": "costsheet",
@@ -7786,8 +7786,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "成本表",
-    "example": "The finance team reviewed the costsheet before closing the monthly books.",
-    "example_zh": "財務團隊在月結前審查了這項成本表。"
+    "example": "Our team improved costsheet to support the new project.",
+    "example_zh": "我們團隊已改善 costsheet 以支援新專案。"
   },
   {
     "word": "counterparty",
@@ -7796,8 +7796,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "交易對手",
-    "example": "The finance team reviewed the counterparty before closing the monthly books.",
-    "example_zh": "財務團隊在月結前審查了這項交易對手。"
+    "example": "The client requested details about counterparty in the proposal.",
+    "example_zh": "客戶在提案中要求提供 counterparty 的細節。"
   },
   {
     "word": "coverageplan",
@@ -7806,8 +7806,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "保障方案",
-    "example": "The finance team reviewed the coverageplan before closing the monthly books.",
-    "example_zh": "財務團隊在月結前審查了這項保障方案。"
+    "example": "The quarterly report identified coverageplan as a key focus area.",
+    "example_zh": "季度報告將 coverageplan 列為關鍵關注項目。"
   },
   {
     "word": "creditcheck",
@@ -7816,8 +7816,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "信用審查",
-    "example": "The finance team reviewed the creditcheck before closing the monthly books.",
-    "example_zh": "財務團隊在月結前審查了這項信用審查。"
+    "example": "We discussed creditcheck during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 creditcheck。"
   },
   {
     "word": "creditlimit",
@@ -7826,8 +7826,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "信用額度",
-    "example": "The finance team reviewed the creditlimit before closing the monthly books.",
-    "example_zh": "財務團隊在月結前審查了這項信用額度。"
+    "example": "The manager asked for an update on creditlimit before Friday.",
+    "example_zh": "經理要求在週五前提供 creditlimit 的最新進度。"
   },
   {
     "word": "criteria",
@@ -7836,8 +7836,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "評估準則",
-    "example": "The analyst highlighted the criteria in the monthly report.",
-    "example_zh": "分析師在月報中標註了這項評估準則。"
+    "example": "Our team improved criteria to support the new project.",
+    "example_zh": "我們團隊已改善 criteria 以支援新專案。"
   },
   {
     "word": "crmrecord",
@@ -7846,8 +7846,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Sales",
     "meaning": "客戶關係紀錄",
-    "example": "The team reviewed the crmrecord in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項客戶關係紀錄。"
+    "example": "The client requested details about crmrecord in the proposal.",
+    "example_zh": "客戶在提案中要求提供 crmrecord 的細節。"
   },
   {
     "word": "curriculum",
@@ -7856,8 +7856,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Training",
     "meaning": "課程規劃",
-    "example": "The trainer explained the curriculum in today's training session.",
-    "example_zh": "講師在今天的訓練課程說明了這項課程規劃。"
+    "example": "The quarterly report identified curriculum as a key focus area.",
+    "example_zh": "季度報告將 curriculum 列為關鍵關注項目。"
   },
   {
     "word": "customerfile",
@@ -7866,8 +7866,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Service",
     "meaning": "客戶檔案",
-    "example": "Customer service handled the customerfile within one business day.",
-    "example_zh": "客服在一個工作天內處理了這項客戶檔案。"
+    "example": "We discussed customerfile during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 customerfile。"
   },
   {
     "word": "customs",
@@ -7876,8 +7876,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "海關程序",
-    "example": "The logistics team updated the customs before shipment.",
-    "example_zh": "物流團隊在出貨前更新了這項海關程序。"
+    "example": "The manager asked for an update on customs before Friday.",
+    "example_zh": "經理要求在週五前提供 customs 的最新進度。"
   },
   {
     "word": "dashboardview",
@@ -7886,8 +7886,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "儀表板視圖",
-    "example": "The analyst highlighted the dashboardview in the monthly report.",
-    "example_zh": "分析師在月報中標註了這項儀表板視圖。"
+    "example": "Our team improved dashboardview to support the new project.",
+    "example_zh": "我們團隊已改善 dashboardview 以支援新專案。"
   },
   {
     "word": "datahub",
@@ -7896,8 +7896,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "數據中台",
-    "example": "The IT team tested the datahub before release.",
-    "example_zh": "資訊團隊在發布前測試了這項數據中台。"
+    "example": "The client requested details about datahub in the proposal.",
+    "example_zh": "客戶在提案中要求提供 datahub 的細節。"
   },
   {
     "word": "datalake",
@@ -7906,8 +7906,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "數據湖",
-    "example": "The IT team tested the datalake before release.",
-    "example_zh": "資訊團隊在發布前測試了這項數據湖。"
+    "example": "The quarterly report identified datalake as a key focus area.",
+    "example_zh": "季度報告將 datalake 列為關鍵關注項目。"
   },
   {
     "word": "datamart",
@@ -7916,8 +7916,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "資料市集",
-    "example": "The IT team tested the datamart before release.",
-    "example_zh": "資訊團隊在發布前測試了這項資料市集。"
+    "example": "We discussed datamart during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 datamart。"
   },
   {
     "word": "datavalue",
@@ -7926,8 +7926,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "資料值",
-    "example": "The analyst highlighted the datavalue in the monthly report.",
-    "example_zh": "分析師在月報中標註了這項資料值。"
+    "example": "The manager asked for an update on datavalue before Friday.",
+    "example_zh": "經理要求在週五前提供 datavalue 的最新進度。"
   },
   {
     "word": "debit",
@@ -7936,8 +7936,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "借記",
-    "example": "The finance team reviewed the debit before closing the monthly books.",
-    "example_zh": "財務團隊在月結前審查了這項借記。"
+    "example": "Our team improved debit to support the new project.",
+    "example_zh": "我們團隊已改善 debit 以支援新專案。"
   },
   {
     "word": "decisionlog",
@@ -7946,8 +7946,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "決策紀錄",
-    "example": "The team reviewed the decisionlog in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項決策紀錄。"
+    "example": "The client requested details about decisionlog in the proposal.",
+    "example_zh": "客戶在提案中要求提供 decisionlog 的細節。"
   },
   {
     "word": "deductionitem",
@@ -7956,8 +7956,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "扣減款目",
-    "example": "The finance team reviewed the deductionitem before closing the monthly books.",
-    "example_zh": "財務團隊在月結前審查了這項扣減項目。"
+    "example": "The quarterly report identified deductionitem as a key focus area.",
+    "example_zh": "季度報告將 deductionitem 列為關鍵關注項目。"
   },
   {
     "word": "defectrate",
@@ -7966,8 +7966,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Quality",
     "meaning": "瑕疵率",
-    "example": "The team reviewed the defectrate in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項瑕疵率。"
+    "example": "We discussed defectrate during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 defectrate。"
   },
   {
     "word": "deliverystatus",
@@ -7976,8 +7976,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "交貨狀態",
-    "example": "The logistics team updated the deliverystatus before shipment.",
-    "example_zh": "物流團隊在出貨前更新了這項交貨狀態。"
+    "example": "The manager asked for an update on deliverystatus before Friday.",
+    "example_zh": "經理要求在週五前提供 deliverystatus 的最新進度。"
   },
   {
     "word": "demandplan",
@@ -7986,8 +7986,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Sales",
     "meaning": "需求規劃",
-    "example": "The team reviewed the demandplan in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項需求規劃。"
+    "example": "Our team improved demandplan to support the new project.",
+    "example_zh": "我們團隊已改善 demandplan 以支援新專案。"
   },
   {
     "word": "departmenthead",
@@ -7996,8 +7996,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "部門主管",
-    "example": "HR reviewed the departmenthead in the monthly people report.",
-    "example_zh": "人資在月度人力報告中審查了這項部門主管。"
+    "example": "The client requested details about departmenthead in the proposal.",
+    "example_zh": "客戶在提案中要求提供 departmenthead 的細節。"
   },
   {
     "word": "departuretime",
@@ -8006,8 +8006,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Travel",
     "meaning": "出發時間",
-    "example": "The travel desk confirmed the departuretime for the business trip.",
-    "example_zh": "差旅窗口已確認這次出差的出發時間。"
+    "example": "The quarterly report identified departuretime as a key focus area.",
+    "example_zh": "季度報告將 departuretime 列為關鍵關注項目。"
   },
   {
     "word": "dependency",
@@ -8016,8 +8016,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "相依關係",
-    "example": "The team reviewed the dependency in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項相依項目。"
+    "example": "We discussed dependency during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 dependency。"
   },
   {
     "word": "deployment",
@@ -8026,8 +8026,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "部署作業",
-    "example": "The IT team tested the deployment before release.",
-    "example_zh": "資訊團隊在發布前測試了這項部署作業。"
+    "example": "The manager asked for an update on deployment before Friday.",
+    "example_zh": "經理要求在週五前提供 deployment 的最新進度。"
   },
   {
     "word": "deviationrate",
@@ -8036,8 +8036,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Quality",
     "meaning": "偏差率",
-    "example": "The team reviewed the deviationrate in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項偏差率。"
+    "example": "Our team improved deviationrate to support the new project.",
+    "example_zh": "我們團隊已改善 deviationrate 以支援新專案。"
   },
   {
     "word": "dialogue",
@@ -8046,8 +8046,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "對話紀錄",
-    "example": "The team reviewed the dialogue in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項對話紀錄。"
+    "example": "The client requested details about dialogue in the proposal.",
+    "example_zh": "客戶在提案中要求提供 dialogue 的細節。"
   },
   {
     "word": "digitalization",
@@ -8056,8 +8056,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "數位轉型",
-    "example": "The IT team tested the digitalization before release.",
-    "example_zh": "資訊團隊在發布前測試了這項數位轉型。"
+    "example": "The quarterly report identified digitalization as a key focus area.",
+    "example_zh": "季度報告將 digitalization 列為關鍵關注項目。"
   },
   {
     "word": "directive",
@@ -8066,8 +8066,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "指導方針",
-    "example": "Administration filed the directive for record keeping.",
-    "example_zh": "行政部已將這項指導方針完成歸檔。"
+    "example": "We discussed directive during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 directive。"
   },
   {
     "word": "discrepancyreport",
@@ -8076,8 +8076,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "差異報告",
-    "example": "The analyst highlighted the discrepancyreport in the monthly report.",
-    "example_zh": "分析師在月報中標註了這項差異報告。"
+    "example": "The manager asked for an update on discrepancyreport before Friday.",
+    "example_zh": "經理要求在週五前提供 discrepancyreport 的最新進度。"
   },
   {
     "word": "dispatchnote",
@@ -8086,8 +8086,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "派送單",
-    "example": "The logistics team updated the dispatchnote before shipment.",
-    "example_zh": "物流團隊在出貨前更新了這項派送單。"
+    "example": "Our team improved dispatchnote to support the new project.",
+    "example_zh": "我們團隊已改善 dispatchnote 以支援新專案。"
   },
   {
     "word": "distributioncenter",
@@ -8096,8 +8096,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "配送中心",
-    "example": "The logistics team updated the distributioncenter before shipment.",
-    "example_zh": "物流團隊在出貨前更新了這項配送中心。"
+    "example": "The client requested details about distributioncenter in the proposal.",
+    "example_zh": "客戶在提案中要求提供 distributioncenter 的細節。"
   },
   {
     "word": "document",
@@ -8106,8 +8106,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "文件",
-    "example": "Administration filed the document for record keeping.",
-    "example_zh": "行政部已將這項文件完成歸檔。"
+    "example": "The quarterly report identified document as a key focus area.",
+    "example_zh": "季度報告將 document 列為關鍵關注項目。"
   },
   {
     "word": "documentcontrol",
@@ -8116,8 +8116,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Quality",
     "meaning": "文件管制",
-    "example": "The team reviewed the documentcontrol in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項文件管制。"
+    "example": "We discussed documentcontrol during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 documentcontrol。"
   },
   {
     "word": "donor",
@@ -8126,8 +8126,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "捐助方",
-    "example": "Administration filed the donor for record keeping.",
-    "example_zh": "行政部已將這項捐助方完成歸檔。"
+    "example": "The manager asked for an update on donor before Friday.",
+    "example_zh": "經理要求在週五前提供 donor 的最新進度。"
   },
   {
     "word": "draftversion",
@@ -8136,8 +8136,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "草案版本",
-    "example": "Legal checked the draftversion before signing the contract.",
-    "example_zh": "法務在簽約前檢查了這項草案版本。"
+    "example": "Our team improved draftversion to support the new project.",
+    "example_zh": "我們團隊已改善 draftversion 以支援新專案。"
   },
   {
     "word": "driverlicense",
@@ -8146,8 +8146,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Travel",
     "meaning": "駕照資訊",
-    "example": "The travel desk confirmed the driverlicense for the business trip.",
-    "example_zh": "差旅窗口已確認這次出差的駕照資訊。"
+    "example": "The client requested details about driverlicense in the proposal.",
+    "example_zh": "客戶在提案中要求提供 driverlicense 的細節。"
   },
   {
     "word": "dueamount",
@@ -8156,8 +8156,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "應付金額",
-    "example": "The finance team reviewed the dueamount before closing the monthly books.",
-    "example_zh": "財務團隊在月結前審查了這項應付金額。"
+    "example": "The quarterly report identified dueamount as a key focus area.",
+    "example_zh": "季度報告將 dueamount 列為關鍵關注項目。"
   },
   {
     "word": "durationplan",
@@ -8166,8 +8166,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Schedule",
     "meaning": "時程安排",
-    "example": "The coordinator adjusted the durationplan for next week.",
-    "example_zh": "協調人員已調整下週的時程安排。"
+    "example": "We discussed durationplan during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 durationplan。"
   },
   {
     "word": "earningreport",
@@ -8176,8 +8176,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "收益報告",
-    "example": "The finance team reviewed the earningreport before closing the monthly books.",
-    "example_zh": "財務團隊在月結前審查了這項收益報告。"
+    "example": "The manager asked for an update on earningreport before Friday.",
+    "example_zh": "經理要求在週五前提供 earningreport 的最新進度。"
   },
   {
     "word": "ecosystem",
@@ -8186,8 +8186,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Strategy",
     "meaning": "合作生態系",
-    "example": "The leadership team reviewed the ecosystem in the quarterly meeting.",
-    "example_zh": "管理層在季度會議檢視了這項合作生態系。"
+    "example": "Our team improved ecosystem to support the new project.",
+    "example_zh": "我們團隊已改善 ecosystem 以支援新專案。"
   },
   {
     "word": "editor",
@@ -8196,8 +8196,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "編輯人員",
-    "example": "The team reviewed the editor in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項編輯人員。"
+    "example": "The client requested details about editor in the proposal.",
+    "example_zh": "客戶在提案中要求提供 editor 的細節。"
   },
   {
     "word": "effort",
@@ -8206,8 +8206,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "投入程度",
-    "example": "The team reviewed the effort in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項投入程度。"
+    "example": "The quarterly report identified effort as a key focus area.",
+    "example_zh": "季度報告將 effort 列為關鍵關注項目。"
   },
   {
     "word": "eligibilitycheck",
@@ -8216,8 +8216,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Hiring",
     "meaning": "資格審查",
-    "example": "HR discussed the eligibilitycheck during the interview process.",
-    "example_zh": "人資在面試流程中討論了這項資格審查。"
+    "example": "We discussed eligibilitycheck during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 eligibilitycheck。"
   },
   {
     "word": "emergencyplan",
@@ -8226,8 +8226,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "緊急應變計畫",
-    "example": "Operations tracked the emergencyplan to improve efficiency.",
-    "example_zh": "營運部持續追蹤這項緊急應變計畫以提升效率。"
+    "example": "The manager asked for an update on emergencyplan before Friday.",
+    "example_zh": "經理要求在週五前提供 emergencyplan 的最新進度。"
   },
   {
     "word": "enterprise",
@@ -8236,8 +8236,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "企業體",
-    "example": "Administration filed the enterprise for record keeping.",
-    "example_zh": "行政部已將這項企業體完成歸檔。"
+    "example": "Our team improved enterprise to support the new project.",
+    "example_zh": "我們團隊已改善 enterprise 以支援新專案。"
   },
   {
     "word": "entry",
@@ -8246,8 +8246,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "入場資料",
-    "example": "Administration filed the entry for record keeping.",
-    "example_zh": "行政部已將這項入場資料完成歸檔。"
+    "example": "The client requested details about entry in the proposal.",
+    "example_zh": "客戶在提案中要求提供 entry 的細節。"
   },
   {
     "word": "escalationpath",
@@ -8256,8 +8256,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Service",
     "meaning": "升級路徑",
-    "example": "Customer service handled the escalationpath within one business day.",
-    "example_zh": "客服在一個工作天內處理了這項升級路徑。"
+    "example": "The quarterly report identified escalationpath as a key focus area.",
+    "example_zh": "季度報告將 escalationpath 列為關鍵關注項目。"
   },
   {
     "word": "estimator",
@@ -8266,8 +8266,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "估算工具",
-    "example": "The team reviewed the estimator in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項估算工具。"
+    "example": "We discussed estimator during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 estimator。"
   },
   {
     "word": "ethics",
@@ -8276,8 +8276,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "職業倫理",
-    "example": "HR reviewed the ethics in the monthly people report.",
-    "example_zh": "人資在月度人力報告中審查了這項職業倫理。"
+    "example": "The manager asked for an update on ethics before Friday.",
+    "example_zh": "經理要求在週五前提供 ethics 的最新進度。"
   },
   {
     "word": "exception",
@@ -8286,8 +8286,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Service",
     "meaning": "例外案件",
-    "example": "Customer service handled the exception within one business day.",
-    "example_zh": "客服在一個工作天內處理了這項例外案件。"
+    "example": "Our team improved exception to support the new project.",
+    "example_zh": "我們團隊已改善 exception 以支援新專案。"
   },
   {
     "word": "exhibit",
@@ -8296,8 +8296,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "展示品",
-    "example": "Marketing measured the exhibit after the campaign launch.",
-    "example_zh": "行銷部在活動上線後衡量了這項展示品。"
+    "example": "The client requested details about exhibit in the proposal.",
+    "example_zh": "客戶在提案中要求提供 exhibit 的細節。"
   },
   {
     "word": "expense",
@@ -8306,8 +8306,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "費用",
-    "example": "The finance team reviewed the expense before closing the monthly books.",
-    "example_zh": "財務團隊在月結前審查了這項費用。"
+    "example": "The quarterly report identified expense as a key focus area.",
+    "example_zh": "季度報告將 expense 列為關鍵關注項目。"
   },
   {
     "word": "exposurerate",
@@ -8316,8 +8316,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "曝光比率",
-    "example": "Marketing measured the exposurerate after the campaign launch.",
-    "example_zh": "行銷部在活動上線後衡量了這項曝光比率。"
+    "example": "We discussed exposurerate during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 exposurerate。"
   },
   {
     "word": "factor",
@@ -8326,8 +8326,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "關鍵因素",
-    "example": "The analyst highlighted the factor in the monthly report.",
-    "example_zh": "分析師在月報中標註了這項關鍵因素。"
+    "example": "The manager asked for an update on factor before Friday.",
+    "example_zh": "經理要求在週五前提供 factor 的最新進度。"
   },
   {
     "word": "failure",
@@ -8336,8 +8336,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Quality",
     "meaning": "失敗案例",
-    "example": "The team reviewed the failure in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項失敗案例。"
+    "example": "Our team improved failure to support the new project.",
+    "example_zh": "我們團隊已改善 failure 以支援新專案。"
   },
   {
     "word": "feature",
@@ -8346,8 +8346,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "功能特色",
-    "example": "Marketing measured the feature after the campaign launch.",
-    "example_zh": "行銷部在活動上線後衡量了這項功能特色。"
+    "example": "The client requested details about feature in the proposal.",
+    "example_zh": "客戶在提案中要求提供 feature 的細節。"
   },
   {
     "word": "filingnote",
@@ -8356,8 +8356,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "歸檔註記",
-    "example": "Administration filed the filingnote for record keeping.",
-    "example_zh": "行政部已將這項歸檔註記完成歸檔。"
+    "example": "The quarterly report identified filingnote as a key focus area.",
+    "example_zh": "季度報告將 filingnote 列為關鍵關注項目。"
   },
   {
     "word": "firm",
@@ -8366,8 +8366,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "公司法人",
-    "example": "Administration filed the firm for record keeping.",
-    "example_zh": "行政部已將這項公司法人完成歸檔。"
+    "example": "We discussed firm during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 firm。"
   },
   {
     "word": "fleet",
@@ -8376,8 +8376,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "車隊",
-    "example": "The logistics team updated the fleet before shipment.",
-    "example_zh": "物流團隊在出貨前更新了這項車隊。"
+    "example": "The manager asked for an update on fleet before Friday.",
+    "example_zh": "經理要求在週五前提供 fleet 的最新進度。"
   },
   {
     "word": "followup",
@@ -8386,8 +8386,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Service",
     "meaning": "後續追蹤",
-    "example": "Customer service handled the followup within one business day.",
-    "example_zh": "客服在一個工作天內處理了這項後續追蹤。"
+    "example": "Our team improved followup to support the new project.",
+    "example_zh": "我們團隊已改善 followup 以支援新專案。"
   },
   {
     "word": "forecastsheet",
@@ -8396,8 +8396,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "預測表",
-    "example": "The analyst highlighted the forecastsheet in the monthly report.",
-    "example_zh": "分析師在月報中標註了這項預測表。"
+    "example": "The client requested details about forecastsheet in the proposal.",
+    "example_zh": "客戶在提案中要求提供 forecastsheet 的細節。"
   },
   {
     "word": "form",
@@ -8406,8 +8406,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "表單",
-    "example": "Administration filed the form for record keeping.",
-    "example_zh": "行政部已將這項表單完成歸檔。"
+    "example": "The quarterly report identified form as a key focus area.",
+    "example_zh": "季度報告將 form 列為關鍵關注項目。"
   },
   {
     "word": "frequency",
@@ -8416,8 +8416,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "頻率",
-    "example": "The analyst highlighted the frequency in the monthly report.",
-    "example_zh": "分析師在月報中標註了這項頻率。"
+    "example": "We discussed frequency during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 frequency。"
   },
   {
     "word": "frontdesk",
@@ -8426,8 +8426,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Service",
     "meaning": "前台接待",
-    "example": "Customer service handled the frontdesk within one business day.",
-    "example_zh": "客服在一個工作天內處理了這項前台接待。"
+    "example": "The manager asked for an update on frontdesk before Friday.",
+    "example_zh": "經理要求在週五前提供 frontdesk 的最新進度。"
   },
   {
     "word": "fund",
@@ -8436,8 +8436,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "基金",
-    "example": "The finance team reviewed the fund before closing the monthly books.",
-    "example_zh": "財務團隊在月結前審查了這項基金。"
+    "example": "Our team improved fund to support the new project.",
+    "example_zh": "我們團隊已改善 fund 以支援新專案。"
   },
   {
     "word": "funnel",
@@ -8446,8 +8446,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Sales",
     "meaning": "銷售漏斗",
-    "example": "The team reviewed the funnel in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項銷售漏斗。"
+    "example": "The client requested details about funnel in the proposal.",
+    "example_zh": "客戶在提案中要求提供 funnel 的細節。"
   },
   {
     "word": "gain",
@@ -8456,8 +8456,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "收益增幅",
-    "example": "The finance team reviewed the gain before closing the monthly books.",
-    "example_zh": "財務團隊在月結前審查了這項收益增幅。"
+    "example": "The quarterly report identified gain as a key focus area.",
+    "example_zh": "季度報告將 gain 列為關鍵關注項目。"
   },
   {
     "word": "gatewayservice",
@@ -8466,8 +8466,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "閘道服務",
-    "example": "The IT team tested the gatewayservice before release.",
-    "example_zh": "資訊團隊在發布前測試了這項閘道服務。"
+    "example": "We discussed gatewayservice during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 gatewayservice。"
   },
   {
     "word": "goalline",
@@ -8476,8 +8476,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Strategy",
     "meaning": "目標線",
-    "example": "The leadership team reviewed the goalline in the quarterly meeting.",
-    "example_zh": "管理層在季度會議檢視了這項目標線。"
+    "example": "The manager asked for an update on goalline before Friday.",
+    "example_zh": "經理要求在週五前提供 goalline 的最新進度。"
   },
   {
     "word": "governor",
@@ -8486,8 +8486,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "主管機關代表",
-    "example": "Administration filed the governor for record keeping.",
-    "example_zh": "行政部已將這項主管機關代表完成歸檔。"
+    "example": "Our team improved governor to support the new project.",
+    "example_zh": "我們團隊已改善 governor 以支援新專案。"
   },
   {
     "word": "graph",
@@ -8496,8 +8496,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "圖表",
-    "example": "The analyst highlighted the graph in the monthly report.",
-    "example_zh": "分析師在月報中標註了這項圖表。"
+    "example": "The client requested details about graph in the proposal.",
+    "example_zh": "客戶在提案中要求提供 graph 的細節。"
   },
   {
     "word": "group",
@@ -8506,8 +8506,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "工作小組",
-    "example": "The team reviewed the group in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項工作小組。"
+    "example": "The quarterly report identified group as a key focus area.",
+    "example_zh": "季度報告將 group 列為關鍵關注項目。"
   },
   {
     "word": "handlingfee",
@@ -8516,8 +8516,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "手續費",
-    "example": "The finance team reviewed the handlingfee before closing the monthly books.",
-    "example_zh": "財務團隊在月結前審查了這項手續費。"
+    "example": "We discussed handlingfee during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 handlingfee。"
   },
   {
     "word": "handoff",
@@ -8526,8 +8526,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "交接節點",
-    "example": "The team reviewed the handoff in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項交接節點。"
+    "example": "The manager asked for an update on handoff before Friday.",
+    "example_zh": "經理要求在週五前提供 handoff 的最新進度。"
   },
   {
     "word": "headroom",
@@ -8536,8 +8536,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "預留空間",
-    "example": "The finance team reviewed the headroom before closing the monthly books.",
-    "example_zh": "財務團隊在月結前審查了這項預留空間。"
+    "example": "Our team improved headroom to support the new project.",
+    "example_zh": "我們團隊已改善 headroom 以支援新專案。"
   },
   {
     "word": "helpdesk",
@@ -8546,8 +8546,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Service",
     "meaning": "服務台",
-    "example": "Customer service handled the helpdesk within one business day.",
-    "example_zh": "客服在一個工作天內處理了這項服務台。"
+    "example": "The client requested details about helpdesk in the proposal.",
+    "example_zh": "客戶在提案中要求提供 helpdesk 的細節。"
   },
   {
     "word": "hierarchychart",
@@ -8556,8 +8556,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "層級圖",
-    "example": "Administration filed the hierarchychart for record keeping.",
-    "example_zh": "行政部已將這項層級圖完成歸檔。"
+    "example": "The quarterly report identified hierarchychart as a key focus area.",
+    "example_zh": "季度報告將 hierarchychart 列為關鍵關注項目。"
   },
   {
     "word": "highlightnote",
@@ -8566,8 +8566,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "重點註記",
-    "example": "The analyst highlighted the highlightnote in the monthly report.",
-    "example_zh": "分析師在月報中標註了這項重點註記。"
+    "example": "We discussed highlightnote during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 highlightnote。"
   },
   {
     "word": "host",
@@ -8576,8 +8576,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Meeting",
     "meaning": "主辦單位",
-    "example": "We added the host to the meeting agenda.",
-    "example_zh": "我們已把這項主辦單位加入會議議程。"
+    "example": "The manager asked for an update on host before Friday.",
+    "example_zh": "經理要求在週五前提供 host 的最新進度。"
   },
   {
     "word": "hotspot",
@@ -8586,8 +8586,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "熱點區域",
-    "example": "Marketing measured the hotspot after the campaign launch.",
-    "example_zh": "行銷部在活動上線後衡量了這項熱點區域。"
+    "example": "Our team improved hotspot to support the new project.",
+    "example_zh": "我們團隊已改善 hotspot 以支援新專案。"
   },
   {
     "word": "identifier",
@@ -8596,8 +8596,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "識別碼",
-    "example": "The IT team tested the identifier before release.",
-    "example_zh": "資訊團隊在發布前測試了這項識別碼。"
+    "example": "The client requested details about identifier in the proposal.",
+    "example_zh": "客戶在提案中要求提供 identifier 的細節。"
   },
   {
     "word": "impact",
@@ -8606,8 +8606,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "影響程度",
-    "example": "The analyst highlighted the impact in the monthly report.",
-    "example_zh": "分析師在月報中標註了這項影響程度。"
+    "example": "The quarterly report identified impact as a key focus area.",
+    "example_zh": "季度報告將 impact 列為關鍵關注項目。"
   },
   {
     "word": "import",
@@ -8616,8 +8616,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "進口流程",
-    "example": "The logistics team updated the import before shipment.",
-    "example_zh": "物流團隊在出貨前更新了這項進口流程。"
+    "example": "We discussed import during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 import。"
   },
   {
     "word": "inbound",
@@ -8626,8 +8626,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "入庫流程",
-    "example": "The logistics team updated the inbound before shipment.",
-    "example_zh": "物流團隊在出貨前更新了這項入庫流程。"
+    "example": "The manager asked for an update on inbound before Friday.",
+    "example_zh": "經理要求在週五前提供 inbound 的最新進度。"
   },
   {
     "word": "incidence",
@@ -8636,8 +8636,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "發生率",
-    "example": "The analyst highlighted the incidence in the monthly report.",
-    "example_zh": "分析師在月報中標註了這項發生率。"
+    "example": "Our team improved incidence to support the new project.",
+    "example_zh": "我們團隊已改善 incidence 以支援新專案。"
   },
   {
     "word": "index",
@@ -8646,8 +8646,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "指數",
-    "example": "The finance team reviewed the index before closing the monthly books.",
-    "example_zh": "財務團隊在月結前審查了這項指數。"
+    "example": "The client requested details about index in the proposal.",
+    "example_zh": "客戶在提案中要求提供 index 的細節。"
   },
   {
     "word": "influence",
@@ -8656,8 +8656,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "影響力",
-    "example": "Marketing measured the influence after the campaign launch.",
-    "example_zh": "行銷部在活動上線後衡量了這項影響力。"
+    "example": "The quarterly report identified influence as a key focus area.",
+    "example_zh": "季度報告將 influence 列為關鍵關注項目。"
   },
   {
     "word": "insight",
@@ -8666,8 +8666,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "洞察",
-    "example": "The analyst highlighted the insight in the monthly report.",
-    "example_zh": "分析師在月報中標註了這項洞察。"
+    "example": "We discussed insight during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 insight。"
   },
   {
     "word": "inspectionlog",
@@ -8676,8 +8676,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Quality",
     "meaning": "檢驗紀錄",
-    "example": "The team reviewed the inspectionlog in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項檢驗紀錄。"
+    "example": "The manager asked for an update on inspectionlog before Friday.",
+    "example_zh": "經理要求在週五前提供 inspectionlog 的最新進度。"
   },
   {
     "word": "installer",
@@ -8686,8 +8686,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "安裝人員",
-    "example": "Operations tracked the installer to improve efficiency.",
-    "example_zh": "營運部持續追蹤這項安裝人員以提升效率。"
+    "example": "Our team improved installer to support the new project.",
+    "example_zh": "我們團隊已改善 installer 以支援新專案。"
   },
   {
     "word": "institution",
@@ -8696,8 +8696,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "機構",
-    "example": "Administration filed the institution for record keeping.",
-    "example_zh": "行政部已將這項機構完成歸檔。"
+    "example": "The client requested details about institution in the proposal.",
+    "example_zh": "客戶在提案中要求提供 institution 的細節。"
   },
   {
     "word": "instructionset",
@@ -8706,8 +8706,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Training",
     "meaning": "操作指引",
-    "example": "The trainer explained the instructionset in today's training session.",
-    "example_zh": "講師在今天的訓練課程說明了這項操作指引。"
+    "example": "The quarterly report identified instructionset as a key focus area.",
+    "example_zh": "季度報告將 instructionset 列為關鍵關注項目。"
   },
   {
     "word": "intake",
@@ -8716,8 +8716,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Service",
     "meaning": "收件量",
-    "example": "Customer service handled the intake within one business day.",
-    "example_zh": "客服在一個工作天內處理了這項收件量。"
+    "example": "We discussed intake during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 intake。"
   },
   {
     "word": "interviewer",
@@ -8726,8 +8726,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Hiring",
     "meaning": "面試官",
-    "example": "HR discussed the interviewer during the interview process.",
-    "example_zh": "人資在面試流程中討論了這項面試官。"
+    "example": "The manager asked for an update on interviewer before Friday.",
+    "example_zh": "經理要求在週五前提供 interviewer 的最新進度。"
   },
   {
     "word": "inventoryplan",
@@ -8736,8 +8736,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "庫存規劃",
-    "example": "The logistics team updated the inventoryplan before shipment.",
-    "example_zh": "物流團隊在出貨前更新了這項庫存規劃。"
+    "example": "Our team improved inventoryplan to support the new project.",
+    "example_zh": "我們團隊已改善 inventoryplan 以支援新專案。"
   },
   {
     "word": "issue",
@@ -8746,8 +8746,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Meeting",
     "meaning": "議題",
-    "example": "We added the issue to the meeting agenda.",
-    "example_zh": "我們已把這項議題加入會議議程。"
+    "example": "The client requested details about issue in the proposal.",
+    "example_zh": "客戶在提案中要求提供 issue 的細節。"
   },
   {
     "word": "itemcode",
@@ -8756,8 +8756,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "品項代碼",
-    "example": "The logistics team updated the itemcode before shipment.",
-    "example_zh": "物流團隊在出貨前更新了這項品項代碼。"
+    "example": "The quarterly report identified itemcode as a key focus area.",
+    "example_zh": "季度報告將 itemcode 列為關鍵關注項目。"
   },
   {
     "word": "jobtitle",
@@ -8766,8 +8766,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "職稱",
-    "example": "HR reviewed the jobtitle in the monthly people report.",
-    "example_zh": "人資在月度人力報告中審查了這項職稱。"
+    "example": "We discussed jobtitle during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 jobtitle。"
   },
   {
     "word": "journal",
@@ -8776,8 +8776,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "分錄簿",
-    "example": "The finance team reviewed the journal before closing the monthly books.",
-    "example_zh": "財務團隊在月結前審查了這項分錄簿。"
+    "example": "The manager asked for an update on journal before Friday.",
+    "example_zh": "經理要求在週五前提供 journal 的最新進度。"
   },
   {
     "word": "judge",
@@ -8786,8 +8786,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Hiring",
     "meaning": "評審委員",
-    "example": "HR discussed the judge during the interview process.",
-    "example_zh": "人資在面試流程中討論了這項評審委員。"
+    "example": "Our team improved judge to support the new project.",
+    "example_zh": "我們團隊已改善 judge 以支援新專案。"
   },
   {
     "word": "justificationnote",
@@ -8796,8 +8796,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "合理性說明",
-    "example": "The analyst highlighted the justificationnote in the monthly report.",
-    "example_zh": "分析師在月報中標註了這項合理性說明。"
+    "example": "The client requested details about justificationnote in the proposal.",
+    "example_zh": "客戶在提案中要求提供 justificationnote 的細節。"
   },
   {
     "word": "keyresult",
@@ -8806,8 +8806,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Strategy",
     "meaning": "關鍵成果",
-    "example": "The leadership team reviewed the keyresult in the quarterly meeting.",
-    "example_zh": "管理層在季度會議檢視了這項關鍵成果。"
+    "example": "The quarterly report identified keyresult as a key focus area.",
+    "example_zh": "季度報告將 keyresult 列為關鍵關注項目。"
   },
   {
     "word": "knowledgebase",
@@ -8816,8 +8816,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Training",
     "meaning": "知識庫",
-    "example": "The trainer explained the knowledgebase in today's training session.",
-    "example_zh": "講師在今天的訓練課程說明了這項知識庫。"
+    "example": "We discussed knowledgebase during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 knowledgebase。"
   },
   {
     "word": "label",
@@ -8826,8 +8826,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "標籤",
-    "example": "The logistics team updated the label before shipment.",
-    "example_zh": "物流團隊在出貨前更新了這項標籤。"
+    "example": "The manager asked for an update on label before Friday.",
+    "example_zh": "經理要求在週五前提供 label 的最新進度。"
   },
   {
     "word": "landing",
@@ -8836,8 +8836,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "落地頁",
-    "example": "Marketing measured the landing after the campaign launch.",
-    "example_zh": "行銷部在活動上線後衡量了這項落地頁。"
+    "example": "Our team improved landing to support the new project.",
+    "example_zh": "我們團隊已改善 landing 以支援新專案。"
   },
   {
     "word": "landscape",
@@ -8846,8 +8846,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Strategy",
     "meaning": "市場版圖",
-    "example": "The leadership team reviewed the landscape in the quarterly meeting.",
-    "example_zh": "管理層在季度會議檢視了這項市場版圖。"
+    "example": "The client requested details about landscape in the proposal.",
+    "example_zh": "客戶在提案中要求提供 landscape 的細節。"
   },
   {
     "word": "lead",
@@ -8856,8 +8856,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Sales",
     "meaning": "潛在客戶",
-    "example": "The team reviewed the lead in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項潛在客戶。"
+    "example": "The quarterly report identified lead as a key focus area.",
+    "example_zh": "季度報告將 lead 列為關鍵關注項目。"
   },
   {
     "word": "leakage",
@@ -8866,8 +8866,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Service",
     "meaning": "流失率",
-    "example": "Customer service handled the leakage within one business day.",
-    "example_zh": "客服在一個工作天內處理了這項流失率。"
+    "example": "We discussed leakage during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 leakage。"
   },
   {
     "word": "learning",
@@ -8876,8 +8876,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Training",
     "meaning": "學習進度",
-    "example": "The trainer explained the learning in today's training session.",
-    "example_zh": "講師在今天的訓練課程說明了這項學習進度。"
+    "example": "The manager asked for an update on learning before Friday.",
+    "example_zh": "經理要求在週五前提供 learning 的最新進度。"
   },
   {
     "word": "leasehold",
@@ -8886,8 +8886,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "租賃權",
-    "example": "Legal checked the leasehold before signing the contract.",
-    "example_zh": "法務在簽約前檢查了這項租賃權。"
+    "example": "Our team improved leasehold to support the new project.",
+    "example_zh": "我們團隊已改善 leasehold 以支援新專案。"
   },
   {
     "word": "ledgerentry",
@@ -8896,8 +8896,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "帳簿分錄",
-    "example": "The finance team reviewed the ledgerentry before closing the monthly books.",
-    "example_zh": "財務團隊在月結前審查了這項帳簿分錄。"
+    "example": "The client requested details about ledgerentry in the proposal.",
+    "example_zh": "客戶在提案中要求提供 ledgerentry 的細節。"
   },
   {
     "word": "liabilitynote",
@@ -8906,8 +8906,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "負債說明",
-    "example": "The finance team reviewed the liabilitynote before closing the monthly books.",
-    "example_zh": "財務團隊在月結前審查了這項負債說明。"
+    "example": "The quarterly report identified liabilitynote as a key focus area.",
+    "example_zh": "季度報告將 liabilitynote 列為關鍵關注項目。"
   },
   {
     "word": "lifecycle",
@@ -8916,8 +8916,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "生命週期",
-    "example": "Operations tracked the lifecycle to improve efficiency.",
-    "example_zh": "營運部持續追蹤這項生命週期以提升效率。"
+    "example": "We discussed lifecycle during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 lifecycle。"
   },
   {
     "word": "lifetimevalue",
@@ -8926,8 +8926,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "客戶終身價值",
-    "example": "Marketing measured the lifetimevalue after the campaign launch.",
-    "example_zh": "行銷部在活動上線後衡量了這項客戶終身價值。"
+    "example": "The manager asked for an update on lifetimevalue before Friday.",
+    "example_zh": "經理要求在週五前提供 lifetimevalue 的最新進度。"
   },
   {
     "word": "limitation",
@@ -8936,8 +8936,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "限制條件",
-    "example": "The team reviewed the limitation in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項限制條件。"
+    "example": "Our team improved limitation to support the new project.",
+    "example_zh": "我們團隊已改善 limitation 以支援新專案。"
   },
   {
     "word": "linkage",
@@ -8946,8 +8946,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "連動關係",
-    "example": "The team reviewed the linkage in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項連動關係。"
+    "example": "The client requested details about linkage in the proposal.",
+    "example_zh": "客戶在提案中要求提供 linkage 的細節。"
   },
   {
     "word": "logbook",
@@ -8956,8 +8956,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "記錄簿",
-    "example": "Operations tracked the logbook to improve efficiency.",
-    "example_zh": "營運部持續追蹤這項記錄簿以提升效率。"
+    "example": "The quarterly report identified logbook as a key focus area.",
+    "example_zh": "季度報告將 logbook 列為關鍵關注項目。"
   },
   {
     "word": "mailing",
@@ -8966,8 +8966,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "郵件發送",
-    "example": "The team reviewed the mailing in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項郵件發送。"
+    "example": "We discussed mailing during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 mailing。"
   },
   {
     "word": "manifest",
@@ -8976,8 +8976,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "裝載清單",
-    "example": "The logistics team updated the manifest before shipment.",
-    "example_zh": "物流團隊在出貨前更新了這項裝載清單。"
+    "example": "The manager asked for an update on manifest before Friday.",
+    "example_zh": "經理要求在週五前提供 manifest 的最新進度。"
   },
   {
     "word": "manual",
@@ -8986,8 +8986,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Training",
     "meaning": "操作手冊",
-    "example": "The trainer explained the manual in today's training session.",
-    "example_zh": "講師在今天的訓練課程說明了這項操作手冊。"
+    "example": "Our team improved manual to support the new project.",
+    "example_zh": "我們團隊已改善 manual 以支援新專案。"
   },
   {
     "word": "mapping",
@@ -8996,8 +8996,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "對應表",
-    "example": "The IT team tested the mapping before release.",
-    "example_zh": "資訊團隊在發布前測試了這項對應表。"
+    "example": "The client requested details about mapping in the proposal.",
+    "example_zh": "客戶在提案中要求提供 mapping 的細節。"
   },
   {
     "word": "marker",
@@ -9006,8 +9006,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "標記",
-    "example": "The analyst highlighted the marker in the monthly report.",
-    "example_zh": "分析師在月報中標註了這項標記。"
+    "example": "The quarterly report identified marker as a key focus area.",
+    "example_zh": "季度報告將 marker 列為關鍵關注項目。"
   },
   {
     "word": "matrix",
@@ -9016,8 +9016,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "矩陣",
-    "example": "The team reviewed the matrix in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項矩陣。"
+    "example": "We discussed matrix during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 matrix。"
   },
   {
     "word": "merchandise",
@@ -9026,8 +9026,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Sales",
     "meaning": "商品",
-    "example": "The team reviewed the merchandise in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項商品。"
+    "example": "The manager asked for an update on merchandise before Friday.",
+    "example_zh": "經理要求在週五前提供 merchandise 的最新進度。"
   },
   {
     "word": "message",
@@ -9036,8 +9036,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "訊息",
-    "example": "The team reviewed the message in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項訊息。"
+    "example": "Our team improved message to support the new project.",
+    "example_zh": "我們團隊已改善 message 以支援新專案。"
   },
   {
     "word": "method",
@@ -9046,8 +9046,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Training",
     "meaning": "方法",
-    "example": "The trainer explained the method in today's training session.",
-    "example_zh": "講師在今天的訓練課程說明了這項方法。"
+    "example": "The client requested details about method in the proposal.",
+    "example_zh": "客戶在提案中要求提供 method 的細節。"
   },
   {
     "word": "minutes",
@@ -9056,8 +9056,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Meeting",
     "meaning": "會議記錄",
-    "example": "We added the minutes to the meeting agenda.",
-    "example_zh": "我們已把這項會議記錄加入會議議程。"
+    "example": "The quarterly report identified minutes as a key focus area.",
+    "example_zh": "季度報告將 minutes 列為關鍵關注項目。"
   },
   {
     "word": "module",
@@ -9066,8 +9066,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "模組",
-    "example": "The IT team tested the module before release.",
-    "example_zh": "資訊團隊在發布前測試了這項模組。"
+    "example": "We discussed module during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 module。"
   },
   {
     "word": "momentum",
@@ -9076,8 +9076,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Strategy",
     "meaning": "動能",
-    "example": "The leadership team reviewed the momentum in the quarterly meeting.",
-    "example_zh": "管理層在季度會議檢視了這項動能。"
+    "example": "The manager asked for an update on momentum before Friday.",
+    "example_zh": "經理要求在週五前提供 momentum 的最新進度。"
   },
   {
     "word": "monitor",
@@ -9086,8 +9086,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "監測器",
-    "example": "Operations tracked the monitor to improve efficiency.",
-    "example_zh": "營運部持續追蹤這項監測器以提升效率。"
+    "example": "Our team improved monitor to support the new project.",
+    "example_zh": "我們團隊已改善 monitor 以支援新專案。"
   },
   {
     "word": "multiplier",
@@ -9096,8 +9096,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "倍數因子",
-    "example": "The finance team reviewed the multiplier before closing the monthly books.",
-    "example_zh": "財務團隊在月結前審查了這項倍數因子。"
+    "example": "The client requested details about multiplier in the proposal.",
+    "example_zh": "客戶在提案中要求提供 multiplier 的細節。"
   },
   {
     "word": "negotiator",
@@ -9106,8 +9106,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "談判代表",
-    "example": "Legal checked the negotiator before signing the contract.",
-    "example_zh": "法務在簽約前檢查了這項談判代表。"
+    "example": "The quarterly report identified negotiator as a key focus area.",
+    "example_zh": "季度報告將 negotiator 列為關鍵關注項目。"
   },
   {
     "word": "newsroom",
@@ -9116,8 +9116,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "新聞室",
-    "example": "The team reviewed the newsroom in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項新聞室。"
+    "example": "We discussed newsroom during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 newsroom。"
   },
   {
     "word": "notebook",
@@ -9126,8 +9126,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Office",
     "meaning": "工作筆記",
-    "example": "The office manager prepared the notebook for the new staff.",
-    "example_zh": "辦公室管理員已為新同仁準備這項工作筆記。"
+    "example": "The manager asked for an update on notebook before Friday.",
+    "example_zh": "經理要求在週五前提供 notebook 的最新進度。"
   },
   {
     "word": "objectivekey",
@@ -9136,8 +9136,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Strategy",
     "meaning": "目標關鍵值",
-    "example": "The leadership team reviewed the objectivekey in the quarterly meeting.",
-    "example_zh": "管理層在季度會議檢視了這項目標關鍵值。"
+    "example": "Our team improved objectivekey to support the new project.",
+    "example_zh": "我們團隊已改善 objectivekey 以支援新專案。"
   },
   {
     "word": "oncall",
@@ -9146,8 +9146,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Service",
     "meaning": "值班安排",
-    "example": "Customer service handled the oncall within one business day.",
-    "example_zh": "客服在一個工作天內處理了這項值班安排。"
+    "example": "The client requested details about oncall in the proposal.",
+    "example_zh": "客戶在提案中要求提供 oncall 的細節。"
   },
   {
     "word": "opener",
@@ -9156,8 +9156,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Meeting",
     "meaning": "開場簡報",
-    "example": "We added the opener to the meeting agenda.",
-    "example_zh": "我們已把這項開場簡報加入會議議程。"
+    "example": "The quarterly report identified opener as a key focus area.",
+    "example_zh": "季度報告將 opener 列為關鍵關注項目。"
   },
   {
     "word": "operand",
@@ -9166,8 +9166,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "運算項",
-    "example": "The IT team tested the operand before release.",
-    "example_zh": "資訊團隊在發布前測試了這項運算項。"
+    "example": "We discussed operand during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 operand。"
   },
   {
     "word": "operationplan",
@@ -9176,8 +9176,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "營運計畫",
-    "example": "Operations tracked the operationplan to improve efficiency.",
-    "example_zh": "營運部持續追蹤這項營運計畫以提升效率。"
+    "example": "The manager asked for an update on operationplan before Friday.",
+    "example_zh": "經理要求在週五前提供 operationplan 的最新進度。"
   },
   {
     "word": "operatorid",
@@ -9186,8 +9186,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "操作員編號",
-    "example": "Operations tracked the operatorid to improve efficiency.",
-    "example_zh": "營運部持續追蹤這項操作員編號以提升效率。"
+    "example": "Our team improved operatorid to support the new project.",
+    "example_zh": "我們團隊已改善 operatorid 以支援新專案。"
   },
   {
     "word": "orderbook",
@@ -9196,8 +9196,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Sales",
     "meaning": "訂單簿",
-    "example": "The team reviewed the orderbook in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項訂單簿。"
+    "example": "The client requested details about orderbook in the proposal.",
+    "example_zh": "客戶在提案中要求提供 orderbook 的細節。"
   },
   {
     "word": "organizer",
@@ -9206,8 +9206,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Meeting",
     "meaning": "主辦單位",
-    "example": "We added the organizer to the meeting agenda.",
-    "example_zh": "我們已把這項主辦單位加入會議議程。"
+    "example": "The quarterly report identified organizer as a key focus area.",
+    "example_zh": "季度報告將 organizer 列為關鍵關注項目。"
   },
   {
     "word": "outbound",
@@ -9216,8 +9216,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "出庫流程",
-    "example": "The logistics team updated the outbound before shipment.",
-    "example_zh": "物流團隊在出貨前更新了這項出庫流程。"
+    "example": "We discussed outbound during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 outbound。"
   },
   {
     "word": "outlook",
@@ -9226,8 +9226,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Strategy",
     "meaning": "展望",
-    "example": "The leadership team reviewed the outlook in the quarterly meeting.",
-    "example_zh": "管理層在季度會議檢視了這項展望。"
+    "example": "The manager asked for an update on outlook before Friday.",
+    "example_zh": "經理要求在週五前提供 outlook 的最新進度。"
   },
   {
     "word": "overviewdeck",
@@ -9236,8 +9236,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Meeting",
     "meaning": "概覽簡報",
-    "example": "We added the overviewdeck to the meeting agenda.",
-    "example_zh": "我們已把這項概覽簡報加入會議議程。"
+    "example": "Our team improved overviewdeck to support the new project.",
+    "example_zh": "我們團隊已改善 overviewdeck 以支援新專案。"
   },
   {
     "word": "ownershipmap",
@@ -9246,8 +9246,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "權責圖",
-    "example": "The team reviewed the ownershipmap in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項權責圖。"
+    "example": "The client requested details about ownershipmap in the proposal.",
+    "example_zh": "客戶在提案中要求提供 ownershipmap 的細節。"
   },
   {
     "word": "packet",
@@ -9256,8 +9256,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "資料封包",
-    "example": "The IT team tested the packet before release.",
-    "example_zh": "資訊團隊在發布前測試了這項資料封包。"
+    "example": "The quarterly report identified packet as a key focus area.",
+    "example_zh": "季度報告將 packet 列為關鍵關注項目。"
   },
   {
     "word": "panel",
@@ -9266,8 +9266,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Meeting",
     "meaning": "討論小組",
-    "example": "We added the panel to the meeting agenda.",
-    "example_zh": "我們已把這項討論小組加入會議議程。"
+    "example": "We discussed panel during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 panel。"
   },
   {
     "word": "parameter",
@@ -9276,8 +9276,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "參數",
-    "example": "The IT team tested the parameter before release.",
-    "example_zh": "資訊團隊在發布前測試了這項參數。"
+    "example": "The manager asked for an update on parameter before Friday.",
+    "example_zh": "經理要求在週五前提供 parameter 的最新進度。"
   },
   {
     "word": "partner",
@@ -9286,8 +9286,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Strategy",
     "meaning": "合作夥伴",
-    "example": "The leadership team reviewed the partner in the quarterly meeting.",
-    "example_zh": "管理層在季度會議檢視了這項合作夥伴。"
+    "example": "Our team improved partner to support the new project.",
+    "example_zh": "我們團隊已改善 partner 以支援新專案。"
   },
   {
     "word": "passenger",
@@ -9296,8 +9296,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Travel",
     "meaning": "乘客",
-    "example": "The travel desk confirmed the passenger for the business trip.",
-    "example_zh": "差旅窗口已確認這次出差的乘客。"
+    "example": "The client requested details about passenger in the proposal.",
+    "example_zh": "客戶在提案中要求提供 passenger 的細節。"
   },
   {
     "word": "pathway",
@@ -9306,8 +9306,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "執行路徑",
-    "example": "The team reviewed the pathway in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項執行路徑。"
+    "example": "The quarterly report identified pathway as a key focus area.",
+    "example_zh": "季度報告將 pathway 列為關鍵關注項目。"
   },
   {
     "word": "payee",
@@ -9316,8 +9316,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "收款人",
-    "example": "The finance team reviewed the payee before closing the monthly books.",
-    "example_zh": "財務團隊在月結前審查了這項收款人。"
+    "example": "We discussed payee during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 payee。"
   },
   {
     "word": "paymentterm",
@@ -9326,8 +9326,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "付款條件",
-    "example": "The finance team reviewed the paymentterm before closing the monthly books.",
-    "example_zh": "財務團隊在月結前審查了這項付款條件。"
+    "example": "The manager asked for an update on paymentterm before Friday.",
+    "example_zh": "經理要求在週五前提供 paymentterm 的最新進度。"
   },
   {
     "word": "paystub",
@@ -9336,8 +9336,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "薪資單",
-    "example": "HR reviewed the paystub in the monthly people report.",
-    "example_zh": "人資在月度人力報告中審查了這項薪資單。"
+    "example": "Our team improved paystub to support the new project.",
+    "example_zh": "我們團隊已改善 paystub 以支援新專案。"
   },
   {
     "word": "percentage",
@@ -9346,8 +9346,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "百分比",
-    "example": "The analyst highlighted the percentage in the monthly report.",
-    "example_zh": "分析師在月報中標註了這項百分比。"
+    "example": "The client requested details about percentage in the proposal.",
+    "example_zh": "客戶在提案中要求提供 percentage 的細節。"
   },
   {
     "word": "phase",
@@ -9356,8 +9356,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "階段",
-    "example": "The team reviewed the phase in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項階段。"
+    "example": "The quarterly report identified phase as a key focus area.",
+    "example_zh": "季度報告將 phase 列為關鍵關注項目。"
   },
   {
     "word": "planner",
@@ -9366,8 +9366,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Schedule",
     "meaning": "規劃人員",
-    "example": "The coordinator adjusted the planner for next week.",
-    "example_zh": "協調人員已調整下週的規劃人員。"
+    "example": "We discussed planner during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 planner。"
   },
   {
     "word": "portfolioitem",
@@ -9376,8 +9376,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "投組成分",
-    "example": "The finance team reviewed the portfolioitem before closing the monthly books.",
-    "example_zh": "財務團隊在月結前審查了這項投組項目。"
+    "example": "The manager asked for an update on portfolioitem before Friday.",
+    "example_zh": "經理要求在週五前提供 portfolioitem 的最新進度。"
   },
   {
     "word": "posting",
@@ -9386,8 +9386,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "公告貼文",
-    "example": "The team reviewed the posting in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項公告貼文。"
+    "example": "Our team improved posting to support the new project.",
+    "example_zh": "我們團隊已改善 posting 以支援新專案。"
   },
   {
     "word": "potentialclient",
@@ -9396,8 +9396,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Sales",
     "meaning": "潛在客戶",
-    "example": "The team reviewed the potentialclient in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項潛在客戶。"
+    "example": "The client requested details about potentialclient in the proposal.",
+    "example_zh": "客戶在提案中要求提供 potentialclient 的細節。"
   },
   {
     "word": "preference",
@@ -9406,8 +9406,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "偏好",
-    "example": "Marketing measured the preference after the campaign launch.",
-    "example_zh": "行銷部在活動上線後衡量了這項偏好。"
+    "example": "The quarterly report identified preference as a key focus area.",
+    "example_zh": "季度報告將 preference 列為關鍵關注項目。"
   },
   {
     "word": "premium",
@@ -9416,8 +9416,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "保費",
-    "example": "The finance team reviewed the premium before closing the monthly books.",
-    "example_zh": "財務團隊在月結前審查了這項保費。"
+    "example": "We discussed premium during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 premium。"
   },
   {
     "word": "presenter",
@@ -9426,8 +9426,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Meeting",
     "meaning": "報告者",
-    "example": "We added the presenter to the meeting agenda.",
-    "example_zh": "我們已把這項報告者加入會議議程。"
+    "example": "The manager asked for an update on presenter before Friday.",
+    "example_zh": "經理要求在週五前提供 presenter 的最新進度。"
   },
   {
     "word": "processmap",
@@ -9436,8 +9436,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "流程圖",
-    "example": "Operations tracked the processmap to improve efficiency.",
-    "example_zh": "營運部持續追蹤這項流程圖以提升效率。"
+    "example": "Our team improved processmap to support the new project.",
+    "example_zh": "我們團隊已改善 processmap 以支援新專案。"
   },
   {
     "word": "processor",
@@ -9446,8 +9446,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "運算器",
-    "example": "The IT team tested the processor before release.",
-    "example_zh": "資訊團隊在發布前測試了這項處理器。"
+    "example": "The client requested details about processor in the proposal.",
+    "example_zh": "客戶在提案中要求提供 processor 的細節。"
   },
   {
     "word": "procurementplan",
@@ -9456,8 +9456,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Purchasing",
     "meaning": "採購規劃",
-    "example": "Purchasing confirmed the procurementplan with the supplier this morning.",
-    "example_zh": "採購今早已向供應商確認這項採購規劃。"
+    "example": "The quarterly report identified procurementplan as a key focus area.",
+    "example_zh": "季度報告將 procurementplan 列為關鍵關注項目。"
   },
   {
     "word": "productionplan",
@@ -9466,8 +9466,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Manufacturing",
     "meaning": "生產計畫",
-    "example": "The plant manager monitored the productionplan on the production line.",
-    "example_zh": "廠務主管在線上監控這項生產計畫。"
+    "example": "We discussed productionplan during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 productionplan。"
   },
   {
     "word": "productline",
@@ -9476,8 +9476,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "產品線",
-    "example": "Marketing measured the productline after the campaign launch.",
-    "example_zh": "行銷部在活動上線後衡量了這項產品線。"
+    "example": "The manager asked for an update on productline before Friday.",
+    "example_zh": "經理要求在週五前提供 productline 的最新進度。"
   },
   {
     "word": "profiler",
@@ -9486,8 +9486,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "分析模型",
-    "example": "The IT team tested the profiler before release.",
-    "example_zh": "資訊團隊在發布前測試了這項分析模型。"
+    "example": "Our team improved profiler to support the new project.",
+    "example_zh": "我們團隊已改善 profiler 以支援新專案。"
   },
   {
     "word": "program",
@@ -9496,8 +9496,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Training",
     "meaning": "計畫",
-    "example": "The trainer explained the program in today's training session.",
-    "example_zh": "講師在今天的訓練課程說明了這項計畫。"
+    "example": "The client requested details about program in the proposal.",
+    "example_zh": "客戶在提案中要求提供 program 的細節。"
   },
   {
     "word": "progress",
@@ -9506,8 +9506,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "進度",
-    "example": "The team reviewed the progress in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項進度。"
+    "example": "The quarterly report identified progress as a key focus area.",
+    "example_zh": "季度報告將 progress 列為關鍵關注項目。"
   },
   {
     "word": "projector",
@@ -9516,8 +9516,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Meeting",
     "meaning": "投影設備",
-    "example": "We added the projector to the meeting agenda.",
-    "example_zh": "我們已把這項投影設備加入會議議程。"
+    "example": "We discussed projector during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 projector。"
   },
   {
     "word": "promotionplan",
@@ -9526,8 +9526,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "促銷計畫",
-    "example": "Marketing measured the promotionplan after the campaign launch.",
-    "example_zh": "行銷部在活動上線後衡量了這項促銷計畫。"
+    "example": "The manager asked for an update on promotionplan before Friday.",
+    "example_zh": "經理要求在週五前提供 promotionplan 的最新進度。"
   },
   {
     "word": "protocolnote",
@@ -9536,8 +9536,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "流程說明",
-    "example": "Operations tracked the protocolnote to improve efficiency.",
-    "example_zh": "營運部持續追蹤這項流程說明以提升效率。"
+    "example": "Our team improved protocolnote to support the new project.",
+    "example_zh": "我們團隊已改善 protocolnote 以支援新專案。"
   },
   {
     "word": "providerlist",
@@ -9546,8 +9546,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Purchasing",
     "meaning": "供應商清單",
-    "example": "Purchasing confirmed the providerlist with the supplier this morning.",
-    "example_zh": "採購今早已向供應商確認這項供應商清單。"
+    "example": "The client requested details about providerlist in the proposal.",
+    "example_zh": "客戶在提案中要求提供 providerlist 的細節。"
   },
   {
     "word": "publicrelation",
@@ -9556,8 +9556,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "公關事務",
-    "example": "Marketing measured the publicrelation after the campaign launch.",
-    "example_zh": "行銷部在活動上線後衡量了這項公關事務。"
+    "example": "The quarterly report identified publicrelation as a key focus area.",
+    "example_zh": "季度報告將 publicrelation 列為關鍵關注項目。"
   },
   {
     "word": "purchaseorder",
@@ -9566,8 +9566,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Purchasing",
     "meaning": "採購單",
-    "example": "Purchasing confirmed the purchaseorder with the supplier this morning.",
-    "example_zh": "採購今早已向供應商確認這項採購單。"
+    "example": "We discussed purchaseorder during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 purchaseorder。"
   },
   {
     "word": "qualitygate",
@@ -9576,8 +9576,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Quality",
     "meaning": "品質關卡",
-    "example": "The team reviewed the qualitygate in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項品質關卡。"
+    "example": "The manager asked for an update on qualitygate before Friday.",
+    "example_zh": "經理要求在週五前提供 qualitygate 的最新進度。"
   },
   {
     "word": "query",
@@ -9586,8 +9586,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "查詢請求",
-    "example": "The IT team tested the query before release.",
-    "example_zh": "資訊團隊在發布前測試了這項查詢請求。"
+    "example": "Our team improved query to support the new project.",
+    "example_zh": "我們團隊已改善 query 以支援新專案。"
   },
   {
     "word": "queue",
@@ -9596,8 +9596,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Service",
     "meaning": "佇列",
-    "example": "Customer service handled the queue within one business day.",
-    "example_zh": "客服在一個工作天內處理了這項佇列。"
+    "example": "The client requested details about queue in the proposal.",
+    "example_zh": "客戶在提案中要求提供 queue 的細節。"
   },
   {
     "word": "quota",
@@ -9606,8 +9606,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Sales",
     "meaning": "配額",
-    "example": "The team reviewed the quota in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項配額。"
+    "example": "The quarterly report identified quota as a key focus area.",
+    "example_zh": "季度報告將 quota 列為關鍵關注項目。"
   },
   {
     "word": "rating",
@@ -9616,8 +9616,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "評等",
-    "example": "HR reviewed the rating in the monthly people report.",
-    "example_zh": "人資在月度人力報告中審查了這項評等。"
+    "example": "We discussed rating during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 rating。"
   },
   {
     "word": "rationale",
@@ -9626,8 +9626,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "決策依據",
-    "example": "The analyst highlighted the rationale in the monthly report.",
-    "example_zh": "分析師在月報中標註了這項決策依據。"
+    "example": "The manager asked for an update on rationale before Friday.",
+    "example_zh": "經理要求在週五前提供 rationale 的最新進度。"
   },
   {
     "word": "receiptlog",
@@ -9636,8 +9636,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "收據紀錄",
-    "example": "The finance team reviewed the receiptlog before closing the monthly books.",
-    "example_zh": "財務團隊在月結前審查了這項收據紀錄。"
+    "example": "Our team improved receiptlog to support the new project.",
+    "example_zh": "我們團隊已改善 receiptlog 以支援新專案。"
   },
   {
     "word": "recipient",
@@ -9646,8 +9646,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "收件人",
-    "example": "The team reviewed the recipient in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項收件人。"
+    "example": "The client requested details about recipient in the proposal.",
+    "example_zh": "客戶在提案中要求提供 recipient 的細節。"
   },
   {
     "word": "record",
@@ -9656,8 +9656,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "紀錄",
-    "example": "Administration filed the record for record keeping.",
-    "example_zh": "行政部已將這項紀錄完成歸檔。"
+    "example": "The quarterly report identified record as a key focus area.",
+    "example_zh": "季度報告將 record 列為關鍵關注項目。"
   },
   {
     "word": "recruiter",
@@ -9666,8 +9666,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Hiring",
     "meaning": "招募人員",
-    "example": "HR discussed the recruiter during the interview process.",
-    "example_zh": "人資在面試流程中討論了這項招募人員。"
+    "example": "We discussed recruiter during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 recruiter。"
   },
   {
     "word": "recovery",
@@ -9676,8 +9676,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "復原方案",
-    "example": "The IT team tested the recovery before release.",
-    "example_zh": "資訊團隊在發布前測試了這項復原方案。"
+    "example": "The manager asked for an update on recovery before Friday.",
+    "example_zh": "經理要求在週五前提供 recovery 的最新進度。"
   },
   {
     "word": "referral",
@@ -9686,8 +9686,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Hiring",
     "meaning": "推薦來源",
-    "example": "HR discussed the referral during the interview process.",
-    "example_zh": "人資在面試流程中討論了這項推薦來源。"
+    "example": "Our team improved referral to support the new project.",
+    "example_zh": "我們團隊已改善 referral 以支援新專案。"
   },
   {
     "word": "referencecode",
@@ -9696,8 +9696,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "參考代碼",
-    "example": "Administration filed the referencecode for record keeping.",
-    "example_zh": "行政部已將這項參考代碼完成歸檔。"
+    "example": "The client requested details about referencecode in the proposal.",
+    "example_zh": "客戶在提案中要求提供 referencecode 的細節。"
   },
   {
     "word": "reform",
@@ -9706,8 +9706,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Strategy",
     "meaning": "改革方案",
-    "example": "The leadership team reviewed the reform in the quarterly meeting.",
-    "example_zh": "管理層在季度會議檢視了這項改革方案。"
+    "example": "The quarterly report identified reform as a key focus area.",
+    "example_zh": "季度報告將 reform 列為關鍵關注項目。"
   },
   {
     "word": "region",
@@ -9716,8 +9716,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Sales",
     "meaning": "區域",
-    "example": "The team reviewed the region in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項區域。"
+    "example": "We discussed region during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 region。"
   },
   {
     "word": "register",
@@ -9726,8 +9726,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "登錄簿",
-    "example": "Administration filed the register for record keeping.",
-    "example_zh": "行政部已將這項登錄簿完成歸檔。"
+    "example": "The manager asked for an update on register before Friday.",
+    "example_zh": "經理要求在週五前提供 register 的最新進度。"
   },
   {
     "word": "registry",
@@ -9736,8 +9736,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "註冊表",
-    "example": "The IT team tested the registry before release.",
-    "example_zh": "資訊團隊在發布前測試了這項註冊表。"
+    "example": "Our team improved registry to support the new project.",
+    "example_zh": "我們團隊已改善 registry 以支援新專案。"
   },
   {
     "word": "reinforcement",
@@ -9746,8 +9746,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Training",
     "meaning": "強化措施",
-    "example": "The trainer explained the reinforcement in today's training session.",
-    "example_zh": "講師在今天的訓練課程說明了這項強化措施。"
+    "example": "The client requested details about reinforcement in the proposal.",
+    "example_zh": "客戶在提案中要求提供 reinforcement 的細節。"
   },
   {
     "word": "remittance",
@@ -9756,8 +9756,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "匯款",
-    "example": "The finance team reviewed the remittance before closing the monthly books.",
-    "example_zh": "財務團隊在月結前審查了這項匯款。"
+    "example": "The quarterly report identified remittance as a key focus area.",
+    "example_zh": "季度報告將 remittance 列為關鍵關注項目。"
   },
   {
     "word": "removal",
@@ -9766,8 +9766,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "移除作業",
-    "example": "Operations tracked the removal to improve efficiency.",
-    "example_zh": "營運部持續追蹤這項移除作業以提升效率。"
+    "example": "We discussed removal during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 removal。"
   },
   {
     "word": "renewal",
@@ -9776,8 +9776,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "續約",
-    "example": "Legal checked the renewal before signing the contract.",
-    "example_zh": "法務在簽約前檢查了這項續約。"
+    "example": "The manager asked for an update on renewal before Friday.",
+    "example_zh": "經理要求在週五前提供 renewal 的最新進度。"
   },
   {
     "word": "repair",
@@ -9786,8 +9786,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "維修作業",
-    "example": "Operations tracked the repair to improve efficiency.",
-    "example_zh": "營運部持續追蹤這項維修作業以提升效率。"
+    "example": "Our team improved repair to support the new project.",
+    "example_zh": "我們團隊已改善 repair 以支援新專案。"
   },
   {
     "word": "replacementpart",
@@ -9796,8 +9796,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Manufacturing",
     "meaning": "替換零件",
-    "example": "The plant manager monitored the replacementpart on the production line.",
-    "example_zh": "廠務主管在線上監控這項替換零件。"
+    "example": "The client requested details about replacementpart in the proposal.",
+    "example_zh": "客戶在提案中要求提供 replacementpart 的細節。"
   },
   {
     "word": "request",
@@ -9806,8 +9806,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Service",
     "meaning": "請求單",
-    "example": "Customer service handled the request within one business day.",
-    "example_zh": "客服在一個工作天內處理了這項請求單。"
+    "example": "The quarterly report identified request as a key focus area.",
+    "example_zh": "季度報告將 request 列為關鍵關注項目。"
   },
   {
     "word": "requirementdoc",
@@ -9816,8 +9816,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "需求文件",
-    "example": "The team reviewed the requirementdoc in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項需求文件。"
+    "example": "We discussed requirementdoc during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 requirementdoc。"
   },
   {
     "word": "reservationcode",
@@ -9826,8 +9826,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Travel",
     "meaning": "訂位代碼",
-    "example": "The travel desk confirmed the reservationcode for the business trip.",
-    "example_zh": "差旅窗口已確認這次出差的訂位代碼。"
+    "example": "The manager asked for an update on reservationcode before Friday.",
+    "example_zh": "經理要求在週五前提供 reservationcode 的最新進度。"
   },
   {
     "word": "reserve",
@@ -9836,8 +9836,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "準備金",
-    "example": "The finance team reviewed the reserve before closing the monthly books.",
-    "example_zh": "財務團隊在月結前審查了這項準備金。"
+    "example": "Our team improved reserve to support the new project.",
+    "example_zh": "我們團隊已改善 reserve 以支援新專案。"
   },
   {
     "word": "resilience",
@@ -9846,8 +9846,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Strategy",
     "meaning": "韌性",
-    "example": "The leadership team reviewed the resilience in the quarterly meeting.",
-    "example_zh": "管理層在季度會議檢視了這項韌性。"
+    "example": "The client requested details about resilience in the proposal.",
+    "example_zh": "客戶在提案中要求提供 resilience 的細節。"
   },
   {
     "word": "response",
@@ -9856,8 +9856,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "回覆",
-    "example": "The team reviewed the response in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項回覆。"
+    "example": "The quarterly report identified response as a key focus area.",
+    "example_zh": "季度報告將 response 列為關鍵關注項目。"
   },
   {
     "word": "restructure",
@@ -9866,8 +9866,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Strategy",
     "meaning": "重整方案",
-    "example": "The leadership team reviewed the restructure in the quarterly meeting.",
-    "example_zh": "管理層在季度會議檢視了這項重整方案。"
+    "example": "We discussed restructure during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 restructure。"
   },
   {
     "word": "result",
@@ -9876,8 +9876,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "結果",
-    "example": "The analyst highlighted the result in the monthly report.",
-    "example_zh": "分析師在月報中標註了這項結果。"
+    "example": "The manager asked for an update on result before Friday.",
+    "example_zh": "經理要求在週五前提供 result 的最新進度。"
   },
   {
     "word": "retailer",
@@ -9886,8 +9886,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Sales",
     "meaning": "零售商",
-    "example": "The team reviewed the retailer in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項零售商。"
+    "example": "Our team improved retailer to support the new project.",
+    "example_zh": "我們團隊已改善 retailer 以支援新專案。"
   },
   {
     "word": "return",
@@ -9896,8 +9896,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "退貨流程",
-    "example": "The logistics team updated the return before shipment.",
-    "example_zh": "物流團隊在出貨前更新了這項退貨流程。"
+    "example": "The client requested details about return in the proposal.",
+    "example_zh": "客戶在提案中要求提供 return 的細節。"
   },
   {
     "word": "reviewcycle",
@@ -9906,8 +9906,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "審查週期",
-    "example": "The analyst highlighted the reviewcycle in the monthly report.",
-    "example_zh": "分析師在月報中標註了這項審查週期。"
+    "example": "The quarterly report identified reviewcycle as a key focus area.",
+    "example_zh": "季度報告將 reviewcycle 列為關鍵關注項目。"
   },
   {
     "word": "roadshow",
@@ -9916,8 +9916,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "巡迴說明會",
-    "example": "Marketing measured the roadshow after the campaign launch.",
-    "example_zh": "行銷部在活動上線後衡量了這項巡迴說明會。"
+    "example": "We discussed roadshow during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 roadshow。"
   },
   {
     "word": "role",
@@ -9926,8 +9926,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "角色職責",
-    "example": "HR reviewed the role in the monthly people report.",
-    "example_zh": "人資在月度人力報告中審查了這項角色職責。"
+    "example": "The manager asked for an update on role before Friday.",
+    "example_zh": "經理要求在週五前提供 role 的最新進度。"
   },
   {
     "word": "route",
@@ -9936,8 +9936,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "路線",
-    "example": "The logistics team updated the route before shipment.",
-    "example_zh": "物流團隊在出貨前更新了這項路線。"
+    "example": "Our team improved route to support the new project.",
+    "example_zh": "我們團隊已改善 route 以支援新專案。"
   },
   {
     "word": "rulebook",
@@ -9946,8 +9946,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "規範手冊",
-    "example": "Legal checked the rulebook before signing the contract.",
-    "example_zh": "法務在簽約前檢查了這項規範手冊。"
+    "example": "The client requested details about rulebook in the proposal.",
+    "example_zh": "客戶在提案中要求提供 rulebook 的細節。"
   },
   {
     "word": "runtime",
@@ -9956,8 +9956,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "執行時間",
-    "example": "The IT team tested the runtime before release.",
-    "example_zh": "資訊團隊在發布前測試了這項執行時間。"
+    "example": "The quarterly report identified runtime as a key focus area.",
+    "example_zh": "季度報告將 runtime 列為關鍵關注項目。"
   },
   {
     "word": "safeguardplan",
@@ -9966,8 +9966,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Security",
     "meaning": "防護計畫",
-    "example": "The security team reinforced the safeguardplan at the main office.",
-    "example_zh": "資安團隊在總部強化了這項防護計畫。"
+    "example": "We discussed safeguardplan during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 safeguardplan。"
   },
   {
     "word": "sampling",
@@ -9976,8 +9976,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Quality",
     "meaning": "抽檢",
-    "example": "The team reviewed the sampling in the weekly meeting.",
-    "example_zh": "團隊在每週會議中檢視了這項抽檢。"
+    "example": "The manager asked for an update on sampling before Friday.",
+    "example_zh": "經理要求在週五前提供 sampling 的最新進度。"
   },
   {
     "word": "satisfactionscore",
@@ -9986,8 +9986,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Service",
     "meaning": "滿意度分數",
-    "example": "Customer service handled the satisfactionscore within one business day.",
-    "example_zh": "客服在一個工作天內處理了這項滿意度分數。"
+    "example": "Our team improved satisfactionscore to support the new project.",
+    "example_zh": "我們團隊已改善 satisfactionscore 以支援新專案。"
   },
   {
     "word": "scanner",
@@ -9996,8 +9996,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "掃描設備",
-    "example": "Operations tracked the scanner to improve efficiency.",
-    "example_zh": "營運部持續追蹤這項掃描設備以提升效率。"
+    "example": "The client requested details about scanner in the proposal.",
+    "example_zh": "客戶在提案中要求提供 scanner 的細節。"
   },
   {
     "word": "adminable",
@@ -10005,9 +10005,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Office",
-    "meaning": "行政流程管理",
-    "example": "The team reviewed the adminable item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+    "meaning": "行政管理；作業執行",
+    "example": "The quarterly report identified adminable as a key focus area.",
+    "example_zh": "季度報告將 adminable 列為關鍵關注項目。"
   },
   {
     "word": "adminability",
@@ -10015,9 +10015,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Business",
-    "meaning": "會議與溝通安排",
-    "example": "Please include the adminability details in today's email update.",
-    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+    "meaning": "會議安排；溝通協調",
+    "example": "We discussed adminability during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 adminability。"
   },
   {
     "word": "adminance",
@@ -10025,9 +10025,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Meeting",
-    "meaning": "客戶服務作業",
-    "example": "Our manager approved the adminance plan for next quarter.",
-    "example_zh": "經理已核准下季的客戶服務作業方案。"
+    "meaning": "客戶服務；客訴處理",
+    "example": "The manager asked for an update on adminance before Friday.",
+    "example_zh": "經理要求在週五前提供 adminance 的最新進度。"
   },
   {
     "word": "adminancy",
@@ -10035,9 +10035,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Email",
-    "meaning": "物流與出貨管理",
-    "example": "The operations unit tracked the adminancy to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+    "meaning": "物流管理；出貨作業",
+    "example": "Our team improved adminancy to support the new project.",
+    "example_zh": "我們團隊已改善 adminancy 以支援新專案。"
   },
   {
     "word": "adminant",
@@ -10045,9 +10045,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "CustomerService",
-    "meaning": "採購與供應商管理",
-    "example": "The finance staff checked the adminant record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+    "meaning": "採購管理；供應商協作",
+    "example": "The client requested details about adminant in the proposal.",
+    "example_zh": "客戶在提案中要求提供 adminant 的細節。"
   },
   {
     "word": "admination",
@@ -10055,9 +10055,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Logistics",
-    "meaning": "財務與帳務控管",
-    "example": "Customer service reported the admination issue to the supervisor.",
-    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+    "meaning": "財務管理；帳務控管",
+    "example": "The quarterly report identified admination as a key focus area.",
+    "example_zh": "季度報告將 admination 列為關鍵關注項目。"
   },
   {
     "word": "adminative",
@@ -10065,9 +10065,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Shipping",
-    "meaning": "合約與法務管理",
-    "example": "The team reviewed the adminative item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+    "meaning": "合約管理；法務作業",
+    "example": "We discussed adminative during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 adminative。"
   },
   {
     "word": "adminator",
@@ -10075,9 +10075,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Purchasing",
-    "meaning": "報表與數據追蹤",
-    "example": "Please include the adminator details in today's email update.",
-    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+    "meaning": "報表管理；數據追蹤",
+    "example": "The manager asked for an update on adminator before Friday.",
+    "example_zh": "經理要求在週五前提供 adminator 的最新進度。"
   },
   {
     "word": "adminboard",
@@ -10085,9 +10085,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Finance",
-    "meaning": "人資招募與訓練",
-    "example": "Our manager approved the adminboard plan for next quarter.",
-    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+    "meaning": "人資招募；教育訓練",
+    "example": "Our team improved adminboard to support the new project.",
+    "example_zh": "我們團隊已改善 adminboard 以支援新專案。"
   },
   {
     "word": "adminbook",
@@ -10095,9 +10095,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Accounting",
-    "meaning": "專案與營運協調",
-    "example": "The operations unit tracked the adminbook to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+    "meaning": "專案管理；營運協調",
+    "example": "The client requested details about adminbook in the proposal.",
+    "example_zh": "客戶在提案中要求提供 adminbook 的細節。"
   },
   {
     "word": "adminbridge",
@@ -10105,9 +10105,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Contracts",
-    "meaning": "預算與成本控管",
-    "example": "The finance staff checked the adminbridge record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+    "meaning": "預算管理；成本控管",
+    "example": "The quarterly report identified adminbridge as a key focus area.",
+    "example_zh": "季度報告將 adminbridge 列為關鍵關注項目。"
   },
   {
     "word": "admincare",
@@ -10115,9 +10115,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Schedules",
-    "meaning": "品質與稽核管理",
-    "example": "Customer service reported the admincare issue to the supervisor.",
-    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+    "meaning": "品質管理；稽核作業",
+    "example": "We discussed admincare during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 admincare。"
   },
   {
     "word": "admincenter",
@@ -10125,9 +10125,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Reports",
-    "meaning": "行政流程管理",
-    "example": "The team reviewed the admincenter item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+    "meaning": "行政管理；作業執行",
+    "example": "The manager asked for an update on admincenter before Friday.",
+    "example_zh": "經理要求在週五前提供 admincenter 的最新進度。"
   },
   {
     "word": "adminchart",
@@ -10135,9 +10135,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Hiring",
-    "meaning": "會議與溝通安排",
-    "example": "Please include the adminchart details in today's email update.",
-    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+    "meaning": "會議安排；溝通協調",
+    "example": "Our team improved adminchart to support the new project.",
+    "example_zh": "我們團隊已改善 adminchart 以支援新專案。"
   },
   {
     "word": "admincheck",
@@ -10145,9 +10145,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Training",
-    "meaning": "客戶服務作業",
-    "example": "Our manager approved the admincheck plan for next quarter.",
-    "example_zh": "經理已核准下季的客戶服務作業方案。"
+    "meaning": "客戶服務；客訴處理",
+    "example": "The client requested details about admincheck in the proposal.",
+    "example_zh": "客戶在提案中要求提供 admincheck 的細節。"
   },
   {
     "word": "admincore",
@@ -10155,9 +10155,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Administration",
-    "meaning": "物流與出貨管理",
-    "example": "The operations unit tracked the admincore to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+    "meaning": "物流管理；出貨作業",
+    "example": "The quarterly report identified admincore as a key focus area.",
+    "example_zh": "季度報告將 admincore 列為關鍵關注項目。"
   },
   {
     "word": "admincraft",
@@ -10165,9 +10165,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Travel",
-    "meaning": "採購與供應商管理",
-    "example": "The finance staff checked the admincraft record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+    "meaning": "採購管理；供應商協作",
+    "example": "We discussed admincraft during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 admincraft。"
   },
   {
     "word": "admincycle",
@@ -10175,9 +10175,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Marketing",
-    "meaning": "財務與帳務控管",
-    "example": "Customer service reported the admincycle issue to the supervisor.",
-    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+    "meaning": "財務管理；帳務控管",
+    "example": "The manager asked for an update on admincycle before Friday.",
+    "example_zh": "經理要求在週五前提供 admincycle 的最新進度。"
   },
   {
     "word": "admindesk",
@@ -10185,9 +10185,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Manufacturing",
-    "meaning": "合約與法務管理",
-    "example": "The team reviewed the admindesk item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+    "meaning": "合約管理；法務作業",
+    "example": "Our team improved admindesk to support the new project.",
+    "example_zh": "我們團隊已改善 admindesk 以支援新專案。"
   },
   {
     "word": "admindrive",
@@ -10195,9 +10195,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Communication",
-    "meaning": "報表與數據追蹤",
-    "example": "Please include the admindrive details in today's email update.",
-    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+    "meaning": "報表管理；數據追蹤",
+    "example": "The client requested details about admindrive in the proposal.",
+    "example_zh": "客戶在提案中要求提供 admindrive 的細節。"
   },
   {
     "word": "adminedge",
@@ -10205,9 +10205,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Facilities",
-    "meaning": "人資招募與訓練",
-    "example": "Our manager approved the adminedge plan for next quarter.",
-    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+    "meaning": "人資招募；教育訓練",
+    "example": "The quarterly report identified adminedge as a key focus area.",
+    "example_zh": "季度報告將 adminedge 列為關鍵關注項目。"
   },
   {
     "word": "adminency",
@@ -10215,9 +10215,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Coordination",
-    "meaning": "專案與營運協調",
-    "example": "The operations unit tracked the adminency to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+    "meaning": "專案管理；營運協調",
+    "example": "We discussed adminency during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 adminency。"
   },
   {
     "word": "adminengine",
@@ -10225,9 +10225,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Project",
-    "meaning": "預算與成本控管",
-    "example": "The finance staff checked the adminengine record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+    "meaning": "預算管理；成本控管",
+    "example": "The manager asked for an update on adminengine before Friday.",
+    "example_zh": "經理要求在週五前提供 adminengine 的最新進度。"
   },
   {
     "word": "adminfield",
@@ -10235,9 +10235,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Operations",
-    "meaning": "品質與稽核管理",
-    "example": "Customer service reported the adminfield issue to the supervisor.",
-    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+    "meaning": "品質管理；稽核作業",
+    "example": "Our team improved adminfield to support the new project.",
+    "example_zh": "我們團隊已改善 adminfield 以支援新專案。"
   },
   {
     "word": "adminflow",
@@ -10245,9 +10245,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Office",
-    "meaning": "行政流程管理",
-    "example": "The team reviewed the adminflow item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+    "meaning": "行政管理；作業執行",
+    "example": "The client requested details about adminflow in the proposal.",
+    "example_zh": "客戶在提案中要求提供 adminflow 的細節。"
   },
   {
     "word": "adminforce",
@@ -10255,9 +10255,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Business",
-    "meaning": "會議與溝通安排",
-    "example": "Please include the adminforce details in today's email update.",
-    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+    "meaning": "會議安排；溝通協調",
+    "example": "The quarterly report identified adminforce as a key focus area.",
+    "example_zh": "季度報告將 adminforce 列為關鍵關注項目。"
   },
   {
     "word": "adminform",
@@ -10265,9 +10265,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Meeting",
-    "meaning": "客戶服務作業",
-    "example": "Our manager approved the adminform plan for next quarter.",
-    "example_zh": "經理已核准下季的客戶服務作業方案。"
+    "meaning": "客戶服務；客訴處理",
+    "example": "We discussed adminform during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 adminform。"
   },
   {
     "word": "adminframe",
@@ -10275,9 +10275,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Email",
-    "meaning": "物流與出貨管理",
-    "example": "The operations unit tracked the adminframe to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+    "meaning": "物流管理；出貨作業",
+    "example": "The manager asked for an update on adminframe before Friday.",
+    "example_zh": "經理要求在週五前提供 adminframe 的最新進度。"
   },
   {
     "word": "admingate",
@@ -10285,9 +10285,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "CustomerService",
-    "meaning": "採購與供應商管理",
-    "example": "The finance staff checked the admingate record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+    "meaning": "採購管理；供應商協作",
+    "example": "Our team improved admingate to support the new project.",
+    "example_zh": "我們團隊已改善 admingate 以支援新專案。"
   },
   {
     "word": "admingrid",
@@ -10295,9 +10295,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Logistics",
-    "meaning": "財務與帳務控管",
-    "example": "Customer service reported the admingrid issue to the supervisor.",
-    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+    "meaning": "財務管理；帳務控管",
+    "example": "The client requested details about admingrid in the proposal.",
+    "example_zh": "客戶在提案中要求提供 admingrid 的細節。"
   },
   {
     "word": "adminguide",
@@ -10305,9 +10305,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Shipping",
-    "meaning": "合約與法務管理",
-    "example": "The team reviewed the adminguide item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+    "meaning": "合約管理；法務作業",
+    "example": "The quarterly report identified adminguide as a key focus area.",
+    "example_zh": "季度報告將 adminguide 列為關鍵關注項目。"
   },
   {
     "word": "adminhouse",
@@ -10315,9 +10315,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Purchasing",
-    "meaning": "報表與數據追蹤",
-    "example": "Please include the adminhouse details in today's email update.",
-    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+    "meaning": "報表管理；數據追蹤",
+    "example": "We discussed adminhouse during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 adminhouse。"
   },
   {
     "word": "adminhub",
@@ -10325,9 +10325,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Finance",
-    "meaning": "人資招募與訓練",
-    "example": "Our manager approved the adminhub plan for next quarter.",
-    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+    "meaning": "人資招募；教育訓練",
+    "example": "The manager asked for an update on adminhub before Friday.",
+    "example_zh": "經理要求在週五前提供 adminhub 的最新進度。"
   },
   {
     "word": "adminindex",
@@ -10335,9 +10335,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Accounting",
-    "meaning": "專案與營運協調",
-    "example": "The operations unit tracked the adminindex to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+    "meaning": "專案管理；營運協調",
+    "example": "Our team improved adminindex to support the new project.",
+    "example_zh": "我們團隊已改善 adminindex 以支援新專案。"
   },
   {
     "word": "admining",
@@ -10345,9 +10345,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Contracts",
-    "meaning": "預算與成本控管",
-    "example": "The finance staff checked the admining record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+    "meaning": "預算管理；成本控管",
+    "example": "The client requested details about admining in the proposal.",
+    "example_zh": "客戶在提案中要求提供 admining 的細節。"
   },
   {
     "word": "admininsight",
@@ -10355,9 +10355,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Schedules",
-    "meaning": "品質與稽核管理",
-    "example": "Customer service reported the admininsight issue to the supervisor.",
-    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+    "meaning": "品質管理；稽核作業",
+    "example": "The quarterly report identified admininsight as a key focus area.",
+    "example_zh": "季度報告將 admininsight 列為關鍵關注項目。"
   },
   {
     "word": "adminkeeper",
@@ -10365,9 +10365,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Reports",
-    "meaning": "行政流程管理",
-    "example": "The team reviewed the adminkeeper item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+    "meaning": "行政管理；作業執行",
+    "example": "We discussed adminkeeper during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 adminkeeper。"
   },
   {
     "word": "adminlane",
@@ -10375,9 +10375,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Hiring",
-    "meaning": "會議與溝通安排",
-    "example": "Please include the adminlane details in today's email update.",
-    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+    "meaning": "會議安排；溝通協調",
+    "example": "The manager asked for an update on adminlane before Friday.",
+    "example_zh": "經理要求在週五前提供 adminlane 的最新進度。"
   },
   {
     "word": "adminline",
@@ -10385,9 +10385,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Training",
-    "meaning": "客戶服務作業",
-    "example": "Our manager approved the adminline plan for next quarter.",
-    "example_zh": "經理已核准下季的客戶服務作業方案。"
+    "meaning": "客戶服務；客訴處理",
+    "example": "Our team improved adminline to support the new project.",
+    "example_zh": "我們團隊已改善 adminline 以支援新專案。"
   },
   {
     "word": "adminlink",
@@ -10395,9 +10395,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Administration",
-    "meaning": "物流與出貨管理",
-    "example": "The operations unit tracked the adminlink to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+    "meaning": "物流管理；出貨作業",
+    "example": "The client requested details about adminlink in the proposal.",
+    "example_zh": "客戶在提案中要求提供 adminlink 的細節。"
   },
   {
     "word": "adminlist",
@@ -10405,9 +10405,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Travel",
-    "meaning": "採購與供應商管理",
-    "example": "The finance staff checked the adminlist record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+    "meaning": "採購管理；供應商協作",
+    "example": "The quarterly report identified adminlist as a key focus area.",
+    "example_zh": "季度報告將 adminlist 列為關鍵關注項目。"
   },
   {
     "word": "adminload",
@@ -10415,9 +10415,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Marketing",
-    "meaning": "財務與帳務控管",
-    "example": "Customer service reported the adminload issue to the supervisor.",
-    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+    "meaning": "財務管理；帳務控管",
+    "example": "We discussed adminload during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 adminload。"
   },
   {
     "word": "adminlogic",
@@ -10425,9 +10425,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Manufacturing",
-    "meaning": "合約與法務管理",
-    "example": "The team reviewed the adminlogic item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+    "meaning": "合約管理；法務作業",
+    "example": "The manager asked for an update on adminlogic before Friday.",
+    "example_zh": "經理要求在週五前提供 adminlogic 的最新進度。"
   },
   {
     "word": "adminmaker",
@@ -10435,9 +10435,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Communication",
-    "meaning": "報表與數據追蹤",
-    "example": "Please include the adminmaker details in today's email update.",
-    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+    "meaning": "報表管理；數據追蹤",
+    "example": "Our team improved adminmaker to support the new project.",
+    "example_zh": "我們團隊已改善 adminmaker 以支援新專案。"
   },
   {
     "word": "adminmanage",
@@ -10445,9 +10445,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Facilities",
-    "meaning": "人資招募與訓練",
-    "example": "Our manager approved the adminmanage plan for next quarter.",
-    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+    "meaning": "人資招募；教育訓練",
+    "example": "The client requested details about adminmanage in the proposal.",
+    "example_zh": "客戶在提案中要求提供 adminmanage 的細節。"
   },
   {
     "word": "adminment",
@@ -10455,9 +10455,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Coordination",
-    "meaning": "專案與營運協調",
-    "example": "The operations unit tracked the adminment to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+    "meaning": "專案管理；營運協調",
+    "example": "The quarterly report identified adminment as a key focus area.",
+    "example_zh": "季度報告將 adminment 列為關鍵關注項目。"
   },
   {
     "word": "adminmetric",
@@ -10465,9 +10465,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Project",
-    "meaning": "預算與成本控管",
-    "example": "The finance staff checked the adminmetric record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+    "meaning": "預算管理；成本控管",
+    "example": "We discussed adminmetric during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 adminmetric。"
   },
   {
     "word": "adminmode",
@@ -10475,9 +10475,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Operations",
-    "meaning": "品質與稽核管理",
-    "example": "Customer service reported the adminmode issue to the supervisor.",
-    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+    "meaning": "品質管理；稽核作業",
+    "example": "The manager asked for an update on adminmode before Friday.",
+    "example_zh": "經理要求在週五前提供 adminmode 的最新進度。"
   },
   {
     "word": "adminmodule",
@@ -10485,9 +10485,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Office",
-    "meaning": "行政流程管理",
-    "example": "The team reviewed the adminmodule item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+    "meaning": "行政管理；作業執行",
+    "example": "Our team improved adminmodule to support the new project.",
+    "example_zh": "我們團隊已改善 adminmodule 以支援新專案。"
   },
   {
     "word": "adminmonitor",
@@ -10495,9 +10495,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Business",
-    "meaning": "會議與溝通安排",
-    "example": "Please include the adminmonitor details in today's email update.",
-    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+    "meaning": "會議安排；溝通協調",
+    "example": "The client requested details about adminmonitor in the proposal.",
+    "example_zh": "客戶在提案中要求提供 adminmonitor 的細節。"
   },
   {
     "word": "adminnet",
@@ -10505,9 +10505,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Meeting",
-    "meaning": "客戶服務作業",
-    "example": "Our manager approved the adminnet plan for next quarter.",
-    "example_zh": "經理已核准下季的客戶服務作業方案。"
+    "meaning": "客戶服務；客訴處理",
+    "example": "The quarterly report identified adminnet as a key focus area.",
+    "example_zh": "季度報告將 adminnet 列為關鍵關注項目。"
   },
   {
     "word": "adminnode",
@@ -10515,9 +10515,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Email",
-    "meaning": "物流與出貨管理",
-    "example": "The operations unit tracked the adminnode to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+    "meaning": "物流管理；出貨作業",
+    "example": "We discussed adminnode during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 adminnode。"
   },
   {
     "word": "adminoption",
@@ -10525,9 +10525,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "CustomerService",
-    "meaning": "採購與供應商管理",
-    "example": "The finance staff checked the adminoption record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+    "meaning": "採購管理；供應商協作",
+    "example": "The manager asked for an update on adminoption before Friday.",
+    "example_zh": "經理要求在週五前提供 adminoption 的最新進度。"
   },
   {
     "word": "adminpath",
@@ -10535,9 +10535,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Logistics",
-    "meaning": "財務與帳務控管",
-    "example": "Customer service reported the adminpath issue to the supervisor.",
-    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+    "meaning": "財務管理；帳務控管",
+    "example": "Our team improved adminpath to support the new project.",
+    "example_zh": "我們團隊已改善 adminpath 以支援新專案。"
   },
   {
     "word": "adminphase",
@@ -10545,9 +10545,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Shipping",
-    "meaning": "合約與法務管理",
-    "example": "The team reviewed the adminphase item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+    "meaning": "合約管理；法務作業",
+    "example": "The client requested details about adminphase in the proposal.",
+    "example_zh": "客戶在提案中要求提供 adminphase 的細節。"
   },
   {
     "word": "adminplan",
@@ -10555,9 +10555,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Purchasing",
-    "meaning": "報表與數據追蹤",
-    "example": "Please include the adminplan details in today's email update.",
-    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+    "meaning": "報表管理；數據追蹤",
+    "example": "The quarterly report identified adminplan as a key focus area.",
+    "example_zh": "季度報告將 adminplan 列為關鍵關注項目。"
   },
   {
     "word": "adminpoint",
@@ -10565,9 +10565,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Finance",
-    "meaning": "人資招募與訓練",
-    "example": "Our manager approved the adminpoint plan for next quarter.",
-    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+    "meaning": "人資招募；教育訓練",
+    "example": "We discussed adminpoint during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 adminpoint。"
   },
   {
     "word": "adminport",
@@ -10575,9 +10575,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Accounting",
-    "meaning": "專案與營運協調",
-    "example": "The operations unit tracked the adminport to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+    "meaning": "專案管理；營運協調",
+    "example": "The manager asked for an update on adminport before Friday.",
+    "example_zh": "經理要求在週五前提供 adminport 的最新進度。"
   },
   {
     "word": "adminpress",
@@ -10585,9 +10585,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Contracts",
-    "meaning": "預算與成本控管",
-    "example": "The finance staff checked the adminpress record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+    "meaning": "預算管理；成本控管",
+    "example": "Our team improved adminpress to support the new project.",
+    "example_zh": "我們團隊已改善 adminpress 以支援新專案。"
   },
   {
     "word": "adminproof",
@@ -10595,9 +10595,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Schedules",
-    "meaning": "品質與稽核管理",
-    "example": "Customer service reported the adminproof issue to the supervisor.",
-    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+    "meaning": "品質管理；稽核作業",
+    "example": "The client requested details about adminproof in the proposal.",
+    "example_zh": "客戶在提案中要求提供 adminproof 的細節。"
   },
   {
     "word": "adminpulse",
@@ -10605,9 +10605,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Reports",
-    "meaning": "行政流程管理",
-    "example": "The team reviewed the adminpulse item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+    "meaning": "行政管理；作業執行",
+    "example": "The quarterly report identified adminpulse as a key focus area.",
+    "example_zh": "季度報告將 adminpulse 列為關鍵關注項目。"
   },
   {
     "word": "adminqueue",
@@ -10615,9 +10615,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Hiring",
-    "meaning": "會議與溝通安排",
-    "example": "Please include the adminqueue details in today's email update.",
-    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+    "meaning": "會議安排；溝通協調",
+    "example": "We discussed adminqueue during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 adminqueue。"
   },
   {
     "word": "adminrate",
@@ -10625,9 +10625,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Training",
-    "meaning": "客戶服務作業",
-    "example": "Our manager approved the adminrate plan for next quarter.",
-    "example_zh": "經理已核准下季的客戶服務作業方案。"
+    "meaning": "客戶服務；客訴處理",
+    "example": "The manager asked for an update on adminrate before Friday.",
+    "example_zh": "經理要求在週五前提供 adminrate 的最新進度。"
   },
   {
     "word": "adminrecord",
@@ -10635,9 +10635,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Administration",
-    "meaning": "物流與出貨管理",
-    "example": "The operations unit tracked the adminrecord to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+    "meaning": "物流管理；出貨作業",
+    "example": "Our team improved adminrecord to support the new project.",
+    "example_zh": "我們團隊已改善 adminrecord 以支援新專案。"
   },
   {
     "word": "adminscope",
@@ -10645,9 +10645,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Travel",
-    "meaning": "採購與供應商管理",
-    "example": "The finance staff checked the adminscope record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+    "meaning": "採購管理；供應商協作",
+    "example": "The client requested details about adminscope in the proposal.",
+    "example_zh": "客戶在提案中要求提供 adminscope 的細節。"
   },
   {
     "word": "adminsense",
@@ -10655,9 +10655,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Marketing",
-    "meaning": "財務與帳務控管",
-    "example": "Customer service reported the adminsense issue to the supervisor.",
-    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+    "meaning": "財務管理；帳務控管",
+    "example": "The quarterly report identified adminsense as a key focus area.",
+    "example_zh": "季度報告將 adminsense 列為關鍵關注項目。"
   },
   {
     "word": "adminsheet",
@@ -10665,9 +10665,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Manufacturing",
-    "meaning": "合約與法務管理",
-    "example": "The team reviewed the adminsheet item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+    "meaning": "合約管理；法務作業",
+    "example": "We discussed adminsheet during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 adminsheet。"
   },
   {
     "word": "adminshift",
@@ -10675,9 +10675,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Communication",
-    "meaning": "報表與數據追蹤",
-    "example": "Please include the adminshift details in today's email update.",
-    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+    "meaning": "報表管理；數據追蹤",
+    "example": "The manager asked for an update on adminshift before Friday.",
+    "example_zh": "經理要求在週五前提供 adminshift 的最新進度。"
   },
   {
     "word": "adminsignal",
@@ -10685,9 +10685,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Facilities",
-    "meaning": "人資招募與訓練",
-    "example": "Our manager approved the adminsignal plan for next quarter.",
-    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+    "meaning": "人資招募；教育訓練",
+    "example": "Our team improved adminsignal to support the new project.",
+    "example_zh": "我們團隊已改善 adminsignal 以支援新專案。"
   },
   {
     "word": "adminsite",
@@ -10695,9 +10695,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Coordination",
-    "meaning": "專案與營運協調",
-    "example": "The operations unit tracked the adminsite to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+    "meaning": "專案管理；營運協調",
+    "example": "The client requested details about adminsite in the proposal.",
+    "example_zh": "客戶在提案中要求提供 adminsite 的細節。"
   },
   {
     "word": "adminskill",
@@ -10705,9 +10705,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Project",
-    "meaning": "預算與成本控管",
-    "example": "The finance staff checked the adminskill record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+    "meaning": "預算管理；成本控管",
+    "example": "The quarterly report identified adminskill as a key focus area.",
+    "example_zh": "季度報告將 adminskill 列為關鍵關注項目。"
   },
   {
     "word": "adminsource",
@@ -10715,9 +10715,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Operations",
-    "meaning": "品質與稽核管理",
-    "example": "Customer service reported the adminsource issue to the supervisor.",
-    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+    "meaning": "品質管理；稽核作業",
+    "example": "We discussed adminsource during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 adminsource。"
   },
   {
     "word": "adminspan",
@@ -10725,9 +10725,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Office",
-    "meaning": "行政流程管理",
-    "example": "The team reviewed the adminspan item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+    "meaning": "行政管理；作業執行",
+    "example": "The manager asked for an update on adminspan before Friday.",
+    "example_zh": "經理要求在週五前提供 adminspan 的最新進度。"
   },
   {
     "word": "adminstack",
@@ -10735,9 +10735,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Business",
-    "meaning": "會議與溝通安排",
-    "example": "Please include the adminstack details in today's email update.",
-    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+    "meaning": "會議安排；溝通協調",
+    "example": "Our team improved adminstack to support the new project.",
+    "example_zh": "我們團隊已改善 adminstack 以支援新專案。"
   },
   {
     "word": "adminstage",
@@ -10745,9 +10745,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Meeting",
-    "meaning": "客戶服務作業",
-    "example": "Our manager approved the adminstage plan for next quarter.",
-    "example_zh": "經理已核准下季的客戶服務作業方案。"
+    "meaning": "客戶服務；客訴處理",
+    "example": "The client requested details about adminstage in the proposal.",
+    "example_zh": "客戶在提案中要求提供 adminstage 的細節。"
   },
   {
     "word": "adminstate",
@@ -10755,9 +10755,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Email",
-    "meaning": "物流與出貨管理",
-    "example": "The operations unit tracked the adminstate to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+    "meaning": "物流管理；出貨作業",
+    "example": "The quarterly report identified adminstate as a key focus area.",
+    "example_zh": "季度報告將 adminstate 列為關鍵關注項目。"
   },
   {
     "word": "adminstream",
@@ -10765,9 +10765,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "CustomerService",
-    "meaning": "採購與供應商管理",
-    "example": "The finance staff checked the adminstream record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+    "meaning": "採購管理；供應商協作",
+    "example": "We discussed adminstream during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 adminstream。"
   },
   {
     "word": "adminsupport",
@@ -10775,9 +10775,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Logistics",
-    "meaning": "財務與帳務控管",
-    "example": "Customer service reported the adminsupport issue to the supervisor.",
-    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+    "meaning": "財務管理；帳務控管",
+    "example": "The manager asked for an update on adminsupport before Friday.",
+    "example_zh": "經理要求在週五前提供 adminsupport 的最新進度。"
   },
   {
     "word": "adminsync",
@@ -10785,9 +10785,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Shipping",
-    "meaning": "合約與法務管理",
-    "example": "The team reviewed the adminsync item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+    "meaning": "合約管理；法務作業",
+    "example": "Our team improved adminsync to support the new project.",
+    "example_zh": "我們團隊已改善 adminsync 以支援新專案。"
   },
   {
     "word": "adminsystem",
@@ -10795,9 +10795,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Purchasing",
-    "meaning": "報表與數據追蹤",
-    "example": "Please include the adminsystem details in today's email update.",
-    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+    "meaning": "報表管理；數據追蹤",
+    "example": "The client requested details about adminsystem in the proposal.",
+    "example_zh": "客戶在提案中要求提供 adminsystem 的細節。"
   },
   {
     "word": "admintable",
@@ -10805,9 +10805,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Finance",
-    "meaning": "人資招募與訓練",
-    "example": "Our manager approved the admintable plan for next quarter.",
-    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+    "meaning": "人資招募；教育訓練",
+    "example": "The quarterly report identified admintable as a key focus area.",
+    "example_zh": "季度報告將 admintable 列為關鍵關注項目。"
   },
   {
     "word": "admintech",
@@ -10815,9 +10815,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Accounting",
-    "meaning": "專案與營運協調",
-    "example": "The operations unit tracked the admintech to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+    "meaning": "專案管理；營運協調",
+    "example": "We discussed admintech during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 admintech。"
   },
   {
     "word": "admintrack",
@@ -10825,9 +10825,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Contracts",
-    "meaning": "預算與成本控管",
-    "example": "The finance staff checked the admintrack record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+    "meaning": "預算管理；成本控管",
+    "example": "The manager asked for an update on admintrack before Friday.",
+    "example_zh": "經理要求在週五前提供 admintrack 的最新進度。"
   },
   {
     "word": "admintrend",
@@ -10835,9 +10835,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Schedules",
-    "meaning": "品質與稽核管理",
-    "example": "Customer service reported the admintrend issue to the supervisor.",
-    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+    "meaning": "品質管理；稽核作業",
+    "example": "Our team improved admintrend to support the new project.",
+    "example_zh": "我們團隊已改善 admintrend 以支援新專案。"
   },
   {
     "word": "adminunit",
@@ -10845,9 +10845,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Reports",
-    "meaning": "行政流程管理",
-    "example": "The team reviewed the adminunit item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+    "meaning": "行政管理；作業執行",
+    "example": "The client requested details about adminunit in the proposal.",
+    "example_zh": "客戶在提案中要求提供 adminunit 的細節。"
   },
   {
     "word": "adminvalue",
@@ -10855,9 +10855,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Hiring",
-    "meaning": "會議與溝通安排",
-    "example": "Please include the adminvalue details in today's email update.",
-    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+    "meaning": "會議安排；溝通協調",
+    "example": "The quarterly report identified adminvalue as a key focus area.",
+    "example_zh": "季度報告將 adminvalue 列為關鍵關注項目。"
   },
   {
     "word": "adminview",
@@ -10865,9 +10865,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Training",
-    "meaning": "客戶服務作業",
-    "example": "Our manager approved the adminview plan for next quarter.",
-    "example_zh": "經理已核准下季的客戶服務作業方案。"
+    "meaning": "客戶服務；客訴處理",
+    "example": "We discussed adminview during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 adminview。"
   },
   {
     "word": "adminvision",
@@ -10875,9 +10875,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Administration",
-    "meaning": "物流與出貨管理",
-    "example": "The operations unit tracked the adminvision to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+    "meaning": "物流管理；出貨作業",
+    "example": "The manager asked for an update on adminvision before Friday.",
+    "example_zh": "經理要求在週五前提供 adminvision 的最新進度。"
   },
   {
     "word": "adminware",
@@ -10885,9 +10885,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Travel",
-    "meaning": "採購與供應商管理",
-    "example": "The finance staff checked the adminware record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+    "meaning": "採購管理；供應商協作",
+    "example": "Our team improved adminware to support the new project.",
+    "example_zh": "我們團隊已改善 adminware 以支援新專案。"
   },
   {
     "word": "adminwatch",
@@ -10895,9 +10895,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Marketing",
-    "meaning": "財務與帳務控管",
-    "example": "Customer service reported the adminwatch issue to the supervisor.",
-    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+    "meaning": "財務管理；帳務控管",
+    "example": "The client requested details about adminwatch in the proposal.",
+    "example_zh": "客戶在提案中要求提供 adminwatch 的細節。"
   },
   {
     "word": "adminwave",
@@ -10905,9 +10905,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Manufacturing",
-    "meaning": "合約與法務管理",
-    "example": "The team reviewed the adminwave item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+    "meaning": "合約管理；法務作業",
+    "example": "The quarterly report identified adminwave as a key focus area.",
+    "example_zh": "季度報告將 adminwave 列為關鍵關注項目。"
   },
   {
     "word": "adminwork",
@@ -10915,9 +10915,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Communication",
-    "meaning": "報表與數據追蹤",
-    "example": "Please include the adminwork details in today's email update.",
-    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+    "meaning": "報表管理；數據追蹤",
+    "example": "We discussed adminwork during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 adminwork。"
   },
   {
     "word": "adminzone",
@@ -10925,9 +10925,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Facilities",
-    "meaning": "人資招募與訓練",
-    "example": "Our manager approved the adminzone plan for next quarter.",
-    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+    "meaning": "人資招募；教育訓練",
+    "example": "The manager asked for an update on adminzone before Friday.",
+    "example_zh": "經理要求在週五前提供 adminzone 的最新進度。"
   },
   {
     "word": "agendaable",
@@ -10935,9 +10935,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Coordination",
-    "meaning": "專案與營運協調",
-    "example": "The operations unit tracked the agendaable to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+    "meaning": "專案管理；營運協調",
+    "example": "Our team improved agendaable to support the new project.",
+    "example_zh": "我們團隊已改善 agendaable 以支援新專案。"
   },
   {
     "word": "agendaability",
@@ -10945,9 +10945,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Project",
-    "meaning": "預算與成本控管",
-    "example": "The finance staff checked the agendaability record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+    "meaning": "預算管理；成本控管",
+    "example": "The client requested details about agendaability in the proposal.",
+    "example_zh": "客戶在提案中要求提供 agendaability 的細節。"
   },
   {
     "word": "agendaance",
@@ -10955,9 +10955,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Operations",
-    "meaning": "品質與稽核管理",
-    "example": "Customer service reported the agendaance issue to the supervisor.",
-    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+    "meaning": "品質管理；稽核作業",
+    "example": "The quarterly report identified agendaance as a key focus area.",
+    "example_zh": "季度報告將 agendaance 列為關鍵關注項目。"
   },
   {
     "word": "agendaancy",
@@ -10965,9 +10965,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Office",
-    "meaning": "行政流程管理",
-    "example": "The team reviewed the agendaancy item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+    "meaning": "行政管理；作業執行",
+    "example": "We discussed agendaancy during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 agendaancy。"
   },
   {
     "word": "agendaant",
@@ -10975,9 +10975,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Business",
-    "meaning": "會議與溝通安排",
-    "example": "Please include the agendaant details in today's email update.",
-    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+    "meaning": "會議安排；溝通協調",
+    "example": "The manager asked for an update on agendaant before Friday.",
+    "example_zh": "經理要求在週五前提供 agendaant 的最新進度。"
   },
   {
     "word": "agendaation",
@@ -10985,9 +10985,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Meeting",
-    "meaning": "客戶服務作業",
-    "example": "Our manager approved the agendaation plan for next quarter.",
-    "example_zh": "經理已核准下季的客戶服務作業方案。"
+    "meaning": "客戶服務；客訴處理",
+    "example": "Our team improved agendaation to support the new project.",
+    "example_zh": "我們團隊已改善 agendaation 以支援新專案。"
   },
   {
     "word": "agendaative",
@@ -10995,9 +10995,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Email",
-    "meaning": "物流與出貨管理",
-    "example": "The operations unit tracked the agendaative to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+    "meaning": "物流管理；出貨作業",
+    "example": "The client requested details about agendaative in the proposal.",
+    "example_zh": "客戶在提案中要求提供 agendaative 的細節。"
   },
   {
     "word": "agendaator",
@@ -11005,9 +11005,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "CustomerService",
-    "meaning": "採購與供應商管理",
-    "example": "The finance staff checked the agendaator record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+    "meaning": "採購管理；供應商協作",
+    "example": "The quarterly report identified agendaator as a key focus area.",
+    "example_zh": "季度報告將 agendaator 列為關鍵關注項目。"
   },
   {
     "word": "agendaboard",
@@ -11015,9 +11015,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Logistics",
-    "meaning": "財務與帳務控管",
-    "example": "Customer service reported the agendaboard issue to the supervisor.",
-    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+    "meaning": "財務管理；帳務控管",
+    "example": "We discussed agendaboard during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 agendaboard。"
   },
   {
     "word": "agendabook",
@@ -11025,9 +11025,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Shipping",
-    "meaning": "合約與法務管理",
-    "example": "The team reviewed the agendabook item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+    "meaning": "合約管理；法務作業",
+    "example": "The manager asked for an update on agendabook before Friday.",
+    "example_zh": "經理要求在週五前提供 agendabook 的最新進度。"
   },
   {
     "word": "agendabridge",
@@ -11035,9 +11035,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Purchasing",
-    "meaning": "報表與數據追蹤",
-    "example": "Please include the agendabridge details in today's email update.",
-    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+    "meaning": "報表管理；數據追蹤",
+    "example": "Our team improved agendabridge to support the new project.",
+    "example_zh": "我們團隊已改善 agendabridge 以支援新專案。"
   },
   {
     "word": "agendacare",
@@ -11045,9 +11045,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Finance",
-    "meaning": "人資招募與訓練",
-    "example": "Our manager approved the agendacare plan for next quarter.",
-    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+    "meaning": "人資招募；教育訓練",
+    "example": "The client requested details about agendacare in the proposal.",
+    "example_zh": "客戶在提案中要求提供 agendacare 的細節。"
   },
   {
     "word": "agendacenter",
@@ -11055,9 +11055,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Accounting",
-    "meaning": "專案與營運協調",
-    "example": "The operations unit tracked the agendacenter to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+    "meaning": "專案管理；營運協調",
+    "example": "The quarterly report identified agendacenter as a key focus area.",
+    "example_zh": "季度報告將 agendacenter 列為關鍵關注項目。"
   },
   {
     "word": "agendachart",
@@ -11065,9 +11065,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Contracts",
-    "meaning": "預算與成本控管",
-    "example": "The finance staff checked the agendachart record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+    "meaning": "預算管理；成本控管",
+    "example": "We discussed agendachart during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 agendachart。"
   },
   {
     "word": "agendacheck",
@@ -11075,9 +11075,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Schedules",
-    "meaning": "品質與稽核管理",
-    "example": "Customer service reported the agendacheck issue to the supervisor.",
-    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+    "meaning": "品質管理；稽核作業",
+    "example": "The manager asked for an update on agendacheck before Friday.",
+    "example_zh": "經理要求在週五前提供 agendacheck 的最新進度。"
   },
   {
     "word": "agendacore",
@@ -11085,9 +11085,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Reports",
-    "meaning": "行政流程管理",
-    "example": "The team reviewed the agendacore item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+    "meaning": "行政管理；作業執行",
+    "example": "Our team improved agendacore to support the new project.",
+    "example_zh": "我們團隊已改善 agendacore 以支援新專案。"
   },
   {
     "word": "agendacraft",
@@ -11095,9 +11095,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Hiring",
-    "meaning": "會議與溝通安排",
-    "example": "Please include the agendacraft details in today's email update.",
-    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+    "meaning": "會議安排；溝通協調",
+    "example": "The client requested details about agendacraft in the proposal.",
+    "example_zh": "客戶在提案中要求提供 agendacraft 的細節。"
   },
   {
     "word": "agendacycle",
@@ -11105,9 +11105,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Training",
-    "meaning": "客戶服務作業",
-    "example": "Our manager approved the agendacycle plan for next quarter.",
-    "example_zh": "經理已核准下季的客戶服務作業方案。"
+    "meaning": "客戶服務；客訴處理",
+    "example": "The quarterly report identified agendacycle as a key focus area.",
+    "example_zh": "季度報告將 agendacycle 列為關鍵關注項目。"
   },
   {
     "word": "agendadesk",
@@ -11115,9 +11115,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Administration",
-    "meaning": "物流與出貨管理",
-    "example": "The operations unit tracked the agendadesk to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+    "meaning": "物流管理；出貨作業",
+    "example": "We discussed agendadesk during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 agendadesk。"
   },
   {
     "word": "agendadrive",
@@ -11125,9 +11125,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Travel",
-    "meaning": "採購與供應商管理",
-    "example": "The finance staff checked the agendadrive record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+    "meaning": "採購管理；供應商協作",
+    "example": "The manager asked for an update on agendadrive before Friday.",
+    "example_zh": "經理要求在週五前提供 agendadrive 的最新進度。"
   },
   {
     "word": "agendaedge",
@@ -11135,9 +11135,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Marketing",
-    "meaning": "財務與帳務控管",
-    "example": "Customer service reported the agendaedge issue to the supervisor.",
-    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+    "meaning": "財務管理；帳務控管",
+    "example": "Our team improved agendaedge to support the new project.",
+    "example_zh": "我們團隊已改善 agendaedge 以支援新專案。"
   },
   {
     "word": "agendaency",
@@ -11145,9 +11145,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Manufacturing",
-    "meaning": "合約與法務管理",
-    "example": "The team reviewed the agendaency item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+    "meaning": "合約管理；法務作業",
+    "example": "The client requested details about agendaency in the proposal.",
+    "example_zh": "客戶在提案中要求提供 agendaency 的細節。"
   },
   {
     "word": "agendaengine",
@@ -11155,9 +11155,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Communication",
-    "meaning": "報表與數據追蹤",
-    "example": "Please include the agendaengine details in today's email update.",
-    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+    "meaning": "報表管理；數據追蹤",
+    "example": "The quarterly report identified agendaengine as a key focus area.",
+    "example_zh": "季度報告將 agendaengine 列為關鍵關注項目。"
   },
   {
     "word": "agendafield",
@@ -11165,9 +11165,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Facilities",
-    "meaning": "人資招募與訓練",
-    "example": "Our manager approved the agendafield plan for next quarter.",
-    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+    "meaning": "人資招募；教育訓練",
+    "example": "We discussed agendafield during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 agendafield。"
   },
   {
     "word": "agendaflow",
@@ -11175,9 +11175,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Coordination",
-    "meaning": "專案與營運協調",
-    "example": "The operations unit tracked the agendaflow to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+    "meaning": "專案管理；營運協調",
+    "example": "The manager asked for an update on agendaflow before Friday.",
+    "example_zh": "經理要求在週五前提供 agendaflow 的最新進度。"
   },
   {
     "word": "agendaforce",
@@ -11185,9 +11185,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Project",
-    "meaning": "預算與成本控管",
-    "example": "The finance staff checked the agendaforce record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+    "meaning": "預算管理；成本控管",
+    "example": "Our team improved agendaforce to support the new project.",
+    "example_zh": "我們團隊已改善 agendaforce 以支援新專案。"
   },
   {
     "word": "agendaform",
@@ -11195,9 +11195,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Operations",
-    "meaning": "品質與稽核管理",
-    "example": "Customer service reported the agendaform issue to the supervisor.",
-    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+    "meaning": "品質管理；稽核作業",
+    "example": "The client requested details about agendaform in the proposal.",
+    "example_zh": "客戶在提案中要求提供 agendaform 的細節。"
   },
   {
     "word": "agendaframe",
@@ -11205,9 +11205,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Office",
-    "meaning": "行政流程管理",
-    "example": "The team reviewed the agendaframe item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+    "meaning": "行政管理；作業執行",
+    "example": "The quarterly report identified agendaframe as a key focus area.",
+    "example_zh": "季度報告將 agendaframe 列為關鍵關注項目。"
   },
   {
     "word": "agendagate",
@@ -11215,9 +11215,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Business",
-    "meaning": "會議與溝通安排",
-    "example": "Please include the agendagate details in today's email update.",
-    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+    "meaning": "會議安排；溝通協調",
+    "example": "We discussed agendagate during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 agendagate。"
   },
   {
     "word": "agendagrid",
@@ -11225,9 +11225,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Meeting",
-    "meaning": "客戶服務作業",
-    "example": "Our manager approved the agendagrid plan for next quarter.",
-    "example_zh": "經理已核准下季的客戶服務作業方案。"
+    "meaning": "客戶服務；客訴處理",
+    "example": "The manager asked for an update on agendagrid before Friday.",
+    "example_zh": "經理要求在週五前提供 agendagrid 的最新進度。"
   },
   {
     "word": "agendaguide",
@@ -11235,9 +11235,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Email",
-    "meaning": "物流與出貨管理",
-    "example": "The operations unit tracked the agendaguide to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+    "meaning": "物流管理；出貨作業",
+    "example": "Our team improved agendaguide to support the new project.",
+    "example_zh": "我們團隊已改善 agendaguide 以支援新專案。"
   },
   {
     "word": "agendahouse",
@@ -11245,9 +11245,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "CustomerService",
-    "meaning": "採購與供應商管理",
-    "example": "The finance staff checked the agendahouse record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+    "meaning": "採購管理；供應商協作",
+    "example": "The client requested details about agendahouse in the proposal.",
+    "example_zh": "客戶在提案中要求提供 agendahouse 的細節。"
   },
   {
     "word": "agendahub",
@@ -11255,9 +11255,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Logistics",
-    "meaning": "財務與帳務控管",
-    "example": "Customer service reported the agendahub issue to the supervisor.",
-    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+    "meaning": "財務管理；帳務控管",
+    "example": "The quarterly report identified agendahub as a key focus area.",
+    "example_zh": "季度報告將 agendahub 列為關鍵關注項目。"
   },
   {
     "word": "agendaindex",
@@ -11265,9 +11265,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Shipping",
-    "meaning": "合約與法務管理",
-    "example": "The team reviewed the agendaindex item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+    "meaning": "合約管理；法務作業",
+    "example": "We discussed agendaindex during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 agendaindex。"
   },
   {
     "word": "agendaing",
@@ -11275,9 +11275,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Purchasing",
-    "meaning": "報表與數據追蹤",
-    "example": "Please include the agendaing details in today's email update.",
-    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+    "meaning": "報表管理；數據追蹤",
+    "example": "The manager asked for an update on agendaing before Friday.",
+    "example_zh": "經理要求在週五前提供 agendaing 的最新進度。"
   },
   {
     "word": "agendainsight",
@@ -11285,9 +11285,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Finance",
-    "meaning": "人資招募與訓練",
-    "example": "Our manager approved the agendainsight plan for next quarter.",
-    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+    "meaning": "人資招募；教育訓練",
+    "example": "Our team improved agendainsight to support the new project.",
+    "example_zh": "我們團隊已改善 agendainsight 以支援新專案。"
   },
   {
     "word": "agendakeeper",
@@ -11295,9 +11295,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Accounting",
-    "meaning": "專案與營運協調",
-    "example": "The operations unit tracked the agendakeeper to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+    "meaning": "專案管理；營運協調",
+    "example": "The client requested details about agendakeeper in the proposal.",
+    "example_zh": "客戶在提案中要求提供 agendakeeper 的細節。"
   },
   {
     "word": "agendalane",
@@ -11305,9 +11305,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Contracts",
-    "meaning": "預算與成本控管",
-    "example": "The finance staff checked the agendalane record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+    "meaning": "預算管理；成本控管",
+    "example": "The quarterly report identified agendalane as a key focus area.",
+    "example_zh": "季度報告將 agendalane 列為關鍵關注項目。"
   },
   {
     "word": "agendaline",
@@ -11315,9 +11315,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Schedules",
-    "meaning": "品質與稽核管理",
-    "example": "Customer service reported the agendaline issue to the supervisor.",
-    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+    "meaning": "品質管理；稽核作業",
+    "example": "We discussed agendaline during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 agendaline。"
   },
   {
     "word": "agendalink",
@@ -11325,9 +11325,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Reports",
-    "meaning": "行政流程管理",
-    "example": "The team reviewed the agendalink item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+    "meaning": "行政管理；作業執行",
+    "example": "The manager asked for an update on agendalink before Friday.",
+    "example_zh": "經理要求在週五前提供 agendalink 的最新進度。"
   },
   {
     "word": "agendalist",
@@ -11335,9 +11335,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Hiring",
-    "meaning": "會議與溝通安排",
-    "example": "Please include the agendalist details in today's email update.",
-    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+    "meaning": "會議安排；溝通協調",
+    "example": "Our team improved agendalist to support the new project.",
+    "example_zh": "我們團隊已改善 agendalist 以支援新專案。"
   },
   {
     "word": "agendaload",
@@ -11345,9 +11345,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Training",
-    "meaning": "客戶服務作業",
-    "example": "Our manager approved the agendaload plan for next quarter.",
-    "example_zh": "經理已核准下季的客戶服務作業方案。"
+    "meaning": "客戶服務；客訴處理",
+    "example": "The client requested details about agendaload in the proposal.",
+    "example_zh": "客戶在提案中要求提供 agendaload 的細節。"
   },
   {
     "word": "agendalogic",
@@ -11355,9 +11355,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Administration",
-    "meaning": "物流與出貨管理",
-    "example": "The operations unit tracked the agendalogic to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+    "meaning": "物流管理；出貨作業",
+    "example": "The quarterly report identified agendalogic as a key focus area.",
+    "example_zh": "季度報告將 agendalogic 列為關鍵關注項目。"
   },
   {
     "word": "agendamaker",
@@ -11365,9 +11365,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Travel",
-    "meaning": "採購與供應商管理",
-    "example": "The finance staff checked the agendamaker record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+    "meaning": "採購管理；供應商協作",
+    "example": "We discussed agendamaker during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 agendamaker。"
   },
   {
     "word": "agendamanage",
@@ -11375,9 +11375,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Marketing",
-    "meaning": "財務與帳務控管",
-    "example": "Customer service reported the agendamanage issue to the supervisor.",
-    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+    "meaning": "財務管理；帳務控管",
+    "example": "The manager asked for an update on agendamanage before Friday.",
+    "example_zh": "經理要求在週五前提供 agendamanage 的最新進度。"
   },
   {
     "word": "agendament",
@@ -11385,9 +11385,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Manufacturing",
-    "meaning": "合約與法務管理",
-    "example": "The team reviewed the agendament item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+    "meaning": "合約管理；法務作業",
+    "example": "Our team improved agendament to support the new project.",
+    "example_zh": "我們團隊已改善 agendament 以支援新專案。"
   },
   {
     "word": "agendametric",
@@ -11395,9 +11395,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Communication",
-    "meaning": "報表與數據追蹤",
-    "example": "Please include the agendametric details in today's email update.",
-    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+    "meaning": "報表管理；數據追蹤",
+    "example": "The client requested details about agendametric in the proposal.",
+    "example_zh": "客戶在提案中要求提供 agendametric 的細節。"
   },
   {
     "word": "agendamode",
@@ -11405,9 +11405,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Facilities",
-    "meaning": "人資招募與訓練",
-    "example": "Our manager approved the agendamode plan for next quarter.",
-    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+    "meaning": "人資招募；教育訓練",
+    "example": "The quarterly report identified agendamode as a key focus area.",
+    "example_zh": "季度報告將 agendamode 列為關鍵關注項目。"
   },
   {
     "word": "agendamodule",
@@ -11415,9 +11415,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Coordination",
-    "meaning": "專案與營運協調",
-    "example": "The operations unit tracked the agendamodule to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+    "meaning": "專案管理；營運協調",
+    "example": "We discussed agendamodule during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 agendamodule。"
   },
   {
     "word": "agendamonitor",
@@ -11425,9 +11425,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Project",
-    "meaning": "預算與成本控管",
-    "example": "The finance staff checked the agendamonitor record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+    "meaning": "預算管理；成本控管",
+    "example": "The manager asked for an update on agendamonitor before Friday.",
+    "example_zh": "經理要求在週五前提供 agendamonitor 的最新進度。"
   },
   {
     "word": "agendanet",
@@ -11435,9 +11435,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Operations",
-    "meaning": "品質與稽核管理",
-    "example": "Customer service reported the agendanet issue to the supervisor.",
-    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+    "meaning": "品質管理；稽核作業",
+    "example": "Our team improved agendanet to support the new project.",
+    "example_zh": "我們團隊已改善 agendanet 以支援新專案。"
   },
   {
     "word": "agendanode",
@@ -11445,9 +11445,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Office",
-    "meaning": "行政流程管理",
-    "example": "The team reviewed the agendanode item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+    "meaning": "行政管理；作業執行",
+    "example": "The client requested details about agendanode in the proposal.",
+    "example_zh": "客戶在提案中要求提供 agendanode 的細節。"
   },
   {
     "word": "agendaoption",
@@ -11455,9 +11455,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Business",
-    "meaning": "會議與溝通安排",
-    "example": "Please include the agendaoption details in today's email update.",
-    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+    "meaning": "會議安排；溝通協調",
+    "example": "The quarterly report identified agendaoption as a key focus area.",
+    "example_zh": "季度報告將 agendaoption 列為關鍵關注項目。"
   },
   {
     "word": "agendapath",
@@ -11465,9 +11465,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Meeting",
-    "meaning": "客戶服務作業",
-    "example": "Our manager approved the agendapath plan for next quarter.",
-    "example_zh": "經理已核准下季的客戶服務作業方案。"
+    "meaning": "客戶服務；客訴處理",
+    "example": "We discussed agendapath during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 agendapath。"
   },
   {
     "word": "agendaphase",
@@ -11475,9 +11475,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Email",
-    "meaning": "物流與出貨管理",
-    "example": "The operations unit tracked the agendaphase to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+    "meaning": "物流管理；出貨作業",
+    "example": "The manager asked for an update on agendaphase before Friday.",
+    "example_zh": "經理要求在週五前提供 agendaphase 的最新進度。"
   },
   {
     "word": "agendaplan",
@@ -11485,9 +11485,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "CustomerService",
-    "meaning": "採購與供應商管理",
-    "example": "The finance staff checked the agendaplan record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+    "meaning": "採購管理；供應商協作",
+    "example": "Our team improved agendaplan to support the new project.",
+    "example_zh": "我們團隊已改善 agendaplan 以支援新專案。"
   },
   {
     "word": "agendapoint",
@@ -11495,9 +11495,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Logistics",
-    "meaning": "財務與帳務控管",
-    "example": "Customer service reported the agendapoint issue to the supervisor.",
-    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+    "meaning": "財務管理；帳務控管",
+    "example": "The client requested details about agendapoint in the proposal.",
+    "example_zh": "客戶在提案中要求提供 agendapoint 的細節。"
   },
   {
     "word": "agendaport",
@@ -11505,9 +11505,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Shipping",
-    "meaning": "合約與法務管理",
-    "example": "The team reviewed the agendaport item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+    "meaning": "合約管理；法務作業",
+    "example": "The quarterly report identified agendaport as a key focus area.",
+    "example_zh": "季度報告將 agendaport 列為關鍵關注項目。"
   },
   {
     "word": "agendapress",
@@ -11515,9 +11515,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Purchasing",
-    "meaning": "報表與數據追蹤",
-    "example": "Please include the agendapress details in today's email update.",
-    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+    "meaning": "報表管理；數據追蹤",
+    "example": "We discussed agendapress during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 agendapress。"
   },
   {
     "word": "agendaproof",
@@ -11525,9 +11525,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Finance",
-    "meaning": "人資招募與訓練",
-    "example": "Our manager approved the agendaproof plan for next quarter.",
-    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+    "meaning": "人資招募；教育訓練",
+    "example": "The manager asked for an update on agendaproof before Friday.",
+    "example_zh": "經理要求在週五前提供 agendaproof 的最新進度。"
   },
   {
     "word": "agendapulse",
@@ -11535,9 +11535,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Accounting",
-    "meaning": "專案與營運協調",
-    "example": "The operations unit tracked the agendapulse to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+    "meaning": "專案管理；營運協調",
+    "example": "Our team improved agendapulse to support the new project.",
+    "example_zh": "我們團隊已改善 agendapulse 以支援新專案。"
   },
   {
     "word": "agendaqueue",
@@ -11545,9 +11545,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Contracts",
-    "meaning": "預算與成本控管",
-    "example": "The finance staff checked the agendaqueue record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+    "meaning": "預算管理；成本控管",
+    "example": "The client requested details about agendaqueue in the proposal.",
+    "example_zh": "客戶在提案中要求提供 agendaqueue 的細節。"
   },
   {
     "word": "agendarate",
@@ -11555,9 +11555,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Schedules",
-    "meaning": "品質與稽核管理",
-    "example": "Customer service reported the agendarate issue to the supervisor.",
-    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+    "meaning": "品質管理；稽核作業",
+    "example": "The quarterly report identified agendarate as a key focus area.",
+    "example_zh": "季度報告將 agendarate 列為關鍵關注項目。"
   },
   {
     "word": "agendarecord",
@@ -11565,9 +11565,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Reports",
-    "meaning": "行政流程管理",
-    "example": "The team reviewed the agendarecord item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+    "meaning": "行政管理；作業執行",
+    "example": "We discussed agendarecord during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 agendarecord。"
   },
   {
     "word": "agendascope",
@@ -11575,9 +11575,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Hiring",
-    "meaning": "會議與溝通安排",
-    "example": "Please include the agendascope details in today's email update.",
-    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+    "meaning": "會議安排；溝通協調",
+    "example": "The manager asked for an update on agendascope before Friday.",
+    "example_zh": "經理要求在週五前提供 agendascope 的最新進度。"
   },
   {
     "word": "agendasense",
@@ -11585,9 +11585,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Training",
-    "meaning": "客戶服務作業",
-    "example": "Our manager approved the agendasense plan for next quarter.",
-    "example_zh": "經理已核准下季的客戶服務作業方案。"
+    "meaning": "客戶服務；客訴處理",
+    "example": "Our team improved agendasense to support the new project.",
+    "example_zh": "我們團隊已改善 agendasense 以支援新專案。"
   },
   {
     "word": "agendasheet",
@@ -11595,9 +11595,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Administration",
-    "meaning": "物流與出貨管理",
-    "example": "The operations unit tracked the agendasheet to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+    "meaning": "物流管理；出貨作業",
+    "example": "The client requested details about agendasheet in the proposal.",
+    "example_zh": "客戶在提案中要求提供 agendasheet 的細節。"
   },
   {
     "word": "agendashift",
@@ -11605,9 +11605,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Travel",
-    "meaning": "採購與供應商管理",
-    "example": "The finance staff checked the agendashift record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+    "meaning": "採購管理；供應商協作",
+    "example": "The quarterly report identified agendashift as a key focus area.",
+    "example_zh": "季度報告將 agendashift 列為關鍵關注項目。"
   },
   {
     "word": "agendasignal",
@@ -11615,9 +11615,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Marketing",
-    "meaning": "財務與帳務控管",
-    "example": "Customer service reported the agendasignal issue to the supervisor.",
-    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+    "meaning": "財務管理；帳務控管",
+    "example": "We discussed agendasignal during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 agendasignal。"
   },
   {
     "word": "agendasite",
@@ -11625,9 +11625,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Manufacturing",
-    "meaning": "合約與法務管理",
-    "example": "The team reviewed the agendasite item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+    "meaning": "合約管理；法務作業",
+    "example": "The manager asked for an update on agendasite before Friday.",
+    "example_zh": "經理要求在週五前提供 agendasite 的最新進度。"
   },
   {
     "word": "agendaskill",
@@ -11635,9 +11635,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Communication",
-    "meaning": "報表與數據追蹤",
-    "example": "Please include the agendaskill details in today's email update.",
-    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+    "meaning": "報表管理；數據追蹤",
+    "example": "Our team improved agendaskill to support the new project.",
+    "example_zh": "我們團隊已改善 agendaskill 以支援新專案。"
   },
   {
     "word": "agendasource",
@@ -11645,9 +11645,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Facilities",
-    "meaning": "人資招募與訓練",
-    "example": "Our manager approved the agendasource plan for next quarter.",
-    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+    "meaning": "人資招募；教育訓練",
+    "example": "The client requested details about agendasource in the proposal.",
+    "example_zh": "客戶在提案中要求提供 agendasource 的細節。"
   },
   {
     "word": "agendaspan",
@@ -11655,9 +11655,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Coordination",
-    "meaning": "專案與營運協調",
-    "example": "The operations unit tracked the agendaspan to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+    "meaning": "專案管理；營運協調",
+    "example": "The quarterly report identified agendaspan as a key focus area.",
+    "example_zh": "季度報告將 agendaspan 列為關鍵關注項目。"
   },
   {
     "word": "agendastack",
@@ -11665,9 +11665,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Project",
-    "meaning": "預算與成本控管",
-    "example": "The finance staff checked the agendastack record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+    "meaning": "預算管理；成本控管",
+    "example": "We discussed agendastack during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 agendastack。"
   },
   {
     "word": "agendastage",
@@ -11675,9 +11675,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Operations",
-    "meaning": "品質與稽核管理",
-    "example": "Customer service reported the agendastage issue to the supervisor.",
-    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+    "meaning": "品質管理；稽核作業",
+    "example": "The manager asked for an update on agendastage before Friday.",
+    "example_zh": "經理要求在週五前提供 agendastage 的最新進度。"
   },
   {
     "word": "agendastate",
@@ -11685,9 +11685,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Office",
-    "meaning": "行政流程管理",
-    "example": "The team reviewed the agendastate item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+    "meaning": "行政管理；作業執行",
+    "example": "Our team improved agendastate to support the new project.",
+    "example_zh": "我們團隊已改善 agendastate 以支援新專案。"
   },
   {
     "word": "agendastream",
@@ -11695,9 +11695,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Business",
-    "meaning": "會議與溝通安排",
-    "example": "Please include the agendastream details in today's email update.",
-    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+    "meaning": "會議安排；溝通協調",
+    "example": "The client requested details about agendastream in the proposal.",
+    "example_zh": "客戶在提案中要求提供 agendastream 的細節。"
   },
   {
     "word": "agendasupport",
@@ -11705,9 +11705,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Meeting",
-    "meaning": "客戶服務作業",
-    "example": "Our manager approved the agendasupport plan for next quarter.",
-    "example_zh": "經理已核准下季的客戶服務作業方案。"
+    "meaning": "客戶服務；客訴處理",
+    "example": "The quarterly report identified agendasupport as a key focus area.",
+    "example_zh": "季度報告將 agendasupport 列為關鍵關注項目。"
   },
   {
     "word": "agendasync",
@@ -11715,9 +11715,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Email",
-    "meaning": "物流與出貨管理",
-    "example": "The operations unit tracked the agendasync to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+    "meaning": "物流管理；出貨作業",
+    "example": "We discussed agendasync during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 agendasync。"
   },
   {
     "word": "agendasystem",
@@ -11725,9 +11725,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "CustomerService",
-    "meaning": "採購與供應商管理",
-    "example": "The finance staff checked the agendasystem record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+    "meaning": "採購管理；供應商協作",
+    "example": "The manager asked for an update on agendasystem before Friday.",
+    "example_zh": "經理要求在週五前提供 agendasystem 的最新進度。"
   },
   {
     "word": "agendatable",
@@ -11735,9 +11735,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Logistics",
-    "meaning": "財務與帳務控管",
-    "example": "Customer service reported the agendatable issue to the supervisor.",
-    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+    "meaning": "財務管理；帳務控管",
+    "example": "Our team improved agendatable to support the new project.",
+    "example_zh": "我們團隊已改善 agendatable 以支援新專案。"
   },
   {
     "word": "agendatech",
@@ -11745,9 +11745,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Shipping",
-    "meaning": "合約與法務管理",
-    "example": "The team reviewed the agendatech item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+    "meaning": "合約管理；法務作業",
+    "example": "The client requested details about agendatech in the proposal.",
+    "example_zh": "客戶在提案中要求提供 agendatech 的細節。"
   },
   {
     "word": "agendatrack",
@@ -11755,9 +11755,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Purchasing",
-    "meaning": "報表與數據追蹤",
-    "example": "Please include the agendatrack details in today's email update.",
-    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+    "meaning": "報表管理；數據追蹤",
+    "example": "The quarterly report identified agendatrack as a key focus area.",
+    "example_zh": "季度報告將 agendatrack 列為關鍵關注項目。"
   },
   {
     "word": "agendatrend",
@@ -11765,9 +11765,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Finance",
-    "meaning": "人資招募與訓練",
-    "example": "Our manager approved the agendatrend plan for next quarter.",
-    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+    "meaning": "人資招募；教育訓練",
+    "example": "We discussed agendatrend during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 agendatrend。"
   },
   {
     "word": "agendaunit",
@@ -11775,9 +11775,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Accounting",
-    "meaning": "專案與營運協調",
-    "example": "The operations unit tracked the agendaunit to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+    "meaning": "專案管理；營運協調",
+    "example": "The manager asked for an update on agendaunit before Friday.",
+    "example_zh": "經理要求在週五前提供 agendaunit 的最新進度。"
   },
   {
     "word": "agendavalue",
@@ -11785,9 +11785,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Contracts",
-    "meaning": "預算與成本控管",
-    "example": "The finance staff checked the agendavalue record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+    "meaning": "預算管理；成本控管",
+    "example": "Our team improved agendavalue to support the new project.",
+    "example_zh": "我們團隊已改善 agendavalue 以支援新專案。"
   },
   {
     "word": "agendaview",
@@ -11795,9 +11795,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Schedules",
-    "meaning": "品質與稽核管理",
-    "example": "Customer service reported the agendaview issue to the supervisor.",
-    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+    "meaning": "品質管理；稽核作業",
+    "example": "The client requested details about agendaview in the proposal.",
+    "example_zh": "客戶在提案中要求提供 agendaview 的細節。"
   },
   {
     "word": "agendavision",
@@ -11805,9 +11805,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Reports",
-    "meaning": "行政流程管理",
-    "example": "The team reviewed the agendavision item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+    "meaning": "行政管理；作業執行",
+    "example": "The quarterly report identified agendavision as a key focus area.",
+    "example_zh": "季度報告將 agendavision 列為關鍵關注項目。"
   },
   {
     "word": "agendaware",
@@ -11815,9 +11815,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Hiring",
-    "meaning": "會議與溝通安排",
-    "example": "Please include the agendaware details in today's email update.",
-    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+    "meaning": "會議安排；溝通協調",
+    "example": "We discussed agendaware during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 agendaware。"
   },
   {
     "word": "agendawatch",
@@ -11825,9 +11825,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Training",
-    "meaning": "客戶服務作業",
-    "example": "Our manager approved the agendawatch plan for next quarter.",
-    "example_zh": "經理已核准下季的客戶服務作業方案。"
+    "meaning": "客戶服務；客訴處理",
+    "example": "The manager asked for an update on agendawatch before Friday.",
+    "example_zh": "經理要求在週五前提供 agendawatch 的最新進度。"
   },
   {
     "word": "agendawave",
@@ -11835,9 +11835,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Administration",
-    "meaning": "物流與出貨管理",
-    "example": "The operations unit tracked the agendawave to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+    "meaning": "物流管理；出貨作業",
+    "example": "Our team improved agendawave to support the new project.",
+    "example_zh": "我們團隊已改善 agendawave 以支援新專案。"
   },
   {
     "word": "agendawork",
@@ -11845,9 +11845,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Travel",
-    "meaning": "採購與供應商管理",
-    "example": "The finance staff checked the agendawork record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+    "meaning": "採購管理；供應商協作",
+    "example": "The client requested details about agendawork in the proposal.",
+    "example_zh": "客戶在提案中要求提供 agendawork 的細節。"
   },
   {
     "word": "agendazone",
@@ -11855,9 +11855,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Marketing",
-    "meaning": "財務與帳務控管",
-    "example": "Customer service reported the agendazone issue to the supervisor.",
-    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+    "meaning": "財務管理；帳務控管",
+    "example": "The quarterly report identified agendazone as a key focus area.",
+    "example_zh": "季度報告將 agendazone 列為關鍵關注項目。"
   },
   {
     "word": "auditable",
@@ -11865,9 +11865,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Manufacturing",
-    "meaning": "合約與法務管理",
-    "example": "The team reviewed the auditable item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+    "meaning": "合約管理；法務作業",
+    "example": "We discussed auditable during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 auditable。"
   },
   {
     "word": "auditability",
@@ -11875,9 +11875,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Communication",
-    "meaning": "報表與數據追蹤",
-    "example": "Please include the auditability details in today's email update.",
-    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+    "meaning": "報表管理；數據追蹤",
+    "example": "The manager asked for an update on auditability before Friday.",
+    "example_zh": "經理要求在週五前提供 auditability 的最新進度。"
   },
   {
     "word": "auditance",
@@ -11885,9 +11885,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Facilities",
-    "meaning": "人資招募與訓練",
-    "example": "Our manager approved the auditance plan for next quarter.",
-    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+    "meaning": "人資招募；教育訓練",
+    "example": "Our team improved auditance to support the new project.",
+    "example_zh": "我們團隊已改善 auditance 以支援新專案。"
   },
   {
     "word": "auditancy",
@@ -11895,9 +11895,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Coordination",
-    "meaning": "專案與營運協調",
-    "example": "The operations unit tracked the auditancy to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+    "meaning": "專案管理；營運協調",
+    "example": "The client requested details about auditancy in the proposal.",
+    "example_zh": "客戶在提案中要求提供 auditancy 的細節。"
   },
   {
     "word": "auditant",
@@ -11905,9 +11905,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Project",
-    "meaning": "預算與成本控管",
-    "example": "The finance staff checked the auditant record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+    "meaning": "預算管理；成本控管",
+    "example": "The quarterly report identified auditant as a key focus area.",
+    "example_zh": "季度報告將 auditant 列為關鍵關注項目。"
   },
   {
     "word": "auditation",
@@ -11915,9 +11915,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Operations",
-    "meaning": "品質與稽核管理",
-    "example": "Customer service reported the auditation issue to the supervisor.",
-    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+    "meaning": "品質管理；稽核作業",
+    "example": "We discussed auditation during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 auditation。"
   },
   {
     "word": "auditative",
@@ -11925,9 +11925,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Office",
-    "meaning": "行政流程管理",
-    "example": "The team reviewed the auditative item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+    "meaning": "行政管理；作業執行",
+    "example": "The manager asked for an update on auditative before Friday.",
+    "example_zh": "經理要求在週五前提供 auditative 的最新進度。"
   },
   {
     "word": "auditator",
@@ -11935,9 +11935,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Business",
-    "meaning": "會議與溝通安排",
-    "example": "Please include the auditator details in today's email update.",
-    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+    "meaning": "會議安排；溝通協調",
+    "example": "Our team improved auditator to support the new project.",
+    "example_zh": "我們團隊已改善 auditator 以支援新專案。"
   },
   {
     "word": "auditboard",
@@ -11945,9 +11945,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Meeting",
-    "meaning": "客戶服務作業",
-    "example": "Our manager approved the auditboard plan for next quarter.",
-    "example_zh": "經理已核准下季的客戶服務作業方案。"
+    "meaning": "客戶服務；客訴處理",
+    "example": "The client requested details about auditboard in the proposal.",
+    "example_zh": "客戶在提案中要求提供 auditboard 的細節。"
   },
   {
     "word": "auditbook",
@@ -11955,9 +11955,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Email",
-    "meaning": "物流與出貨管理",
-    "example": "The operations unit tracked the auditbook to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+    "meaning": "物流管理；出貨作業",
+    "example": "The quarterly report identified auditbook as a key focus area.",
+    "example_zh": "季度報告將 auditbook 列為關鍵關注項目。"
   },
   {
     "word": "auditbridge",
@@ -11965,9 +11965,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "CustomerService",
-    "meaning": "採購與供應商管理",
-    "example": "The finance staff checked the auditbridge record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+    "meaning": "採購管理；供應商協作",
+    "example": "We discussed auditbridge during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 auditbridge。"
   },
   {
     "word": "auditcare",
@@ -11975,9 +11975,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Logistics",
-    "meaning": "財務與帳務控管",
-    "example": "Customer service reported the auditcare issue to the supervisor.",
-    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+    "meaning": "財務管理；帳務控管",
+    "example": "The manager asked for an update on auditcare before Friday.",
+    "example_zh": "經理要求在週五前提供 auditcare 的最新進度。"
   },
   {
     "word": "auditcenter",
@@ -11985,9 +11985,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Shipping",
-    "meaning": "合約與法務管理",
-    "example": "The team reviewed the auditcenter item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+    "meaning": "合約管理；法務作業",
+    "example": "Our team improved auditcenter to support the new project.",
+    "example_zh": "我們團隊已改善 auditcenter 以支援新專案。"
   },
   {
     "word": "auditchart",
@@ -11995,9 +11995,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Purchasing",
-    "meaning": "報表與數據追蹤",
-    "example": "Please include the auditchart details in today's email update.",
-    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+    "meaning": "報表管理；數據追蹤",
+    "example": "The client requested details about auditchart in the proposal.",
+    "example_zh": "客戶在提案中要求提供 auditchart 的細節。"
   },
   {
     "word": "auditcheck",
@@ -12005,9 +12005,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Finance",
-    "meaning": "人資招募與訓練",
-    "example": "Our manager approved the auditcheck plan for next quarter.",
-    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+    "meaning": "人資招募；教育訓練",
+    "example": "The quarterly report identified auditcheck as a key focus area.",
+    "example_zh": "季度報告將 auditcheck 列為關鍵關注項目。"
   },
   {
     "word": "auditcore",
@@ -12015,9 +12015,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Accounting",
-    "meaning": "專案與營運協調",
-    "example": "The operations unit tracked the auditcore to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+    "meaning": "專案管理；營運協調",
+    "example": "We discussed auditcore during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 auditcore。"
   },
   {
     "word": "auditcraft",
@@ -12025,9 +12025,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Contracts",
-    "meaning": "預算與成本控管",
-    "example": "The finance staff checked the auditcraft record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+    "meaning": "預算管理；成本控管",
+    "example": "The manager asked for an update on auditcraft before Friday.",
+    "example_zh": "經理要求在週五前提供 auditcraft 的最新進度。"
   },
   {
     "word": "auditcycle",
@@ -12035,9 +12035,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Schedules",
-    "meaning": "品質與稽核管理",
-    "example": "Customer service reported the auditcycle issue to the supervisor.",
-    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+    "meaning": "品質管理；稽核作業",
+    "example": "Our team improved auditcycle to support the new project.",
+    "example_zh": "我們團隊已改善 auditcycle 以支援新專案。"
   },
   {
     "word": "auditdesk",
@@ -12045,9 +12045,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Reports",
-    "meaning": "行政流程管理",
-    "example": "The team reviewed the auditdesk item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+    "meaning": "行政管理；作業執行",
+    "example": "The client requested details about auditdesk in the proposal.",
+    "example_zh": "客戶在提案中要求提供 auditdesk 的細節。"
   },
   {
     "word": "auditdrive",
@@ -12055,9 +12055,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Hiring",
-    "meaning": "會議與溝通安排",
-    "example": "Please include the auditdrive details in today's email update.",
-    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+    "meaning": "會議安排；溝通協調",
+    "example": "The quarterly report identified auditdrive as a key focus area.",
+    "example_zh": "季度報告將 auditdrive 列為關鍵關注項目。"
   },
   {
     "word": "auditedge",
@@ -12065,9 +12065,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Training",
-    "meaning": "客戶服務作業",
-    "example": "Our manager approved the auditedge plan for next quarter.",
-    "example_zh": "經理已核准下季的客戶服務作業方案。"
+    "meaning": "客戶服務；客訴處理",
+    "example": "We discussed auditedge during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 auditedge。"
   },
   {
     "word": "auditency",
@@ -12075,9 +12075,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Administration",
-    "meaning": "物流與出貨管理",
-    "example": "The operations unit tracked the auditency to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+    "meaning": "物流管理；出貨作業",
+    "example": "The manager asked for an update on auditency before Friday.",
+    "example_zh": "經理要求在週五前提供 auditency 的最新進度。"
   },
   {
     "word": "auditengine",
@@ -12085,9 +12085,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Travel",
-    "meaning": "採購與供應商管理",
-    "example": "The finance staff checked the auditengine record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+    "meaning": "採購管理；供應商協作",
+    "example": "Our team improved auditengine to support the new project.",
+    "example_zh": "我們團隊已改善 auditengine 以支援新專案。"
   },
   {
     "word": "auditfield",
@@ -12095,9 +12095,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Marketing",
-    "meaning": "財務與帳務控管",
-    "example": "Customer service reported the auditfield issue to the supervisor.",
-    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+    "meaning": "財務管理；帳務控管",
+    "example": "The client requested details about auditfield in the proposal.",
+    "example_zh": "客戶在提案中要求提供 auditfield 的細節。"
   },
   {
     "word": "auditflow",
@@ -12105,9 +12105,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Manufacturing",
-    "meaning": "合約與法務管理",
-    "example": "The team reviewed the auditflow item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+    "meaning": "合約管理；法務作業",
+    "example": "The quarterly report identified auditflow as a key focus area.",
+    "example_zh": "季度報告將 auditflow 列為關鍵關注項目。"
   },
   {
     "word": "auditforce",
@@ -12115,9 +12115,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Communication",
-    "meaning": "報表與數據追蹤",
-    "example": "Please include the auditforce details in today's email update.",
-    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+    "meaning": "報表管理；數據追蹤",
+    "example": "We discussed auditforce during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 auditforce。"
   },
   {
     "word": "auditform",
@@ -12125,9 +12125,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Facilities",
-    "meaning": "人資招募與訓練",
-    "example": "Our manager approved the auditform plan for next quarter.",
-    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+    "meaning": "人資招募；教育訓練",
+    "example": "The manager asked for an update on auditform before Friday.",
+    "example_zh": "經理要求在週五前提供 auditform 的最新進度。"
   },
   {
     "word": "auditframe",
@@ -12135,9 +12135,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Coordination",
-    "meaning": "專案與營運協調",
-    "example": "The operations unit tracked the auditframe to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+    "meaning": "專案管理；營運協調",
+    "example": "Our team improved auditframe to support the new project.",
+    "example_zh": "我們團隊已改善 auditframe 以支援新專案。"
   },
   {
     "word": "auditgate",
@@ -12145,9 +12145,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Project",
-    "meaning": "預算與成本控管",
-    "example": "The finance staff checked the auditgate record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+    "meaning": "預算管理；成本控管",
+    "example": "The client requested details about auditgate in the proposal.",
+    "example_zh": "客戶在提案中要求提供 auditgate 的細節。"
   },
   {
     "word": "auditgrid",
@@ -12155,9 +12155,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Operations",
-    "meaning": "品質與稽核管理",
-    "example": "Customer service reported the auditgrid issue to the supervisor.",
-    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+    "meaning": "品質管理；稽核作業",
+    "example": "The quarterly report identified auditgrid as a key focus area.",
+    "example_zh": "季度報告將 auditgrid 列為關鍵關注項目。"
   },
   {
     "word": "auditguide",
@@ -12165,9 +12165,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Office",
-    "meaning": "行政流程管理",
-    "example": "The team reviewed the auditguide item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+    "meaning": "行政管理；作業執行",
+    "example": "We discussed auditguide during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 auditguide。"
   },
   {
     "word": "audithouse",
@@ -12175,9 +12175,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Business",
-    "meaning": "會議與溝通安排",
-    "example": "Please include the audithouse details in today's email update.",
-    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+    "meaning": "會議安排；溝通協調",
+    "example": "The manager asked for an update on audithouse before Friday.",
+    "example_zh": "經理要求在週五前提供 audithouse 的最新進度。"
   },
   {
     "word": "audithub",
@@ -12185,9 +12185,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Meeting",
-    "meaning": "客戶服務作業",
-    "example": "Our manager approved the audithub plan for next quarter.",
-    "example_zh": "經理已核准下季的客戶服務作業方案。"
+    "meaning": "客戶服務；客訴處理",
+    "example": "Our team improved audithub to support the new project.",
+    "example_zh": "我們團隊已改善 audithub 以支援新專案。"
   },
   {
     "word": "auditindex",
@@ -12195,9 +12195,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Email",
-    "meaning": "物流與出貨管理",
-    "example": "The operations unit tracked the auditindex to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+    "meaning": "物流管理；出貨作業",
+    "example": "The client requested details about auditindex in the proposal.",
+    "example_zh": "客戶在提案中要求提供 auditindex 的細節。"
   },
   {
     "word": "auditing",
@@ -12205,9 +12205,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "CustomerService",
-    "meaning": "採購與供應商管理",
-    "example": "The finance staff checked the auditing record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+    "meaning": "採購管理；供應商協作",
+    "example": "The quarterly report identified auditing as a key focus area.",
+    "example_zh": "季度報告將 auditing 列為關鍵關注項目。"
   },
   {
     "word": "auditinsight",
@@ -12215,9 +12215,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Logistics",
-    "meaning": "財務與帳務控管",
-    "example": "Customer service reported the auditinsight issue to the supervisor.",
-    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+    "meaning": "財務管理；帳務控管",
+    "example": "We discussed auditinsight during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 auditinsight。"
   },
   {
     "word": "auditkeeper",
@@ -12225,9 +12225,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Shipping",
-    "meaning": "合約與法務管理",
-    "example": "The team reviewed the auditkeeper item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+    "meaning": "合約管理；法務作業",
+    "example": "The manager asked for an update on auditkeeper before Friday.",
+    "example_zh": "經理要求在週五前提供 auditkeeper 的最新進度。"
   },
   {
     "word": "auditlane",
@@ -12235,9 +12235,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Purchasing",
-    "meaning": "報表與數據追蹤",
-    "example": "Please include the auditlane details in today's email update.",
-    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+    "meaning": "報表管理；數據追蹤",
+    "example": "Our team improved auditlane to support the new project.",
+    "example_zh": "我們團隊已改善 auditlane 以支援新專案。"
   },
   {
     "word": "auditline",
@@ -12245,9 +12245,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Finance",
-    "meaning": "人資招募與訓練",
-    "example": "Our manager approved the auditline plan for next quarter.",
-    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+    "meaning": "人資招募；教育訓練",
+    "example": "The client requested details about auditline in the proposal.",
+    "example_zh": "客戶在提案中要求提供 auditline 的細節。"
   },
   {
     "word": "auditlink",
@@ -12255,9 +12255,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Accounting",
-    "meaning": "專案與營運協調",
-    "example": "The operations unit tracked the auditlink to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+    "meaning": "專案管理；營運協調",
+    "example": "The quarterly report identified auditlink as a key focus area.",
+    "example_zh": "季度報告將 auditlink 列為關鍵關注項目。"
   },
   {
     "word": "auditlist",
@@ -12265,9 +12265,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Contracts",
-    "meaning": "預算與成本控管",
-    "example": "The finance staff checked the auditlist record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+    "meaning": "預算管理；成本控管",
+    "example": "We discussed auditlist during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 auditlist。"
   },
   {
     "word": "auditload",
@@ -12275,9 +12275,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Schedules",
-    "meaning": "品質與稽核管理",
-    "example": "Customer service reported the auditload issue to the supervisor.",
-    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+    "meaning": "品質管理；稽核作業",
+    "example": "The manager asked for an update on auditload before Friday.",
+    "example_zh": "經理要求在週五前提供 auditload 的最新進度。"
   },
   {
     "word": "auditlogic",
@@ -12285,9 +12285,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Reports",
-    "meaning": "行政流程管理",
-    "example": "The team reviewed the auditlogic item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+    "meaning": "行政管理；作業執行",
+    "example": "Our team improved auditlogic to support the new project.",
+    "example_zh": "我們團隊已改善 auditlogic 以支援新專案。"
   },
   {
     "word": "auditmaker",
@@ -12295,9 +12295,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Hiring",
-    "meaning": "會議與溝通安排",
-    "example": "Please include the auditmaker details in today's email update.",
-    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+    "meaning": "會議安排；溝通協調",
+    "example": "The client requested details about auditmaker in the proposal.",
+    "example_zh": "客戶在提案中要求提供 auditmaker 的細節。"
   },
   {
     "word": "auditmanage",
@@ -12305,9 +12305,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Training",
-    "meaning": "客戶服務作業",
-    "example": "Our manager approved the auditmanage plan for next quarter.",
-    "example_zh": "經理已核准下季的客戶服務作業方案。"
+    "meaning": "客戶服務；客訴處理",
+    "example": "The quarterly report identified auditmanage as a key focus area.",
+    "example_zh": "季度報告將 auditmanage 列為關鍵關注項目。"
   },
   {
     "word": "auditment",
@@ -12315,9 +12315,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Administration",
-    "meaning": "物流與出貨管理",
-    "example": "The operations unit tracked the auditment to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+    "meaning": "物流管理；出貨作業",
+    "example": "We discussed auditment during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 auditment。"
   },
   {
     "word": "auditmetric",
@@ -12325,9 +12325,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Travel",
-    "meaning": "採購與供應商管理",
-    "example": "The finance staff checked the auditmetric record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+    "meaning": "採購管理；供應商協作",
+    "example": "The manager asked for an update on auditmetric before Friday.",
+    "example_zh": "經理要求在週五前提供 auditmetric 的最新進度。"
   },
   {
     "word": "auditmode",
@@ -12335,9 +12335,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Marketing",
-    "meaning": "財務與帳務控管",
-    "example": "Customer service reported the auditmode issue to the supervisor.",
-    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+    "meaning": "財務管理；帳務控管",
+    "example": "Our team improved auditmode to support the new project.",
+    "example_zh": "我們團隊已改善 auditmode 以支援新專案。"
   },
   {
     "word": "auditmodule",
@@ -12345,9 +12345,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Manufacturing",
-    "meaning": "合約與法務管理",
-    "example": "The team reviewed the auditmodule item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+    "meaning": "合約管理；法務作業",
+    "example": "The client requested details about auditmodule in the proposal.",
+    "example_zh": "客戶在提案中要求提供 auditmodule 的細節。"
   },
   {
     "word": "auditmonitor",
@@ -12355,9 +12355,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Communication",
-    "meaning": "報表與數據追蹤",
-    "example": "Please include the auditmonitor details in today's email update.",
-    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+    "meaning": "報表管理；數據追蹤",
+    "example": "The quarterly report identified auditmonitor as a key focus area.",
+    "example_zh": "季度報告將 auditmonitor 列為關鍵關注項目。"
   },
   {
     "word": "auditnet",
@@ -12365,9 +12365,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Facilities",
-    "meaning": "人資招募與訓練",
-    "example": "Our manager approved the auditnet plan for next quarter.",
-    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+    "meaning": "人資招募；教育訓練",
+    "example": "We discussed auditnet during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 auditnet。"
   },
   {
     "word": "auditnode",
@@ -12375,9 +12375,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Coordination",
-    "meaning": "專案與營運協調",
-    "example": "The operations unit tracked the auditnode to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+    "meaning": "專案管理；營運協調",
+    "example": "The manager asked for an update on auditnode before Friday.",
+    "example_zh": "經理要求在週五前提供 auditnode 的最新進度。"
   },
   {
     "word": "auditoption",
@@ -12385,9 +12385,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Project",
-    "meaning": "預算與成本控管",
-    "example": "The finance staff checked the auditoption record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+    "meaning": "預算管理；成本控管",
+    "example": "Our team improved auditoption to support the new project.",
+    "example_zh": "我們團隊已改善 auditoption 以支援新專案。"
   },
   {
     "word": "auditpath",
@@ -12395,9 +12395,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Operations",
-    "meaning": "品質與稽核管理",
-    "example": "Customer service reported the auditpath issue to the supervisor.",
-    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+    "meaning": "品質管理；稽核作業",
+    "example": "The client requested details about auditpath in the proposal.",
+    "example_zh": "客戶在提案中要求提供 auditpath 的細節。"
   },
   {
     "word": "auditphase",
@@ -12405,9 +12405,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Office",
-    "meaning": "行政流程管理",
-    "example": "The team reviewed the auditphase item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+    "meaning": "行政管理；作業執行",
+    "example": "The quarterly report identified auditphase as a key focus area.",
+    "example_zh": "季度報告將 auditphase 列為關鍵關注項目。"
   },
   {
     "word": "auditplan",
@@ -12415,9 +12415,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Business",
-    "meaning": "會議與溝通安排",
-    "example": "Please include the auditplan details in today's email update.",
-    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+    "meaning": "會議安排；溝通協調",
+    "example": "We discussed auditplan during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 auditplan。"
   },
   {
     "word": "auditpoint",
@@ -12425,9 +12425,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Meeting",
-    "meaning": "客戶服務作業",
-    "example": "Our manager approved the auditpoint plan for next quarter.",
-    "example_zh": "經理已核准下季的客戶服務作業方案。"
+    "meaning": "客戶服務；客訴處理",
+    "example": "The manager asked for an update on auditpoint before Friday.",
+    "example_zh": "經理要求在週五前提供 auditpoint 的最新進度。"
   },
   {
     "word": "auditport",
@@ -12435,9 +12435,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Email",
-    "meaning": "物流與出貨管理",
-    "example": "The operations unit tracked the auditport to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+    "meaning": "物流管理；出貨作業",
+    "example": "Our team improved auditport to support the new project.",
+    "example_zh": "我們團隊已改善 auditport 以支援新專案。"
   },
   {
     "word": "auditpress",
@@ -12445,9 +12445,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "CustomerService",
-    "meaning": "採購與供應商管理",
-    "example": "The finance staff checked the auditpress record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+    "meaning": "採購管理；供應商協作",
+    "example": "The client requested details about auditpress in the proposal.",
+    "example_zh": "客戶在提案中要求提供 auditpress 的細節。"
   },
   {
     "word": "auditproof",
@@ -12455,9 +12455,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Logistics",
-    "meaning": "財務與帳務控管",
-    "example": "Customer service reported the auditproof issue to the supervisor.",
-    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+    "meaning": "財務管理；帳務控管",
+    "example": "The quarterly report identified auditproof as a key focus area.",
+    "example_zh": "季度報告將 auditproof 列為關鍵關注項目。"
   },
   {
     "word": "auditpulse",
@@ -12465,9 +12465,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Shipping",
-    "meaning": "合約與法務管理",
-    "example": "The team reviewed the auditpulse item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+    "meaning": "合約管理；法務作業",
+    "example": "We discussed auditpulse during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 auditpulse。"
   },
   {
     "word": "auditqueue",
@@ -12475,9 +12475,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Purchasing",
-    "meaning": "報表與數據追蹤",
-    "example": "Please include the auditqueue details in today's email update.",
-    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+    "meaning": "報表管理；數據追蹤",
+    "example": "The manager asked for an update on auditqueue before Friday.",
+    "example_zh": "經理要求在週五前提供 auditqueue 的最新進度。"
   },
   {
     "word": "auditrate",
@@ -12485,9 +12485,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Finance",
-    "meaning": "人資招募與訓練",
-    "example": "Our manager approved the auditrate plan for next quarter.",
-    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+    "meaning": "人資招募；教育訓練",
+    "example": "Our team improved auditrate to support the new project.",
+    "example_zh": "我們團隊已改善 auditrate 以支援新專案。"
   },
   {
     "word": "auditrecord",
@@ -12495,9 +12495,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Accounting",
-    "meaning": "專案與營運協調",
-    "example": "The operations unit tracked the auditrecord to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+    "meaning": "專案管理；營運協調",
+    "example": "The client requested details about auditrecord in the proposal.",
+    "example_zh": "客戶在提案中要求提供 auditrecord 的細節。"
   },
   {
     "word": "auditscope",
@@ -12505,9 +12505,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Contracts",
-    "meaning": "預算與成本控管",
-    "example": "The finance staff checked the auditscope record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+    "meaning": "預算管理；成本控管",
+    "example": "The quarterly report identified auditscope as a key focus area.",
+    "example_zh": "季度報告將 auditscope 列為關鍵關注項目。"
   },
   {
     "word": "auditsense",
@@ -12515,9 +12515,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Schedules",
-    "meaning": "品質與稽核管理",
-    "example": "Customer service reported the auditsense issue to the supervisor.",
-    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+    "meaning": "品質管理；稽核作業",
+    "example": "We discussed auditsense during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 auditsense。"
   },
   {
     "word": "auditsheet",
@@ -12525,9 +12525,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Reports",
-    "meaning": "行政流程管理",
-    "example": "The team reviewed the auditsheet item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+    "meaning": "行政管理；作業執行",
+    "example": "The manager asked for an update on auditsheet before Friday.",
+    "example_zh": "經理要求在週五前提供 auditsheet 的最新進度。"
   },
   {
     "word": "auditshift",
@@ -12535,9 +12535,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Hiring",
-    "meaning": "會議與溝通安排",
-    "example": "Please include the auditshift details in today's email update.",
-    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+    "meaning": "會議安排；溝通協調",
+    "example": "Our team improved auditshift to support the new project.",
+    "example_zh": "我們團隊已改善 auditshift 以支援新專案。"
   },
   {
     "word": "auditsignal",
@@ -12545,9 +12545,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Training",
-    "meaning": "客戶服務作業",
-    "example": "Our manager approved the auditsignal plan for next quarter.",
-    "example_zh": "經理已核准下季的客戶服務作業方案。"
+    "meaning": "客戶服務；客訴處理",
+    "example": "The client requested details about auditsignal in the proposal.",
+    "example_zh": "客戶在提案中要求提供 auditsignal 的細節。"
   },
   {
     "word": "auditsite",
@@ -12555,9 +12555,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Administration",
-    "meaning": "物流與出貨管理",
-    "example": "The operations unit tracked the auditsite to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+    "meaning": "物流管理；出貨作業",
+    "example": "The quarterly report identified auditsite as a key focus area.",
+    "example_zh": "季度報告將 auditsite 列為關鍵關注項目。"
   },
   {
     "word": "auditskill",
@@ -12565,9 +12565,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Travel",
-    "meaning": "採購與供應商管理",
-    "example": "The finance staff checked the auditskill record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+    "meaning": "採購管理；供應商協作",
+    "example": "We discussed auditskill during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 auditskill。"
   },
   {
     "word": "auditsource",
@@ -12575,9 +12575,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Marketing",
-    "meaning": "財務與帳務控管",
-    "example": "Customer service reported the auditsource issue to the supervisor.",
-    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+    "meaning": "財務管理；帳務控管",
+    "example": "The manager asked for an update on auditsource before Friday.",
+    "example_zh": "經理要求在週五前提供 auditsource 的最新進度。"
   },
   {
     "word": "auditspan",
@@ -12585,9 +12585,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Manufacturing",
-    "meaning": "合約與法務管理",
-    "example": "The team reviewed the auditspan item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+    "meaning": "合約管理；法務作業",
+    "example": "Our team improved auditspan to support the new project.",
+    "example_zh": "我們團隊已改善 auditspan 以支援新專案。"
   },
   {
     "word": "auditstack",
@@ -12595,9 +12595,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Communication",
-    "meaning": "報表與數據追蹤",
-    "example": "Please include the auditstack details in today's email update.",
-    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+    "meaning": "報表管理；數據追蹤",
+    "example": "The client requested details about auditstack in the proposal.",
+    "example_zh": "客戶在提案中要求提供 auditstack 的細節。"
   },
   {
     "word": "auditstage",
@@ -12605,9 +12605,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Facilities",
-    "meaning": "人資招募與訓練",
-    "example": "Our manager approved the auditstage plan for next quarter.",
-    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+    "meaning": "人資招募；教育訓練",
+    "example": "The quarterly report identified auditstage as a key focus area.",
+    "example_zh": "季度報告將 auditstage 列為關鍵關注項目。"
   },
   {
     "word": "auditstate",
@@ -12615,9 +12615,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Coordination",
-    "meaning": "專案與營運協調",
-    "example": "The operations unit tracked the auditstate to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+    "meaning": "專案管理；營運協調",
+    "example": "We discussed auditstate during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 auditstate。"
   },
   {
     "word": "auditstream",
@@ -12625,9 +12625,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Project",
-    "meaning": "預算與成本控管",
-    "example": "The finance staff checked the auditstream record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+    "meaning": "預算管理；成本控管",
+    "example": "The manager asked for an update on auditstream before Friday.",
+    "example_zh": "經理要求在週五前提供 auditstream 的最新進度。"
   },
   {
     "word": "auditsupport",
@@ -12635,9 +12635,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Operations",
-    "meaning": "品質與稽核管理",
-    "example": "Customer service reported the auditsupport issue to the supervisor.",
-    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+    "meaning": "品質管理；稽核作業",
+    "example": "Our team improved auditsupport to support the new project.",
+    "example_zh": "我們團隊已改善 auditsupport 以支援新專案。"
   },
   {
     "word": "auditsync",
@@ -12645,9 +12645,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Office",
-    "meaning": "行政流程管理",
-    "example": "The team reviewed the auditsync item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+    "meaning": "行政管理；作業執行",
+    "example": "The client requested details about auditsync in the proposal.",
+    "example_zh": "客戶在提案中要求提供 auditsync 的細節。"
   },
   {
     "word": "auditsystem",
@@ -12655,9 +12655,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Business",
-    "meaning": "會議與溝通安排",
-    "example": "Please include the auditsystem details in today's email update.",
-    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+    "meaning": "會議安排；溝通協調",
+    "example": "The quarterly report identified auditsystem as a key focus area.",
+    "example_zh": "季度報告將 auditsystem 列為關鍵關注項目。"
   },
   {
     "word": "audittable",
@@ -12665,9 +12665,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Meeting",
-    "meaning": "客戶服務作業",
-    "example": "Our manager approved the audittable plan for next quarter.",
-    "example_zh": "經理已核准下季的客戶服務作業方案。"
+    "meaning": "客戶服務；客訴處理",
+    "example": "We discussed audittable during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 audittable。"
   },
   {
     "word": "audittech",
@@ -12675,9 +12675,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Email",
-    "meaning": "物流與出貨管理",
-    "example": "The operations unit tracked the audittech to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+    "meaning": "物流管理；出貨作業",
+    "example": "The manager asked for an update on audittech before Friday.",
+    "example_zh": "經理要求在週五前提供 audittech 的最新進度。"
   },
   {
     "word": "audittrack",
@@ -12685,9 +12685,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "CustomerService",
-    "meaning": "採購與供應商管理",
-    "example": "The finance staff checked the audittrack record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+    "meaning": "採購管理；供應商協作",
+    "example": "Our team improved audittrack to support the new project.",
+    "example_zh": "我們團隊已改善 audittrack 以支援新專案。"
   },
   {
     "word": "audittrend",
@@ -12695,9 +12695,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Logistics",
-    "meaning": "財務與帳務控管",
-    "example": "Customer service reported the audittrend issue to the supervisor.",
-    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+    "meaning": "財務管理；帳務控管",
+    "example": "The client requested details about audittrend in the proposal.",
+    "example_zh": "客戶在提案中要求提供 audittrend 的細節。"
   },
   {
     "word": "auditunit",
@@ -12705,9 +12705,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Shipping",
-    "meaning": "合約與法務管理",
-    "example": "The team reviewed the auditunit item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+    "meaning": "合約管理；法務作業",
+    "example": "The quarterly report identified auditunit as a key focus area.",
+    "example_zh": "季度報告將 auditunit 列為關鍵關注項目。"
   },
   {
     "word": "auditvalue",
@@ -12715,9 +12715,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Purchasing",
-    "meaning": "報表與數據追蹤",
-    "example": "Please include the auditvalue details in today's email update.",
-    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+    "meaning": "報表管理；數據追蹤",
+    "example": "We discussed auditvalue during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 auditvalue。"
   },
   {
     "word": "auditview",
@@ -12725,9 +12725,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Finance",
-    "meaning": "人資招募與訓練",
-    "example": "Our manager approved the auditview plan for next quarter.",
-    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+    "meaning": "人資招募；教育訓練",
+    "example": "The manager asked for an update on auditview before Friday.",
+    "example_zh": "經理要求在週五前提供 auditview 的最新進度。"
   },
   {
     "word": "auditvision",
@@ -12735,9 +12735,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Accounting",
-    "meaning": "專案與營運協調",
-    "example": "The operations unit tracked the auditvision to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+    "meaning": "專案管理；營運協調",
+    "example": "Our team improved auditvision to support the new project.",
+    "example_zh": "我們團隊已改善 auditvision 以支援新專案。"
   },
   {
     "word": "auditware",
@@ -12745,9 +12745,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Contracts",
-    "meaning": "預算與成本控管",
-    "example": "The finance staff checked the auditware record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+    "meaning": "預算管理；成本控管",
+    "example": "The client requested details about auditware in the proposal.",
+    "example_zh": "客戶在提案中要求提供 auditware 的細節。"
   },
   {
     "word": "auditwatch",
@@ -12755,9 +12755,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Schedules",
-    "meaning": "品質與稽核管理",
-    "example": "Customer service reported the auditwatch issue to the supervisor.",
-    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+    "meaning": "品質管理；稽核作業",
+    "example": "The quarterly report identified auditwatch as a key focus area.",
+    "example_zh": "季度報告將 auditwatch 列為關鍵關注項目。"
   },
   {
     "word": "auditwave",
@@ -12765,9 +12765,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Reports",
-    "meaning": "行政流程管理",
-    "example": "The team reviewed the auditwave item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+    "meaning": "行政管理；作業執行",
+    "example": "We discussed auditwave during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 auditwave。"
   },
   {
     "word": "auditwork",
@@ -12775,9 +12775,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Hiring",
-    "meaning": "會議與溝通安排",
-    "example": "Please include the auditwork details in today's email update.",
-    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+    "meaning": "會議安排；溝通協調",
+    "example": "The manager asked for an update on auditwork before Friday.",
+    "example_zh": "經理要求在週五前提供 auditwork 的最新進度。"
   },
   {
     "word": "auditzone",
@@ -12785,9 +12785,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Training",
-    "meaning": "客戶服務作業",
-    "example": "Our manager approved the auditzone plan for next quarter.",
-    "example_zh": "經理已核准下季的客戶服務作業方案。"
+    "meaning": "客戶服務；客訴處理",
+    "example": "Our team improved auditzone to support the new project.",
+    "example_zh": "我們團隊已改善 auditzone 以支援新專案。"
   },
   {
     "word": "budgetable",
@@ -12795,9 +12795,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Administration",
-    "meaning": "物流與出貨管理",
-    "example": "The operations unit tracked the budgetable to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+    "meaning": "物流管理；出貨作業",
+    "example": "The client requested details about budgetable in the proposal.",
+    "example_zh": "客戶在提案中要求提供 budgetable 的細節。"
   },
   {
     "word": "budgetability",
@@ -12805,9 +12805,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Travel",
-    "meaning": "採購與供應商管理",
-    "example": "The finance staff checked the budgetability record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+    "meaning": "採購管理；供應商協作",
+    "example": "The quarterly report identified budgetability as a key focus area.",
+    "example_zh": "季度報告將 budgetability 列為關鍵關注項目。"
   },
   {
     "word": "budgetance",
@@ -12815,9 +12815,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Marketing",
-    "meaning": "財務與帳務控管",
-    "example": "Customer service reported the budgetance issue to the supervisor.",
-    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+    "meaning": "財務管理；帳務控管",
+    "example": "We discussed budgetance during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 budgetance。"
   },
   {
     "word": "budgetancy",
@@ -12825,9 +12825,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Manufacturing",
-    "meaning": "合約與法務管理",
-    "example": "The team reviewed the budgetancy item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+    "meaning": "合約管理；法務作業",
+    "example": "The manager asked for an update on budgetancy before Friday.",
+    "example_zh": "經理要求在週五前提供 budgetancy 的最新進度。"
   },
   {
     "word": "budgetant",
@@ -12835,9 +12835,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Communication",
-    "meaning": "報表與數據追蹤",
-    "example": "Please include the budgetant details in today's email update.",
-    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+    "meaning": "報表管理；數據追蹤",
+    "example": "Our team improved budgetant to support the new project.",
+    "example_zh": "我們團隊已改善 budgetant 以支援新專案。"
   },
   {
     "word": "budgetation",
@@ -12845,9 +12845,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Facilities",
-    "meaning": "人資招募與訓練",
-    "example": "Our manager approved the budgetation plan for next quarter.",
-    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+    "meaning": "人資招募；教育訓練",
+    "example": "The client requested details about budgetation in the proposal.",
+    "example_zh": "客戶在提案中要求提供 budgetation 的細節。"
   },
   {
     "word": "budgetative",
@@ -12855,9 +12855,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Coordination",
-    "meaning": "專案與營運協調",
-    "example": "The operations unit tracked the budgetative to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+    "meaning": "專案管理；營運協調",
+    "example": "The quarterly report identified budgetative as a key focus area.",
+    "example_zh": "季度報告將 budgetative 列為關鍵關注項目。"
   },
   {
     "word": "budgetator",
@@ -12865,9 +12865,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Project",
-    "meaning": "預算與成本控管",
-    "example": "The finance staff checked the budgetator record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+    "meaning": "預算管理；成本控管",
+    "example": "We discussed budgetator during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 budgetator。"
   },
   {
     "word": "budgetboard",
@@ -12875,9 +12875,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Operations",
-    "meaning": "品質與稽核管理",
-    "example": "Customer service reported the budgetboard issue to the supervisor.",
-    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+    "meaning": "品質管理；稽核作業",
+    "example": "The manager asked for an update on budgetboard before Friday.",
+    "example_zh": "經理要求在週五前提供 budgetboard 的最新進度。"
   },
   {
     "word": "budgetbook",
@@ -12885,9 +12885,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Office",
-    "meaning": "行政流程管理",
-    "example": "The team reviewed the budgetbook item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+    "meaning": "行政管理；作業執行",
+    "example": "Our team improved budgetbook to support the new project.",
+    "example_zh": "我們團隊已改善 budgetbook 以支援新專案。"
   },
   {
     "word": "budgetbridge",
@@ -12895,9 +12895,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Business",
-    "meaning": "會議與溝通安排",
-    "example": "Please include the budgetbridge details in today's email update.",
-    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+    "meaning": "會議安排；溝通協調",
+    "example": "The client requested details about budgetbridge in the proposal.",
+    "example_zh": "客戶在提案中要求提供 budgetbridge 的細節。"
   },
   {
     "word": "budgetcare",
@@ -12905,9 +12905,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Meeting",
-    "meaning": "客戶服務作業",
-    "example": "Our manager approved the budgetcare plan for next quarter.",
-    "example_zh": "經理已核准下季的客戶服務作業方案。"
+    "meaning": "客戶服務；客訴處理",
+    "example": "The quarterly report identified budgetcare as a key focus area.",
+    "example_zh": "季度報告將 budgetcare 列為關鍵關注項目。"
   },
   {
     "word": "budgetcenter",
@@ -12915,9 +12915,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Email",
-    "meaning": "物流與出貨管理",
-    "example": "The operations unit tracked the budgetcenter to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+    "meaning": "物流管理；出貨作業",
+    "example": "We discussed budgetcenter during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 budgetcenter。"
   },
   {
     "word": "budgetchart",
@@ -12925,9 +12925,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "CustomerService",
-    "meaning": "採購與供應商管理",
-    "example": "The finance staff checked the budgetchart record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+    "meaning": "採購管理；供應商協作",
+    "example": "The manager asked for an update on budgetchart before Friday.",
+    "example_zh": "經理要求在週五前提供 budgetchart 的最新進度。"
   },
   {
     "word": "budgetcheck",
@@ -12935,9 +12935,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Logistics",
-    "meaning": "財務與帳務控管",
-    "example": "Customer service reported the budgetcheck issue to the supervisor.",
-    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+    "meaning": "財務管理；帳務控管",
+    "example": "Our team improved budgetcheck to support the new project.",
+    "example_zh": "我們團隊已改善 budgetcheck 以支援新專案。"
   },
   {
     "word": "budgetcore",
@@ -12945,9 +12945,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Shipping",
-    "meaning": "合約與法務管理",
-    "example": "The team reviewed the budgetcore item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+    "meaning": "合約管理；法務作業",
+    "example": "The client requested details about budgetcore in the proposal.",
+    "example_zh": "客戶在提案中要求提供 budgetcore 的細節。"
   },
   {
     "word": "budgetcraft",
@@ -12955,9 +12955,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Purchasing",
-    "meaning": "報表與數據追蹤",
-    "example": "Please include the budgetcraft details in today's email update.",
-    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+    "meaning": "報表管理；數據追蹤",
+    "example": "The quarterly report identified budgetcraft as a key focus area.",
+    "example_zh": "季度報告將 budgetcraft 列為關鍵關注項目。"
   },
   {
     "word": "budgetcycle",
@@ -12965,9 +12965,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Finance",
-    "meaning": "人資招募與訓練",
-    "example": "Our manager approved the budgetcycle plan for next quarter.",
-    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+    "meaning": "人資招募；教育訓練",
+    "example": "We discussed budgetcycle during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 budgetcycle。"
   },
   {
     "word": "budgetdesk",
@@ -12975,9 +12975,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Accounting",
-    "meaning": "專案與營運協調",
-    "example": "The operations unit tracked the budgetdesk to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+    "meaning": "專案管理；營運協調",
+    "example": "The manager asked for an update on budgetdesk before Friday.",
+    "example_zh": "經理要求在週五前提供 budgetdesk 的最新進度。"
   },
   {
     "word": "budgetdrive",
@@ -12985,9 +12985,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Contracts",
-    "meaning": "預算與成本控管",
-    "example": "The finance staff checked the budgetdrive record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+    "meaning": "預算管理；成本控管",
+    "example": "Our team improved budgetdrive to support the new project.",
+    "example_zh": "我們團隊已改善 budgetdrive 以支援新專案。"
   },
   {
     "word": "budgetedge",
@@ -12995,9 +12995,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Schedules",
-    "meaning": "品質與稽核管理",
-    "example": "Customer service reported the budgetedge issue to the supervisor.",
-    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+    "meaning": "品質管理；稽核作業",
+    "example": "The client requested details about budgetedge in the proposal.",
+    "example_zh": "客戶在提案中要求提供 budgetedge 的細節。"
   },
   {
     "word": "budgetency",
@@ -13005,9 +13005,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Reports",
-    "meaning": "行政流程管理",
-    "example": "The team reviewed the budgetency item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+    "meaning": "行政管理；作業執行",
+    "example": "The quarterly report identified budgetency as a key focus area.",
+    "example_zh": "季度報告將 budgetency 列為關鍵關注項目。"
   },
   {
     "word": "budgetengine",
@@ -13015,9 +13015,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Hiring",
-    "meaning": "會議與溝通安排",
-    "example": "Please include the budgetengine details in today's email update.",
-    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+    "meaning": "會議安排；溝通協調",
+    "example": "We discussed budgetengine during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 budgetengine。"
   },
   {
     "word": "budgetfield",
@@ -13025,9 +13025,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Training",
-    "meaning": "客戶服務作業",
-    "example": "Our manager approved the budgetfield plan for next quarter.",
-    "example_zh": "經理已核准下季的客戶服務作業方案。"
+    "meaning": "客戶服務；客訴處理",
+    "example": "The manager asked for an update on budgetfield before Friday.",
+    "example_zh": "經理要求在週五前提供 budgetfield 的最新進度。"
   },
   {
     "word": "budgetflow",
@@ -13035,9 +13035,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Administration",
-    "meaning": "物流與出貨管理",
-    "example": "The operations unit tracked the budgetflow to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+    "meaning": "物流管理；出貨作業",
+    "example": "Our team improved budgetflow to support the new project.",
+    "example_zh": "我們團隊已改善 budgetflow 以支援新專案。"
   },
   {
     "word": "budgetforce",
@@ -13045,9 +13045,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Travel",
-    "meaning": "採購與供應商管理",
-    "example": "The finance staff checked the budgetforce record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+    "meaning": "採購管理；供應商協作",
+    "example": "The client requested details about budgetforce in the proposal.",
+    "example_zh": "客戶在提案中要求提供 budgetforce 的細節。"
   },
   {
     "word": "budgetform",
@@ -13055,9 +13055,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Marketing",
-    "meaning": "財務與帳務控管",
-    "example": "Customer service reported the budgetform issue to the supervisor.",
-    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+    "meaning": "財務管理；帳務控管",
+    "example": "The quarterly report identified budgetform as a key focus area.",
+    "example_zh": "季度報告將 budgetform 列為關鍵關注項目。"
   },
   {
     "word": "budgetframe",
@@ -13065,9 +13065,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Manufacturing",
-    "meaning": "合約與法務管理",
-    "example": "The team reviewed the budgetframe item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+    "meaning": "合約管理；法務作業",
+    "example": "We discussed budgetframe during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 budgetframe。"
   },
   {
     "word": "budgetgate",
@@ -13075,9 +13075,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Communication",
-    "meaning": "報表與數據追蹤",
-    "example": "Please include the budgetgate details in today's email update.",
-    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+    "meaning": "報表管理；數據追蹤",
+    "example": "The manager asked for an update on budgetgate before Friday.",
+    "example_zh": "經理要求在週五前提供 budgetgate 的最新進度。"
   },
   {
     "word": "budgetgrid",
@@ -13085,9 +13085,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Facilities",
-    "meaning": "人資招募與訓練",
-    "example": "Our manager approved the budgetgrid plan for next quarter.",
-    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+    "meaning": "人資招募；教育訓練",
+    "example": "Our team improved budgetgrid to support the new project.",
+    "example_zh": "我們團隊已改善 budgetgrid 以支援新專案。"
   },
   {
     "word": "budgetguide",
@@ -13095,9 +13095,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Coordination",
-    "meaning": "專案與營運協調",
-    "example": "The operations unit tracked the budgetguide to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+    "meaning": "專案管理；營運協調",
+    "example": "The client requested details about budgetguide in the proposal.",
+    "example_zh": "客戶在提案中要求提供 budgetguide 的細節。"
   },
   {
     "word": "budgethouse",
@@ -13105,9 +13105,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Project",
-    "meaning": "預算與成本控管",
-    "example": "The finance staff checked the budgethouse record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+    "meaning": "預算管理；成本控管",
+    "example": "The quarterly report identified budgethouse as a key focus area.",
+    "example_zh": "季度報告將 budgethouse 列為關鍵關注項目。"
   },
   {
     "word": "budgethub",
@@ -13115,9 +13115,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Operations",
-    "meaning": "品質與稽核管理",
-    "example": "Customer service reported the budgethub issue to the supervisor.",
-    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+    "meaning": "品質管理；稽核作業",
+    "example": "We discussed budgethub during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 budgethub。"
   },
   {
     "word": "budgetindex",
@@ -13125,9 +13125,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Office",
-    "meaning": "行政流程管理",
-    "example": "The team reviewed the budgetindex item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+    "meaning": "行政管理；作業執行",
+    "example": "The manager asked for an update on budgetindex before Friday.",
+    "example_zh": "經理要求在週五前提供 budgetindex 的最新進度。"
   },
   {
     "word": "budgetinsight",
@@ -13135,9 +13135,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Business",
-    "meaning": "會議與溝通安排",
-    "example": "Please include the budgetinsight details in today's email update.",
-    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+    "meaning": "會議安排；溝通協調",
+    "example": "Our team improved budgetinsight to support the new project.",
+    "example_zh": "我們團隊已改善 budgetinsight 以支援新專案。"
   },
   {
     "word": "budgetkeeper",
@@ -13145,9 +13145,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Meeting",
-    "meaning": "客戶服務作業",
-    "example": "Our manager approved the budgetkeeper plan for next quarter.",
-    "example_zh": "經理已核准下季的客戶服務作業方案。"
+    "meaning": "客戶服務；客訴處理",
+    "example": "The client requested details about budgetkeeper in the proposal.",
+    "example_zh": "客戶在提案中要求提供 budgetkeeper 的細節。"
   },
   {
     "word": "budgetlane",
@@ -13155,9 +13155,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Email",
-    "meaning": "物流與出貨管理",
-    "example": "The operations unit tracked the budgetlane to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+    "meaning": "物流管理；出貨作業",
+    "example": "The quarterly report identified budgetlane as a key focus area.",
+    "example_zh": "季度報告將 budgetlane 列為關鍵關注項目。"
   },
   {
     "word": "budgetlink",
@@ -13165,9 +13165,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "CustomerService",
-    "meaning": "採購與供應商管理",
-    "example": "The finance staff checked the budgetlink record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+    "meaning": "採購管理；供應商協作",
+    "example": "We discussed budgetlink during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 budgetlink。"
   },
   {
     "word": "budgetlist",
@@ -13175,9 +13175,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Logistics",
-    "meaning": "財務與帳務控管",
-    "example": "Customer service reported the budgetlist issue to the supervisor.",
-    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+    "meaning": "財務管理；帳務控管",
+    "example": "The manager asked for an update on budgetlist before Friday.",
+    "example_zh": "經理要求在週五前提供 budgetlist 的最新進度。"
   },
   {
     "word": "budgetload",
@@ -13185,9 +13185,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Shipping",
-    "meaning": "合約與法務管理",
-    "example": "The team reviewed the budgetload item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+    "meaning": "合約管理；法務作業",
+    "example": "Our team improved budgetload to support the new project.",
+    "example_zh": "我們團隊已改善 budgetload 以支援新專案。"
   },
   {
     "word": "budgetlogic",
@@ -13195,9 +13195,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Purchasing",
-    "meaning": "報表與數據追蹤",
-    "example": "Please include the budgetlogic details in today's email update.",
-    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+    "meaning": "報表管理；數據追蹤",
+    "example": "The client requested details about budgetlogic in the proposal.",
+    "example_zh": "客戶在提案中要求提供 budgetlogic 的細節。"
   },
   {
     "word": "budgetmaker",
@@ -13205,9 +13205,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Finance",
-    "meaning": "人資招募與訓練",
-    "example": "Our manager approved the budgetmaker plan for next quarter.",
-    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+    "meaning": "人資招募；教育訓練",
+    "example": "The quarterly report identified budgetmaker as a key focus area.",
+    "example_zh": "季度報告將 budgetmaker 列為關鍵關注項目。"
   },
   {
     "word": "budgetmanage",
@@ -13215,9 +13215,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Accounting",
-    "meaning": "專案與營運協調",
-    "example": "The operations unit tracked the budgetmanage to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+    "meaning": "專案管理；營運協調",
+    "example": "We discussed budgetmanage during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 budgetmanage。"
   },
   {
     "word": "budgetment",
@@ -13225,9 +13225,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Contracts",
-    "meaning": "預算與成本控管",
-    "example": "The finance staff checked the budgetment record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+    "meaning": "預算管理；成本控管",
+    "example": "The manager asked for an update on budgetment before Friday.",
+    "example_zh": "經理要求在週五前提供 budgetment 的最新進度。"
   },
   {
     "word": "budgetmetric",
@@ -13235,9 +13235,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Schedules",
-    "meaning": "品質與稽核管理",
-    "example": "Customer service reported the budgetmetric issue to the supervisor.",
-    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+    "meaning": "品質管理；稽核作業",
+    "example": "Our team improved budgetmetric to support the new project.",
+    "example_zh": "我們團隊已改善 budgetmetric 以支援新專案。"
   },
   {
     "word": "budgetmode",
@@ -13245,9 +13245,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Reports",
-    "meaning": "行政流程管理",
-    "example": "The team reviewed the budgetmode item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+    "meaning": "行政管理；作業執行",
+    "example": "The client requested details about budgetmode in the proposal.",
+    "example_zh": "客戶在提案中要求提供 budgetmode 的細節。"
   },
   {
     "word": "budgetmodule",
@@ -13255,9 +13255,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Hiring",
-    "meaning": "會議與溝通安排",
-    "example": "Please include the budgetmodule details in today's email update.",
-    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+    "meaning": "會議安排；溝通協調",
+    "example": "The quarterly report identified budgetmodule as a key focus area.",
+    "example_zh": "季度報告將 budgetmodule 列為關鍵關注項目。"
   },
   {
     "word": "budgetmonitor",
@@ -13265,9 +13265,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Training",
-    "meaning": "客戶服務作業",
-    "example": "Our manager approved the budgetmonitor plan for next quarter.",
-    "example_zh": "經理已核准下季的客戶服務作業方案。"
+    "meaning": "客戶服務；客訴處理",
+    "example": "We discussed budgetmonitor during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 budgetmonitor。"
   },
   {
     "word": "budgetnet",
@@ -13275,9 +13275,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Administration",
-    "meaning": "物流與出貨管理",
-    "example": "The operations unit tracked the budgetnet to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+    "meaning": "物流管理；出貨作業",
+    "example": "The manager asked for an update on budgetnet before Friday.",
+    "example_zh": "經理要求在週五前提供 budgetnet 的最新進度。"
   },
   {
     "word": "budgetnode",
@@ -13285,9 +13285,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Travel",
-    "meaning": "採購與供應商管理",
-    "example": "The finance staff checked the budgetnode record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+    "meaning": "採購管理；供應商協作",
+    "example": "Our team improved budgetnode to support the new project.",
+    "example_zh": "我們團隊已改善 budgetnode 以支援新專案。"
   },
   {
     "word": "budgetoption",
@@ -13295,9 +13295,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Marketing",
-    "meaning": "財務與帳務控管",
-    "example": "Customer service reported the budgetoption issue to the supervisor.",
-    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+    "meaning": "財務管理；帳務控管",
+    "example": "The client requested details about budgetoption in the proposal.",
+    "example_zh": "客戶在提案中要求提供 budgetoption 的細節。"
   },
   {
     "word": "budgetpath",
@@ -13305,9 +13305,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Manufacturing",
-    "meaning": "合約與法務管理",
-    "example": "The team reviewed the budgetpath item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+    "meaning": "合約管理；法務作業",
+    "example": "The quarterly report identified budgetpath as a key focus area.",
+    "example_zh": "季度報告將 budgetpath 列為關鍵關注項目。"
   },
   {
     "word": "budgetphase",
@@ -13315,9 +13315,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Communication",
-    "meaning": "報表與數據追蹤",
-    "example": "Please include the budgetphase details in today's email update.",
-    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+    "meaning": "報表管理；數據追蹤",
+    "example": "We discussed budgetphase during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 budgetphase。"
   },
   {
     "word": "budgetpoint",
@@ -13325,9 +13325,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Facilities",
-    "meaning": "人資招募與訓練",
-    "example": "Our manager approved the budgetpoint plan for next quarter.",
-    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+    "meaning": "人資招募；教育訓練",
+    "example": "The manager asked for an update on budgetpoint before Friday.",
+    "example_zh": "經理要求在週五前提供 budgetpoint 的最新進度。"
   },
   {
     "word": "budgetport",
@@ -13335,9 +13335,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Coordination",
-    "meaning": "專案與營運協調",
-    "example": "The operations unit tracked the budgetport to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+    "meaning": "專案管理；營運協調",
+    "example": "Our team improved budgetport to support the new project.",
+    "example_zh": "我們團隊已改善 budgetport 以支援新專案。"
   },
   {
     "word": "budgetpress",
@@ -13345,9 +13345,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Project",
-    "meaning": "預算與成本控管",
-    "example": "The finance staff checked the budgetpress record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+    "meaning": "預算管理；成本控管",
+    "example": "The client requested details about budgetpress in the proposal.",
+    "example_zh": "客戶在提案中要求提供 budgetpress 的細節。"
   },
   {
     "word": "budgetproof",
@@ -13355,9 +13355,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Operations",
-    "meaning": "品質與稽核管理",
-    "example": "Customer service reported the budgetproof issue to the supervisor.",
-    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+    "meaning": "品質管理；稽核作業",
+    "example": "The quarterly report identified budgetproof as a key focus area.",
+    "example_zh": "季度報告將 budgetproof 列為關鍵關注項目。"
   },
   {
     "word": "budgetpulse",
@@ -13365,9 +13365,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Office",
-    "meaning": "行政流程管理",
-    "example": "The team reviewed the budgetpulse item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+    "meaning": "行政管理；作業執行",
+    "example": "We discussed budgetpulse during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 budgetpulse。"
   },
   {
     "word": "budgetqueue",
@@ -13375,9 +13375,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Business",
-    "meaning": "會議與溝通安排",
-    "example": "Please include the budgetqueue details in today's email update.",
-    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+    "meaning": "會議安排；溝通協調",
+    "example": "The manager asked for an update on budgetqueue before Friday.",
+    "example_zh": "經理要求在週五前提供 budgetqueue 的最新進度。"
   },
   {
     "word": "budgetrate",
@@ -13385,9 +13385,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Meeting",
-    "meaning": "客戶服務作業",
-    "example": "Our manager approved the budgetrate plan for next quarter.",
-    "example_zh": "經理已核准下季的客戶服務作業方案。"
+    "meaning": "客戶服務；客訴處理",
+    "example": "Our team improved budgetrate to support the new project.",
+    "example_zh": "我們團隊已改善 budgetrate 以支援新專案。"
   },
   {
     "word": "budgetrecord",
@@ -13395,9 +13395,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Email",
-    "meaning": "物流與出貨管理",
-    "example": "The operations unit tracked the budgetrecord to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+    "meaning": "物流管理；出貨作業",
+    "example": "The client requested details about budgetrecord in the proposal.",
+    "example_zh": "客戶在提案中要求提供 budgetrecord 的細節。"
   },
   {
     "word": "budgetscope",
@@ -13405,9 +13405,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "CustomerService",
-    "meaning": "採購與供應商管理",
-    "example": "The finance staff checked the budgetscope record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+    "meaning": "採購管理；供應商協作",
+    "example": "The quarterly report identified budgetscope as a key focus area.",
+    "example_zh": "季度報告將 budgetscope 列為關鍵關注項目。"
   },
   {
     "word": "budgetsense",
@@ -13415,9 +13415,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Logistics",
-    "meaning": "財務與帳務控管",
-    "example": "Customer service reported the budgetsense issue to the supervisor.",
-    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+    "meaning": "財務管理；帳務控管",
+    "example": "We discussed budgetsense during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 budgetsense。"
   },
   {
     "word": "budgetsheet",
@@ -13425,9 +13425,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Shipping",
-    "meaning": "合約與法務管理",
-    "example": "The team reviewed the budgetsheet item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+    "meaning": "合約管理；法務作業",
+    "example": "The manager asked for an update on budgetsheet before Friday.",
+    "example_zh": "經理要求在週五前提供 budgetsheet 的最新進度。"
   },
   {
     "word": "budgetshift",
@@ -13435,9 +13435,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Purchasing",
-    "meaning": "報表與數據追蹤",
-    "example": "Please include the budgetshift details in today's email update.",
-    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+    "meaning": "報表管理；數據追蹤",
+    "example": "Our team improved budgetshift to support the new project.",
+    "example_zh": "我們團隊已改善 budgetshift 以支援新專案。"
   },
   {
     "word": "budgetsignal",
@@ -13445,9 +13445,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Finance",
-    "meaning": "人資招募與訓練",
-    "example": "Our manager approved the budgetsignal plan for next quarter.",
-    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+    "meaning": "人資招募；教育訓練",
+    "example": "The client requested details about budgetsignal in the proposal.",
+    "example_zh": "客戶在提案中要求提供 budgetsignal 的細節。"
   },
   {
     "word": "budgetsite",
@@ -13455,9 +13455,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Accounting",
-    "meaning": "專案與營運協調",
-    "example": "The operations unit tracked the budgetsite to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+    "meaning": "專案管理；營運協調",
+    "example": "The quarterly report identified budgetsite as a key focus area.",
+    "example_zh": "季度報告將 budgetsite 列為關鍵關注項目。"
   },
   {
     "word": "budgetskill",
@@ -13465,9 +13465,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Contracts",
-    "meaning": "預算與成本控管",
-    "example": "The finance staff checked the budgetskill record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+    "meaning": "預算管理；成本控管",
+    "example": "We discussed budgetskill during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 budgetskill。"
   },
   {
     "word": "budgetsource",
@@ -13475,9 +13475,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Schedules",
-    "meaning": "品質與稽核管理",
-    "example": "Customer service reported the budgetsource issue to the supervisor.",
-    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+    "meaning": "品質管理；稽核作業",
+    "example": "The manager asked for an update on budgetsource before Friday.",
+    "example_zh": "經理要求在週五前提供 budgetsource 的最新進度。"
   },
   {
     "word": "budgetspan",
@@ -13485,9 +13485,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Reports",
-    "meaning": "行政流程管理",
-    "example": "The team reviewed the budgetspan item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+    "meaning": "行政管理；作業執行",
+    "example": "Our team improved budgetspan to support the new project.",
+    "example_zh": "我們團隊已改善 budgetspan 以支援新專案。"
   },
   {
     "word": "budgetstack",
@@ -13495,9 +13495,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Hiring",
-    "meaning": "會議與溝通安排",
-    "example": "Please include the budgetstack details in today's email update.",
-    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+    "meaning": "會議安排；溝通協調",
+    "example": "The client requested details about budgetstack in the proposal.",
+    "example_zh": "客戶在提案中要求提供 budgetstack 的細節。"
   },
   {
     "word": "budgetstage",
@@ -13505,9 +13505,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Training",
-    "meaning": "客戶服務作業",
-    "example": "Our manager approved the budgetstage plan for next quarter.",
-    "example_zh": "經理已核准下季的客戶服務作業方案。"
+    "meaning": "客戶服務；客訴處理",
+    "example": "The quarterly report identified budgetstage as a key focus area.",
+    "example_zh": "季度報告將 budgetstage 列為關鍵關注項目。"
   },
   {
     "word": "budgetstate",
@@ -13515,9 +13515,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Administration",
-    "meaning": "物流與出貨管理",
-    "example": "The operations unit tracked the budgetstate to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+    "meaning": "物流管理；出貨作業",
+    "example": "We discussed budgetstate during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 budgetstate。"
   },
   {
     "word": "budgetstream",
@@ -13525,9 +13525,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Travel",
-    "meaning": "採購與供應商管理",
-    "example": "The finance staff checked the budgetstream record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+    "meaning": "採購管理；供應商協作",
+    "example": "The manager asked for an update on budgetstream before Friday.",
+    "example_zh": "經理要求在週五前提供 budgetstream 的最新進度。"
   },
   {
     "word": "budgetsupport",
@@ -13535,9 +13535,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Marketing",
-    "meaning": "財務與帳務控管",
-    "example": "Customer service reported the budgetsupport issue to the supervisor.",
-    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+    "meaning": "財務管理；帳務控管",
+    "example": "Our team improved budgetsupport to support the new project.",
+    "example_zh": "我們團隊已改善 budgetsupport 以支援新專案。"
   },
   {
     "word": "budgetsync",
@@ -13545,9 +13545,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Manufacturing",
-    "meaning": "合約與法務管理",
-    "example": "The team reviewed the budgetsync item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+    "meaning": "合約管理；法務作業",
+    "example": "The client requested details about budgetsync in the proposal.",
+    "example_zh": "客戶在提案中要求提供 budgetsync 的細節。"
   },
   {
     "word": "budgetsystem",
@@ -13555,9 +13555,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Communication",
-    "meaning": "報表與數據追蹤",
-    "example": "Please include the budgetsystem details in today's email update.",
-    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+    "meaning": "報表管理；數據追蹤",
+    "example": "The quarterly report identified budgetsystem as a key focus area.",
+    "example_zh": "季度報告將 budgetsystem 列為關鍵關注項目。"
   },
   {
     "word": "budgettable",
@@ -13565,9 +13565,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Facilities",
-    "meaning": "人資招募與訓練",
-    "example": "Our manager approved the budgettable plan for next quarter.",
-    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+    "meaning": "人資招募；教育訓練",
+    "example": "We discussed budgettable during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 budgettable。"
   },
   {
     "word": "budgettech",
@@ -13575,9 +13575,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Coordination",
-    "meaning": "專案與營運協調",
-    "example": "The operations unit tracked the budgettech to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+    "meaning": "專案管理；營運協調",
+    "example": "The manager asked for an update on budgettech before Friday.",
+    "example_zh": "經理要求在週五前提供 budgettech 的最新進度。"
   },
   {
     "word": "budgettrack",
@@ -13585,9 +13585,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Project",
-    "meaning": "預算與成本控管",
-    "example": "The finance staff checked the budgettrack record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+    "meaning": "預算管理；成本控管",
+    "example": "Our team improved budgettrack to support the new project.",
+    "example_zh": "我們團隊已改善 budgettrack 以支援新專案。"
   },
   {
     "word": "budgettrend",
@@ -13595,9 +13595,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Operations",
-    "meaning": "品質與稽核管理",
-    "example": "Customer service reported the budgettrend issue to the supervisor.",
-    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+    "meaning": "品質管理；稽核作業",
+    "example": "The client requested details about budgettrend in the proposal.",
+    "example_zh": "客戶在提案中要求提供 budgettrend 的細節。"
   },
   {
     "word": "budgetunit",
@@ -13605,9 +13605,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Office",
-    "meaning": "行政流程管理",
-    "example": "The team reviewed the budgetunit item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+    "meaning": "行政管理；作業執行",
+    "example": "The quarterly report identified budgetunit as a key focus area.",
+    "example_zh": "季度報告將 budgetunit 列為關鍵關注項目。"
   },
   {
     "word": "budgetvalue",
@@ -13615,9 +13615,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Business",
-    "meaning": "會議與溝通安排",
-    "example": "Please include the budgetvalue details in today's email update.",
-    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+    "meaning": "會議安排；溝通協調",
+    "example": "We discussed budgetvalue during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 budgetvalue。"
   },
   {
     "word": "budgetview",
@@ -13625,9 +13625,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Meeting",
-    "meaning": "客戶服務作業",
-    "example": "Our manager approved the budgetview plan for next quarter.",
-    "example_zh": "經理已核准下季的客戶服務作業方案。"
+    "meaning": "客戶服務；客訴處理",
+    "example": "The manager asked for an update on budgetview before Friday.",
+    "example_zh": "經理要求在週五前提供 budgetview 的最新進度。"
   },
   {
     "word": "budgetvision",
@@ -13635,9 +13635,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Email",
-    "meaning": "物流與出貨管理",
-    "example": "The operations unit tracked the budgetvision to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+    "meaning": "物流管理；出貨作業",
+    "example": "Our team improved budgetvision to support the new project.",
+    "example_zh": "我們團隊已改善 budgetvision 以支援新專案。"
   },
   {
     "word": "budgetware",
@@ -13645,9 +13645,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "CustomerService",
-    "meaning": "採購與供應商管理",
-    "example": "The finance staff checked the budgetware record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+    "meaning": "採購管理；供應商協作",
+    "example": "The client requested details about budgetware in the proposal.",
+    "example_zh": "客戶在提案中要求提供 budgetware 的細節。"
   },
   {
     "word": "budgetwatch",
@@ -13655,9 +13655,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Logistics",
-    "meaning": "財務與帳務控管",
-    "example": "Customer service reported the budgetwatch issue to the supervisor.",
-    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+    "meaning": "財務管理；帳務控管",
+    "example": "The quarterly report identified budgetwatch as a key focus area.",
+    "example_zh": "季度報告將 budgetwatch 列為關鍵關注項目。"
   },
   {
     "word": "budgetwave",
@@ -13665,9 +13665,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Shipping",
-    "meaning": "合約與法務管理",
-    "example": "The team reviewed the budgetwave item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+    "meaning": "合約管理；法務作業",
+    "example": "We discussed budgetwave during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 budgetwave。"
   },
   {
     "word": "budgetwork",
@@ -13675,9 +13675,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Purchasing",
-    "meaning": "報表與數據追蹤",
-    "example": "Please include the budgetwork details in today's email update.",
-    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+    "meaning": "報表管理；數據追蹤",
+    "example": "The manager asked for an update on budgetwork before Friday.",
+    "example_zh": "經理要求在週五前提供 budgetwork 的最新進度。"
   },
   {
     "word": "budgetzone",
@@ -13685,9 +13685,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Finance",
-    "meaning": "人資招募與訓練",
-    "example": "Our manager approved the budgetzone plan for next quarter.",
-    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+    "meaning": "人資招募；教育訓練",
+    "example": "Our team improved budgetzone to support the new project.",
+    "example_zh": "我們團隊已改善 budgetzone 以支援新專案。"
   },
   {
     "word": "clientable",
@@ -13695,9 +13695,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Accounting",
-    "meaning": "專案與營運協調",
-    "example": "The operations unit tracked the clientable to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+    "meaning": "專案管理；營運協調",
+    "example": "The client requested details about clientable in the proposal.",
+    "example_zh": "客戶在提案中要求提供 clientable 的細節。"
   },
   {
     "word": "clientability",
@@ -13705,9 +13705,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Contracts",
-    "meaning": "預算與成本控管",
-    "example": "The finance staff checked the clientability record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+    "meaning": "預算管理；成本控管",
+    "example": "The quarterly report identified clientability as a key focus area.",
+    "example_zh": "季度報告將 clientability 列為關鍵關注項目。"
   },
   {
     "word": "clientance",
@@ -13715,9 +13715,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Schedules",
-    "meaning": "品質與稽核管理",
-    "example": "Customer service reported the clientance issue to the supervisor.",
-    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+    "meaning": "品質管理；稽核作業",
+    "example": "We discussed clientance during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 clientance。"
   },
   {
     "word": "clientancy",
@@ -13725,9 +13725,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Reports",
-    "meaning": "行政流程管理",
-    "example": "The team reviewed the clientancy item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+    "meaning": "行政管理；作業執行",
+    "example": "The manager asked for an update on clientancy before Friday.",
+    "example_zh": "經理要求在週五前提供 clientancy 的最新進度。"
   },
   {
     "word": "clientant",
@@ -13735,9 +13735,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Hiring",
-    "meaning": "會議與溝通安排",
-    "example": "Please include the clientant details in today's email update.",
-    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+    "meaning": "會議安排；溝通協調",
+    "example": "Our team improved clientant to support the new project.",
+    "example_zh": "我們團隊已改善 clientant 以支援新專案。"
   },
   {
     "word": "clientation",
@@ -13745,9 +13745,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Training",
-    "meaning": "客戶服務作業",
-    "example": "Our manager approved the clientation plan for next quarter.",
-    "example_zh": "經理已核准下季的客戶服務作業方案。"
+    "meaning": "客戶服務；客訴處理",
+    "example": "The client requested details about clientation in the proposal.",
+    "example_zh": "客戶在提案中要求提供 clientation 的細節。"
   },
   {
     "word": "clientative",
@@ -13755,9 +13755,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Administration",
-    "meaning": "物流與出貨管理",
-    "example": "The operations unit tracked the clientative to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+    "meaning": "物流管理；出貨作業",
+    "example": "The quarterly report identified clientative as a key focus area.",
+    "example_zh": "季度報告將 clientative 列為關鍵關注項目。"
   },
   {
     "word": "clientator",
@@ -13765,9 +13765,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Travel",
-    "meaning": "採購與供應商管理",
-    "example": "The finance staff checked the clientator record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+    "meaning": "採購管理；供應商協作",
+    "example": "We discussed clientator during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 clientator。"
   },
   {
     "word": "clientboard",
@@ -13775,9 +13775,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Marketing",
-    "meaning": "財務與帳務控管",
-    "example": "Customer service reported the clientboard issue to the supervisor.",
-    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+    "meaning": "財務管理；帳務控管",
+    "example": "The manager asked for an update on clientboard before Friday.",
+    "example_zh": "經理要求在週五前提供 clientboard 的最新進度。"
   },
   {
     "word": "clientbook",
@@ -13785,9 +13785,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Manufacturing",
-    "meaning": "合約與法務管理",
-    "example": "The team reviewed the clientbook item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+    "meaning": "合約管理；法務作業",
+    "example": "Our team improved clientbook to support the new project.",
+    "example_zh": "我們團隊已改善 clientbook 以支援新專案。"
   },
   {
     "word": "clientbridge",
@@ -13795,9 +13795,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Communication",
-    "meaning": "報表與數據追蹤",
-    "example": "Please include the clientbridge details in today's email update.",
-    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+    "meaning": "報表管理；數據追蹤",
+    "example": "The client requested details about clientbridge in the proposal.",
+    "example_zh": "客戶在提案中要求提供 clientbridge 的細節。"
   },
   {
     "word": "clientcare",
@@ -13805,9 +13805,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Facilities",
-    "meaning": "人資招募與訓練",
-    "example": "Our manager approved the clientcare plan for next quarter.",
-    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+    "meaning": "人資招募；教育訓練",
+    "example": "The quarterly report identified clientcare as a key focus area.",
+    "example_zh": "季度報告將 clientcare 列為關鍵關注項目。"
   },
   {
     "word": "clientcenter",
@@ -13815,9 +13815,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Coordination",
-    "meaning": "專案與營運協調",
-    "example": "The operations unit tracked the clientcenter to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+    "meaning": "專案管理；營運協調",
+    "example": "We discussed clientcenter during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 clientcenter。"
   },
   {
     "word": "clientchart",
@@ -13825,9 +13825,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Project",
-    "meaning": "預算與成本控管",
-    "example": "The finance staff checked the clientchart record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+    "meaning": "預算管理；成本控管",
+    "example": "The manager asked for an update on clientchart before Friday.",
+    "example_zh": "經理要求在週五前提供 clientchart 的最新進度。"
   },
   {
     "word": "clientcheck",
@@ -13835,9 +13835,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Operations",
-    "meaning": "品質與稽核管理",
-    "example": "Customer service reported the clientcheck issue to the supervisor.",
-    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+    "meaning": "品質管理；稽核作業",
+    "example": "Our team improved clientcheck to support the new project.",
+    "example_zh": "我們團隊已改善 clientcheck 以支援新專案。"
   },
   {
     "word": "clientcore",
@@ -13845,9 +13845,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Office",
-    "meaning": "行政流程管理",
-    "example": "The team reviewed the clientcore item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+    "meaning": "行政管理；作業執行",
+    "example": "The client requested details about clientcore in the proposal.",
+    "example_zh": "客戶在提案中要求提供 clientcore 的細節。"
   },
   {
     "word": "clientcraft",
@@ -13855,9 +13855,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Business",
-    "meaning": "會議與溝通安排",
-    "example": "Please include the clientcraft details in today's email update.",
-    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+    "meaning": "會議安排；溝通協調",
+    "example": "The quarterly report identified clientcraft as a key focus area.",
+    "example_zh": "季度報告將 clientcraft 列為關鍵關注項目。"
   },
   {
     "word": "clientcycle",
@@ -13865,9 +13865,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Meeting",
-    "meaning": "客戶服務作業",
-    "example": "Our manager approved the clientcycle plan for next quarter.",
-    "example_zh": "經理已核准下季的客戶服務作業方案。"
+    "meaning": "客戶服務；客訴處理",
+    "example": "We discussed clientcycle during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 clientcycle。"
   },
   {
     "word": "clientdesk",
@@ -13875,9 +13875,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Email",
-    "meaning": "物流與出貨管理",
-    "example": "The operations unit tracked the clientdesk to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+    "meaning": "物流管理；出貨作業",
+    "example": "The manager asked for an update on clientdesk before Friday.",
+    "example_zh": "經理要求在週五前提供 clientdesk 的最新進度。"
   },
   {
     "word": "clientdrive",
@@ -13885,9 +13885,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "CustomerService",
-    "meaning": "採購與供應商管理",
-    "example": "The finance staff checked the clientdrive record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+    "meaning": "採購管理；供應商協作",
+    "example": "Our team improved clientdrive to support the new project.",
+    "example_zh": "我們團隊已改善 clientdrive 以支援新專案。"
   },
   {
     "word": "clientedge",
@@ -13895,9 +13895,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Logistics",
-    "meaning": "財務與帳務控管",
-    "example": "Customer service reported the clientedge issue to the supervisor.",
-    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+    "meaning": "財務管理；帳務控管",
+    "example": "The client requested details about clientedge in the proposal.",
+    "example_zh": "客戶在提案中要求提供 clientedge 的細節。"
   },
   {
     "word": "clientency",
@@ -13905,9 +13905,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Shipping",
-    "meaning": "合約與法務管理",
-    "example": "The team reviewed the clientency item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+    "meaning": "合約管理；法務作業",
+    "example": "The quarterly report identified clientency as a key focus area.",
+    "example_zh": "季度報告將 clientency 列為關鍵關注項目。"
   },
   {
     "word": "clientengine",
@@ -13915,9 +13915,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Purchasing",
-    "meaning": "報表與數據追蹤",
-    "example": "Please include the clientengine details in today's email update.",
-    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+    "meaning": "報表管理；數據追蹤",
+    "example": "We discussed clientengine during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 clientengine。"
   },
   {
     "word": "clientfield",
@@ -13925,9 +13925,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Finance",
-    "meaning": "人資招募與訓練",
-    "example": "Our manager approved the clientfield plan for next quarter.",
-    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+    "meaning": "人資招募；教育訓練",
+    "example": "The manager asked for an update on clientfield before Friday.",
+    "example_zh": "經理要求在週五前提供 clientfield 的最新進度。"
   },
   {
     "word": "clientflow",
@@ -13935,9 +13935,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Accounting",
-    "meaning": "專案與營運協調",
-    "example": "The operations unit tracked the clientflow to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+    "meaning": "專案管理；營運協調",
+    "example": "Our team improved clientflow to support the new project.",
+    "example_zh": "我們團隊已改善 clientflow 以支援新專案。"
   },
   {
     "word": "clientforce",
@@ -13945,9 +13945,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Contracts",
-    "meaning": "預算與成本控管",
-    "example": "The finance staff checked the clientforce record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+    "meaning": "預算管理；成本控管",
+    "example": "The client requested details about clientforce in the proposal.",
+    "example_zh": "客戶在提案中要求提供 clientforce 的細節。"
   },
   {
     "word": "clientform",
@@ -13955,9 +13955,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Schedules",
-    "meaning": "品質與稽核管理",
-    "example": "Customer service reported the clientform issue to the supervisor.",
-    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+    "meaning": "品質管理；稽核作業",
+    "example": "The quarterly report identified clientform as a key focus area.",
+    "example_zh": "季度報告將 clientform 列為關鍵關注項目。"
   },
   {
     "word": "clientframe",
@@ -13965,9 +13965,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Reports",
-    "meaning": "行政流程管理",
-    "example": "The team reviewed the clientframe item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+    "meaning": "行政管理；作業執行",
+    "example": "We discussed clientframe during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 clientframe。"
   },
   {
     "word": "clientgate",
@@ -13975,9 +13975,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Hiring",
-    "meaning": "會議與溝通安排",
-    "example": "Please include the clientgate details in today's email update.",
-    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+    "meaning": "會議安排；溝通協調",
+    "example": "The manager asked for an update on clientgate before Friday.",
+    "example_zh": "經理要求在週五前提供 clientgate 的最新進度。"
   },
   {
     "word": "clientgrid",
@@ -13985,9 +13985,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Training",
-    "meaning": "客戶服務作業",
-    "example": "Our manager approved the clientgrid plan for next quarter.",
-    "example_zh": "經理已核准下季的客戶服務作業方案。"
+    "meaning": "客戶服務；客訴處理",
+    "example": "Our team improved clientgrid to support the new project.",
+    "example_zh": "我們團隊已改善 clientgrid 以支援新專案。"
   },
   {
     "word": "clientguide",
@@ -13995,9 +13995,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Administration",
-    "meaning": "物流與出貨管理",
-    "example": "The operations unit tracked the clientguide to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+    "meaning": "物流管理；出貨作業",
+    "example": "The client requested details about clientguide in the proposal.",
+    "example_zh": "客戶在提案中要求提供 clientguide 的細節。"
   },
   {
     "word": "clienthouse",
@@ -14005,9 +14005,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Travel",
-    "meaning": "採購與供應商管理",
-    "example": "The finance staff checked the clienthouse record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+    "meaning": "採購管理；供應商協作",
+    "example": "The quarterly report identified clienthouse as a key focus area.",
+    "example_zh": "季度報告將 clienthouse 列為關鍵關注項目。"
   },
   {
     "word": "clienthub",
@@ -14015,9 +14015,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Marketing",
-    "meaning": "財務與帳務控管",
-    "example": "Customer service reported the clienthub issue to the supervisor.",
-    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+    "meaning": "財務管理；帳務控管",
+    "example": "We discussed clienthub during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 clienthub。"
   },
   {
     "word": "clientindex",
@@ -14025,9 +14025,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Manufacturing",
-    "meaning": "合約與法務管理",
-    "example": "The team reviewed the clientindex item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+    "meaning": "合約管理；法務作業",
+    "example": "The manager asked for an update on clientindex before Friday.",
+    "example_zh": "經理要求在週五前提供 clientindex 的最新進度。"
   },
   {
     "word": "clienting",
@@ -14035,9 +14035,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Communication",
-    "meaning": "報表與數據追蹤",
-    "example": "Please include the clienting details in today's email update.",
-    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+    "meaning": "報表管理；數據追蹤",
+    "example": "Our team improved clienting to support the new project.",
+    "example_zh": "我們團隊已改善 clienting 以支援新專案。"
   },
   {
     "word": "clientinsight",
@@ -14045,9 +14045,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Facilities",
-    "meaning": "人資招募與訓練",
-    "example": "Our manager approved the clientinsight plan for next quarter.",
-    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+    "meaning": "人資招募；教育訓練",
+    "example": "The client requested details about clientinsight in the proposal.",
+    "example_zh": "客戶在提案中要求提供 clientinsight 的細節。"
   },
   {
     "word": "clientkeeper",
@@ -14055,9 +14055,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Coordination",
-    "meaning": "專案與營運協調",
-    "example": "The operations unit tracked the clientkeeper to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+    "meaning": "專案管理；營運協調",
+    "example": "The quarterly report identified clientkeeper as a key focus area.",
+    "example_zh": "季度報告將 clientkeeper 列為關鍵關注項目。"
   },
   {
     "word": "clientlane",
@@ -14065,9 +14065,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Project",
-    "meaning": "預算與成本控管",
-    "example": "The finance staff checked the clientlane record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+    "meaning": "預算管理；成本控管",
+    "example": "We discussed clientlane during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 clientlane。"
   },
   {
     "word": "clientline",
@@ -14075,9 +14075,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Operations",
-    "meaning": "品質與稽核管理",
-    "example": "Customer service reported the clientline issue to the supervisor.",
-    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+    "meaning": "品質管理；稽核作業",
+    "example": "The manager asked for an update on clientline before Friday.",
+    "example_zh": "經理要求在週五前提供 clientline 的最新進度。"
   },
   {
     "word": "clientlink",
@@ -14085,9 +14085,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Office",
-    "meaning": "行政流程管理",
-    "example": "The team reviewed the clientlink item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+    "meaning": "行政管理；作業執行",
+    "example": "Our team improved clientlink to support the new project.",
+    "example_zh": "我們團隊已改善 clientlink 以支援新專案。"
   },
   {
     "word": "clientlist",
@@ -14095,9 +14095,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Business",
-    "meaning": "會議與溝通安排",
-    "example": "Please include the clientlist details in today's email update.",
-    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+    "meaning": "會議安排；溝通協調",
+    "example": "The client requested details about clientlist in the proposal.",
+    "example_zh": "客戶在提案中要求提供 clientlist 的細節。"
   },
   {
     "word": "clientload",
@@ -14105,9 +14105,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Meeting",
-    "meaning": "客戶服務作業",
-    "example": "Our manager approved the clientload plan for next quarter.",
-    "example_zh": "經理已核准下季的客戶服務作業方案。"
+    "meaning": "客戶服務；客訴處理",
+    "example": "The quarterly report identified clientload as a key focus area.",
+    "example_zh": "季度報告將 clientload 列為關鍵關注項目。"
   },
   {
     "word": "clientlogic",
@@ -14115,9 +14115,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Email",
-    "meaning": "物流與出貨管理",
-    "example": "The operations unit tracked the clientlogic to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+    "meaning": "物流管理；出貨作業",
+    "example": "We discussed clientlogic during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 clientlogic。"
   },
   {
     "word": "clientmaker",
@@ -14125,9 +14125,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "CustomerService",
-    "meaning": "採購與供應商管理",
-    "example": "The finance staff checked the clientmaker record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+    "meaning": "採購管理；供應商協作",
+    "example": "The manager asked for an update on clientmaker before Friday.",
+    "example_zh": "經理要求在週五前提供 clientmaker 的最新進度。"
   },
   {
     "word": "clientmanage",
@@ -14135,9 +14135,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Logistics",
-    "meaning": "財務與帳務控管",
-    "example": "Customer service reported the clientmanage issue to the supervisor.",
-    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+    "meaning": "財務管理；帳務控管",
+    "example": "Our team improved clientmanage to support the new project.",
+    "example_zh": "我們團隊已改善 clientmanage 以支援新專案。"
   },
   {
     "word": "clientment",
@@ -14145,9 +14145,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Shipping",
-    "meaning": "合約與法務管理",
-    "example": "The team reviewed the clientment item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+    "meaning": "合約管理；法務作業",
+    "example": "The client requested details about clientment in the proposal.",
+    "example_zh": "客戶在提案中要求提供 clientment 的細節。"
   },
   {
     "word": "clientmetric",
@@ -14155,9 +14155,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Purchasing",
-    "meaning": "報表與數據追蹤",
-    "example": "Please include the clientmetric details in today's email update.",
-    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+    "meaning": "報表管理；數據追蹤",
+    "example": "The quarterly report identified clientmetric as a key focus area.",
+    "example_zh": "季度報告將 clientmetric 列為關鍵關注項目。"
   },
   {
     "word": "clientmode",
@@ -14165,9 +14165,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Finance",
-    "meaning": "人資招募與訓練",
-    "example": "Our manager approved the clientmode plan for next quarter.",
-    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+    "meaning": "人資招募；教育訓練",
+    "example": "We discussed clientmode during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 clientmode。"
   },
   {
     "word": "clientmodule",
@@ -14175,9 +14175,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Accounting",
-    "meaning": "專案與營運協調",
-    "example": "The operations unit tracked the clientmodule to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+    "meaning": "專案管理；營運協調",
+    "example": "The manager asked for an update on clientmodule before Friday.",
+    "example_zh": "經理要求在週五前提供 clientmodule 的最新進度。"
   },
   {
     "word": "clientmonitor",
@@ -14185,9 +14185,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Contracts",
-    "meaning": "預算與成本控管",
-    "example": "The finance staff checked the clientmonitor record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+    "meaning": "預算管理；成本控管",
+    "example": "Our team improved clientmonitor to support the new project.",
+    "example_zh": "我們團隊已改善 clientmonitor 以支援新專案。"
   },
   {
     "word": "clientnet",
@@ -14195,9 +14195,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Schedules",
-    "meaning": "品質與稽核管理",
-    "example": "Customer service reported the clientnet issue to the supervisor.",
-    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+    "meaning": "品質管理；稽核作業",
+    "example": "The client requested details about clientnet in the proposal.",
+    "example_zh": "客戶在提案中要求提供 clientnet 的細節。"
   },
   {
     "word": "clientnode",
@@ -14205,9 +14205,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Reports",
-    "meaning": "行政流程管理",
-    "example": "The team reviewed the clientnode item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+    "meaning": "行政管理；作業執行",
+    "example": "The quarterly report identified clientnode as a key focus area.",
+    "example_zh": "季度報告將 clientnode 列為關鍵關注項目。"
   },
   {
     "word": "clientoption",
@@ -14215,9 +14215,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Hiring",
-    "meaning": "會議與溝通安排",
-    "example": "Please include the clientoption details in today's email update.",
-    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+    "meaning": "會議安排；溝通協調",
+    "example": "We discussed clientoption during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 clientoption。"
   },
   {
     "word": "clientpath",
@@ -14225,9 +14225,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Training",
-    "meaning": "客戶服務作業",
-    "example": "Our manager approved the clientpath plan for next quarter.",
-    "example_zh": "經理已核准下季的客戶服務作業方案。"
+    "meaning": "客戶服務；客訴處理",
+    "example": "The manager asked for an update on clientpath before Friday.",
+    "example_zh": "經理要求在週五前提供 clientpath 的最新進度。"
   },
   {
     "word": "clientphase",
@@ -14235,9 +14235,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Administration",
-    "meaning": "物流與出貨管理",
-    "example": "The operations unit tracked the clientphase to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+    "meaning": "物流管理；出貨作業",
+    "example": "Our team improved clientphase to support the new project.",
+    "example_zh": "我們團隊已改善 clientphase 以支援新專案。"
   },
   {
     "word": "clientplan",
@@ -14245,9 +14245,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Travel",
-    "meaning": "採購與供應商管理",
-    "example": "The finance staff checked the clientplan record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+    "meaning": "採購管理；供應商協作",
+    "example": "The client requested details about clientplan in the proposal.",
+    "example_zh": "客戶在提案中要求提供 clientplan 的細節。"
   },
   {
     "word": "clientpoint",
@@ -14255,9 +14255,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Marketing",
-    "meaning": "財務與帳務控管",
-    "example": "Customer service reported the clientpoint issue to the supervisor.",
-    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+    "meaning": "財務管理；帳務控管",
+    "example": "The quarterly report identified clientpoint as a key focus area.",
+    "example_zh": "季度報告將 clientpoint 列為關鍵關注項目。"
   },
   {
     "word": "clientport",
@@ -14265,9 +14265,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Manufacturing",
-    "meaning": "合約與法務管理",
-    "example": "The team reviewed the clientport item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+    "meaning": "合約管理；法務作業",
+    "example": "We discussed clientport during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 clientport。"
   },
   {
     "word": "clientpress",
@@ -14275,9 +14275,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Communication",
-    "meaning": "報表與數據追蹤",
-    "example": "Please include the clientpress details in today's email update.",
-    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+    "meaning": "報表管理；數據追蹤",
+    "example": "The manager asked for an update on clientpress before Friday.",
+    "example_zh": "經理要求在週五前提供 clientpress 的最新進度。"
   },
   {
     "word": "clientproof",
@@ -14285,9 +14285,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Facilities",
-    "meaning": "人資招募與訓練",
-    "example": "Our manager approved the clientproof plan for next quarter.",
-    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+    "meaning": "人資招募；教育訓練",
+    "example": "Our team improved clientproof to support the new project.",
+    "example_zh": "我們團隊已改善 clientproof 以支援新專案。"
   },
   {
     "word": "clientpulse",
@@ -14295,9 +14295,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Coordination",
-    "meaning": "專案與營運協調",
-    "example": "The operations unit tracked the clientpulse to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+    "meaning": "專案管理；營運協調",
+    "example": "The client requested details about clientpulse in the proposal.",
+    "example_zh": "客戶在提案中要求提供 clientpulse 的細節。"
   },
   {
     "word": "clientqueue",
@@ -14305,9 +14305,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Project",
-    "meaning": "預算與成本控管",
-    "example": "The finance staff checked the clientqueue record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+    "meaning": "預算管理；成本控管",
+    "example": "The quarterly report identified clientqueue as a key focus area.",
+    "example_zh": "季度報告將 clientqueue 列為關鍵關注項目。"
   },
   {
     "word": "clientrate",
@@ -14315,9 +14315,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Operations",
-    "meaning": "品質與稽核管理",
-    "example": "Customer service reported the clientrate issue to the supervisor.",
-    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+    "meaning": "品質管理；稽核作業",
+    "example": "We discussed clientrate during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 clientrate。"
   },
   {
     "word": "clientrecord",
@@ -14325,9 +14325,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Office",
-    "meaning": "行政流程管理",
-    "example": "The team reviewed the clientrecord item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+    "meaning": "行政管理；作業執行",
+    "example": "The manager asked for an update on clientrecord before Friday.",
+    "example_zh": "經理要求在週五前提供 clientrecord 的最新進度。"
   },
   {
     "word": "clientscope",
@@ -14335,9 +14335,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Business",
-    "meaning": "會議與溝通安排",
-    "example": "Please include the clientscope details in today's email update.",
-    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+    "meaning": "會議安排；溝通協調",
+    "example": "Our team improved clientscope to support the new project.",
+    "example_zh": "我們團隊已改善 clientscope 以支援新專案。"
   },
   {
     "word": "clientsense",
@@ -14345,9 +14345,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Meeting",
-    "meaning": "客戶服務作業",
-    "example": "Our manager approved the clientsense plan for next quarter.",
-    "example_zh": "經理已核准下季的客戶服務作業方案。"
+    "meaning": "客戶服務；客訴處理",
+    "example": "The client requested details about clientsense in the proposal.",
+    "example_zh": "客戶在提案中要求提供 clientsense 的細節。"
   },
   {
     "word": "clientsheet",
@@ -14355,9 +14355,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Email",
-    "meaning": "物流與出貨管理",
-    "example": "The operations unit tracked the clientsheet to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+    "meaning": "物流管理；出貨作業",
+    "example": "The quarterly report identified clientsheet as a key focus area.",
+    "example_zh": "季度報告將 clientsheet 列為關鍵關注項目。"
   },
   {
     "word": "clientshift",
@@ -14365,9 +14365,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "CustomerService",
-    "meaning": "採購與供應商管理",
-    "example": "The finance staff checked the clientshift record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+    "meaning": "採購管理；供應商協作",
+    "example": "We discussed clientshift during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 clientshift。"
   },
   {
     "word": "clientsignal",
@@ -14375,9 +14375,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Logistics",
-    "meaning": "財務與帳務控管",
-    "example": "Customer service reported the clientsignal issue to the supervisor.",
-    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+    "meaning": "財務管理；帳務控管",
+    "example": "The manager asked for an update on clientsignal before Friday.",
+    "example_zh": "經理要求在週五前提供 clientsignal 的最新進度。"
   },
   {
     "word": "clientsite",
@@ -14385,9 +14385,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Shipping",
-    "meaning": "合約與法務管理",
-    "example": "The team reviewed the clientsite item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+    "meaning": "合約管理；法務作業",
+    "example": "Our team improved clientsite to support the new project.",
+    "example_zh": "我們團隊已改善 clientsite 以支援新專案。"
   },
   {
     "word": "clientskill",
@@ -14395,9 +14395,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Purchasing",
-    "meaning": "報表與數據追蹤",
-    "example": "Please include the clientskill details in today's email update.",
-    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+    "meaning": "報表管理；數據追蹤",
+    "example": "The client requested details about clientskill in the proposal.",
+    "example_zh": "客戶在提案中要求提供 clientskill 的細節。"
   },
   {
     "word": "clientsource",
@@ -14405,9 +14405,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Finance",
-    "meaning": "人資招募與訓練",
-    "example": "Our manager approved the clientsource plan for next quarter.",
-    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+    "meaning": "人資招募；教育訓練",
+    "example": "The quarterly report identified clientsource as a key focus area.",
+    "example_zh": "季度報告將 clientsource 列為關鍵關注項目。"
   },
   {
     "word": "clientspan",
@@ -14415,9 +14415,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Accounting",
-    "meaning": "專案與營運協調",
-    "example": "The operations unit tracked the clientspan to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+    "meaning": "專案管理；營運協調",
+    "example": "We discussed clientspan during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 clientspan。"
   },
   {
     "word": "clientstack",
@@ -14425,9 +14425,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Contracts",
-    "meaning": "預算與成本控管",
-    "example": "The finance staff checked the clientstack record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+    "meaning": "預算管理；成本控管",
+    "example": "The manager asked for an update on clientstack before Friday.",
+    "example_zh": "經理要求在週五前提供 clientstack 的最新進度。"
   },
   {
     "word": "clientstage",
@@ -14435,9 +14435,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Schedules",
-    "meaning": "品質與稽核管理",
-    "example": "Customer service reported the clientstage issue to the supervisor.",
-    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+    "meaning": "品質管理；稽核作業",
+    "example": "Our team improved clientstage to support the new project.",
+    "example_zh": "我們團隊已改善 clientstage 以支援新專案。"
   },
   {
     "word": "clientstate",
@@ -14445,9 +14445,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Reports",
-    "meaning": "行政流程管理",
-    "example": "The team reviewed the clientstate item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+    "meaning": "行政管理；作業執行",
+    "example": "The client requested details about clientstate in the proposal.",
+    "example_zh": "客戶在提案中要求提供 clientstate 的細節。"
   },
   {
     "word": "clientstream",
@@ -14455,9 +14455,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Hiring",
-    "meaning": "會議與溝通安排",
-    "example": "Please include the clientstream details in today's email update.",
-    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+    "meaning": "會議安排；溝通協調",
+    "example": "The quarterly report identified clientstream as a key focus area.",
+    "example_zh": "季度報告將 clientstream 列為關鍵關注項目。"
   },
   {
     "word": "clientsupport",
@@ -14465,9 +14465,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Training",
-    "meaning": "客戶服務作業",
-    "example": "Our manager approved the clientsupport plan for next quarter.",
-    "example_zh": "經理已核准下季的客戶服務作業方案。"
+    "meaning": "客戶服務；客訴處理",
+    "example": "We discussed clientsupport during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 clientsupport。"
   },
   {
     "word": "clientsync",
@@ -14475,9 +14475,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Administration",
-    "meaning": "物流與出貨管理",
-    "example": "The operations unit tracked the clientsync to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+    "meaning": "物流管理；出貨作業",
+    "example": "The manager asked for an update on clientsync before Friday.",
+    "example_zh": "經理要求在週五前提供 clientsync 的最新進度。"
   },
   {
     "word": "clientsystem",
@@ -14485,9 +14485,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Travel",
-    "meaning": "採購與供應商管理",
-    "example": "The finance staff checked the clientsystem record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+    "meaning": "採購管理；供應商協作",
+    "example": "Our team improved clientsystem to support the new project.",
+    "example_zh": "我們團隊已改善 clientsystem 以支援新專案。"
   },
   {
     "word": "clienttable",
@@ -14495,9 +14495,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Marketing",
-    "meaning": "財務與帳務控管",
-    "example": "Customer service reported the clienttable issue to the supervisor.",
-    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+    "meaning": "財務管理；帳務控管",
+    "example": "The client requested details about clienttable in the proposal.",
+    "example_zh": "客戶在提案中要求提供 clienttable 的細節。"
   },
   {
     "word": "clienttech",
@@ -14505,9 +14505,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Manufacturing",
-    "meaning": "合約與法務管理",
-    "example": "The team reviewed the clienttech item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+    "meaning": "合約管理；法務作業",
+    "example": "The quarterly report identified clienttech as a key focus area.",
+    "example_zh": "季度報告將 clienttech 列為關鍵關注項目。"
   },
   {
     "word": "clienttrack",
@@ -14515,9 +14515,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Communication",
-    "meaning": "報表與數據追蹤",
-    "example": "Please include the clienttrack details in today's email update.",
-    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+    "meaning": "報表管理；數據追蹤",
+    "example": "We discussed clienttrack during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 clienttrack。"
   },
   {
     "word": "clienttrend",
@@ -14525,9 +14525,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Facilities",
-    "meaning": "人資招募與訓練",
-    "example": "Our manager approved the clienttrend plan for next quarter.",
-    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+    "meaning": "人資招募；教育訓練",
+    "example": "The manager asked for an update on clienttrend before Friday.",
+    "example_zh": "經理要求在週五前提供 clienttrend 的最新進度。"
   },
   {
     "word": "clientunit",
@@ -14535,9 +14535,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Coordination",
-    "meaning": "專案與營運協調",
-    "example": "The operations unit tracked the clientunit to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+    "meaning": "專案管理；營運協調",
+    "example": "Our team improved clientunit to support the new project.",
+    "example_zh": "我們團隊已改善 clientunit 以支援新專案。"
   },
   {
     "word": "clientvalue",
@@ -14545,9 +14545,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Project",
-    "meaning": "預算與成本控管",
-    "example": "The finance staff checked the clientvalue record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+    "meaning": "預算管理；成本控管",
+    "example": "The client requested details about clientvalue in the proposal.",
+    "example_zh": "客戶在提案中要求提供 clientvalue 的細節。"
   },
   {
     "word": "clientview",
@@ -14555,9 +14555,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Operations",
-    "meaning": "品質與稽核管理",
-    "example": "Customer service reported the clientview issue to the supervisor.",
-    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+    "meaning": "品質管理；稽核作業",
+    "example": "The quarterly report identified clientview as a key focus area.",
+    "example_zh": "季度報告將 clientview 列為關鍵關注項目。"
   },
   {
     "word": "clientvision",
@@ -14565,9 +14565,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Office",
-    "meaning": "行政流程管理",
-    "example": "The team reviewed the clientvision item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+    "meaning": "行政管理；作業執行",
+    "example": "We discussed clientvision during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 clientvision。"
   },
   {
     "word": "clientware",
@@ -14575,9 +14575,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Business",
-    "meaning": "會議與溝通安排",
-    "example": "Please include the clientware details in today's email update.",
-    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+    "meaning": "會議安排；溝通協調",
+    "example": "The manager asked for an update on clientware before Friday.",
+    "example_zh": "經理要求在週五前提供 clientware 的最新進度。"
   },
   {
     "word": "clientwatch",
@@ -14585,9 +14585,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Meeting",
-    "meaning": "客戶服務作業",
-    "example": "Our manager approved the clientwatch plan for next quarter.",
-    "example_zh": "經理已核准下季的客戶服務作業方案。"
+    "meaning": "客戶服務；客訴處理",
+    "example": "Our team improved clientwatch to support the new project.",
+    "example_zh": "我們團隊已改善 clientwatch 以支援新專案。"
   },
   {
     "word": "clientwave",
@@ -14595,9 +14595,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Email",
-    "meaning": "物流與出貨管理",
-    "example": "The operations unit tracked the clientwave to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+    "meaning": "物流管理；出貨作業",
+    "example": "The client requested details about clientwave in the proposal.",
+    "example_zh": "客戶在提案中要求提供 clientwave 的細節。"
   },
   {
     "word": "clientwork",
@@ -14605,9 +14605,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "CustomerService",
-    "meaning": "採購與供應商管理",
-    "example": "The finance staff checked the clientwork record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+    "meaning": "採購管理；供應商協作",
+    "example": "The quarterly report identified clientwork as a key focus area.",
+    "example_zh": "季度報告將 clientwork 列為關鍵關注項目。"
   },
   {
     "word": "clientzone",
@@ -14615,9 +14615,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Logistics",
-    "meaning": "財務與帳務控管",
-    "example": "Customer service reported the clientzone issue to the supervisor.",
-    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+    "meaning": "財務管理；帳務控管",
+    "example": "We discussed clientzone during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 clientzone。"
   },
   {
     "word": "contractable",
@@ -14625,9 +14625,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Shipping",
-    "meaning": "合約與法務管理",
-    "example": "The team reviewed the contractable item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+    "meaning": "合約管理；法務作業",
+    "example": "The manager asked for an update on contractable before Friday.",
+    "example_zh": "經理要求在週五前提供 contractable 的最新進度。"
   },
   {
     "word": "contractability",
@@ -14635,9 +14635,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Purchasing",
-    "meaning": "報表與數據追蹤",
-    "example": "Please include the contractability details in today's email update.",
-    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+    "meaning": "報表管理；數據追蹤",
+    "example": "Our team improved contractability to support the new project.",
+    "example_zh": "我們團隊已改善 contractability 以支援新專案。"
   },
   {
     "word": "contractance",
@@ -14645,9 +14645,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Finance",
-    "meaning": "人資招募與訓練",
-    "example": "Our manager approved the contractance plan for next quarter.",
-    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+    "meaning": "人資招募；教育訓練",
+    "example": "The client requested details about contractance in the proposal.",
+    "example_zh": "客戶在提案中要求提供 contractance 的細節。"
   },
   {
     "word": "contractancy",
@@ -14655,9 +14655,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Accounting",
-    "meaning": "專案與營運協調",
-    "example": "The operations unit tracked the contractancy to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+    "meaning": "專案管理；營運協調",
+    "example": "The quarterly report identified contractancy as a key focus area.",
+    "example_zh": "季度報告將 contractancy 列為關鍵關注項目。"
   },
   {
     "word": "contractant",
@@ -14665,9 +14665,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Contracts",
-    "meaning": "預算與成本控管",
-    "example": "The finance staff checked the contractant record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+    "meaning": "預算管理；成本控管",
+    "example": "We discussed contractant during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 contractant。"
   },
   {
     "word": "contractation",
@@ -14675,9 +14675,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Schedules",
-    "meaning": "品質與稽核管理",
-    "example": "Customer service reported the contractation issue to the supervisor.",
-    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+    "meaning": "品質管理；稽核作業",
+    "example": "The manager asked for an update on contractation before Friday.",
+    "example_zh": "經理要求在週五前提供 contractation 的最新進度。"
   },
   {
     "word": "contractative",
@@ -14685,9 +14685,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Reports",
-    "meaning": "行政流程管理",
-    "example": "The team reviewed the contractative item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+    "meaning": "行政管理；作業執行",
+    "example": "Our team improved contractative to support the new project.",
+    "example_zh": "我們團隊已改善 contractative 以支援新專案。"
   },
   {
     "word": "contractator",
@@ -14695,9 +14695,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Hiring",
-    "meaning": "會議與溝通安排",
-    "example": "Please include the contractator details in today's email update.",
-    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+    "meaning": "會議安排；溝通協調",
+    "example": "The client requested details about contractator in the proposal.",
+    "example_zh": "客戶在提案中要求提供 contractator 的細節。"
   },
   {
     "word": "contractboard",
@@ -14705,9 +14705,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Training",
-    "meaning": "客戶服務作業",
-    "example": "Our manager approved the contractboard plan for next quarter.",
-    "example_zh": "經理已核准下季的客戶服務作業方案。"
+    "meaning": "客戶服務；客訴處理",
+    "example": "The quarterly report identified contractboard as a key focus area.",
+    "example_zh": "季度報告將 contractboard 列為關鍵關注項目。"
   },
   {
     "word": "contractbook",
@@ -14715,9 +14715,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Administration",
-    "meaning": "物流與出貨管理",
-    "example": "The operations unit tracked the contractbook to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+    "meaning": "物流管理；出貨作業",
+    "example": "We discussed contractbook during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 contractbook。"
   },
   {
     "word": "contractbridge",
@@ -14725,9 +14725,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Travel",
-    "meaning": "採購與供應商管理",
-    "example": "The finance staff checked the contractbridge record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+    "meaning": "採購管理；供應商協作",
+    "example": "The manager asked for an update on contractbridge before Friday.",
+    "example_zh": "經理要求在週五前提供 contractbridge 的最新進度。"
   },
   {
     "word": "contractcare",
@@ -14735,9 +14735,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Marketing",
-    "meaning": "財務與帳務控管",
-    "example": "Customer service reported the contractcare issue to the supervisor.",
-    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+    "meaning": "財務管理；帳務控管",
+    "example": "Our team improved contractcare to support the new project.",
+    "example_zh": "我們團隊已改善 contractcare 以支援新專案。"
   },
   {
     "word": "contractcenter",
@@ -14745,9 +14745,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Manufacturing",
-    "meaning": "合約與法務管理",
-    "example": "The team reviewed the contractcenter item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+    "meaning": "合約管理；法務作業",
+    "example": "The client requested details about contractcenter in the proposal.",
+    "example_zh": "客戶在提案中要求提供 contractcenter 的細節。"
   },
   {
     "word": "contractchart",
@@ -14755,9 +14755,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Communication",
-    "meaning": "報表與數據追蹤",
-    "example": "Please include the contractchart details in today's email update.",
-    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+    "meaning": "報表管理；數據追蹤",
+    "example": "The quarterly report identified contractchart as a key focus area.",
+    "example_zh": "季度報告將 contractchart 列為關鍵關注項目。"
   },
   {
     "word": "contractcheck",
@@ -14765,9 +14765,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Facilities",
-    "meaning": "人資招募與訓練",
-    "example": "Our manager approved the contractcheck plan for next quarter.",
-    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+    "meaning": "人資招募；教育訓練",
+    "example": "We discussed contractcheck during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 contractcheck。"
   },
   {
     "word": "contractcore",
@@ -14775,9 +14775,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Coordination",
-    "meaning": "專案與營運協調",
-    "example": "The operations unit tracked the contractcore to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+    "meaning": "專案管理；營運協調",
+    "example": "The manager asked for an update on contractcore before Friday.",
+    "example_zh": "經理要求在週五前提供 contractcore 的最新進度。"
   },
   {
     "word": "contractcraft",
@@ -14785,9 +14785,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Project",
-    "meaning": "預算與成本控管",
-    "example": "The finance staff checked the contractcraft record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+    "meaning": "預算管理；成本控管",
+    "example": "Our team improved contractcraft to support the new project.",
+    "example_zh": "我們團隊已改善 contractcraft 以支援新專案。"
   },
   {
     "word": "contractcycle",
@@ -14795,9 +14795,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Operations",
-    "meaning": "品質與稽核管理",
-    "example": "Customer service reported the contractcycle issue to the supervisor.",
-    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+    "meaning": "品質管理；稽核作業",
+    "example": "The client requested details about contractcycle in the proposal.",
+    "example_zh": "客戶在提案中要求提供 contractcycle 的細節。"
   },
   {
     "word": "contractdesk",
@@ -14805,9 +14805,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Office",
-    "meaning": "行政流程管理",
-    "example": "The team reviewed the contractdesk item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+    "meaning": "行政管理；作業執行",
+    "example": "The quarterly report identified contractdesk as a key focus area.",
+    "example_zh": "季度報告將 contractdesk 列為關鍵關注項目。"
   },
   {
     "word": "contractdrive",
@@ -14815,9 +14815,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Business",
-    "meaning": "會議與溝通安排",
-    "example": "Please include the contractdrive details in today's email update.",
-    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+    "meaning": "會議安排；溝通協調",
+    "example": "We discussed contractdrive during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 contractdrive。"
   },
   {
     "word": "contractedge",
@@ -14825,9 +14825,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Meeting",
-    "meaning": "客戶服務作業",
-    "example": "Our manager approved the contractedge plan for next quarter.",
-    "example_zh": "經理已核准下季的客戶服務作業方案。"
+    "meaning": "客戶服務；客訴處理",
+    "example": "The manager asked for an update on contractedge before Friday.",
+    "example_zh": "經理要求在週五前提供 contractedge 的最新進度。"
   },
   {
     "word": "contractency",
@@ -14835,9 +14835,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Email",
-    "meaning": "物流與出貨管理",
-    "example": "The operations unit tracked the contractency to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+    "meaning": "物流管理；出貨作業",
+    "example": "Our team improved contractency to support the new project.",
+    "example_zh": "我們團隊已改善 contractency 以支援新專案。"
   },
   {
     "word": "contractengine",
@@ -14845,9 +14845,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "CustomerService",
-    "meaning": "採購與供應商管理",
-    "example": "The finance staff checked the contractengine record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+    "meaning": "採購管理；供應商協作",
+    "example": "The client requested details about contractengine in the proposal.",
+    "example_zh": "客戶在提案中要求提供 contractengine 的細節。"
   },
   {
     "word": "contractfield",
@@ -14855,9 +14855,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Logistics",
-    "meaning": "財務與帳務控管",
-    "example": "Customer service reported the contractfield issue to the supervisor.",
-    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+    "meaning": "財務管理；帳務控管",
+    "example": "The quarterly report identified contractfield as a key focus area.",
+    "example_zh": "季度報告將 contractfield 列為關鍵關注項目。"
   },
   {
     "word": "contractflow",
@@ -14865,9 +14865,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Shipping",
-    "meaning": "合約與法務管理",
-    "example": "The team reviewed the contractflow item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+    "meaning": "合約管理；法務作業",
+    "example": "We discussed contractflow during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 contractflow。"
   },
   {
     "word": "contractforce",
@@ -14875,9 +14875,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Purchasing",
-    "meaning": "報表與數據追蹤",
-    "example": "Please include the contractforce details in today's email update.",
-    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+    "meaning": "報表管理；數據追蹤",
+    "example": "The manager asked for an update on contractforce before Friday.",
+    "example_zh": "經理要求在週五前提供 contractforce 的最新進度。"
   },
   {
     "word": "contractform",
@@ -14885,9 +14885,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Finance",
-    "meaning": "人資招募與訓練",
-    "example": "Our manager approved the contractform plan for next quarter.",
-    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+    "meaning": "人資招募；教育訓練",
+    "example": "Our team improved contractform to support the new project.",
+    "example_zh": "我們團隊已改善 contractform 以支援新專案。"
   },
   {
     "word": "contractframe",
@@ -14895,9 +14895,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Accounting",
-    "meaning": "專案與營運協調",
-    "example": "The operations unit tracked the contractframe to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+    "meaning": "專案管理；營運協調",
+    "example": "The client requested details about contractframe in the proposal.",
+    "example_zh": "客戶在提案中要求提供 contractframe 的細節。"
   },
   {
     "word": "contractgate",
@@ -14905,9 +14905,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Contracts",
-    "meaning": "預算與成本控管",
-    "example": "The finance staff checked the contractgate record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+    "meaning": "預算管理；成本控管",
+    "example": "The quarterly report identified contractgate as a key focus area.",
+    "example_zh": "季度報告將 contractgate 列為關鍵關注項目。"
   },
   {
     "word": "contractgrid",
@@ -14915,9 +14915,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Schedules",
-    "meaning": "品質與稽核管理",
-    "example": "Customer service reported the contractgrid issue to the supervisor.",
-    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+    "meaning": "品質管理；稽核作業",
+    "example": "We discussed contractgrid during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 contractgrid。"
   },
   {
     "word": "contractguide",
@@ -14925,9 +14925,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Reports",
-    "meaning": "行政流程管理",
-    "example": "The team reviewed the contractguide item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+    "meaning": "行政管理；作業執行",
+    "example": "The manager asked for an update on contractguide before Friday.",
+    "example_zh": "經理要求在週五前提供 contractguide 的最新進度。"
   },
   {
     "word": "contracthouse",
@@ -14935,9 +14935,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Hiring",
-    "meaning": "會議與溝通安排",
-    "example": "Please include the contracthouse details in today's email update.",
-    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+    "meaning": "會議安排；溝通協調",
+    "example": "Our team improved contracthouse to support the new project.",
+    "example_zh": "我們團隊已改善 contracthouse 以支援新專案。"
   },
   {
     "word": "contracthub",
@@ -14945,9 +14945,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Training",
-    "meaning": "客戶服務作業",
-    "example": "Our manager approved the contracthub plan for next quarter.",
-    "example_zh": "經理已核准下季的客戶服務作業方案。"
+    "meaning": "客戶服務；客訴處理",
+    "example": "The client requested details about contracthub in the proposal.",
+    "example_zh": "客戶在提案中要求提供 contracthub 的細節。"
   },
   {
     "word": "contractindex",
@@ -14955,9 +14955,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Administration",
-    "meaning": "物流與出貨管理",
-    "example": "The operations unit tracked the contractindex to keep the project on schedule.",
-    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+    "meaning": "物流管理；出貨作業",
+    "example": "The quarterly report identified contractindex as a key focus area.",
+    "example_zh": "季度報告將 contractindex 列為關鍵關注項目。"
   },
   {
     "word": "contractinsight",
@@ -14965,9 +14965,9 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Travel",
-    "meaning": "採購與供應商管理",
-    "example": "The finance staff checked the contractinsight record before final submission.",
-    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+    "meaning": "採購管理；供應商協作",
+    "example": "We discussed contractinsight during the department meeting this morning.",
+    "example_zh": "我們今天早上的部門會議討論了 contractinsight。"
   },
   {
     "word": "contractkeeper",
@@ -14975,9 +14975,9 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Marketing",
-    "meaning": "財務與帳務控管",
-    "example": "Customer service reported the contractkeeper issue to the supervisor.",
-    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+    "meaning": "財務管理；帳務控管",
+    "example": "The manager asked for an update on contractkeeper before Friday.",
+    "example_zh": "經理要求在週五前提供 contractkeeper 的最新進度。"
   },
   {
     "word": "contractlane",
@@ -14985,9 +14985,9 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Manufacturing",
-    "meaning": "合約與法務管理",
-    "example": "The team reviewed the contractlane item before the weekly meeting.",
-    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+    "meaning": "合約管理；法務作業",
+    "example": "Our team improved contractlane to support the new project.",
+    "example_zh": "我們團隊已改善 contractlane 以支援新專案。"
   },
   {
     "word": "contractline",
@@ -14995,8 +14995,8 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Communication",
-    "meaning": "報表與數據追蹤",
-    "example": "Please include the contractline details in today's email update.",
-    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+    "meaning": "報表管理；數據追蹤",
+    "example": "The client requested details about contractline in the proposal.",
+    "example_zh": "客戶在提案中要求提供 contractline 的細節。"
   }
 ];
