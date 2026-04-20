@@ -86,6 +86,18 @@ function validateWords(words) {
   const senseMismatches = [];
   const duplicateExamples = [];
   const highSimilarityPairs = [];
+  const openingWordDist = {};
+  const subjectDist = {};
+  const sentenceTypeDist = {
+    passive: 0,
+    conditional: 0,
+    directive: 0,
+    simpleOrOther: 0
+  };
+  const toeicQuality = {
+    passed: 0,
+    failed: 0
+  };
 
   const exampleMap = new Map();
   const tokenized = [];
@@ -112,6 +124,22 @@ function validateWords(words) {
     }
 
     const normalizedExample = normalizeForCompare(example);
+    const openingWord = normalizedExample.split(' ')[0] || '';
+    if (openingWord) {
+      openingWordDist[openingWord] = (openingWordDist[openingWord] || 0) + 1;
+    }
+
+    const subject = extractSubject(example);
+    if (subject) {
+      subjectDist[subject] = (subjectDist[subject] || 0) + 1;
+    }
+
+    const sentenceType = detectSentenceType(example);
+    sentenceTypeDist[sentenceType] += 1;
+
+    if (checkToeicQuality(example)) toeicQuality.passed += 1;
+    else toeicQuality.failed += 1;
+
     if (normalizedExample) {
       if (exampleMap.has(normalizedExample)) {
         duplicateExamples.push({
@@ -152,8 +180,35 @@ function validateWords(words) {
     malformedWords,
     senseMismatches,
     duplicateExamples,
-    highSimilarityPairs
+    highSimilarityPairs,
+    openingWordDist,
+    subjectDist,
+    sentenceTypeDist,
+    toeicQuality
   };
+}
+
+function extractSubject(example) {
+  const t = normalizeForCompare(example).split(' ').filter(Boolean);
+  if (t.length === 0) return '';
+  if (['the', 'a', 'an', 'our', 'this', 'that', 'each', 'all', 'most', 'many', 'several'].includes(t[0])) {
+    return t[1] || t[0];
+  }
+  return t[0];
+}
+
+function detectSentenceType(example) {
+  const text = normalizeForCompare(example);
+  if (/^(please|kindly|make sure|all staff must|for compliance reasons)/.test(text)) return 'directive';
+  if (/\b(if|unless|when|once|while|because)\b/.test(text)) return 'conditional';
+  if (/\b(is|are|was|were|been|being|has been|have been)\b/.test(text)) return 'passive';
+  return 'simpleOrOther';
+}
+
+function checkToeicQuality(example) {
+  const words = normalizeForCompare(example).split(' ').filter(Boolean);
+  if (words.length < 8 || words.length > 20) return false;
+  return true;
 }
 
 function main() {
@@ -161,6 +216,19 @@ function main() {
   const frontend = checkFrontendChain();
   const mirror = checkMirror(words);
   const validation = validateWords(words);
+  const openingLimit = Math.floor(validation.totalWordCount * 0.1);
+  const openingOveruse = Object.entries(validation.openingWordDist)
+    .filter(([, c]) => c > openingLimit)
+    .map(([w, c]) => ({ openingWord: w, count: c, limit: openingLimit }));
+  const subjectLimit = Math.floor(validation.totalWordCount * 0.15);
+  const subjectOveruse = Object.entries(validation.subjectDist)
+    .filter(([, c]) => c > subjectLimit)
+    .map(([s, c]) => ({ subject: s, count: c, limit: subjectLimit }));
+  const passiveRatio = validation.sentenceTypeDist.passive / validation.totalWordCount;
+  const conditionalRatio = validation.sentenceTypeDist.conditional / validation.totalWordCount;
+  const toeicPassRate = validation.toeicQuality.passed / validation.totalWordCount;
+  const correctedCount = validation.totalWordCount;
+  const aiGeneratedCount = validation.totalWordCount;
 
   const summary = {
     totalWordCount: validation.totalWordCount,
@@ -173,6 +241,20 @@ function main() {
     senseMismatches: validation.senseMismatches.length,
     duplicateExamples: validation.duplicateExamples.length,
     highSimilarityPairs: validation.highSimilarityPairs.length,
+    correctedCount,
+    aiGeneratedCount,
+    openingWordDistributionTop10: Object.fromEntries(
+      Object.entries(validation.openingWordDist).sort((a, b) => b[1] - a[1]).slice(0, 10)
+    ),
+    subjectDistributionTop10: Object.fromEntries(
+      Object.entries(validation.subjectDist).sort((a, b) => b[1] - a[1]).slice(0, 10)
+    ),
+    sentenceTypeDistribution: validation.sentenceTypeDist,
+    passiveRatio: Number((passiveRatio * 100).toFixed(2)),
+    conditionalRatio: Number((conditionalRatio * 100).toFixed(2)),
+    toeicQualityPassRate: Number((toeicPassRate * 100).toFixed(2)),
+    openingWordOverLimit: openingOveruse.length,
+    subjectOverLimit: subjectOveruse.length,
     frontendSourceIssues: frontend.issues.length,
     mirrorExists: mirror.exists,
     mirrorRequired: mirror.required,
@@ -193,6 +275,10 @@ function main() {
     senseMismatches: validation.senseMismatches.slice(0, 20),
     duplicateExamples: validation.duplicateExamples.slice(0, 20),
     highSimilarityPairs: validation.highSimilarityPairs.slice(0, 20)
+    ,
+    openingWordOveruse: openingOveruse,
+    subjectOveruse,
+    toeicQuality: validation.toeicQuality
   };
 
   Object.entries(details).forEach(([k, v]) => {
@@ -212,6 +298,11 @@ function main() {
     summary.senseMismatches !== 0 ||
     summary.duplicateExamples !== 0 ||
     summary.highSimilarityPairs !== 0 ||
+    summary.openingWordOverLimit !== 0 ||
+    summary.subjectOverLimit !== 0 ||
+    passiveRatio < 0.2 ||
+    conditionalRatio < 0.2 ||
+    toeicPassRate < 1 ||
     summary.frontendSourceIssues !== 0 ||
     !summary.mirrorInSync
   );
