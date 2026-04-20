@@ -9998,5 +9998,5005 @@ window.WORDS = [
     "meaning": "掃描設備",
     "example": "Operations tracked the scanner to improve efficiency.",
     "example_zh": "營運部持續追蹤這項掃描設備以提升效率。"
+  },
+  {
+    "word": "adminable",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Office",
+    "meaning": "行政流程管理",
+    "example": "The team reviewed the adminable item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+  },
+  {
+    "word": "adminability",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "會議與溝通安排",
+    "example": "Please include the adminability details in today's email update.",
+    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+  },
+  {
+    "word": "adminance",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "客戶服務作業",
+    "example": "Our manager approved the adminance plan for next quarter.",
+    "example_zh": "經理已核准下季的客戶服務作業方案。"
+  },
+  {
+    "word": "adminancy",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Email",
+    "meaning": "物流與出貨管理",
+    "example": "The operations unit tracked the adminancy to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+  },
+  {
+    "word": "adminant",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "CustomerService",
+    "meaning": "採購與供應商管理",
+    "example": "The finance staff checked the adminant record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+  },
+  {
+    "word": "admination",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "財務與帳務控管",
+    "example": "Customer service reported the admination issue to the supervisor.",
+    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+  },
+  {
+    "word": "adminative",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Shipping",
+    "meaning": "合約與法務管理",
+    "example": "The team reviewed the adminative item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+  },
+  {
+    "word": "adminator",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "報表與數據追蹤",
+    "example": "Please include the adminator details in today's email update.",
+    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+  },
+  {
+    "word": "adminboard",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "人資招募與訓練",
+    "example": "Our manager approved the adminboard plan for next quarter.",
+    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+  },
+  {
+    "word": "adminbook",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Accounting",
+    "meaning": "專案與營運協調",
+    "example": "The operations unit tracked the adminbook to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+  },
+  {
+    "word": "adminbridge",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "預算與成本控管",
+    "example": "The finance staff checked the adminbridge record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+  },
+  {
+    "word": "admincare",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Schedules",
+    "meaning": "品質與稽核管理",
+    "example": "Customer service reported the admincare issue to the supervisor.",
+    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+  },
+  {
+    "word": "admincenter",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Reports",
+    "meaning": "行政流程管理",
+    "example": "The team reviewed the admincenter item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+  },
+  {
+    "word": "adminchart",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "會議與溝通安排",
+    "example": "Please include the adminchart details in today's email update.",
+    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+  },
+  {
+    "word": "admincheck",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "客戶服務作業",
+    "example": "Our manager approved the admincheck plan for next quarter.",
+    "example_zh": "經理已核准下季的客戶服務作業方案。"
+  },
+  {
+    "word": "admincore",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "物流與出貨管理",
+    "example": "The operations unit tracked the admincore to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+  },
+  {
+    "word": "admincraft",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "採購與供應商管理",
+    "example": "The finance staff checked the admincraft record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+  },
+  {
+    "word": "admincycle",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "財務與帳務控管",
+    "example": "Customer service reported the admincycle issue to the supervisor.",
+    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+  },
+  {
+    "word": "admindesk",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "合約與法務管理",
+    "example": "The team reviewed the admindesk item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+  },
+  {
+    "word": "admindrive",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Communication",
+    "meaning": "報表與數據追蹤",
+    "example": "Please include the admindrive details in today's email update.",
+    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+  },
+  {
+    "word": "adminedge",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Facilities",
+    "meaning": "人資招募與訓練",
+    "example": "Our manager approved the adminedge plan for next quarter.",
+    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+  },
+  {
+    "word": "adminency",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Coordination",
+    "meaning": "專案與營運協調",
+    "example": "The operations unit tracked the adminency to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+  },
+  {
+    "word": "adminengine",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "預算與成本控管",
+    "example": "The finance staff checked the adminengine record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+  },
+  {
+    "word": "adminfield",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "品質與稽核管理",
+    "example": "Customer service reported the adminfield issue to the supervisor.",
+    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+  },
+  {
+    "word": "adminflow",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Office",
+    "meaning": "行政流程管理",
+    "example": "The team reviewed the adminflow item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+  },
+  {
+    "word": "adminforce",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "會議與溝通安排",
+    "example": "Please include the adminforce details in today's email update.",
+    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+  },
+  {
+    "word": "adminform",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "客戶服務作業",
+    "example": "Our manager approved the adminform plan for next quarter.",
+    "example_zh": "經理已核准下季的客戶服務作業方案。"
+  },
+  {
+    "word": "adminframe",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Email",
+    "meaning": "物流與出貨管理",
+    "example": "The operations unit tracked the adminframe to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+  },
+  {
+    "word": "admingate",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "CustomerService",
+    "meaning": "採購與供應商管理",
+    "example": "The finance staff checked the admingate record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+  },
+  {
+    "word": "admingrid",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "財務與帳務控管",
+    "example": "Customer service reported the admingrid issue to the supervisor.",
+    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+  },
+  {
+    "word": "adminguide",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Shipping",
+    "meaning": "合約與法務管理",
+    "example": "The team reviewed the adminguide item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+  },
+  {
+    "word": "adminhouse",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "報表與數據追蹤",
+    "example": "Please include the adminhouse details in today's email update.",
+    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+  },
+  {
+    "word": "adminhub",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "人資招募與訓練",
+    "example": "Our manager approved the adminhub plan for next quarter.",
+    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+  },
+  {
+    "word": "adminindex",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Accounting",
+    "meaning": "專案與營運協調",
+    "example": "The operations unit tracked the adminindex to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+  },
+  {
+    "word": "admining",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "預算與成本控管",
+    "example": "The finance staff checked the admining record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+  },
+  {
+    "word": "admininsight",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Schedules",
+    "meaning": "品質與稽核管理",
+    "example": "Customer service reported the admininsight issue to the supervisor.",
+    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+  },
+  {
+    "word": "adminkeeper",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Reports",
+    "meaning": "行政流程管理",
+    "example": "The team reviewed the adminkeeper item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+  },
+  {
+    "word": "adminlane",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "會議與溝通安排",
+    "example": "Please include the adminlane details in today's email update.",
+    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+  },
+  {
+    "word": "adminline",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "客戶服務作業",
+    "example": "Our manager approved the adminline plan for next quarter.",
+    "example_zh": "經理已核准下季的客戶服務作業方案。"
+  },
+  {
+    "word": "adminlink",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "物流與出貨管理",
+    "example": "The operations unit tracked the adminlink to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+  },
+  {
+    "word": "adminlist",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "採購與供應商管理",
+    "example": "The finance staff checked the adminlist record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+  },
+  {
+    "word": "adminload",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "財務與帳務控管",
+    "example": "Customer service reported the adminload issue to the supervisor.",
+    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+  },
+  {
+    "word": "adminlogic",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "合約與法務管理",
+    "example": "The team reviewed the adminlogic item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+  },
+  {
+    "word": "adminmaker",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Communication",
+    "meaning": "報表與數據追蹤",
+    "example": "Please include the adminmaker details in today's email update.",
+    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+  },
+  {
+    "word": "adminmanage",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Facilities",
+    "meaning": "人資招募與訓練",
+    "example": "Our manager approved the adminmanage plan for next quarter.",
+    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+  },
+  {
+    "word": "adminment",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Coordination",
+    "meaning": "專案與營運協調",
+    "example": "The operations unit tracked the adminment to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+  },
+  {
+    "word": "adminmetric",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "預算與成本控管",
+    "example": "The finance staff checked the adminmetric record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+  },
+  {
+    "word": "adminmode",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "品質與稽核管理",
+    "example": "Customer service reported the adminmode issue to the supervisor.",
+    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+  },
+  {
+    "word": "adminmodule",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Office",
+    "meaning": "行政流程管理",
+    "example": "The team reviewed the adminmodule item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+  },
+  {
+    "word": "adminmonitor",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "會議與溝通安排",
+    "example": "Please include the adminmonitor details in today's email update.",
+    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+  },
+  {
+    "word": "adminnet",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "客戶服務作業",
+    "example": "Our manager approved the adminnet plan for next quarter.",
+    "example_zh": "經理已核准下季的客戶服務作業方案。"
+  },
+  {
+    "word": "adminnode",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Email",
+    "meaning": "物流與出貨管理",
+    "example": "The operations unit tracked the adminnode to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+  },
+  {
+    "word": "adminoption",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "CustomerService",
+    "meaning": "採購與供應商管理",
+    "example": "The finance staff checked the adminoption record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+  },
+  {
+    "word": "adminpath",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "財務與帳務控管",
+    "example": "Customer service reported the adminpath issue to the supervisor.",
+    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+  },
+  {
+    "word": "adminphase",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Shipping",
+    "meaning": "合約與法務管理",
+    "example": "The team reviewed the adminphase item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+  },
+  {
+    "word": "adminplan",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "報表與數據追蹤",
+    "example": "Please include the adminplan details in today's email update.",
+    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+  },
+  {
+    "word": "adminpoint",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "人資招募與訓練",
+    "example": "Our manager approved the adminpoint plan for next quarter.",
+    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+  },
+  {
+    "word": "adminport",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Accounting",
+    "meaning": "專案與營運協調",
+    "example": "The operations unit tracked the adminport to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+  },
+  {
+    "word": "adminpress",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "預算與成本控管",
+    "example": "The finance staff checked the adminpress record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+  },
+  {
+    "word": "adminproof",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Schedules",
+    "meaning": "品質與稽核管理",
+    "example": "Customer service reported the adminproof issue to the supervisor.",
+    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+  },
+  {
+    "word": "adminpulse",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Reports",
+    "meaning": "行政流程管理",
+    "example": "The team reviewed the adminpulse item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+  },
+  {
+    "word": "adminqueue",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "會議與溝通安排",
+    "example": "Please include the adminqueue details in today's email update.",
+    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+  },
+  {
+    "word": "adminrate",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "客戶服務作業",
+    "example": "Our manager approved the adminrate plan for next quarter.",
+    "example_zh": "經理已核准下季的客戶服務作業方案。"
+  },
+  {
+    "word": "adminrecord",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "物流與出貨管理",
+    "example": "The operations unit tracked the adminrecord to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+  },
+  {
+    "word": "adminscope",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "採購與供應商管理",
+    "example": "The finance staff checked the adminscope record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+  },
+  {
+    "word": "adminsense",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "財務與帳務控管",
+    "example": "Customer service reported the adminsense issue to the supervisor.",
+    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+  },
+  {
+    "word": "adminsheet",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "合約與法務管理",
+    "example": "The team reviewed the adminsheet item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+  },
+  {
+    "word": "adminshift",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Communication",
+    "meaning": "報表與數據追蹤",
+    "example": "Please include the adminshift details in today's email update.",
+    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+  },
+  {
+    "word": "adminsignal",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Facilities",
+    "meaning": "人資招募與訓練",
+    "example": "Our manager approved the adminsignal plan for next quarter.",
+    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+  },
+  {
+    "word": "adminsite",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Coordination",
+    "meaning": "專案與營運協調",
+    "example": "The operations unit tracked the adminsite to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+  },
+  {
+    "word": "adminskill",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "預算與成本控管",
+    "example": "The finance staff checked the adminskill record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+  },
+  {
+    "word": "adminsource",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "品質與稽核管理",
+    "example": "Customer service reported the adminsource issue to the supervisor.",
+    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+  },
+  {
+    "word": "adminspan",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Office",
+    "meaning": "行政流程管理",
+    "example": "The team reviewed the adminspan item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+  },
+  {
+    "word": "adminstack",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "會議與溝通安排",
+    "example": "Please include the adminstack details in today's email update.",
+    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+  },
+  {
+    "word": "adminstage",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "客戶服務作業",
+    "example": "Our manager approved the adminstage plan for next quarter.",
+    "example_zh": "經理已核准下季的客戶服務作業方案。"
+  },
+  {
+    "word": "adminstate",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Email",
+    "meaning": "物流與出貨管理",
+    "example": "The operations unit tracked the adminstate to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+  },
+  {
+    "word": "adminstream",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "CustomerService",
+    "meaning": "採購與供應商管理",
+    "example": "The finance staff checked the adminstream record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+  },
+  {
+    "word": "adminsupport",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "財務與帳務控管",
+    "example": "Customer service reported the adminsupport issue to the supervisor.",
+    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+  },
+  {
+    "word": "adminsync",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Shipping",
+    "meaning": "合約與法務管理",
+    "example": "The team reviewed the adminsync item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+  },
+  {
+    "word": "adminsystem",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "報表與數據追蹤",
+    "example": "Please include the adminsystem details in today's email update.",
+    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+  },
+  {
+    "word": "admintable",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "人資招募與訓練",
+    "example": "Our manager approved the admintable plan for next quarter.",
+    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+  },
+  {
+    "word": "admintech",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Accounting",
+    "meaning": "專案與營運協調",
+    "example": "The operations unit tracked the admintech to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+  },
+  {
+    "word": "admintrack",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "預算與成本控管",
+    "example": "The finance staff checked the admintrack record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+  },
+  {
+    "word": "admintrend",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Schedules",
+    "meaning": "品質與稽核管理",
+    "example": "Customer service reported the admintrend issue to the supervisor.",
+    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+  },
+  {
+    "word": "adminunit",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Reports",
+    "meaning": "行政流程管理",
+    "example": "The team reviewed the adminunit item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+  },
+  {
+    "word": "adminvalue",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "會議與溝通安排",
+    "example": "Please include the adminvalue details in today's email update.",
+    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+  },
+  {
+    "word": "adminview",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "客戶服務作業",
+    "example": "Our manager approved the adminview plan for next quarter.",
+    "example_zh": "經理已核准下季的客戶服務作業方案。"
+  },
+  {
+    "word": "adminvision",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "物流與出貨管理",
+    "example": "The operations unit tracked the adminvision to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+  },
+  {
+    "word": "adminware",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "採購與供應商管理",
+    "example": "The finance staff checked the adminware record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+  },
+  {
+    "word": "adminwatch",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "財務與帳務控管",
+    "example": "Customer service reported the adminwatch issue to the supervisor.",
+    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+  },
+  {
+    "word": "adminwave",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "合約與法務管理",
+    "example": "The team reviewed the adminwave item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+  },
+  {
+    "word": "adminwork",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Communication",
+    "meaning": "報表與數據追蹤",
+    "example": "Please include the adminwork details in today's email update.",
+    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+  },
+  {
+    "word": "adminzone",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Facilities",
+    "meaning": "人資招募與訓練",
+    "example": "Our manager approved the adminzone plan for next quarter.",
+    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+  },
+  {
+    "word": "agendaable",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Coordination",
+    "meaning": "專案與營運協調",
+    "example": "The operations unit tracked the agendaable to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+  },
+  {
+    "word": "agendaability",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "預算與成本控管",
+    "example": "The finance staff checked the agendaability record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+  },
+  {
+    "word": "agendaance",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "品質與稽核管理",
+    "example": "Customer service reported the agendaance issue to the supervisor.",
+    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+  },
+  {
+    "word": "agendaancy",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Office",
+    "meaning": "行政流程管理",
+    "example": "The team reviewed the agendaancy item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+  },
+  {
+    "word": "agendaant",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "會議與溝通安排",
+    "example": "Please include the agendaant details in today's email update.",
+    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+  },
+  {
+    "word": "agendaation",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "客戶服務作業",
+    "example": "Our manager approved the agendaation plan for next quarter.",
+    "example_zh": "經理已核准下季的客戶服務作業方案。"
+  },
+  {
+    "word": "agendaative",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Email",
+    "meaning": "物流與出貨管理",
+    "example": "The operations unit tracked the agendaative to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+  },
+  {
+    "word": "agendaator",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "CustomerService",
+    "meaning": "採購與供應商管理",
+    "example": "The finance staff checked the agendaator record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+  },
+  {
+    "word": "agendaboard",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "財務與帳務控管",
+    "example": "Customer service reported the agendaboard issue to the supervisor.",
+    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+  },
+  {
+    "word": "agendabook",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Shipping",
+    "meaning": "合約與法務管理",
+    "example": "The team reviewed the agendabook item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+  },
+  {
+    "word": "agendabridge",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "報表與數據追蹤",
+    "example": "Please include the agendabridge details in today's email update.",
+    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+  },
+  {
+    "word": "agendacare",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "人資招募與訓練",
+    "example": "Our manager approved the agendacare plan for next quarter.",
+    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+  },
+  {
+    "word": "agendacenter",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Accounting",
+    "meaning": "專案與營運協調",
+    "example": "The operations unit tracked the agendacenter to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+  },
+  {
+    "word": "agendachart",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "預算與成本控管",
+    "example": "The finance staff checked the agendachart record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+  },
+  {
+    "word": "agendacheck",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Schedules",
+    "meaning": "品質與稽核管理",
+    "example": "Customer service reported the agendacheck issue to the supervisor.",
+    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+  },
+  {
+    "word": "agendacore",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Reports",
+    "meaning": "行政流程管理",
+    "example": "The team reviewed the agendacore item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+  },
+  {
+    "word": "agendacraft",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "會議與溝通安排",
+    "example": "Please include the agendacraft details in today's email update.",
+    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+  },
+  {
+    "word": "agendacycle",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "客戶服務作業",
+    "example": "Our manager approved the agendacycle plan for next quarter.",
+    "example_zh": "經理已核准下季的客戶服務作業方案。"
+  },
+  {
+    "word": "agendadesk",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "物流與出貨管理",
+    "example": "The operations unit tracked the agendadesk to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+  },
+  {
+    "word": "agendadrive",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "採購與供應商管理",
+    "example": "The finance staff checked the agendadrive record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+  },
+  {
+    "word": "agendaedge",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "財務與帳務控管",
+    "example": "Customer service reported the agendaedge issue to the supervisor.",
+    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+  },
+  {
+    "word": "agendaency",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "合約與法務管理",
+    "example": "The team reviewed the agendaency item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+  },
+  {
+    "word": "agendaengine",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Communication",
+    "meaning": "報表與數據追蹤",
+    "example": "Please include the agendaengine details in today's email update.",
+    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+  },
+  {
+    "word": "agendafield",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Facilities",
+    "meaning": "人資招募與訓練",
+    "example": "Our manager approved the agendafield plan for next quarter.",
+    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+  },
+  {
+    "word": "agendaflow",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Coordination",
+    "meaning": "專案與營運協調",
+    "example": "The operations unit tracked the agendaflow to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+  },
+  {
+    "word": "agendaforce",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "預算與成本控管",
+    "example": "The finance staff checked the agendaforce record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+  },
+  {
+    "word": "agendaform",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "品質與稽核管理",
+    "example": "Customer service reported the agendaform issue to the supervisor.",
+    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+  },
+  {
+    "word": "agendaframe",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Office",
+    "meaning": "行政流程管理",
+    "example": "The team reviewed the agendaframe item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+  },
+  {
+    "word": "agendagate",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "會議與溝通安排",
+    "example": "Please include the agendagate details in today's email update.",
+    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+  },
+  {
+    "word": "agendagrid",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "客戶服務作業",
+    "example": "Our manager approved the agendagrid plan for next quarter.",
+    "example_zh": "經理已核准下季的客戶服務作業方案。"
+  },
+  {
+    "word": "agendaguide",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Email",
+    "meaning": "物流與出貨管理",
+    "example": "The operations unit tracked the agendaguide to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+  },
+  {
+    "word": "agendahouse",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "CustomerService",
+    "meaning": "採購與供應商管理",
+    "example": "The finance staff checked the agendahouse record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+  },
+  {
+    "word": "agendahub",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "財務與帳務控管",
+    "example": "Customer service reported the agendahub issue to the supervisor.",
+    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+  },
+  {
+    "word": "agendaindex",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Shipping",
+    "meaning": "合約與法務管理",
+    "example": "The team reviewed the agendaindex item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+  },
+  {
+    "word": "agendaing",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "報表與數據追蹤",
+    "example": "Please include the agendaing details in today's email update.",
+    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+  },
+  {
+    "word": "agendainsight",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "人資招募與訓練",
+    "example": "Our manager approved the agendainsight plan for next quarter.",
+    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+  },
+  {
+    "word": "agendakeeper",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Accounting",
+    "meaning": "專案與營運協調",
+    "example": "The operations unit tracked the agendakeeper to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+  },
+  {
+    "word": "agendalane",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "預算與成本控管",
+    "example": "The finance staff checked the agendalane record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+  },
+  {
+    "word": "agendaline",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Schedules",
+    "meaning": "品質與稽核管理",
+    "example": "Customer service reported the agendaline issue to the supervisor.",
+    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+  },
+  {
+    "word": "agendalink",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Reports",
+    "meaning": "行政流程管理",
+    "example": "The team reviewed the agendalink item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+  },
+  {
+    "word": "agendalist",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "會議與溝通安排",
+    "example": "Please include the agendalist details in today's email update.",
+    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+  },
+  {
+    "word": "agendaload",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "客戶服務作業",
+    "example": "Our manager approved the agendaload plan for next quarter.",
+    "example_zh": "經理已核准下季的客戶服務作業方案。"
+  },
+  {
+    "word": "agendalogic",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "物流與出貨管理",
+    "example": "The operations unit tracked the agendalogic to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+  },
+  {
+    "word": "agendamaker",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "採購與供應商管理",
+    "example": "The finance staff checked the agendamaker record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+  },
+  {
+    "word": "agendamanage",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "財務與帳務控管",
+    "example": "Customer service reported the agendamanage issue to the supervisor.",
+    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+  },
+  {
+    "word": "agendament",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "合約與法務管理",
+    "example": "The team reviewed the agendament item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+  },
+  {
+    "word": "agendametric",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Communication",
+    "meaning": "報表與數據追蹤",
+    "example": "Please include the agendametric details in today's email update.",
+    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+  },
+  {
+    "word": "agendamode",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Facilities",
+    "meaning": "人資招募與訓練",
+    "example": "Our manager approved the agendamode plan for next quarter.",
+    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+  },
+  {
+    "word": "agendamodule",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Coordination",
+    "meaning": "專案與營運協調",
+    "example": "The operations unit tracked the agendamodule to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+  },
+  {
+    "word": "agendamonitor",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "預算與成本控管",
+    "example": "The finance staff checked the agendamonitor record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+  },
+  {
+    "word": "agendanet",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "品質與稽核管理",
+    "example": "Customer service reported the agendanet issue to the supervisor.",
+    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+  },
+  {
+    "word": "agendanode",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Office",
+    "meaning": "行政流程管理",
+    "example": "The team reviewed the agendanode item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+  },
+  {
+    "word": "agendaoption",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "會議與溝通安排",
+    "example": "Please include the agendaoption details in today's email update.",
+    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+  },
+  {
+    "word": "agendapath",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "客戶服務作業",
+    "example": "Our manager approved the agendapath plan for next quarter.",
+    "example_zh": "經理已核准下季的客戶服務作業方案。"
+  },
+  {
+    "word": "agendaphase",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Email",
+    "meaning": "物流與出貨管理",
+    "example": "The operations unit tracked the agendaphase to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+  },
+  {
+    "word": "agendaplan",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "CustomerService",
+    "meaning": "採購與供應商管理",
+    "example": "The finance staff checked the agendaplan record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+  },
+  {
+    "word": "agendapoint",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "財務與帳務控管",
+    "example": "Customer service reported the agendapoint issue to the supervisor.",
+    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+  },
+  {
+    "word": "agendaport",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Shipping",
+    "meaning": "合約與法務管理",
+    "example": "The team reviewed the agendaport item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+  },
+  {
+    "word": "agendapress",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "報表與數據追蹤",
+    "example": "Please include the agendapress details in today's email update.",
+    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+  },
+  {
+    "word": "agendaproof",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "人資招募與訓練",
+    "example": "Our manager approved the agendaproof plan for next quarter.",
+    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+  },
+  {
+    "word": "agendapulse",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Accounting",
+    "meaning": "專案與營運協調",
+    "example": "The operations unit tracked the agendapulse to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+  },
+  {
+    "word": "agendaqueue",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "預算與成本控管",
+    "example": "The finance staff checked the agendaqueue record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+  },
+  {
+    "word": "agendarate",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Schedules",
+    "meaning": "品質與稽核管理",
+    "example": "Customer service reported the agendarate issue to the supervisor.",
+    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+  },
+  {
+    "word": "agendarecord",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Reports",
+    "meaning": "行政流程管理",
+    "example": "The team reviewed the agendarecord item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+  },
+  {
+    "word": "agendascope",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "會議與溝通安排",
+    "example": "Please include the agendascope details in today's email update.",
+    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+  },
+  {
+    "word": "agendasense",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "客戶服務作業",
+    "example": "Our manager approved the agendasense plan for next quarter.",
+    "example_zh": "經理已核准下季的客戶服務作業方案。"
+  },
+  {
+    "word": "agendasheet",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "物流與出貨管理",
+    "example": "The operations unit tracked the agendasheet to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+  },
+  {
+    "word": "agendashift",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "採購與供應商管理",
+    "example": "The finance staff checked the agendashift record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+  },
+  {
+    "word": "agendasignal",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "財務與帳務控管",
+    "example": "Customer service reported the agendasignal issue to the supervisor.",
+    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+  },
+  {
+    "word": "agendasite",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "合約與法務管理",
+    "example": "The team reviewed the agendasite item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+  },
+  {
+    "word": "agendaskill",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Communication",
+    "meaning": "報表與數據追蹤",
+    "example": "Please include the agendaskill details in today's email update.",
+    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+  },
+  {
+    "word": "agendasource",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Facilities",
+    "meaning": "人資招募與訓練",
+    "example": "Our manager approved the agendasource plan for next quarter.",
+    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+  },
+  {
+    "word": "agendaspan",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Coordination",
+    "meaning": "專案與營運協調",
+    "example": "The operations unit tracked the agendaspan to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+  },
+  {
+    "word": "agendastack",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "預算與成本控管",
+    "example": "The finance staff checked the agendastack record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+  },
+  {
+    "word": "agendastage",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "品質與稽核管理",
+    "example": "Customer service reported the agendastage issue to the supervisor.",
+    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+  },
+  {
+    "word": "agendastate",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Office",
+    "meaning": "行政流程管理",
+    "example": "The team reviewed the agendastate item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+  },
+  {
+    "word": "agendastream",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "會議與溝通安排",
+    "example": "Please include the agendastream details in today's email update.",
+    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+  },
+  {
+    "word": "agendasupport",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "客戶服務作業",
+    "example": "Our manager approved the agendasupport plan for next quarter.",
+    "example_zh": "經理已核准下季的客戶服務作業方案。"
+  },
+  {
+    "word": "agendasync",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Email",
+    "meaning": "物流與出貨管理",
+    "example": "The operations unit tracked the agendasync to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+  },
+  {
+    "word": "agendasystem",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "CustomerService",
+    "meaning": "採購與供應商管理",
+    "example": "The finance staff checked the agendasystem record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+  },
+  {
+    "word": "agendatable",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "財務與帳務控管",
+    "example": "Customer service reported the agendatable issue to the supervisor.",
+    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+  },
+  {
+    "word": "agendatech",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Shipping",
+    "meaning": "合約與法務管理",
+    "example": "The team reviewed the agendatech item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+  },
+  {
+    "word": "agendatrack",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "報表與數據追蹤",
+    "example": "Please include the agendatrack details in today's email update.",
+    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+  },
+  {
+    "word": "agendatrend",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "人資招募與訓練",
+    "example": "Our manager approved the agendatrend plan for next quarter.",
+    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+  },
+  {
+    "word": "agendaunit",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Accounting",
+    "meaning": "專案與營運協調",
+    "example": "The operations unit tracked the agendaunit to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+  },
+  {
+    "word": "agendavalue",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "預算與成本控管",
+    "example": "The finance staff checked the agendavalue record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+  },
+  {
+    "word": "agendaview",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Schedules",
+    "meaning": "品質與稽核管理",
+    "example": "Customer service reported the agendaview issue to the supervisor.",
+    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+  },
+  {
+    "word": "agendavision",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Reports",
+    "meaning": "行政流程管理",
+    "example": "The team reviewed the agendavision item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+  },
+  {
+    "word": "agendaware",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "會議與溝通安排",
+    "example": "Please include the agendaware details in today's email update.",
+    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+  },
+  {
+    "word": "agendawatch",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "客戶服務作業",
+    "example": "Our manager approved the agendawatch plan for next quarter.",
+    "example_zh": "經理已核准下季的客戶服務作業方案。"
+  },
+  {
+    "word": "agendawave",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "物流與出貨管理",
+    "example": "The operations unit tracked the agendawave to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+  },
+  {
+    "word": "agendawork",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "採購與供應商管理",
+    "example": "The finance staff checked the agendawork record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+  },
+  {
+    "word": "agendazone",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "財務與帳務控管",
+    "example": "Customer service reported the agendazone issue to the supervisor.",
+    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+  },
+  {
+    "word": "auditable",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "合約與法務管理",
+    "example": "The team reviewed the auditable item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+  },
+  {
+    "word": "auditability",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Communication",
+    "meaning": "報表與數據追蹤",
+    "example": "Please include the auditability details in today's email update.",
+    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+  },
+  {
+    "word": "auditance",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Facilities",
+    "meaning": "人資招募與訓練",
+    "example": "Our manager approved the auditance plan for next quarter.",
+    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+  },
+  {
+    "word": "auditancy",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Coordination",
+    "meaning": "專案與營運協調",
+    "example": "The operations unit tracked the auditancy to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+  },
+  {
+    "word": "auditant",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "預算與成本控管",
+    "example": "The finance staff checked the auditant record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+  },
+  {
+    "word": "auditation",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "品質與稽核管理",
+    "example": "Customer service reported the auditation issue to the supervisor.",
+    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+  },
+  {
+    "word": "auditative",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Office",
+    "meaning": "行政流程管理",
+    "example": "The team reviewed the auditative item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+  },
+  {
+    "word": "auditator",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "會議與溝通安排",
+    "example": "Please include the auditator details in today's email update.",
+    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+  },
+  {
+    "word": "auditboard",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "客戶服務作業",
+    "example": "Our manager approved the auditboard plan for next quarter.",
+    "example_zh": "經理已核准下季的客戶服務作業方案。"
+  },
+  {
+    "word": "auditbook",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Email",
+    "meaning": "物流與出貨管理",
+    "example": "The operations unit tracked the auditbook to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+  },
+  {
+    "word": "auditbridge",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "CustomerService",
+    "meaning": "採購與供應商管理",
+    "example": "The finance staff checked the auditbridge record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+  },
+  {
+    "word": "auditcare",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "財務與帳務控管",
+    "example": "Customer service reported the auditcare issue to the supervisor.",
+    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+  },
+  {
+    "word": "auditcenter",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Shipping",
+    "meaning": "合約與法務管理",
+    "example": "The team reviewed the auditcenter item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+  },
+  {
+    "word": "auditchart",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "報表與數據追蹤",
+    "example": "Please include the auditchart details in today's email update.",
+    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+  },
+  {
+    "word": "auditcheck",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "人資招募與訓練",
+    "example": "Our manager approved the auditcheck plan for next quarter.",
+    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+  },
+  {
+    "word": "auditcore",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Accounting",
+    "meaning": "專案與營運協調",
+    "example": "The operations unit tracked the auditcore to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+  },
+  {
+    "word": "auditcraft",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "預算與成本控管",
+    "example": "The finance staff checked the auditcraft record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+  },
+  {
+    "word": "auditcycle",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Schedules",
+    "meaning": "品質與稽核管理",
+    "example": "Customer service reported the auditcycle issue to the supervisor.",
+    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+  },
+  {
+    "word": "auditdesk",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Reports",
+    "meaning": "行政流程管理",
+    "example": "The team reviewed the auditdesk item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+  },
+  {
+    "word": "auditdrive",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "會議與溝通安排",
+    "example": "Please include the auditdrive details in today's email update.",
+    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+  },
+  {
+    "word": "auditedge",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "客戶服務作業",
+    "example": "Our manager approved the auditedge plan for next quarter.",
+    "example_zh": "經理已核准下季的客戶服務作業方案。"
+  },
+  {
+    "word": "auditency",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "物流與出貨管理",
+    "example": "The operations unit tracked the auditency to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+  },
+  {
+    "word": "auditengine",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "採購與供應商管理",
+    "example": "The finance staff checked the auditengine record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+  },
+  {
+    "word": "auditfield",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "財務與帳務控管",
+    "example": "Customer service reported the auditfield issue to the supervisor.",
+    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+  },
+  {
+    "word": "auditflow",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "合約與法務管理",
+    "example": "The team reviewed the auditflow item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+  },
+  {
+    "word": "auditforce",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Communication",
+    "meaning": "報表與數據追蹤",
+    "example": "Please include the auditforce details in today's email update.",
+    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+  },
+  {
+    "word": "auditform",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Facilities",
+    "meaning": "人資招募與訓練",
+    "example": "Our manager approved the auditform plan for next quarter.",
+    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+  },
+  {
+    "word": "auditframe",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Coordination",
+    "meaning": "專案與營運協調",
+    "example": "The operations unit tracked the auditframe to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+  },
+  {
+    "word": "auditgate",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "預算與成本控管",
+    "example": "The finance staff checked the auditgate record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+  },
+  {
+    "word": "auditgrid",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "品質與稽核管理",
+    "example": "Customer service reported the auditgrid issue to the supervisor.",
+    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+  },
+  {
+    "word": "auditguide",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Office",
+    "meaning": "行政流程管理",
+    "example": "The team reviewed the auditguide item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+  },
+  {
+    "word": "audithouse",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "會議與溝通安排",
+    "example": "Please include the audithouse details in today's email update.",
+    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+  },
+  {
+    "word": "audithub",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "客戶服務作業",
+    "example": "Our manager approved the audithub plan for next quarter.",
+    "example_zh": "經理已核准下季的客戶服務作業方案。"
+  },
+  {
+    "word": "auditindex",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Email",
+    "meaning": "物流與出貨管理",
+    "example": "The operations unit tracked the auditindex to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+  },
+  {
+    "word": "auditing",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "CustomerService",
+    "meaning": "採購與供應商管理",
+    "example": "The finance staff checked the auditing record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+  },
+  {
+    "word": "auditinsight",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "財務與帳務控管",
+    "example": "Customer service reported the auditinsight issue to the supervisor.",
+    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+  },
+  {
+    "word": "auditkeeper",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Shipping",
+    "meaning": "合約與法務管理",
+    "example": "The team reviewed the auditkeeper item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+  },
+  {
+    "word": "auditlane",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "報表與數據追蹤",
+    "example": "Please include the auditlane details in today's email update.",
+    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+  },
+  {
+    "word": "auditline",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "人資招募與訓練",
+    "example": "Our manager approved the auditline plan for next quarter.",
+    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+  },
+  {
+    "word": "auditlink",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Accounting",
+    "meaning": "專案與營運協調",
+    "example": "The operations unit tracked the auditlink to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+  },
+  {
+    "word": "auditlist",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "預算與成本控管",
+    "example": "The finance staff checked the auditlist record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+  },
+  {
+    "word": "auditload",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Schedules",
+    "meaning": "品質與稽核管理",
+    "example": "Customer service reported the auditload issue to the supervisor.",
+    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+  },
+  {
+    "word": "auditlogic",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Reports",
+    "meaning": "行政流程管理",
+    "example": "The team reviewed the auditlogic item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+  },
+  {
+    "word": "auditmaker",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "會議與溝通安排",
+    "example": "Please include the auditmaker details in today's email update.",
+    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+  },
+  {
+    "word": "auditmanage",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "客戶服務作業",
+    "example": "Our manager approved the auditmanage plan for next quarter.",
+    "example_zh": "經理已核准下季的客戶服務作業方案。"
+  },
+  {
+    "word": "auditment",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "物流與出貨管理",
+    "example": "The operations unit tracked the auditment to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+  },
+  {
+    "word": "auditmetric",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "採購與供應商管理",
+    "example": "The finance staff checked the auditmetric record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+  },
+  {
+    "word": "auditmode",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "財務與帳務控管",
+    "example": "Customer service reported the auditmode issue to the supervisor.",
+    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+  },
+  {
+    "word": "auditmodule",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "合約與法務管理",
+    "example": "The team reviewed the auditmodule item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+  },
+  {
+    "word": "auditmonitor",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Communication",
+    "meaning": "報表與數據追蹤",
+    "example": "Please include the auditmonitor details in today's email update.",
+    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+  },
+  {
+    "word": "auditnet",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Facilities",
+    "meaning": "人資招募與訓練",
+    "example": "Our manager approved the auditnet plan for next quarter.",
+    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+  },
+  {
+    "word": "auditnode",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Coordination",
+    "meaning": "專案與營運協調",
+    "example": "The operations unit tracked the auditnode to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+  },
+  {
+    "word": "auditoption",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "預算與成本控管",
+    "example": "The finance staff checked the auditoption record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+  },
+  {
+    "word": "auditpath",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "品質與稽核管理",
+    "example": "Customer service reported the auditpath issue to the supervisor.",
+    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+  },
+  {
+    "word": "auditphase",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Office",
+    "meaning": "行政流程管理",
+    "example": "The team reviewed the auditphase item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+  },
+  {
+    "word": "auditplan",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "會議與溝通安排",
+    "example": "Please include the auditplan details in today's email update.",
+    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+  },
+  {
+    "word": "auditpoint",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "客戶服務作業",
+    "example": "Our manager approved the auditpoint plan for next quarter.",
+    "example_zh": "經理已核准下季的客戶服務作業方案。"
+  },
+  {
+    "word": "auditport",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Email",
+    "meaning": "物流與出貨管理",
+    "example": "The operations unit tracked the auditport to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+  },
+  {
+    "word": "auditpress",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "CustomerService",
+    "meaning": "採購與供應商管理",
+    "example": "The finance staff checked the auditpress record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+  },
+  {
+    "word": "auditproof",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "財務與帳務控管",
+    "example": "Customer service reported the auditproof issue to the supervisor.",
+    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+  },
+  {
+    "word": "auditpulse",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Shipping",
+    "meaning": "合約與法務管理",
+    "example": "The team reviewed the auditpulse item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+  },
+  {
+    "word": "auditqueue",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "報表與數據追蹤",
+    "example": "Please include the auditqueue details in today's email update.",
+    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+  },
+  {
+    "word": "auditrate",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "人資招募與訓練",
+    "example": "Our manager approved the auditrate plan for next quarter.",
+    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+  },
+  {
+    "word": "auditrecord",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Accounting",
+    "meaning": "專案與營運協調",
+    "example": "The operations unit tracked the auditrecord to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+  },
+  {
+    "word": "auditscope",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "預算與成本控管",
+    "example": "The finance staff checked the auditscope record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+  },
+  {
+    "word": "auditsense",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Schedules",
+    "meaning": "品質與稽核管理",
+    "example": "Customer service reported the auditsense issue to the supervisor.",
+    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+  },
+  {
+    "word": "auditsheet",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Reports",
+    "meaning": "行政流程管理",
+    "example": "The team reviewed the auditsheet item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+  },
+  {
+    "word": "auditshift",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "會議與溝通安排",
+    "example": "Please include the auditshift details in today's email update.",
+    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+  },
+  {
+    "word": "auditsignal",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "客戶服務作業",
+    "example": "Our manager approved the auditsignal plan for next quarter.",
+    "example_zh": "經理已核准下季的客戶服務作業方案。"
+  },
+  {
+    "word": "auditsite",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "物流與出貨管理",
+    "example": "The operations unit tracked the auditsite to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+  },
+  {
+    "word": "auditskill",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "採購與供應商管理",
+    "example": "The finance staff checked the auditskill record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+  },
+  {
+    "word": "auditsource",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "財務與帳務控管",
+    "example": "Customer service reported the auditsource issue to the supervisor.",
+    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+  },
+  {
+    "word": "auditspan",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "合約與法務管理",
+    "example": "The team reviewed the auditspan item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+  },
+  {
+    "word": "auditstack",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Communication",
+    "meaning": "報表與數據追蹤",
+    "example": "Please include the auditstack details in today's email update.",
+    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+  },
+  {
+    "word": "auditstage",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Facilities",
+    "meaning": "人資招募與訓練",
+    "example": "Our manager approved the auditstage plan for next quarter.",
+    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+  },
+  {
+    "word": "auditstate",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Coordination",
+    "meaning": "專案與營運協調",
+    "example": "The operations unit tracked the auditstate to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+  },
+  {
+    "word": "auditstream",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "預算與成本控管",
+    "example": "The finance staff checked the auditstream record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+  },
+  {
+    "word": "auditsupport",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "品質與稽核管理",
+    "example": "Customer service reported the auditsupport issue to the supervisor.",
+    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+  },
+  {
+    "word": "auditsync",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Office",
+    "meaning": "行政流程管理",
+    "example": "The team reviewed the auditsync item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+  },
+  {
+    "word": "auditsystem",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "會議與溝通安排",
+    "example": "Please include the auditsystem details in today's email update.",
+    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+  },
+  {
+    "word": "audittable",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "客戶服務作業",
+    "example": "Our manager approved the audittable plan for next quarter.",
+    "example_zh": "經理已核准下季的客戶服務作業方案。"
+  },
+  {
+    "word": "audittech",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Email",
+    "meaning": "物流與出貨管理",
+    "example": "The operations unit tracked the audittech to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+  },
+  {
+    "word": "audittrack",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "CustomerService",
+    "meaning": "採購與供應商管理",
+    "example": "The finance staff checked the audittrack record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+  },
+  {
+    "word": "audittrend",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "財務與帳務控管",
+    "example": "Customer service reported the audittrend issue to the supervisor.",
+    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+  },
+  {
+    "word": "auditunit",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Shipping",
+    "meaning": "合約與法務管理",
+    "example": "The team reviewed the auditunit item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+  },
+  {
+    "word": "auditvalue",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "報表與數據追蹤",
+    "example": "Please include the auditvalue details in today's email update.",
+    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+  },
+  {
+    "word": "auditview",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "人資招募與訓練",
+    "example": "Our manager approved the auditview plan for next quarter.",
+    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+  },
+  {
+    "word": "auditvision",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Accounting",
+    "meaning": "專案與營運協調",
+    "example": "The operations unit tracked the auditvision to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+  },
+  {
+    "word": "auditware",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "預算與成本控管",
+    "example": "The finance staff checked the auditware record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+  },
+  {
+    "word": "auditwatch",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Schedules",
+    "meaning": "品質與稽核管理",
+    "example": "Customer service reported the auditwatch issue to the supervisor.",
+    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+  },
+  {
+    "word": "auditwave",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Reports",
+    "meaning": "行政流程管理",
+    "example": "The team reviewed the auditwave item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+  },
+  {
+    "word": "auditwork",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "會議與溝通安排",
+    "example": "Please include the auditwork details in today's email update.",
+    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+  },
+  {
+    "word": "auditzone",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "客戶服務作業",
+    "example": "Our manager approved the auditzone plan for next quarter.",
+    "example_zh": "經理已核准下季的客戶服務作業方案。"
+  },
+  {
+    "word": "budgetable",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "物流與出貨管理",
+    "example": "The operations unit tracked the budgetable to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+  },
+  {
+    "word": "budgetability",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "採購與供應商管理",
+    "example": "The finance staff checked the budgetability record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+  },
+  {
+    "word": "budgetance",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "財務與帳務控管",
+    "example": "Customer service reported the budgetance issue to the supervisor.",
+    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+  },
+  {
+    "word": "budgetancy",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "合約與法務管理",
+    "example": "The team reviewed the budgetancy item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+  },
+  {
+    "word": "budgetant",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Communication",
+    "meaning": "報表與數據追蹤",
+    "example": "Please include the budgetant details in today's email update.",
+    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+  },
+  {
+    "word": "budgetation",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Facilities",
+    "meaning": "人資招募與訓練",
+    "example": "Our manager approved the budgetation plan for next quarter.",
+    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+  },
+  {
+    "word": "budgetative",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Coordination",
+    "meaning": "專案與營運協調",
+    "example": "The operations unit tracked the budgetative to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+  },
+  {
+    "word": "budgetator",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "預算與成本控管",
+    "example": "The finance staff checked the budgetator record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+  },
+  {
+    "word": "budgetboard",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "品質與稽核管理",
+    "example": "Customer service reported the budgetboard issue to the supervisor.",
+    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+  },
+  {
+    "word": "budgetbook",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Office",
+    "meaning": "行政流程管理",
+    "example": "The team reviewed the budgetbook item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+  },
+  {
+    "word": "budgetbridge",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "會議與溝通安排",
+    "example": "Please include the budgetbridge details in today's email update.",
+    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+  },
+  {
+    "word": "budgetcare",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "客戶服務作業",
+    "example": "Our manager approved the budgetcare plan for next quarter.",
+    "example_zh": "經理已核准下季的客戶服務作業方案。"
+  },
+  {
+    "word": "budgetcenter",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Email",
+    "meaning": "物流與出貨管理",
+    "example": "The operations unit tracked the budgetcenter to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+  },
+  {
+    "word": "budgetchart",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "CustomerService",
+    "meaning": "採購與供應商管理",
+    "example": "The finance staff checked the budgetchart record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+  },
+  {
+    "word": "budgetcheck",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "財務與帳務控管",
+    "example": "Customer service reported the budgetcheck issue to the supervisor.",
+    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+  },
+  {
+    "word": "budgetcore",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Shipping",
+    "meaning": "合約與法務管理",
+    "example": "The team reviewed the budgetcore item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+  },
+  {
+    "word": "budgetcraft",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "報表與數據追蹤",
+    "example": "Please include the budgetcraft details in today's email update.",
+    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+  },
+  {
+    "word": "budgetcycle",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "人資招募與訓練",
+    "example": "Our manager approved the budgetcycle plan for next quarter.",
+    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+  },
+  {
+    "word": "budgetdesk",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Accounting",
+    "meaning": "專案與營運協調",
+    "example": "The operations unit tracked the budgetdesk to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+  },
+  {
+    "word": "budgetdrive",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "預算與成本控管",
+    "example": "The finance staff checked the budgetdrive record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+  },
+  {
+    "word": "budgetedge",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Schedules",
+    "meaning": "品質與稽核管理",
+    "example": "Customer service reported the budgetedge issue to the supervisor.",
+    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+  },
+  {
+    "word": "budgetency",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Reports",
+    "meaning": "行政流程管理",
+    "example": "The team reviewed the budgetency item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+  },
+  {
+    "word": "budgetengine",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "會議與溝通安排",
+    "example": "Please include the budgetengine details in today's email update.",
+    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+  },
+  {
+    "word": "budgetfield",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "客戶服務作業",
+    "example": "Our manager approved the budgetfield plan for next quarter.",
+    "example_zh": "經理已核准下季的客戶服務作業方案。"
+  },
+  {
+    "word": "budgetflow",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "物流與出貨管理",
+    "example": "The operations unit tracked the budgetflow to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+  },
+  {
+    "word": "budgetforce",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "採購與供應商管理",
+    "example": "The finance staff checked the budgetforce record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+  },
+  {
+    "word": "budgetform",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "財務與帳務控管",
+    "example": "Customer service reported the budgetform issue to the supervisor.",
+    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+  },
+  {
+    "word": "budgetframe",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "合約與法務管理",
+    "example": "The team reviewed the budgetframe item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+  },
+  {
+    "word": "budgetgate",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Communication",
+    "meaning": "報表與數據追蹤",
+    "example": "Please include the budgetgate details in today's email update.",
+    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+  },
+  {
+    "word": "budgetgrid",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Facilities",
+    "meaning": "人資招募與訓練",
+    "example": "Our manager approved the budgetgrid plan for next quarter.",
+    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+  },
+  {
+    "word": "budgetguide",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Coordination",
+    "meaning": "專案與營運協調",
+    "example": "The operations unit tracked the budgetguide to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+  },
+  {
+    "word": "budgethouse",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "預算與成本控管",
+    "example": "The finance staff checked the budgethouse record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+  },
+  {
+    "word": "budgethub",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "品質與稽核管理",
+    "example": "Customer service reported the budgethub issue to the supervisor.",
+    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+  },
+  {
+    "word": "budgetindex",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Office",
+    "meaning": "行政流程管理",
+    "example": "The team reviewed the budgetindex item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+  },
+  {
+    "word": "budgetinsight",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "會議與溝通安排",
+    "example": "Please include the budgetinsight details in today's email update.",
+    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+  },
+  {
+    "word": "budgetkeeper",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "客戶服務作業",
+    "example": "Our manager approved the budgetkeeper plan for next quarter.",
+    "example_zh": "經理已核准下季的客戶服務作業方案。"
+  },
+  {
+    "word": "budgetlane",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Email",
+    "meaning": "物流與出貨管理",
+    "example": "The operations unit tracked the budgetlane to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+  },
+  {
+    "word": "budgetlink",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "CustomerService",
+    "meaning": "採購與供應商管理",
+    "example": "The finance staff checked the budgetlink record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+  },
+  {
+    "word": "budgetlist",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "財務與帳務控管",
+    "example": "Customer service reported the budgetlist issue to the supervisor.",
+    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+  },
+  {
+    "word": "budgetload",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Shipping",
+    "meaning": "合約與法務管理",
+    "example": "The team reviewed the budgetload item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+  },
+  {
+    "word": "budgetlogic",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "報表與數據追蹤",
+    "example": "Please include the budgetlogic details in today's email update.",
+    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+  },
+  {
+    "word": "budgetmaker",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "人資招募與訓練",
+    "example": "Our manager approved the budgetmaker plan for next quarter.",
+    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+  },
+  {
+    "word": "budgetmanage",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Accounting",
+    "meaning": "專案與營運協調",
+    "example": "The operations unit tracked the budgetmanage to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+  },
+  {
+    "word": "budgetment",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "預算與成本控管",
+    "example": "The finance staff checked the budgetment record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+  },
+  {
+    "word": "budgetmetric",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Schedules",
+    "meaning": "品質與稽核管理",
+    "example": "Customer service reported the budgetmetric issue to the supervisor.",
+    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+  },
+  {
+    "word": "budgetmode",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Reports",
+    "meaning": "行政流程管理",
+    "example": "The team reviewed the budgetmode item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+  },
+  {
+    "word": "budgetmodule",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "會議與溝通安排",
+    "example": "Please include the budgetmodule details in today's email update.",
+    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+  },
+  {
+    "word": "budgetmonitor",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "客戶服務作業",
+    "example": "Our manager approved the budgetmonitor plan for next quarter.",
+    "example_zh": "經理已核准下季的客戶服務作業方案。"
+  },
+  {
+    "word": "budgetnet",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "物流與出貨管理",
+    "example": "The operations unit tracked the budgetnet to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+  },
+  {
+    "word": "budgetnode",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "採購與供應商管理",
+    "example": "The finance staff checked the budgetnode record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+  },
+  {
+    "word": "budgetoption",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "財務與帳務控管",
+    "example": "Customer service reported the budgetoption issue to the supervisor.",
+    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+  },
+  {
+    "word": "budgetpath",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "合約與法務管理",
+    "example": "The team reviewed the budgetpath item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+  },
+  {
+    "word": "budgetphase",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Communication",
+    "meaning": "報表與數據追蹤",
+    "example": "Please include the budgetphase details in today's email update.",
+    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+  },
+  {
+    "word": "budgetpoint",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Facilities",
+    "meaning": "人資招募與訓練",
+    "example": "Our manager approved the budgetpoint plan for next quarter.",
+    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+  },
+  {
+    "word": "budgetport",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Coordination",
+    "meaning": "專案與營運協調",
+    "example": "The operations unit tracked the budgetport to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+  },
+  {
+    "word": "budgetpress",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "預算與成本控管",
+    "example": "The finance staff checked the budgetpress record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+  },
+  {
+    "word": "budgetproof",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "品質與稽核管理",
+    "example": "Customer service reported the budgetproof issue to the supervisor.",
+    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+  },
+  {
+    "word": "budgetpulse",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Office",
+    "meaning": "行政流程管理",
+    "example": "The team reviewed the budgetpulse item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+  },
+  {
+    "word": "budgetqueue",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "會議與溝通安排",
+    "example": "Please include the budgetqueue details in today's email update.",
+    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+  },
+  {
+    "word": "budgetrate",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "客戶服務作業",
+    "example": "Our manager approved the budgetrate plan for next quarter.",
+    "example_zh": "經理已核准下季的客戶服務作業方案。"
+  },
+  {
+    "word": "budgetrecord",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Email",
+    "meaning": "物流與出貨管理",
+    "example": "The operations unit tracked the budgetrecord to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+  },
+  {
+    "word": "budgetscope",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "CustomerService",
+    "meaning": "採購與供應商管理",
+    "example": "The finance staff checked the budgetscope record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+  },
+  {
+    "word": "budgetsense",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "財務與帳務控管",
+    "example": "Customer service reported the budgetsense issue to the supervisor.",
+    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+  },
+  {
+    "word": "budgetsheet",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Shipping",
+    "meaning": "合約與法務管理",
+    "example": "The team reviewed the budgetsheet item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+  },
+  {
+    "word": "budgetshift",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "報表與數據追蹤",
+    "example": "Please include the budgetshift details in today's email update.",
+    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+  },
+  {
+    "word": "budgetsignal",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "人資招募與訓練",
+    "example": "Our manager approved the budgetsignal plan for next quarter.",
+    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+  },
+  {
+    "word": "budgetsite",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Accounting",
+    "meaning": "專案與營運協調",
+    "example": "The operations unit tracked the budgetsite to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+  },
+  {
+    "word": "budgetskill",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "預算與成本控管",
+    "example": "The finance staff checked the budgetskill record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+  },
+  {
+    "word": "budgetsource",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Schedules",
+    "meaning": "品質與稽核管理",
+    "example": "Customer service reported the budgetsource issue to the supervisor.",
+    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+  },
+  {
+    "word": "budgetspan",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Reports",
+    "meaning": "行政流程管理",
+    "example": "The team reviewed the budgetspan item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+  },
+  {
+    "word": "budgetstack",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "會議與溝通安排",
+    "example": "Please include the budgetstack details in today's email update.",
+    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+  },
+  {
+    "word": "budgetstage",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "客戶服務作業",
+    "example": "Our manager approved the budgetstage plan for next quarter.",
+    "example_zh": "經理已核准下季的客戶服務作業方案。"
+  },
+  {
+    "word": "budgetstate",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "物流與出貨管理",
+    "example": "The operations unit tracked the budgetstate to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+  },
+  {
+    "word": "budgetstream",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "採購與供應商管理",
+    "example": "The finance staff checked the budgetstream record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+  },
+  {
+    "word": "budgetsupport",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "財務與帳務控管",
+    "example": "Customer service reported the budgetsupport issue to the supervisor.",
+    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+  },
+  {
+    "word": "budgetsync",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "合約與法務管理",
+    "example": "The team reviewed the budgetsync item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+  },
+  {
+    "word": "budgetsystem",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Communication",
+    "meaning": "報表與數據追蹤",
+    "example": "Please include the budgetsystem details in today's email update.",
+    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+  },
+  {
+    "word": "budgettable",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Facilities",
+    "meaning": "人資招募與訓練",
+    "example": "Our manager approved the budgettable plan for next quarter.",
+    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+  },
+  {
+    "word": "budgettech",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Coordination",
+    "meaning": "專案與營運協調",
+    "example": "The operations unit tracked the budgettech to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+  },
+  {
+    "word": "budgettrack",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "預算與成本控管",
+    "example": "The finance staff checked the budgettrack record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+  },
+  {
+    "word": "budgettrend",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "品質與稽核管理",
+    "example": "Customer service reported the budgettrend issue to the supervisor.",
+    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+  },
+  {
+    "word": "budgetunit",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Office",
+    "meaning": "行政流程管理",
+    "example": "The team reviewed the budgetunit item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+  },
+  {
+    "word": "budgetvalue",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "會議與溝通安排",
+    "example": "Please include the budgetvalue details in today's email update.",
+    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+  },
+  {
+    "word": "budgetview",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "客戶服務作業",
+    "example": "Our manager approved the budgetview plan for next quarter.",
+    "example_zh": "經理已核准下季的客戶服務作業方案。"
+  },
+  {
+    "word": "budgetvision",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Email",
+    "meaning": "物流與出貨管理",
+    "example": "The operations unit tracked the budgetvision to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+  },
+  {
+    "word": "budgetware",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "CustomerService",
+    "meaning": "採購與供應商管理",
+    "example": "The finance staff checked the budgetware record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+  },
+  {
+    "word": "budgetwatch",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "財務與帳務控管",
+    "example": "Customer service reported the budgetwatch issue to the supervisor.",
+    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+  },
+  {
+    "word": "budgetwave",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Shipping",
+    "meaning": "合約與法務管理",
+    "example": "The team reviewed the budgetwave item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+  },
+  {
+    "word": "budgetwork",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "報表與數據追蹤",
+    "example": "Please include the budgetwork details in today's email update.",
+    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+  },
+  {
+    "word": "budgetzone",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "人資招募與訓練",
+    "example": "Our manager approved the budgetzone plan for next quarter.",
+    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+  },
+  {
+    "word": "clientable",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Accounting",
+    "meaning": "專案與營運協調",
+    "example": "The operations unit tracked the clientable to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+  },
+  {
+    "word": "clientability",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "預算與成本控管",
+    "example": "The finance staff checked the clientability record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+  },
+  {
+    "word": "clientance",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Schedules",
+    "meaning": "品質與稽核管理",
+    "example": "Customer service reported the clientance issue to the supervisor.",
+    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+  },
+  {
+    "word": "clientancy",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Reports",
+    "meaning": "行政流程管理",
+    "example": "The team reviewed the clientancy item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+  },
+  {
+    "word": "clientant",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "會議與溝通安排",
+    "example": "Please include the clientant details in today's email update.",
+    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+  },
+  {
+    "word": "clientation",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "客戶服務作業",
+    "example": "Our manager approved the clientation plan for next quarter.",
+    "example_zh": "經理已核准下季的客戶服務作業方案。"
+  },
+  {
+    "word": "clientative",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "物流與出貨管理",
+    "example": "The operations unit tracked the clientative to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+  },
+  {
+    "word": "clientator",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "採購與供應商管理",
+    "example": "The finance staff checked the clientator record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+  },
+  {
+    "word": "clientboard",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "財務與帳務控管",
+    "example": "Customer service reported the clientboard issue to the supervisor.",
+    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+  },
+  {
+    "word": "clientbook",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "合約與法務管理",
+    "example": "The team reviewed the clientbook item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+  },
+  {
+    "word": "clientbridge",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Communication",
+    "meaning": "報表與數據追蹤",
+    "example": "Please include the clientbridge details in today's email update.",
+    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+  },
+  {
+    "word": "clientcare",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Facilities",
+    "meaning": "人資招募與訓練",
+    "example": "Our manager approved the clientcare plan for next quarter.",
+    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+  },
+  {
+    "word": "clientcenter",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Coordination",
+    "meaning": "專案與營運協調",
+    "example": "The operations unit tracked the clientcenter to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+  },
+  {
+    "word": "clientchart",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "預算與成本控管",
+    "example": "The finance staff checked the clientchart record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+  },
+  {
+    "word": "clientcheck",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "品質與稽核管理",
+    "example": "Customer service reported the clientcheck issue to the supervisor.",
+    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+  },
+  {
+    "word": "clientcore",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Office",
+    "meaning": "行政流程管理",
+    "example": "The team reviewed the clientcore item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+  },
+  {
+    "word": "clientcraft",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "會議與溝通安排",
+    "example": "Please include the clientcraft details in today's email update.",
+    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+  },
+  {
+    "word": "clientcycle",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "客戶服務作業",
+    "example": "Our manager approved the clientcycle plan for next quarter.",
+    "example_zh": "經理已核准下季的客戶服務作業方案。"
+  },
+  {
+    "word": "clientdesk",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Email",
+    "meaning": "物流與出貨管理",
+    "example": "The operations unit tracked the clientdesk to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+  },
+  {
+    "word": "clientdrive",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "CustomerService",
+    "meaning": "採購與供應商管理",
+    "example": "The finance staff checked the clientdrive record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+  },
+  {
+    "word": "clientedge",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "財務與帳務控管",
+    "example": "Customer service reported the clientedge issue to the supervisor.",
+    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+  },
+  {
+    "word": "clientency",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Shipping",
+    "meaning": "合約與法務管理",
+    "example": "The team reviewed the clientency item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+  },
+  {
+    "word": "clientengine",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "報表與數據追蹤",
+    "example": "Please include the clientengine details in today's email update.",
+    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+  },
+  {
+    "word": "clientfield",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "人資招募與訓練",
+    "example": "Our manager approved the clientfield plan for next quarter.",
+    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+  },
+  {
+    "word": "clientflow",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Accounting",
+    "meaning": "專案與營運協調",
+    "example": "The operations unit tracked the clientflow to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+  },
+  {
+    "word": "clientforce",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "預算與成本控管",
+    "example": "The finance staff checked the clientforce record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+  },
+  {
+    "word": "clientform",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Schedules",
+    "meaning": "品質與稽核管理",
+    "example": "Customer service reported the clientform issue to the supervisor.",
+    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+  },
+  {
+    "word": "clientframe",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Reports",
+    "meaning": "行政流程管理",
+    "example": "The team reviewed the clientframe item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+  },
+  {
+    "word": "clientgate",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "會議與溝通安排",
+    "example": "Please include the clientgate details in today's email update.",
+    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+  },
+  {
+    "word": "clientgrid",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "客戶服務作業",
+    "example": "Our manager approved the clientgrid plan for next quarter.",
+    "example_zh": "經理已核准下季的客戶服務作業方案。"
+  },
+  {
+    "word": "clientguide",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "物流與出貨管理",
+    "example": "The operations unit tracked the clientguide to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+  },
+  {
+    "word": "clienthouse",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "採購與供應商管理",
+    "example": "The finance staff checked the clienthouse record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+  },
+  {
+    "word": "clienthub",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "財務與帳務控管",
+    "example": "Customer service reported the clienthub issue to the supervisor.",
+    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+  },
+  {
+    "word": "clientindex",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "合約與法務管理",
+    "example": "The team reviewed the clientindex item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+  },
+  {
+    "word": "clienting",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Communication",
+    "meaning": "報表與數據追蹤",
+    "example": "Please include the clienting details in today's email update.",
+    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+  },
+  {
+    "word": "clientinsight",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Facilities",
+    "meaning": "人資招募與訓練",
+    "example": "Our manager approved the clientinsight plan for next quarter.",
+    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+  },
+  {
+    "word": "clientkeeper",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Coordination",
+    "meaning": "專案與營運協調",
+    "example": "The operations unit tracked the clientkeeper to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+  },
+  {
+    "word": "clientlane",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "預算與成本控管",
+    "example": "The finance staff checked the clientlane record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+  },
+  {
+    "word": "clientline",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "品質與稽核管理",
+    "example": "Customer service reported the clientline issue to the supervisor.",
+    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+  },
+  {
+    "word": "clientlink",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Office",
+    "meaning": "行政流程管理",
+    "example": "The team reviewed the clientlink item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+  },
+  {
+    "word": "clientlist",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "會議與溝通安排",
+    "example": "Please include the clientlist details in today's email update.",
+    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+  },
+  {
+    "word": "clientload",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "客戶服務作業",
+    "example": "Our manager approved the clientload plan for next quarter.",
+    "example_zh": "經理已核准下季的客戶服務作業方案。"
+  },
+  {
+    "word": "clientlogic",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Email",
+    "meaning": "物流與出貨管理",
+    "example": "The operations unit tracked the clientlogic to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+  },
+  {
+    "word": "clientmaker",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "CustomerService",
+    "meaning": "採購與供應商管理",
+    "example": "The finance staff checked the clientmaker record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+  },
+  {
+    "word": "clientmanage",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "財務與帳務控管",
+    "example": "Customer service reported the clientmanage issue to the supervisor.",
+    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+  },
+  {
+    "word": "clientment",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Shipping",
+    "meaning": "合約與法務管理",
+    "example": "The team reviewed the clientment item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+  },
+  {
+    "word": "clientmetric",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "報表與數據追蹤",
+    "example": "Please include the clientmetric details in today's email update.",
+    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+  },
+  {
+    "word": "clientmode",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "人資招募與訓練",
+    "example": "Our manager approved the clientmode plan for next quarter.",
+    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+  },
+  {
+    "word": "clientmodule",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Accounting",
+    "meaning": "專案與營運協調",
+    "example": "The operations unit tracked the clientmodule to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+  },
+  {
+    "word": "clientmonitor",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "預算與成本控管",
+    "example": "The finance staff checked the clientmonitor record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+  },
+  {
+    "word": "clientnet",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Schedules",
+    "meaning": "品質與稽核管理",
+    "example": "Customer service reported the clientnet issue to the supervisor.",
+    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+  },
+  {
+    "word": "clientnode",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Reports",
+    "meaning": "行政流程管理",
+    "example": "The team reviewed the clientnode item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+  },
+  {
+    "word": "clientoption",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "會議與溝通安排",
+    "example": "Please include the clientoption details in today's email update.",
+    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+  },
+  {
+    "word": "clientpath",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "客戶服務作業",
+    "example": "Our manager approved the clientpath plan for next quarter.",
+    "example_zh": "經理已核准下季的客戶服務作業方案。"
+  },
+  {
+    "word": "clientphase",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "物流與出貨管理",
+    "example": "The operations unit tracked the clientphase to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+  },
+  {
+    "word": "clientplan",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "採購與供應商管理",
+    "example": "The finance staff checked the clientplan record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+  },
+  {
+    "word": "clientpoint",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "財務與帳務控管",
+    "example": "Customer service reported the clientpoint issue to the supervisor.",
+    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+  },
+  {
+    "word": "clientport",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "合約與法務管理",
+    "example": "The team reviewed the clientport item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+  },
+  {
+    "word": "clientpress",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Communication",
+    "meaning": "報表與數據追蹤",
+    "example": "Please include the clientpress details in today's email update.",
+    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+  },
+  {
+    "word": "clientproof",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Facilities",
+    "meaning": "人資招募與訓練",
+    "example": "Our manager approved the clientproof plan for next quarter.",
+    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+  },
+  {
+    "word": "clientpulse",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Coordination",
+    "meaning": "專案與營運協調",
+    "example": "The operations unit tracked the clientpulse to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+  },
+  {
+    "word": "clientqueue",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "預算與成本控管",
+    "example": "The finance staff checked the clientqueue record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+  },
+  {
+    "word": "clientrate",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "品質與稽核管理",
+    "example": "Customer service reported the clientrate issue to the supervisor.",
+    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+  },
+  {
+    "word": "clientrecord",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Office",
+    "meaning": "行政流程管理",
+    "example": "The team reviewed the clientrecord item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+  },
+  {
+    "word": "clientscope",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "會議與溝通安排",
+    "example": "Please include the clientscope details in today's email update.",
+    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+  },
+  {
+    "word": "clientsense",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "客戶服務作業",
+    "example": "Our manager approved the clientsense plan for next quarter.",
+    "example_zh": "經理已核准下季的客戶服務作業方案。"
+  },
+  {
+    "word": "clientsheet",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Email",
+    "meaning": "物流與出貨管理",
+    "example": "The operations unit tracked the clientsheet to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+  },
+  {
+    "word": "clientshift",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "CustomerService",
+    "meaning": "採購與供應商管理",
+    "example": "The finance staff checked the clientshift record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+  },
+  {
+    "word": "clientsignal",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "財務與帳務控管",
+    "example": "Customer service reported the clientsignal issue to the supervisor.",
+    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+  },
+  {
+    "word": "clientsite",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Shipping",
+    "meaning": "合約與法務管理",
+    "example": "The team reviewed the clientsite item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+  },
+  {
+    "word": "clientskill",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "報表與數據追蹤",
+    "example": "Please include the clientskill details in today's email update.",
+    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+  },
+  {
+    "word": "clientsource",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "人資招募與訓練",
+    "example": "Our manager approved the clientsource plan for next quarter.",
+    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+  },
+  {
+    "word": "clientspan",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Accounting",
+    "meaning": "專案與營運協調",
+    "example": "The operations unit tracked the clientspan to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+  },
+  {
+    "word": "clientstack",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "預算與成本控管",
+    "example": "The finance staff checked the clientstack record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+  },
+  {
+    "word": "clientstage",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Schedules",
+    "meaning": "品質與稽核管理",
+    "example": "Customer service reported the clientstage issue to the supervisor.",
+    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+  },
+  {
+    "word": "clientstate",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Reports",
+    "meaning": "行政流程管理",
+    "example": "The team reviewed the clientstate item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+  },
+  {
+    "word": "clientstream",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "會議與溝通安排",
+    "example": "Please include the clientstream details in today's email update.",
+    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+  },
+  {
+    "word": "clientsupport",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "客戶服務作業",
+    "example": "Our manager approved the clientsupport plan for next quarter.",
+    "example_zh": "經理已核准下季的客戶服務作業方案。"
+  },
+  {
+    "word": "clientsync",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "物流與出貨管理",
+    "example": "The operations unit tracked the clientsync to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+  },
+  {
+    "word": "clientsystem",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "採購與供應商管理",
+    "example": "The finance staff checked the clientsystem record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+  },
+  {
+    "word": "clienttable",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "財務與帳務控管",
+    "example": "Customer service reported the clienttable issue to the supervisor.",
+    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+  },
+  {
+    "word": "clienttech",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "合約與法務管理",
+    "example": "The team reviewed the clienttech item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+  },
+  {
+    "word": "clienttrack",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Communication",
+    "meaning": "報表與數據追蹤",
+    "example": "Please include the clienttrack details in today's email update.",
+    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+  },
+  {
+    "word": "clienttrend",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Facilities",
+    "meaning": "人資招募與訓練",
+    "example": "Our manager approved the clienttrend plan for next quarter.",
+    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+  },
+  {
+    "word": "clientunit",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Coordination",
+    "meaning": "專案與營運協調",
+    "example": "The operations unit tracked the clientunit to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+  },
+  {
+    "word": "clientvalue",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "預算與成本控管",
+    "example": "The finance staff checked the clientvalue record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+  },
+  {
+    "word": "clientview",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "品質與稽核管理",
+    "example": "Customer service reported the clientview issue to the supervisor.",
+    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+  },
+  {
+    "word": "clientvision",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Office",
+    "meaning": "行政流程管理",
+    "example": "The team reviewed the clientvision item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+  },
+  {
+    "word": "clientware",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "會議與溝通安排",
+    "example": "Please include the clientware details in today's email update.",
+    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+  },
+  {
+    "word": "clientwatch",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "客戶服務作業",
+    "example": "Our manager approved the clientwatch plan for next quarter.",
+    "example_zh": "經理已核准下季的客戶服務作業方案。"
+  },
+  {
+    "word": "clientwave",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Email",
+    "meaning": "物流與出貨管理",
+    "example": "The operations unit tracked the clientwave to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+  },
+  {
+    "word": "clientwork",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "CustomerService",
+    "meaning": "採購與供應商管理",
+    "example": "The finance staff checked the clientwork record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+  },
+  {
+    "word": "clientzone",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "財務與帳務控管",
+    "example": "Customer service reported the clientzone issue to the supervisor.",
+    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+  },
+  {
+    "word": "contractable",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Shipping",
+    "meaning": "合約與法務管理",
+    "example": "The team reviewed the contractable item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+  },
+  {
+    "word": "contractability",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "報表與數據追蹤",
+    "example": "Please include the contractability details in today's email update.",
+    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+  },
+  {
+    "word": "contractance",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "人資招募與訓練",
+    "example": "Our manager approved the contractance plan for next quarter.",
+    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+  },
+  {
+    "word": "contractancy",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Accounting",
+    "meaning": "專案與營運協調",
+    "example": "The operations unit tracked the contractancy to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+  },
+  {
+    "word": "contractant",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "預算與成本控管",
+    "example": "The finance staff checked the contractant record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+  },
+  {
+    "word": "contractation",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Schedules",
+    "meaning": "品質與稽核管理",
+    "example": "Customer service reported the contractation issue to the supervisor.",
+    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+  },
+  {
+    "word": "contractative",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Reports",
+    "meaning": "行政流程管理",
+    "example": "The team reviewed the contractative item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+  },
+  {
+    "word": "contractator",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "會議與溝通安排",
+    "example": "Please include the contractator details in today's email update.",
+    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+  },
+  {
+    "word": "contractboard",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "客戶服務作業",
+    "example": "Our manager approved the contractboard plan for next quarter.",
+    "example_zh": "經理已核准下季的客戶服務作業方案。"
+  },
+  {
+    "word": "contractbook",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "物流與出貨管理",
+    "example": "The operations unit tracked the contractbook to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+  },
+  {
+    "word": "contractbridge",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "採購與供應商管理",
+    "example": "The finance staff checked the contractbridge record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+  },
+  {
+    "word": "contractcare",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "財務與帳務控管",
+    "example": "Customer service reported the contractcare issue to the supervisor.",
+    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+  },
+  {
+    "word": "contractcenter",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "合約與法務管理",
+    "example": "The team reviewed the contractcenter item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+  },
+  {
+    "word": "contractchart",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Communication",
+    "meaning": "報表與數據追蹤",
+    "example": "Please include the contractchart details in today's email update.",
+    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+  },
+  {
+    "word": "contractcheck",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Facilities",
+    "meaning": "人資招募與訓練",
+    "example": "Our manager approved the contractcheck plan for next quarter.",
+    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+  },
+  {
+    "word": "contractcore",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Coordination",
+    "meaning": "專案與營運協調",
+    "example": "The operations unit tracked the contractcore to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+  },
+  {
+    "word": "contractcraft",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "預算與成本控管",
+    "example": "The finance staff checked the contractcraft record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+  },
+  {
+    "word": "contractcycle",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "品質與稽核管理",
+    "example": "Customer service reported the contractcycle issue to the supervisor.",
+    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+  },
+  {
+    "word": "contractdesk",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Office",
+    "meaning": "行政流程管理",
+    "example": "The team reviewed the contractdesk item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+  },
+  {
+    "word": "contractdrive",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "會議與溝通安排",
+    "example": "Please include the contractdrive details in today's email update.",
+    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+  },
+  {
+    "word": "contractedge",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "客戶服務作業",
+    "example": "Our manager approved the contractedge plan for next quarter.",
+    "example_zh": "經理已核准下季的客戶服務作業方案。"
+  },
+  {
+    "word": "contractency",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Email",
+    "meaning": "物流與出貨管理",
+    "example": "The operations unit tracked the contractency to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+  },
+  {
+    "word": "contractengine",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "CustomerService",
+    "meaning": "採購與供應商管理",
+    "example": "The finance staff checked the contractengine record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+  },
+  {
+    "word": "contractfield",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "財務與帳務控管",
+    "example": "Customer service reported the contractfield issue to the supervisor.",
+    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+  },
+  {
+    "word": "contractflow",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Shipping",
+    "meaning": "合約與法務管理",
+    "example": "The team reviewed the contractflow item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+  },
+  {
+    "word": "contractforce",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "報表與數據追蹤",
+    "example": "Please include the contractforce details in today's email update.",
+    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
+  },
+  {
+    "word": "contractform",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "人資招募與訓練",
+    "example": "Our manager approved the contractform plan for next quarter.",
+    "example_zh": "經理已核准下季的人資招募與訓練方案。"
+  },
+  {
+    "word": "contractframe",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Accounting",
+    "meaning": "專案與營運協調",
+    "example": "The operations unit tracked the contractframe to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項專案與營運協調，確保專案時程。"
+  },
+  {
+    "word": "contractgate",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "預算與成本控管",
+    "example": "The finance staff checked the contractgate record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項預算與成本控管紀錄。"
+  },
+  {
+    "word": "contractgrid",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Schedules",
+    "meaning": "品質與稽核管理",
+    "example": "Customer service reported the contractgrid issue to the supervisor.",
+    "example_zh": "客服已將這項品質與稽核管理問題回報給主管。"
+  },
+  {
+    "word": "contractguide",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Reports",
+    "meaning": "行政流程管理",
+    "example": "The team reviewed the contractguide item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項行政流程管理。"
+  },
+  {
+    "word": "contracthouse",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "會議與溝通安排",
+    "example": "Please include the contracthouse details in today's email update.",
+    "example_zh": "請把這項會議與溝通安排細節加入今天的郵件更新。"
+  },
+  {
+    "word": "contracthub",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "客戶服務作業",
+    "example": "Our manager approved the contracthub plan for next quarter.",
+    "example_zh": "經理已核准下季的客戶服務作業方案。"
+  },
+  {
+    "word": "contractindex",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "物流與出貨管理",
+    "example": "The operations unit tracked the contractindex to keep the project on schedule.",
+    "example_zh": "營運單位持續追蹤這項物流與出貨管理，確保專案時程。"
+  },
+  {
+    "word": "contractinsight",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "採購與供應商管理",
+    "example": "The finance staff checked the contractinsight record before final submission.",
+    "example_zh": "財務人員在最終提交前確認了這項採購與供應商管理紀錄。"
+  },
+  {
+    "word": "contractkeeper",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "財務與帳務控管",
+    "example": "Customer service reported the contractkeeper issue to the supervisor.",
+    "example_zh": "客服已將這項財務與帳務控管問題回報給主管。"
+  },
+  {
+    "word": "contractlane",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "合約與法務管理",
+    "example": "The team reviewed the contractlane item before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項合約與法務管理。"
+  },
+  {
+    "word": "contractline",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Communication",
+    "meaning": "報表與數據追蹤",
+    "example": "Please include the contractline details in today's email update.",
+    "example_zh": "請把這項報表與數據追蹤細節加入今天的郵件更新。"
   }
 ];

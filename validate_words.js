@@ -123,7 +123,7 @@ try {
   }, null, 2));
 
   const failed = (
-    result.validWordCount !== 1000 ||
+    result.validWordCount !== 1500 ||
     result.duplicates !== 0 ||
     result.nonSingleWord !== 0 ||
     result.missingFields !== 0 ||
