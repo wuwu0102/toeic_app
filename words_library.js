@@ -1,5002 +1,15002 @@
 window.WORDS = [
   {
-    word: "account",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "帳戶；帳目",
-    example: "The report includes updated account data.",
-    example_zh: "報告包含更新後的帳戶資料。"
-  },
-  {
-    word: "accounting",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "會計",
-    example: "Our team discussed the accounting in the quarterly meeting.",
-    example_zh: "我們團隊在季度會議中討論了會計。"
-  },
-  {
-    word: "acquisition",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "收購；取得",
-    example: "The finance department adjusted the acquisition for next year.",
-    example_zh: "財務部門已調整明年的收購。"
-  },
-  {
-    word: "action",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "行動；措施",
-    example: "The manager approved the action after careful analysis.",
-    example_zh: "經理在仔細分析後核准了行動。"
-  },
-  {
-    word: "adaptation",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "調整；適應",
-    example: "The project plan sets a clear adaptation for each phase.",
-    example_zh: "專案計畫為每個階段設定了明確的調整。"
-  },
-  {
-    word: "adjustment",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "調整；修正",
-    example: "The company tracks adjustment to improve performance.",
-    example_zh: "公司追蹤調整以提升績效。"
-  },
-  {
-    word: "administration",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Finance",
-    meaning: "行政管理",
-    example: "We submitted the administration before the deadline.",
-    example_zh: "我們在截止日前提交了行政管理。"
-  },
-  {
-    word: "administrator",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "管理人員",
-    example: "The client requested additional administrator in the proposal.",
-    example_zh: "客戶在提案中要求更多管理人員。"
-  },
-  {
-    word: "advertisement",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "廣告",
-    example: "The new policy strengthens data advertisement across departments.",
-    example_zh: "新政策強化了各部門的資料廣告。"
-  },
-  {
-    word: "advertiser",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "廣告主",
-    example: "The board examined the annual advertiser yesterday.",
-    example_zh: "董事會昨天檢視了年度廣告主。"
-  },
-  {
-    word: "advertising",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Marketing",
-    meaning: "廣告行銷",
-    example: "The report includes updated advertising data.",
-    example_zh: "報告包含更新後的廣告行銷資料。"
-  },
-  {
-    word: "advice",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "建議",
-    example: "Our team discussed the advice in the quarterly meeting.",
-    example_zh: "我們團隊在季度會議中討論了建議。"
-  },
-  {
-    word: "agenda",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "議程",
-    example: "The finance department adjusted the agenda for next year.",
-    example_zh: "財務部門已調整明年的議程。"
-  },
-  {
-    word: "agreement",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Legal",
-    meaning: "協議；合約",
-    example: "The manager approved the agreement after careful analysis.",
-    example_zh: "經理在仔細分析後核准了協議。"
-  },
-  {
-    word: "allocation",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "分配",
-    example: "The project plan sets a clear allocation for each phase.",
-    example_zh: "專案計畫為每個階段設定了明確的分配。"
-  },
-  {
-    word: "allowance",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "津貼",
-    example: "The company tracks allowance to improve performance.",
-    example_zh: "公司追蹤津貼以提升績效。"
-  },
-  {
-    word: "analysis",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "分析",
-    example: "We submitted the analysis before the deadline.",
-    example_zh: "我們在截止日前提交了分析。"
-  },
-  {
-    word: "analyst",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "分析師",
-    example: "The client requested additional analyst in the proposal.",
-    example_zh: "客戶在提案中要求更多分析師。"
-  },
-  {
-    word: "announcement",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "公告",
-    example: "The new policy strengthens data announcement across departments.",
-    example_zh: "新政策強化了各部門的資料公告。"
-  },
-  {
-    word: "applicant",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "應徵者",
-    example: "The board examined the annual applicant yesterday.",
-    example_zh: "董事會昨天檢視了年度應徵者。"
-  },
-  {
-    word: "application",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "申請；應用",
-    example: "The report includes updated application data.",
-    example_zh: "報告包含更新後的申請資料。"
-  },
-  {
-    word: "appointment",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "約定；任命",
-    example: "Our team discussed the appointment in the quarterly meeting.",
-    example_zh: "我們團隊在季度會議中討論了約定。"
-  },
-  {
-    word: "appraisal",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "評估",
-    example: "The finance department adjusted the appraisal for next year.",
-    example_zh: "財務部門已調整明年的評估。"
-  },
-  {
-    word: "approval",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "核准",
-    example: "The manager approved the approval after careful analysis.",
-    example_zh: "經理在仔細分析後核准了核准。"
-  },
-  {
-    word: "archive",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "檔案庫",
-    example: "The project plan sets a clear archive for each phase.",
-    example_zh: "專案計畫為每個階段設定了明確的檔案庫。"
-  },
-  {
-    word: "arrangement",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "安排",
-    example: "The company tracks arrangement to improve performance.",
-    example_zh: "公司追蹤安排以提升績效。"
-  },
-  {
-    word: "assessment",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "評估",
-    example: "We submitted the assessment before the deadline.",
-    example_zh: "我們在截止日前提交了評估。"
-  },
-  {
-    word: "asset",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Finance",
-    meaning: "資產",
-    example: "The client requested additional asset in the proposal.",
-    example_zh: "客戶在提案中要求更多資產。"
-  },
-  {
-    word: "assignment",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "任務",
-    example: "The new policy strengthens data assignment across departments.",
-    example_zh: "新政策強化了各部門的資料任務。"
-  },
-  {
-    word: "assistance",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "協助",
-    example: "The board examined the annual assistance yesterday.",
-    example_zh: "董事會昨天檢視了年度協助。"
-  },
-  {
-    word: "assistant",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "助理",
-    example: "The report includes updated assistant data.",
-    example_zh: "報告包含更新後的助理資料。"
-  },
-  {
-    word: "assurance",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "保證",
-    example: "Our team discussed the assurance in the quarterly meeting.",
-    example_zh: "我們團隊在季度會議中討論了保證。"
-  },
-  {
-    word: "attendance",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "HR",
-    meaning: "出席",
-    example: "The finance department adjusted the attendance for next year.",
-    example_zh: "財務部門已調整明年的出席。"
-  },
-  {
-    word: "attendee",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "與會者",
-    example: "The manager approved the attendee after careful analysis.",
-    example_zh: "經理在仔細分析後核准了與會者。"
-  },
-  {
-    word: "attitude",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "態度",
-    example: "The project plan sets a clear attitude for each phase.",
-    example_zh: "專案計畫為每個階段設定了明確的態度。"
-  },
-  {
-    word: "audit",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "稽核",
-    example: "The company tracks audit to improve performance.",
-    example_zh: "公司追蹤稽核以提升績效。"
-  },
-  {
-    word: "auditor",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "稽核員",
-    example: "We submitted the auditor before the deadline.",
-    example_zh: "我們在截止日前提交了稽核員。"
-  },
-  {
-    word: "authentication",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "驗證",
-    example: "The client requested additional authentication in the proposal.",
-    example_zh: "客戶在提案中要求更多驗證。"
-  },
-  {
-    word: "authority",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Legal",
-    meaning: "權限；權威",
-    example: "The new policy strengthens data authority across departments.",
-    example_zh: "新政策強化了各部門的資料權限。"
-  },
-  {
-    word: "automation",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "自動化",
-    example: "The board examined the annual automation yesterday.",
-    example_zh: "董事會昨天檢視了年度自動化。"
-  },
-  {
-    word: "availability",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "可用性",
-    example: "The report includes updated availability data.",
-    example_zh: "報告包含更新後的可用性資料。"
-  },
-  {
-    word: "average",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "平均值",
-    example: "Our team discussed the average in the quarterly meeting.",
-    example_zh: "我們團隊在季度會議中討論了平均值。"
-  },
-  {
-    word: "balance",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "餘額；平衡",
-    example: "The finance department adjusted the balance for next year.",
-    example_zh: "財務部門已調整明年的餘額。"
-  },
-  {
-    word: "banker",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Finance",
-    meaning: "銀行家",
-    example: "The manager approved the banker after careful analysis.",
-    example_zh: "經理在仔細分析後核准了銀行家。"
-  },
-  {
-    word: "banking",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Finance",
-    meaning: "銀行業務",
-    example: "The project plan sets a clear banking for each phase.",
-    example_zh: "專案計畫為每個階段設定了明確的銀行業務。"
-  },
-  {
-    word: "bankruptcy",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Finance",
-    meaning: "破產",
-    example: "The company tracks bankruptcy to improve performance.",
-    example_zh: "公司追蹤破產以提升績效。"
-  },
-  {
-    word: "bargain",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "We submitted the bargain before the deadline.",
-    example_zh: "我們在截止日前提交了項目。"
-  },
-  {
-    word: "benchmark",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "基準",
-    example: "The client requested additional benchmark in the proposal.",
-    example_zh: "客戶在提案中要求更多基準。"
-  },
-  {
-    word: "beneficiary",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "受益人",
-    example: "The new policy strengthens data beneficiary across departments.",
-    example_zh: "新政策強化了各部門的資料受益人。"
-  },
-  {
-    word: "benefit",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "HR",
-    meaning: "效益；福利",
-    example: "The board examined the annual benefit yesterday.",
-    example_zh: "董事會昨天檢視了年度效益。"
-  },
-  {
-    word: "bid",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "投標",
-    example: "The report includes updated bid data.",
-    example_zh: "報告包含更新後的投標資料。"
-  },
-  {
-    word: "billing",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "帳務作業",
-    example: "Our team discussed the billing in the quarterly meeting.",
-    example_zh: "我們團隊在季度會議中討論了帳務作業。"
-  },
-  {
-    word: "bonus",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "獎金",
-    example: "The finance department adjusted the bonus for next year.",
-    example_zh: "財務部門已調整明年的獎金。"
-  },
-  {
-    word: "bookkeeping",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "簿記",
-    example: "The manager approved the bookkeeping after careful analysis.",
-    example_zh: "經理在仔細分析後核准了簿記。"
-  },
-  {
-    word: "brand",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Marketing",
-    meaning: "品牌",
-    example: "The project plan sets a clear brand for each phase.",
-    example_zh: "專案計畫為每個階段設定了明確的品牌。"
-  },
-  {
-    word: "branding",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Marketing",
-    meaning: "進行中的作業",
-    example: "The company tracks branding to improve performance.",
-    example_zh: "公司追蹤進行中的作業以提升績效。"
-  },
-  {
-    word: "breakdown",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "We submitted the breakdown before the deadline.",
-    example_zh: "我們在截止日前提交了項目。"
-  },
-  {
-    word: "broker",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The client requested additional broker in the proposal.",
-    example_zh: "客戶在提案中要求更多相關人員。"
-  },
-  {
-    word: "budget",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Finance",
-    meaning: "預算",
-    example: "The new policy strengthens data budget across departments.",
-    example_zh: "新政策強化了各部門的資料預算。"
-  },
-  {
-    word: "budgeting",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Finance",
-    meaning: "進行中的作業",
-    example: "The board examined the annual budgeting yesterday.",
-    example_zh: "董事會昨天檢視了年度進行中的作業。"
-  },
-  {
-    word: "bulletin",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The report includes updated bulletin data.",
-    example_zh: "報告包含更新後的項目資料。"
-  },
-  {
-    word: "buyer",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "買方",
-    example: "Our team discussed the buyer in the quarterly meeting.",
-    example_zh: "我們團隊在季度會議中討論了買方。"
-  },
-  {
-    word: "cabinet",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The finance department adjusted the cabinet for next year.",
-    example_zh: "財務部門已調整明年的項目。"
-  },
-  {
-    word: "calculation",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "流程；作業",
-    example: "The manager approved the calculation after careful analysis.",
-    example_zh: "經理在仔細分析後核准了流程。"
-  },
-  {
-    word: "campaign",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Marketing",
-    meaning: "行銷活動",
-    example: "The project plan sets a clear campaign for each phase.",
-    example_zh: "專案計畫為每個階段設定了明確的行銷活動。"
-  },
-  {
-    word: "candidate",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "HR",
-    meaning: "候選人",
-    example: "The company tracks candidate to improve performance.",
-    example_zh: "公司追蹤候選人以提升績效。"
-  },
-  {
-    word: "capacity",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Operations",
-    meaning: "產能；容量",
-    example: "We submitted the capacity before the deadline.",
-    example_zh: "我們在截止日前提交了產能。"
-  },
-  {
-    word: "capital",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "資本",
-    example: "The client requested additional capital in the proposal.",
-    example_zh: "客戶在提案中要求更多資本。"
-  },
-  {
-    word: "caregiver",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The new policy strengthens data caregiver across departments.",
-    example_zh: "新政策強化了各部門的資料相關人員。"
-  },
-  {
-    word: "carrier",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The board examined the annual carrier yesterday.",
-    example_zh: "董事會昨天檢視了年度相關人員。"
-  },
-  {
-    word: "cashier",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The report includes updated cashier data.",
-    example_zh: "報告包含更新後的相關人員資料。"
-  },
-  {
-    word: "catalog",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "目錄",
-    example: "Our team discussed the catalog in the quarterly meeting.",
-    example_zh: "我們團隊在季度會議中討論了目錄。"
-  },
-  {
-    word: "category",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "類別",
-    example: "The finance department adjusted the category for next year.",
-    example_zh: "財務部門已調整明年的類別。"
-  },
-  {
-    word: "certification",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "認證",
-    example: "The manager approved the certification after careful analysis.",
-    example_zh: "經理在仔細分析後核准了認證。"
-  },
-  {
-    word: "chairperson",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The project plan sets a clear chairperson for each phase.",
-    example_zh: "專案計畫為每個階段設定了明確的項目。"
-  },
-  {
-    word: "challenge",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The company tracks challenge to improve performance.",
-    example_zh: "公司追蹤項目以提升績效。"
-  },
-  {
-    word: "channel",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "通路",
-    example: "We submitted the channel before the deadline.",
-    example_zh: "我們在截止日前提交了通路。"
-  },
-  {
-    word: "checklist",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "檢查清單",
-    example: "The client requested additional checklist in the proposal.",
-    example_zh: "客戶在提案中要求更多檢查清單。"
-  },
-  {
-    word: "checkpoint",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The new policy strengthens data checkpoint across departments.",
-    example_zh: "新政策強化了各部門的資料項目。"
-  },
-  {
-    word: "circulation",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "流程；作業",
-    example: "The board examined the annual circulation yesterday.",
-    example_zh: "董事會昨天檢視了年度流程。"
-  },
-  {
-    word: "claim",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "索賠；主張",
-    example: "The report includes updated claim data.",
-    example_zh: "報告包含更新後的索賠資料。"
-  },
-  {
-    word: "clarification",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "流程；作業",
-    example: "Our team discussed the clarification in the quarterly meeting.",
-    example_zh: "我們團隊在季度會議中討論了流程。"
-  },
-  {
-    word: "classification",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "流程；作業",
-    example: "The finance department adjusted the classification for next year.",
-    example_zh: "財務部門已調整明年的流程。"
-  },
-  {
-    word: "client",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Marketing",
-    meaning: "客戶",
-    example: "The manager approved the client after careful analysis.",
-    example_zh: "經理在仔細分析後核准了客戶。"
-  },
-  {
-    word: "climate",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The project plan sets a clear climate for each phase.",
-    example_zh: "專案計畫為每個階段設定了明確的項目。"
-  },
-  {
-    word: "closure",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The company tracks closure to improve performance.",
-    example_zh: "公司追蹤項目以提升績效。"
-  },
-  {
-    word: "collaboration",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Finance",
-    meaning: "協作",
-    example: "We submitted the collaboration before the deadline.",
-    example_zh: "我們在截止日前提交了協作。"
-  },
-  {
-    word: "colleague",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The client requested additional colleague in the proposal.",
-    example_zh: "客戶在提案中要求更多項目。"
-  },
-  {
-    word: "collection",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "流程；作業",
-    example: "The new policy strengthens data collection across departments.",
-    example_zh: "新政策強化了各部門的資料流程。"
-  },
-  {
-    word: "collector",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The board examined the annual collector yesterday.",
-    example_zh: "董事會昨天檢視了年度相關人員。"
-  },
-  {
-    word: "committee",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "委員會",
-    example: "The report includes updated committee data.",
-    example_zh: "報告包含更新後的委員會資料。"
-  },
-  {
-    word: "communication",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "溝通",
-    example: "Our team discussed the communication in the quarterly meeting.",
-    example_zh: "我們團隊在季度會議中討論了溝通。"
-  },
-  {
-    word: "commuter",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The finance department adjusted the commuter for next year.",
-    example_zh: "財務部門已調整明年的相關人員。"
-  },
-  {
-    word: "comparison",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The manager approved the comparison after careful analysis.",
-    example_zh: "經理在仔細分析後核准了項目。"
-  },
-  {
-    word: "compensation",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "HR",
-    meaning: "薪酬；補償",
-    example: "The project plan sets a clear compensation for each phase.",
-    example_zh: "專案計畫為每個階段設定了明確的薪酬。"
-  },
-  {
-    word: "competence",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The company tracks competence to improve performance.",
-    example_zh: "公司追蹤項目以提升績效。"
-  },
-  {
-    word: "competitor",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "競爭者",
-    example: "We submitted the competitor before the deadline.",
-    example_zh: "我們在截止日前提交了競爭者。"
-  },
-  {
-    word: "complaint",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "客訴；申訴",
-    example: "The client requested additional complaint in the proposal.",
-    example_zh: "客戶在提案中要求更多客訴。"
-  },
-  {
-    word: "compliance",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Legal",
-    meaning: "合規",
-    example: "The new policy strengthens data compliance across departments.",
-    example_zh: "新政策強化了各部門的資料合規。"
-  },
-  {
-    word: "component",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "組件",
-    example: "The board examined the annual component yesterday.",
-    example_zh: "董事會昨天檢視了年度組件。"
-  },
-  {
-    word: "composition",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "流程；作業",
-    example: "The report includes updated composition data.",
-    example_zh: "報告包含更新後的流程資料。"
-  },
-  {
-    word: "compound",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "Our team discussed the compound in the quarterly meeting.",
-    example_zh: "我們團隊在季度會議中討論了項目。"
-  },
-  {
-    word: "computation",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "流程；作業",
-    example: "The finance department adjusted the computation for next year.",
-    example_zh: "財務部門已調整明年的流程。"
-  },
-  {
-    word: "concentration",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Finance",
-    meaning: "流程；作業",
-    example: "The manager approved the concentration after careful analysis.",
-    example_zh: "經理在仔細分析後核准了流程。"
-  },
-  {
-    word: "concept",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The project plan sets a clear concept for each phase.",
-    example_zh: "專案計畫為每個階段設定了明確的項目。"
-  },
-  {
-    word: "conclusion",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The company tracks conclusion to improve performance.",
-    example_zh: "公司追蹤項目以提升績效。"
-  },
-  {
-    word: "condition",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "流程；作業",
-    example: "We submitted the condition before the deadline.",
-    example_zh: "我們在截止日前提交了流程。"
-  },
-  {
-    word: "conference",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "會議",
-    example: "The client requested additional conference in the proposal.",
-    example_zh: "客戶在提案中要求更多會議。"
-  },
-  {
-    word: "confidence",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The new policy strengthens data confidence across departments.",
-    example_zh: "新政策強化了各部門的資料項目。"
-  },
-  {
-    word: "configuration",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Finance",
-    meaning: "流程；作業",
-    example: "The board examined the annual configuration yesterday.",
-    example_zh: "董事會昨天檢視了年度流程。"
-  },
-  {
-    word: "confirmation",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "確認",
-    example: "The report includes updated confirmation data.",
-    example_zh: "報告包含更新後的確認資料。"
-  },
-  {
-    word: "conflict",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "衝突",
-    example: "Our team discussed the conflict in the quarterly meeting.",
-    example_zh: "我們團隊在季度會議中討論了衝突。"
-  },
-  {
-    word: "congestion",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "流程；作業",
-    example: "The finance department adjusted the congestion for next year.",
-    example_zh: "財務部門已調整明年的流程。"
-  },
-  {
-    word: "connection",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "流程；作業",
-    example: "The manager approved the connection after careful analysis.",
-    example_zh: "經理在仔細分析後核准了流程。"
-  },
-  {
-    word: "consensus",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "共識",
-    example: "The project plan sets a clear consensus for each phase.",
-    example_zh: "專案計畫為每個階段設定了明確的共識。"
-  },
-  {
-    word: "consent",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The company tracks consent to improve performance.",
-    example_zh: "公司追蹤項目以提升績效。"
-  },
-  {
-    word: "consequence",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "We submitted the consequence before the deadline.",
-    example_zh: "我們在截止日前提交了項目。"
-  },
-  {
-    word: "conservation",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "流程；作業",
-    example: "The client requested additional conservation in the proposal.",
-    example_zh: "客戶在提案中要求更多流程。"
-  },
-  {
-    word: "consideration",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Finance",
-    meaning: "流程；作業",
-    example: "The new policy strengthens data consideration across departments.",
-    example_zh: "新政策強化了各部門的資料流程。"
-  },
-  {
-    word: "consignment",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "管理事項；結果",
-    example: "The board examined the annual consignment yesterday.",
-    example_zh: "董事會昨天檢視了年度管理事項。"
-  },
-  {
-    word: "consistency",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The report includes updated consistency data.",
-    example_zh: "報告包含更新後的項目資料。"
-  },
-  {
-    word: "consolidation",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "流程；作業",
-    example: "Our team discussed the consolidation in the quarterly meeting.",
-    example_zh: "我們團隊在季度會議中討論了流程。"
-  },
-  {
-    word: "construction",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "流程；作業",
-    example: "The finance department adjusted the construction for next year.",
-    example_zh: "財務部門已調整明年的流程。"
-  },
-  {
-    word: "consultancy",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The manager approved the consultancy after careful analysis.",
-    example_zh: "經理在仔細分析後核准了項目。"
-  },
-  {
-    word: "consultant",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The project plan sets a clear consultant for each phase.",
-    example_zh: "專案計畫為每個階段設定了明確的項目。"
-  },
-  {
-    word: "consumption",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "流程；作業",
-    example: "The company tracks consumption to improve performance.",
-    example_zh: "公司追蹤流程以提升績效。"
-  },
-  {
-    word: "contact",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "We submitted the contact before the deadline.",
-    example_zh: "我們在截止日前提交了項目。"
-  },
-  {
-    word: "container",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The client requested additional container in the proposal.",
-    example_zh: "客戶在提案中要求更多相關人員。"
-  },
-  {
-    word: "content",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The new policy strengthens data content across departments.",
-    example_zh: "新政策強化了各部門的資料項目。"
-  },
-  {
-    word: "contest",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The board examined the annual contest yesterday.",
-    example_zh: "董事會昨天檢視了年度項目。"
-  },
-  {
-    word: "context",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The report includes updated context data.",
-    example_zh: "報告包含更新後的項目資料。"
-  },
-  {
-    word: "contingency",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "Our team discussed the contingency in the quarterly meeting.",
-    example_zh: "我們團隊在季度會議中討論了項目。"
-  },
-  {
-    word: "continuity",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "特性；性質",
-    example: "The finance department adjusted the continuity for next year.",
-    example_zh: "財務部門已調整明年的特性。"
-  },
-  {
-    word: "contract",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Legal",
-    meaning: "合約",
-    example: "The manager approved the contract after careful analysis.",
-    example_zh: "經理在仔細分析後核准了合約。"
-  },
-  {
-    word: "contractor",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Legal",
-    meaning: "項目；事項",
-    example: "The project plan sets a clear contractor for each phase.",
-    example_zh: "專案計畫為每個階段設定了明確的相關人員。"
-  },
-  {
-    word: "contribution",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "貢獻",
-    example: "The company tracks contribution to improve performance.",
-    example_zh: "公司追蹤貢獻以提升績效。"
-  },
-  {
-    word: "control",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "控管",
-    example: "We submitted the control before the deadline.",
-    example_zh: "我們在截止日前提交了控管。"
-  },
-  {
-    word: "controller",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The client requested additional controller in the proposal.",
-    example_zh: "客戶在提案中要求更多相關人員。"
-  },
-  {
-    word: "convenience",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The new policy strengthens data convenience across departments.",
-    example_zh: "新政策強化了各部門的資料項目。"
-  },
-  {
-    word: "conversation",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "流程；作業",
-    example: "The board examined the annual conversation yesterday.",
-    example_zh: "董事會昨天檢視了年度流程。"
-  },
-  {
-    word: "conversion",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "轉換",
-    example: "The report includes updated conversion data.",
-    example_zh: "報告包含更新後的轉換資料。"
-  },
-  {
-    word: "coordination",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "協調",
-    example: "Our team discussed the coordination in the quarterly meeting.",
-    example_zh: "我們團隊在季度會議中討論了協調。"
-  },
-  {
-    word: "coordinator",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The finance department adjusted the coordinator for next year.",
-    example_zh: "財務部門已調整明年的相關人員。"
-  },
-  {
-    word: "copyright",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Legal",
-    meaning: "著作權",
-    example: "The manager approved the copyright after careful analysis.",
-    example_zh: "經理在仔細分析後核准了著作權。"
-  },
-  {
-    word: "correction",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "流程；作業",
-    example: "The project plan sets a clear correction for each phase.",
-    example_zh: "專案計畫為每個階段設定了明確的流程。"
-  },
-  {
-    word: "correspondence",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The company tracks correspondence to improve performance.",
-    example_zh: "公司追蹤項目以提升績效。"
-  },
-  {
-    word: "costing",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Finance",
-    meaning: "成本計算",
-    example: "We submitted the costing before the deadline.",
-    example_zh: "我們在截止日前提交了成本計算。"
-  },
-  {
-    word: "council",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The client requested additional council in the proposal.",
-    example_zh: "客戶在提案中要求更多項目。"
-  },
-  {
-    word: "counselor",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The new policy strengthens data counselor across departments.",
-    example_zh: "新政策強化了各部門的資料相關人員。"
-  },
-  {
-    word: "counterpart",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The board examined the annual counterpart yesterday.",
-    example_zh: "董事會昨天檢視了年度項目。"
-  },
-  {
-    word: "coupon",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The report includes updated coupon data.",
-    example_zh: "報告包含更新後的項目資料。"
-  },
-  {
-    word: "coverage",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "涵蓋範圍",
-    example: "Our team discussed the coverage in the quarterly meeting.",
-    example_zh: "我們團隊在季度會議中討論了涵蓋範圍。"
-  },
-  {
-    word: "credibility",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "可信度",
-    example: "The finance department adjusted the credibility for next year.",
-    example_zh: "財務部門已調整明年的可信度。"
-  },
-  {
-    word: "creditor",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Finance",
-    meaning: "項目；事項",
-    example: "The manager approved the creditor after careful analysis.",
-    example_zh: "經理在仔細分析後核准了相關人員。"
-  },
-  {
-    word: "criterion",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "標準",
-    example: "The project plan sets a clear criterion for each phase.",
-    example_zh: "專案計畫為每個階段設定了明確的標準。"
-  },
-  {
-    word: "currency",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Finance",
-    meaning: "貨幣",
-    example: "The company tracks currency to improve performance.",
-    example_zh: "公司追蹤貨幣以提升績效。"
-  },
-  {
-    word: "customer",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Marketing",
-    meaning: "顧客",
-    example: "We submitted the customer before the deadline.",
-    example_zh: "我們在截止日前提交了顧客。"
-  },
-  {
-    word: "customization",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "客製化",
-    example: "The client requested additional customization in the proposal.",
-    example_zh: "客戶在提案中要求更多客製化。"
-  },
-  {
-    word: "cycle",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "週期",
-    example: "The new policy strengthens data cycle across departments.",
-    example_zh: "新政策強化了各部門的資料週期。"
-  },
-  {
-    word: "dashboard",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "儀表板",
-    example: "The board examined the annual dashboard yesterday.",
-    example_zh: "董事會昨天檢視了年度儀表板。"
-  },
-  {
-    word: "data",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "資料",
-    example: "The report includes updated data data.",
-    example_zh: "報告包含更新後的資料資料。"
-  },
-  {
-    word: "deadline",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "截止期限",
-    example: "Our team discussed the deadline in the quarterly meeting.",
-    example_zh: "我們團隊在季度會議中討論了截止期限。"
-  },
-  {
-    word: "dealership",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The finance department adjusted the dealership for next year.",
-    example_zh: "財務部門已調整明年的項目。"
-  },
-  {
-    word: "debate",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The manager approved the debate after careful analysis.",
-    example_zh: "經理在仔細分析後核准了項目。"
-  },
-  {
-    word: "debt",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Finance",
-    meaning: "債務",
-    example: "The project plan sets a clear debt for each phase.",
-    example_zh: "專案計畫為每個階段設定了明確的債務。"
-  },
-  {
-    word: "decision",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "決策",
-    example: "The company tracks decision to improve performance.",
-    example_zh: "公司追蹤決策以提升績效。"
-  },
-  {
-    word: "declaration",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Finance",
-    meaning: "流程；作業",
-    example: "We submitted the declaration before the deadline.",
-    example_zh: "我們在截止日前提交了流程。"
-  },
-  {
-    word: "decline",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The client requested additional decline in the proposal.",
-    example_zh: "客戶在提案中要求更多項目。"
-  },
-  {
-    word: "deduction",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "扣除額",
-    example: "The new policy strengthens data deduction across departments.",
-    example_zh: "新政策強化了各部門的資料扣除額。"
-  },
-  {
-    word: "default",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "違約；預設值",
-    example: "The board examined the annual default yesterday.",
-    example_zh: "董事會昨天檢視了年度違約。"
-  },
-  {
-    word: "defect",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "瑕疵",
-    example: "The report includes updated defect data.",
-    example_zh: "報告包含更新後的瑕疵資料。"
-  },
-  {
-    word: "definition",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "流程；作業",
-    example: "Our team discussed the definition in the quarterly meeting.",
-    example_zh: "我們團隊在季度會議中討論了流程。"
-  },
-  {
-    word: "delegation",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "授權",
-    example: "The finance department adjusted the delegation for next year.",
-    example_zh: "財務部門已調整明年的授權。"
-  },
-  {
-    word: "delivery",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "交付",
-    example: "The manager approved the delivery after careful analysis.",
-    example_zh: "經理在仔細分析後核准了交付。"
-  },
-  {
-    word: "demand",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "需求",
-    example: "The project plan sets a clear demand for each phase.",
-    example_zh: "專案計畫為每個階段設定了明確的需求。"
-  },
-  {
-    word: "demonstration",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Finance",
-    meaning: "流程；作業",
-    example: "The company tracks demonstration to improve performance.",
-    example_zh: "公司追蹤流程以提升績效。"
-  },
-  {
-    word: "department",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "部門",
-    example: "We submitted the department before the deadline.",
-    example_zh: "我們在截止日前提交了部門。"
-  },
-  {
-    word: "departure",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The client requested additional departure in the proposal.",
-    example_zh: "客戶在提案中要求更多項目。"
-  },
-  {
-    word: "dependency",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The new policy strengthens data dependency across departments.",
-    example_zh: "新政策強化了各部門的資料項目。"
-  },
-  {
-    word: "deposit",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "押金；存款",
-    example: "The board examined the annual deposit yesterday.",
-    example_zh: "董事會昨天檢視了年度押金。"
-  },
-  {
-    word: "depreciation",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "折舊",
-    example: "The report includes updated depreciation data.",
-    example_zh: "報告包含更新後的折舊資料。"
-  },
-  {
-    word: "description",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "說明",
-    example: "Our team discussed the description in the quarterly meeting.",
-    example_zh: "我們團隊在季度會議中討論了說明。"
-  },
-  {
-    word: "design",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "設計",
-    example: "The finance department adjusted the design for next year.",
-    example_zh: "財務部門已調整明年的設計。"
-  },
-  {
-    word: "designer",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The manager approved the designer after careful analysis.",
-    example_zh: "經理在仔細分析後核准了相關人員。"
-  },
-  {
-    word: "destination",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "目的地",
-    example: "The project plan sets a clear destination for each phase.",
-    example_zh: "專案計畫為每個階段設定了明確的目的地。"
-  },
-  {
-    word: "detail",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "細節",
-    example: "The company tracks detail to improve performance.",
-    example_zh: "公司追蹤細節以提升績效。"
-  },
-  {
-    word: "development",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "開發；發展",
-    example: "We submitted the development before the deadline.",
-    example_zh: "我們在截止日前提交了開發。"
-  },
-  {
-    word: "device",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "裝置",
-    example: "The client requested additional device in the proposal.",
-    example_zh: "客戶在提案中要求更多裝置。"
-  },
-  {
-    word: "difference",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The new policy strengthens data difference across departments.",
-    example_zh: "新政策強化了各部門的資料項目。"
-  },
-  {
-    word: "difficulty",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The board examined the annual difficulty yesterday.",
-    example_zh: "董事會昨天檢視了年度項目。"
-  },
-  {
-    word: "digitization",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "流程；作業",
-    example: "The report includes updated digitization data.",
-    example_zh: "報告包含更新後的流程資料。"
-  },
-  {
-    word: "directory",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "Our team discussed the directory in the quarterly meeting.",
-    example_zh: "我們團隊在季度會議中討論了項目。"
-  },
-  {
-    word: "disclosure",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The finance department adjusted the disclosure for next year.",
-    example_zh: "財務部門已調整明年的項目。"
-  },
-  {
-    word: "discount",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "折扣",
-    example: "The manager approved the discount after careful analysis.",
-    example_zh: "經理在仔細分析後核准了折扣。"
-  },
-  {
-    word: "discussion",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "討論",
-    example: "The project plan sets a clear discussion for each phase.",
-    example_zh: "專案計畫為每個階段設定了明確的討論。"
-  },
-  {
-    word: "dismissal",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The company tracks dismissal to improve performance.",
-    example_zh: "公司追蹤項目以提升績效。"
-  },
-  {
-    word: "dispatch",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "派遣；發送",
-    example: "We submitted the dispatch before the deadline.",
-    example_zh: "我們在截止日前提交了派遣。"
-  },
-  {
-    word: "dispatcher",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The client requested additional dispatcher in the proposal.",
-    example_zh: "客戶在提案中要求更多相關人員。"
-  },
-  {
-    word: "disposal",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The new policy strengthens data disposal across departments.",
-    example_zh: "新政策強化了各部門的資料項目。"
-  },
-  {
-    word: "dispute",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The board examined the annual dispute yesterday.",
-    example_zh: "董事會昨天檢視了年度項目。"
-  },
-  {
-    word: "distribution",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "配送；分配",
-    example: "The report includes updated distribution data.",
-    example_zh: "報告包含更新後的配送資料。"
-  },
-  {
-    word: "distributor",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "經銷商",
-    example: "Our team discussed the distributor in the quarterly meeting.",
-    example_zh: "我們團隊在季度會議中討論了經銷商。"
-  },
-  {
-    word: "diversification",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "流程；作業",
-    example: "The finance department adjusted the diversification for next year.",
-    example_zh: "財務部門已調整明年的流程。"
-  },
-  {
-    word: "division",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The manager approved the division after careful analysis.",
-    example_zh: "經理在仔細分析後核准了項目。"
-  },
-  {
-    word: "documentation",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "文件紀錄",
-    example: "The project plan sets a clear documentation for each phase.",
-    example_zh: "專案計畫為每個階段設定了明確的文件紀錄。"
-  },
-  {
-    word: "domain",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The company tracks domain to improve performance.",
-    example_zh: "公司追蹤項目以提升績效。"
-  },
-  {
-    word: "donation",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "流程；作業",
-    example: "We submitted the donation before the deadline.",
-    example_zh: "我們在截止日前提交了流程。"
-  },
-  {
-    word: "downtime",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Operations",
-    meaning: "停機時間",
-    example: "The client requested additional downtime in the proposal.",
-    example_zh: "客戶在提案中要求更多停機時間。"
-  },
-  {
-    word: "drafting",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "進行中的作業",
-    example: "The new policy strengthens data drafting across departments.",
-    example_zh: "新政策強化了各部門的資料進行中的作業。"
-  },
-  {
-    word: "driver",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The board examined the annual driver yesterday.",
-    example_zh: "董事會昨天檢視了年度相關人員。"
-  },
-  {
-    word: "earnings",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Finance",
-    meaning: "收益",
-    example: "The report includes updated earnings data.",
-    example_zh: "報告包含更新後的收益資料。"
-  },
-  {
-    word: "economy",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "經濟",
-    example: "Our team discussed the economy in the quarterly meeting.",
-    example_zh: "我們團隊在季度會議中討論了經濟。"
-  },
-  {
-    word: "edition",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "流程；作業",
-    example: "The finance department adjusted the edition for next year.",
-    example_zh: "財務部門已調整明年的流程。"
-  },
-  {
-    word: "editor",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The manager approved the editor after careful analysis.",
-    example_zh: "經理在仔細分析後核准了相關人員。"
-  },
-  {
-    word: "education",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "流程；作業",
-    example: "The project plan sets a clear education for each phase.",
-    example_zh: "專案計畫為每個階段設定了明確的流程。"
-  },
-  {
-    word: "effectiveness",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The company tracks effectiveness to improve performance.",
-    example_zh: "公司追蹤項目以提升績效。"
-  },
-  {
-    word: "efficiency",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Operations",
-    meaning: "效率",
-    example: "We submitted the efficiency before the deadline.",
-    example_zh: "我們在截止日前提交了效率。"
-  },
-  {
-    word: "effort",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The client requested additional effort in the proposal.",
-    example_zh: "客戶在提案中要求更多項目。"
-  },
-  {
-    word: "election",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "流程；作業",
-    example: "The new policy strengthens data election across departments.",
-    example_zh: "新政策強化了各部門的資料流程。"
-  },
-  {
-    word: "electricity",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "特性；性質",
-    example: "The board examined the annual electricity yesterday.",
-    example_zh: "董事會昨天檢視了年度特性。"
-  },
-  {
-    word: "eligibility",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "特性；性質",
-    example: "The report includes updated eligibility data.",
-    example_zh: "報告包含更新後的特性資料。"
-  },
-  {
-    word: "email",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "Our team discussed the email in the quarterly meeting.",
-    example_zh: "我們團隊在季度會議中討論了項目。"
-  },
-  {
-    word: "emergency",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The finance department adjusted the emergency for next year.",
-    example_zh: "財務部門已調整明年的項目。"
-  },
-  {
-    word: "emission",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The manager approved the emission after careful analysis.",
-    example_zh: "經理在仔細分析後核准了項目。"
-  },
-  {
-    word: "employee",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "HR",
-    meaning: "員工",
-    example: "The project plan sets a clear employee for each phase.",
-    example_zh: "專案計畫為每個階段設定了明確的員工。"
-  },
-  {
-    word: "employer",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "HR",
-    meaning: "雇主",
-    example: "The company tracks employer to improve performance.",
-    example_zh: "公司追蹤雇主以提升績效。"
-  },
-  {
-    word: "employment",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "就業",
-    example: "We submitted the employment before the deadline.",
-    example_zh: "我們在截止日前提交了就業。"
-  },
-  {
-    word: "enforcement",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Legal",
-    meaning: "執行",
-    example: "The client requested additional enforcement in the proposal.",
-    example_zh: "客戶在提案中要求更多執行。"
-  },
-  {
-    word: "engagement",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "管理事項；結果",
-    example: "The new policy strengthens data engagement across departments.",
-    example_zh: "新政策強化了各部門的資料管理事項。"
-  },
-  {
-    word: "engineer",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The board examined the annual engineer yesterday.",
-    example_zh: "董事會昨天檢視了年度相關人員。"
-  },
-  {
-    word: "enhancement",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "管理事項；結果",
-    example: "The report includes updated enhancement data.",
-    example_zh: "報告包含更新後的管理事項資料。"
-  },
-  {
-    word: "enrollment",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "管理事項；結果",
-    example: "Our team discussed the enrollment in the quarterly meeting.",
-    example_zh: "我們團隊在季度會議中討論了管理事項。"
-  },
-  {
-    word: "enterprise",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The finance department adjusted the enterprise for next year.",
-    example_zh: "財務部門已調整明年的項目。"
-  },
-  {
-    word: "entitlement",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "管理事項；結果",
-    example: "The manager approved the entitlement after careful analysis.",
-    example_zh: "經理在仔細分析後核准了管理事項。"
-  },
-  {
-    word: "entry",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The project plan sets a clear entry for each phase.",
-    example_zh: "專案計畫為每個階段設定了明確的項目。"
-  },
-  {
-    word: "environment",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "管理事項；結果",
-    example: "The company tracks environment to improve performance.",
-    example_zh: "公司追蹤管理事項以提升績效。"
-  },
-  {
-    word: "equipment",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Operations",
-    meaning: "設備",
-    example: "We submitted the equipment before the deadline.",
-    example_zh: "我們在截止日前提交了設備。"
-  },
-  {
-    word: "equity",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Finance",
-    meaning: "權益；股本",
-    example: "The client requested additional equity in the proposal.",
-    example_zh: "客戶在提案中要求更多權益。"
-  },
-  {
-    word: "escalation",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "流程；作業",
-    example: "The new policy strengthens data escalation across departments.",
-    example_zh: "新政策強化了各部門的資料流程。"
-  },
-  {
-    word: "estimate",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "估算",
-    example: "The board examined the annual estimate yesterday.",
-    example_zh: "董事會昨天檢視了年度估算。"
-  },
-  {
-    word: "evaluation",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "評估",
-    example: "The report includes updated evaluation data.",
-    example_zh: "報告包含更新後的評估資料。"
-  },
-  {
-    word: "evidence",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "證據",
-    example: "Our team discussed the evidence in the quarterly meeting.",
-    example_zh: "我們團隊在季度會議中討論了證據。"
-  },
-  {
-    word: "examination",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "流程；作業",
-    example: "The finance department adjusted the examination for next year.",
-    example_zh: "財務部門已調整明年的流程。"
-  },
-  {
-    word: "example",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The manager approved the example after careful analysis.",
-    example_zh: "經理在仔細分析後核准了項目。"
-  },
-  {
-    word: "exchange",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "交換；匯率",
-    example: "The project plan sets a clear exchange for each phase.",
-    example_zh: "專案計畫為每個階段設定了明確的交換。"
-  },
-  {
-    word: "execution",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "執行",
-    example: "The company tracks execution to improve performance.",
-    example_zh: "公司追蹤執行以提升績效。"
-  },
-  {
-    word: "executive",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "主管",
-    example: "We submitted the executive before the deadline.",
-    example_zh: "我們在截止日前提交了主管。"
-  },
-  {
-    word: "exemption",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "流程；作業",
-    example: "The client requested additional exemption in the proposal.",
-    example_zh: "客戶在提案中要求更多流程。"
-  },
-  {
-    word: "exhibition",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "流程；作業",
-    example: "The new policy strengthens data exhibition across departments.",
-    example_zh: "新政策強化了各部門的資料流程。"
-  },
-  {
-    word: "expansion",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The board examined the annual expansion yesterday.",
-    example_zh: "董事會昨天檢視了年度項目。"
-  },
-  {
-    word: "expectation",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "流程；作業",
-    example: "The report includes updated expectation data.",
-    example_zh: "報告包含更新後的流程資料。"
-  },
-  {
-    word: "expenditure",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Finance",
-    meaning: "支出",
-    example: "Our team discussed the expenditure in the quarterly meeting.",
-    example_zh: "我們團隊在季度會議中討論了支出。"
-  },
-  {
-    word: "experience",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "經驗",
-    example: "The finance department adjusted the experience for next year.",
-    example_zh: "財務部門已調整明年的經驗。"
-  },
-  {
-    word: "expertise",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "專業能力",
-    example: "The manager approved the expertise after careful analysis.",
-    example_zh: "經理在仔細分析後核准了專業能力。"
-  },
-  {
-    word: "expiration",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Finance",
-    meaning: "到期",
-    example: "The project plan sets a clear expiration for each phase.",
-    example_zh: "專案計畫為每個階段設定了明確的到期。"
-  },
-  {
-    word: "export",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "出口",
-    example: "The company tracks export to improve performance.",
-    example_zh: "公司追蹤出口以提升績效。"
-  },
-  {
-    word: "exposure",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "曝光；風險暴露",
-    example: "We submitted the exposure before the deadline.",
-    example_zh: "我們在截止日前提交了曝光。"
-  },
-  {
-    word: "extension",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "延長；擴充",
-    example: "The client requested additional extension in the proposal.",
-    example_zh: "客戶在提案中要求更多延長。"
-  },
-  {
-    word: "facility",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "設施",
-    example: "The new policy strengthens data facility across departments.",
-    example_zh: "新政策強化了各部門的資料設施。"
-  },
-  {
-    word: "factor",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The board examined the annual factor yesterday.",
-    example_zh: "董事會昨天檢視了年度相關人員。"
-  },
-  {
-    word: "failure",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The report includes updated failure data.",
-    example_zh: "報告包含更新後的項目資料。"
-  },
-  {
-    word: "feedback",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "回饋",
-    example: "Our team discussed the feedback in the quarterly meeting.",
-    example_zh: "我們團隊在季度會議中討論了回饋。"
-  },
-  {
-    word: "field",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The finance department adjusted the field for next year.",
-    example_zh: "財務部門已調整明年的項目。"
-  },
-  {
-    word: "file",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The manager approved the file after careful analysis.",
-    example_zh: "經理在仔細分析後核准了項目。"
-  },
-  {
-    word: "filing",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "進行中的作業",
-    example: "The project plan sets a clear filing for each phase.",
-    example_zh: "專案計畫為每個階段設定了明確的進行中的作業。"
-  },
-  {
-    word: "finance",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Finance",
-    meaning: "財務",
-    example: "The company tracks finance to improve performance.",
-    example_zh: "公司追蹤財務以提升績效。"
-  },
-  {
-    word: "financing",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "進行中的作業",
-    example: "We submitted the financing before the deadline.",
-    example_zh: "我們在截止日前提交了進行中的作業。"
-  },
-  {
-    word: "finding",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "進行中的作業",
-    example: "The client requested additional finding in the proposal.",
-    example_zh: "客戶在提案中要求更多進行中的作業。"
-  },
-  {
-    word: "firmness",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The new policy strengthens data firmness across departments.",
-    example_zh: "新政策強化了各部門的資料項目。"
-  },
-  {
-    word: "fitness",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The board examined the annual fitness yesterday.",
-    example_zh: "董事會昨天檢視了年度項目。"
-  },
-  {
-    word: "flexibility",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "特性；性質",
-    example: "The report includes updated flexibility data.",
-    example_zh: "報告包含更新後的特性資料。"
-  },
-  {
-    word: "flight",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "Our team discussed the flight in the quarterly meeting.",
-    example_zh: "我們團隊在季度會議中討論了項目。"
-  },
-  {
-    word: "flow",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The finance department adjusted the flow for next year.",
-    example_zh: "財務部門已調整明年的項目。"
-  },
-  {
-    word: "focus",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The manager approved the focus after careful analysis.",
-    example_zh: "經理在仔細分析後核准了項目。"
-  },
-  {
-    word: "forecast",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "預測",
-    example: "The project plan sets a clear forecast for each phase.",
-    example_zh: "專案計畫為每個階段設定了明確的預測。"
-  },
-  {
-    word: "forecaster",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The company tracks forecaster to improve performance.",
-    example_zh: "公司追蹤相關人員以提升績效。"
-  },
-  {
-    word: "foreclosure",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "We submitted the foreclosure before the deadline.",
-    example_zh: "我們在截止日前提交了項目。"
-  },
-  {
-    word: "format",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The client requested additional format in the proposal.",
-    example_zh: "客戶在提案中要求更多項目。"
-  },
-  {
-    word: "foundation",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "流程；作業",
-    example: "The new policy strengthens data foundation across departments.",
-    example_zh: "新政策強化了各部門的資料流程。"
-  },
-  {
-    word: "framework",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "框架",
-    example: "The board examined the annual framework yesterday.",
-    example_zh: "董事會昨天檢視了年度框架。"
-  },
-  {
-    word: "freight",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "貨運",
-    example: "The report includes updated freight data.",
-    example_zh: "報告包含更新後的貨運資料。"
-  },
-  {
-    word: "frequency",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "Our team discussed the frequency in the quarterly meeting.",
-    example_zh: "我們團隊在季度會議中討論了項目。"
-  },
-  {
-    word: "funding",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "資金",
-    example: "The finance department adjusted the funding for next year.",
-    example_zh: "財務部門已調整明年的資金。"
-  },
-  {
-    word: "function",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "流程；作業",
-    example: "The manager approved the function after careful analysis.",
-    example_zh: "經理在仔細分析後核准了流程。"
-  },
-  {
-    word: "fundraiser",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The project plan sets a clear fundraiser for each phase.",
-    example_zh: "專案計畫為每個階段設定了明確的相關人員。"
-  },
-  {
-    word: "gain",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The company tracks gain to improve performance.",
-    example_zh: "公司追蹤項目以提升績效。"
-  },
-  {
-    word: "goal",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "目標",
-    example: "We submitted the goal before the deadline.",
-    example_zh: "我們在截止日前提交了目標。"
-  },
-  {
-    word: "governance",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "治理",
-    example: "The client requested additional governance in the proposal.",
-    example_zh: "客戶在提案中要求更多治理。"
-  },
-  {
-    word: "government",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "管理事項；結果",
-    example: "The new policy strengthens data government across departments.",
-    example_zh: "新政策強化了各部門的資料管理事項。"
-  },
-  {
-    word: "gratuity",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "特性；性質",
-    example: "The board examined the annual gratuity yesterday.",
-    example_zh: "董事會昨天檢視了年度特性。"
-  },
-  {
-    word: "growth",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "成長",
-    example: "The report includes updated growth data.",
-    example_zh: "報告包含更新後的成長資料。"
-  },
-  {
-    word: "guarantee",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "保證",
-    example: "Our team discussed the guarantee in the quarterly meeting.",
-    example_zh: "我們團隊在季度會議中討論了保證。"
-  },
-  {
-    word: "guidance",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The finance department adjusted the guidance for next year.",
-    example_zh: "財務部門已調整明年的項目。"
-  },
-  {
-    word: "guideline",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "指引",
-    example: "The manager approved the guideline after careful analysis.",
-    example_zh: "經理在仔細分析後核准了指引。"
-  },
-  {
-    word: "handbook",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The project plan sets a clear handbook for each phase.",
-    example_zh: "專案計畫為每個階段設定了明確的項目。"
-  },
-  {
-    word: "handler",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The company tracks handler to improve performance.",
-    example_zh: "公司追蹤相關人員以提升績效。"
-  },
-  {
-    word: "hardship",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "We submitted the hardship before the deadline.",
-    example_zh: "我們在截止日前提交了項目。"
-  },
-  {
-    word: "hardware",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The client requested additional hardware in the proposal.",
-    example_zh: "客戶在提案中要求更多項目。"
-  },
-  {
-    word: "hazard",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The new policy strengthens data hazard across departments.",
-    example_zh: "新政策強化了各部門的資料項目。"
-  },
-  {
-    word: "headcount",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "HR",
-    meaning: "人力編制",
-    example: "The board examined the annual headcount yesterday.",
-    example_zh: "董事會昨天檢視了年度人力編制。"
-  },
-  {
-    word: "headquarters",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "總部",
-    example: "The report includes updated headquarters data.",
-    example_zh: "報告包含更新後的總部資料。"
-  },
-  {
-    word: "hearing",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "進行中的作業",
-    example: "Our team discussed the hearing in the quarterly meeting.",
-    example_zh: "我們團隊在季度會議中討論了進行中的作業。"
-  },
-  {
-    word: "helpdesk",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The finance department adjusted the helpdesk for next year.",
-    example_zh: "財務部門已調整明年的項目。"
-  },
-  {
-    word: "hierarchy",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The manager approved the hierarchy after careful analysis.",
-    example_zh: "經理在仔細分析後核准了項目。"
-  },
-  {
-    word: "holiday",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The project plan sets a clear holiday for each phase.",
-    example_zh: "專案計畫為每個階段設定了明確的項目。"
-  },
-  {
-    word: "hospitality",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "特性；性質",
-    example: "The company tracks hospitality to improve performance.",
-    example_zh: "公司追蹤特性以提升績效。"
-  },
-  {
-    word: "hourly",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "We submitted the hourly before the deadline.",
-    example_zh: "我們在截止日前提交了項目。"
-  },
-  {
-    word: "identification",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "識別",
-    example: "The client requested additional identification in the proposal.",
-    example_zh: "客戶在提案中要求更多識別。"
-  },
-  {
-    word: "identity",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "特性；性質",
-    example: "The new policy strengthens data identity across departments.",
-    example_zh: "新政策強化了各部門的資料特性。"
-  },
-  {
-    word: "improvement",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "改善",
-    example: "The board examined the annual improvement yesterday.",
-    example_zh: "董事會昨天檢視了年度改善。"
-  },
-  {
-    word: "incentive",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "激勵",
-    example: "The report includes updated incentive data.",
-    example_zh: "報告包含更新後的激勵資料。"
-  },
-  {
-    word: "income",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "收入",
-    example: "Our team discussed the income in the quarterly meeting.",
-    example_zh: "我們團隊在季度會議中討論了收入。"
-  },
-  {
-    word: "indicator",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "指標",
-    example: "The finance department adjusted the indicator for next year.",
-    example_zh: "財務部門已調整明年的指標。"
-  },
-  {
-    word: "industry",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "產業",
-    example: "The manager approved the industry after careful analysis.",
-    example_zh: "經理在仔細分析後核准了產業。"
-  },
-  {
-    word: "inefficiency",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Operations",
-    meaning: "項目；事項",
-    example: "The project plan sets a clear inefficiency for each phase.",
-    example_zh: "專案計畫為每個階段設定了明確的項目。"
-  },
-  {
-    word: "inflation",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "通貨膨脹",
-    example: "The company tracks inflation to improve performance.",
-    example_zh: "公司追蹤通貨膨脹以提升績效。"
-  },
-  {
-    word: "information",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "資訊",
-    example: "We submitted the information before the deadline.",
-    example_zh: "我們在截止日前提交了資訊。"
-  },
-  {
-    word: "infrastructure",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "基礎設施",
-    example: "The client requested additional infrastructure in the proposal.",
-    example_zh: "客戶在提案中要求更多基礎設施。"
-  },
-  {
-    word: "innovation",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "創新",
-    example: "The new policy strengthens data innovation across departments.",
-    example_zh: "新政策強化了各部門的資料創新。"
-  },
-  {
-    word: "input",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The board examined the annual input yesterday.",
-    example_zh: "董事會昨天檢視了年度項目。"
-  },
-  {
-    word: "inquiry",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "詢問",
-    example: "The report includes updated inquiry data.",
-    example_zh: "報告包含更新後的詢問資料。"
-  },
-  {
-    word: "inspection",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "檢查",
-    example: "Our team discussed the inspection in the quarterly meeting.",
-    example_zh: "我們團隊在季度會議中討論了檢查。"
-  },
-  {
-    word: "inspector",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The finance department adjusted the inspector for next year.",
-    example_zh: "財務部門已調整明年的相關人員。"
-  },
-  {
-    word: "installation",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "流程；作業",
-    example: "The manager approved the installation after careful analysis.",
-    example_zh: "經理在仔細分析後核准了流程。"
-  },
-  {
-    word: "instance",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The project plan sets a clear instance for each phase.",
-    example_zh: "專案計畫為每個階段設定了明確的項目。"
-  },
-  {
-    word: "instruction",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "流程；作業",
-    example: "The company tracks instruction to improve performance.",
-    example_zh: "公司追蹤流程以提升績效。"
-  },
-  {
-    word: "insurance",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "保險",
-    example: "We submitted the insurance before the deadline.",
-    example_zh: "我們在截止日前提交了保險。"
-  },
-  {
-    word: "integrity",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "完整性；誠信",
-    example: "The client requested additional integrity in the proposal.",
-    example_zh: "客戶在提案中要求更多完整性。"
-  },
-  {
-    word: "intelligence",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "情報；智能",
-    example: "The new policy strengthens data intelligence across departments.",
-    example_zh: "新政策強化了各部門的資料情報。"
-  },
-  {
-    word: "intensity",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "特性；性質",
-    example: "The board examined the annual intensity yesterday.",
-    example_zh: "董事會昨天檢視了年度特性。"
-  },
-  {
-    word: "intention",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "流程；作業",
-    example: "The report includes updated intention data.",
-    example_zh: "報告包含更新後的流程資料。"
-  },
-  {
-    word: "interaction",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "互動",
-    example: "Our team discussed the interaction in the quarterly meeting.",
-    example_zh: "我們團隊在季度會議中討論了互動。"
-  },
-  {
-    word: "interest",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "利息；興趣",
-    example: "The finance department adjusted the interest for next year.",
-    example_zh: "財務部門已調整明年的利息。"
-  },
-  {
-    word: "interface",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The manager approved the interface after careful analysis.",
-    example_zh: "經理在仔細分析後核准了項目。"
-  },
-  {
-    word: "interview",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "HR",
-    meaning: "面試",
-    example: "The project plan sets a clear interview for each phase.",
-    example_zh: "專案計畫為每個階段設定了明確的面試。"
-  },
-  {
-    word: "introduction",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "流程；作業",
-    example: "The company tracks introduction to improve performance.",
-    example_zh: "公司追蹤流程以提升績效。"
-  },
-  {
-    word: "inventory",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Operations",
-    meaning: "庫存",
-    example: "We submitted the inventory before the deadline.",
-    example_zh: "我們在截止日前提交了庫存。"
-  },
-  {
-    word: "investigation",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "流程；作業",
-    example: "The client requested additional investigation in the proposal.",
-    example_zh: "客戶在提案中要求更多流程。"
-  },
-  {
-    word: "investment",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Finance",
-    meaning: "投資",
-    example: "The new policy strengthens data investment across departments.",
-    example_zh: "新政策強化了各部門的資料投資。"
-  },
-  {
-    word: "investor",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Finance",
-    meaning: "投資人",
-    example: "The board examined the annual investor yesterday.",
-    example_zh: "董事會昨天檢視了年度投資人。"
-  },
-  {
-    word: "invoice",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Finance",
-    meaning: "發票",
-    example: "The report includes updated invoice data.",
-    example_zh: "報告包含更新後的發票資料。"
-  },
-  {
-    word: "isolation",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "流程；作業",
-    example: "Our team discussed the isolation in the quarterly meeting.",
-    example_zh: "我們團隊在季度會議中討論了流程。"
-  },
-  {
-    word: "issuance",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "發行",
-    example: "The finance department adjusted the issuance for next year.",
-    example_zh: "財務部門已調整明年的發行。"
-  },
-  {
-    word: "issue",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The manager approved the issue after careful analysis.",
-    example_zh: "經理在仔細分析後核准了項目。"
-  },
-  {
-    word: "itemization",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "流程；作業",
-    example: "The project plan sets a clear itemization for each phase.",
-    example_zh: "專案計畫為每個階段設定了明確的流程。"
-  },
-  {
-    word: "job",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "工作",
-    example: "The company tracks job to improve performance.",
-    example_zh: "公司追蹤工作以提升績效。"
-  },
-  {
-    word: "judgment",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "管理事項；結果",
-    example: "We submitted the judgment before the deadline.",
-    example_zh: "我們在截止日前提交了管理事項。"
-  },
-  {
-    word: "jurisdiction",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "流程；作業",
-    example: "The client requested additional jurisdiction in the proposal.",
-    example_zh: "客戶在提案中要求更多流程。"
-  },
-  {
-    word: "keynote",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The new policy strengthens data keynote across departments.",
-    example_zh: "新政策強化了各部門的資料項目。"
-  },
-  {
-    word: "knowledge",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "知識",
-    example: "The board examined the annual knowledge yesterday.",
-    example_zh: "董事會昨天檢視了年度知識。"
-  },
-  {
-    word: "label",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The report includes updated label data.",
-    example_zh: "報告包含更新後的項目資料。"
-  },
-  {
-    word: "labor",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "勞務",
-    example: "Our team discussed the labor in the quarterly meeting.",
-    example_zh: "我們團隊在季度會議中討論了勞務。"
-  },
-  {
-    word: "laboratory",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The finance department adjusted the laboratory for next year.",
-    example_zh: "財務部門已調整明年的項目。"
-  },
-  {
-    word: "landlord",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The manager approved the landlord after careful analysis.",
-    example_zh: "經理在仔細分析後核准了項目。"
-  },
-  {
-    word: "language",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The project plan sets a clear language for each phase.",
-    example_zh: "專案計畫為每個階段設定了明確的項目。"
-  },
-  {
-    word: "launch",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "上市；啟動",
-    example: "The company tracks launch to improve performance.",
-    example_zh: "公司追蹤上市以提升績效。"
-  },
-  {
-    word: "leader",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "We submitted the leader before the deadline.",
-    example_zh: "我們在截止日前提交了相關人員。"
-  },
-  {
-    word: "leadership",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "HR",
-    meaning: "領導力",
-    example: "The client requested additional leadership in the proposal.",
-    example_zh: "客戶在提案中要求更多領導力。"
-  },
-  {
-    word: "lease",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "租賃",
-    example: "The new policy strengthens data lease across departments.",
-    example_zh: "新政策強化了各部門的資料租賃。"
-  },
-  {
-    word: "ledger",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "分類帳",
-    example: "The board examined the annual ledger yesterday.",
-    example_zh: "董事會昨天檢視了年度分類帳。"
-  },
-  {
-    word: "legislation",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "法規",
-    example: "The report includes updated legislation data.",
-    example_zh: "報告包含更新後的法規資料。"
-  },
-  {
-    word: "liability",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Finance",
-    meaning: "負債；責任",
-    example: "Our team discussed the liability in the quarterly meeting.",
-    example_zh: "我們團隊在季度會議中討論了負債。"
-  },
-  {
-    word: "liaison",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The finance department adjusted the liaison for next year.",
-    example_zh: "財務部門已調整明年的項目。"
-  },
-  {
-    word: "license",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Legal",
-    meaning: "授權；執照",
-    example: "The manager approved the license after careful analysis.",
-    example_zh: "經理在仔細分析後核准了授權。"
-  },
-  {
-    word: "licensing",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "進行中的作業",
-    example: "The project plan sets a clear licensing for each phase.",
-    example_zh: "專案計畫為每個階段設定了明確的進行中的作業。"
-  },
-  {
-    word: "limit",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The company tracks limit to improve performance.",
-    example_zh: "公司追蹤項目以提升績效。"
-  },
-  {
-    word: "liquidation",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "清算",
-    example: "We submitted the liquidation before the deadline.",
-    example_zh: "我們在截止日前提交了清算。"
-  },
-  {
-    word: "listing",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "進行中的作業",
-    example: "The client requested additional listing in the proposal.",
-    example_zh: "客戶在提案中要求更多進行中的作業。"
-  },
-  {
-    word: "litigation",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "流程；作業",
-    example: "The new policy strengthens data litigation across departments.",
-    example_zh: "新政策強化了各部門的資料流程。"
-  },
-  {
-    word: "load",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The board examined the annual load yesterday.",
-    example_zh: "董事會昨天檢視了年度項目。"
-  },
-  {
-    word: "location",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "流程；作業",
-    example: "The report includes updated location data.",
-    example_zh: "報告包含更新後的流程資料。"
-  },
-  {
-    word: "logistics",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Operations",
-    meaning: "物流",
-    example: "Our team discussed the logistics in the quarterly meeting.",
-    example_zh: "我們團隊在季度會議中討論了物流。"
-  },
-  {
-    word: "longevity",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "特性；性質",
-    example: "The finance department adjusted the longevity for next year.",
-    example_zh: "財務部門已調整明年的特性。"
-  },
-  {
-    word: "loss",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The manager approved the loss after careful analysis.",
-    example_zh: "經理在仔細分析後核准了項目。"
-  },
-  {
-    word: "maintenance",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Operations",
-    meaning: "維護",
-    example: "The project plan sets a clear maintenance for each phase.",
-    example_zh: "專案計畫為每個階段設定了明確的維護。"
-  },
-  {
-    word: "majority",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "特性；性質",
-    example: "The company tracks majority to improve performance.",
-    example_zh: "公司追蹤特性以提升績效。"
-  },
-  {
-    word: "management",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "管理",
-    example: "We submitted the management before the deadline.",
-    example_zh: "我們在截止日前提交了管理。"
-  },
-  {
-    word: "manager",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "經理",
-    example: "The client requested additional manager in the proposal.",
-    example_zh: "客戶在提案中要求更多經理。"
-  },
-  {
-    word: "mandate",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The new policy strengthens data mandate across departments.",
-    example_zh: "新政策強化了各部門的資料項目。"
-  },
-  {
-    word: "manufacturer",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "製造商",
-    example: "The board examined the annual manufacturer yesterday.",
-    example_zh: "董事會昨天檢視了年度製造商。"
-  },
-  {
-    word: "manufacturing",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "製造業",
-    example: "The report includes updated manufacturing data.",
-    example_zh: "報告包含更新後的製造業資料。"
-  },
-  {
-    word: "margin",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Finance",
-    meaning: "利潤率",
-    example: "Our team discussed the margin in the quarterly meeting.",
-    example_zh: "我們團隊在季度會議中討論了利潤率。"
-  },
-  {
-    word: "market",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Marketing",
-    meaning: "市場",
-    example: "The finance department adjusted the market for next year.",
-    example_zh: "財務部門已調整明年的市場。"
-  },
-  {
-    word: "marketing",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Marketing",
-    meaning: "行銷",
-    example: "The manager approved the marketing after careful analysis.",
-    example_zh: "經理在仔細分析後核准了行銷。"
-  },
-  {
-    word: "markup",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The project plan sets a clear markup for each phase.",
-    example_zh: "專案計畫為每個階段設定了明確的項目。"
-  },
-  {
-    word: "material",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "材料",
-    example: "The company tracks material to improve performance.",
-    example_zh: "公司追蹤材料以提升績效。"
-  },
-  {
-    word: "maturity",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "成熟度；到期",
-    example: "We submitted the maturity before the deadline.",
-    example_zh: "我們在截止日前提交了成熟度。"
-  },
-  {
-    word: "measurement",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "衡量",
-    example: "The client requested additional measurement in the proposal.",
-    example_zh: "客戶在提案中要求更多衡量。"
-  },
-  {
-    word: "mechanism",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The new policy strengthens data mechanism across departments.",
-    example_zh: "新政策強化了各部門的資料項目。"
-  },
-  {
-    word: "media",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The board examined the annual media yesterday.",
-    example_zh: "董事會昨天檢視了年度項目。"
-  },
-  {
-    word: "meeting",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "會議",
-    example: "The report includes updated meeting data.",
-    example_zh: "報告包含更新後的會議資料。"
-  },
-  {
-    word: "membership",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "會員資格",
-    example: "Our team discussed the membership in the quarterly meeting.",
-    example_zh: "我們團隊在季度會議中討論了會員資格。"
-  },
-  {
-    word: "memorandum",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "備忘錄",
-    example: "The finance department adjusted the memorandum for next year.",
-    example_zh: "財務部門已調整明年的備忘錄。"
-  },
-  {
-    word: "mention",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "流程；作業",
-    example: "The manager approved the mention after careful analysis.",
-    example_zh: "經理在仔細分析後核准了流程。"
-  },
-  {
-    word: "merchant",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "商家",
-    example: "The project plan sets a clear merchant for each phase.",
-    example_zh: "專案計畫為每個階段設定了明確的商家。"
-  },
-  {
-    word: "merger",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "合併",
-    example: "The company tracks merger to improve performance.",
-    example_zh: "公司追蹤合併以提升績效。"
-  },
-  {
-    word: "message",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "We submitted the message before the deadline.",
-    example_zh: "我們在截止日前提交了項目。"
-  },
-  {
-    word: "metric",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "指標",
-    example: "The client requested additional metric in the proposal.",
-    example_zh: "客戶在提案中要求更多指標。"
-  },
-  {
-    word: "migration",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Finance",
-    meaning: "流程；作業",
-    example: "The new policy strengthens data migration across departments.",
-    example_zh: "新政策強化了各部門的資料流程。"
-  },
-  {
-    word: "milestone",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "里程碑",
-    example: "The board examined the annual milestone yesterday.",
-    example_zh: "董事會昨天檢視了年度里程碑。"
-  },
-  {
-    word: "minority",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "特性；性質",
-    example: "The report includes updated minority data.",
-    example_zh: "報告包含更新後的特性資料。"
-  },
-  {
-    word: "mission",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "使命",
-    example: "Our team discussed the mission in the quarterly meeting.",
-    example_zh: "我們團隊在季度會議中討論了使命。"
-  },
-  {
-    word: "model",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "模型",
-    example: "The finance department adjusted the model for next year.",
-    example_zh: "財務部門已調整明年的模型。"
-  },
-  {
-    word: "moderation",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Finance",
-    meaning: "流程；作業",
-    example: "The manager approved the moderation after careful analysis.",
-    example_zh: "經理在仔細分析後核准了流程。"
-  },
-  {
-    word: "modification",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "流程；作業",
-    example: "The project plan sets a clear modification for each phase.",
-    example_zh: "專案計畫為每個階段設定了明確的流程。"
-  },
-  {
-    word: "module",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The company tracks module to improve performance.",
-    example_zh: "公司追蹤項目以提升績效。"
-  },
-  {
-    word: "monitoring",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "監控",
-    example: "We submitted the monitoring before the deadline.",
-    example_zh: "我們在截止日前提交了監控。"
-  },
-  {
-    word: "monopoly",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The client requested additional monopoly in the proposal.",
-    example_zh: "客戶在提案中要求更多項目。"
-  },
-  {
-    word: "motivation",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "動機",
-    example: "The new policy strengthens data motivation across departments.",
-    example_zh: "新政策強化了各部門的資料動機。"
-  },
-  {
-    word: "multitasking",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "進行中的作業",
-    example: "The board examined the annual multitasking yesterday.",
-    example_zh: "董事會昨天檢視了年度進行中的作業。"
-  },
-  {
-    word: "negotiation",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "談判",
-    example: "The report includes updated negotiation data.",
-    example_zh: "報告包含更新後的談判資料。"
-  },
-  {
-    word: "network",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "網路；人脈",
-    example: "Our team discussed the network in the quarterly meeting.",
-    example_zh: "我們團隊在季度會議中討論了網路。"
-  },
-  {
-    word: "nomination",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "流程；作業",
-    example: "The finance department adjusted the nomination for next year.",
-    example_zh: "財務部門已調整明年的流程。"
-  },
-  {
-    word: "notice",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "通知",
-    example: "The manager approved the notice after careful analysis.",
-    example_zh: "經理在仔細分析後核准了通知。"
-  },
-  {
-    word: "notification",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "通知",
-    example: "The project plan sets a clear notification for each phase.",
-    example_zh: "專案計畫為每個階段設定了明確的通知。"
-  },
-  {
-    word: "objective",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "目標",
-    example: "The company tracks objective to improve performance.",
-    example_zh: "公司追蹤目標以提升績效。"
-  },
-  {
-    word: "obligation",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Legal",
-    meaning: "義務",
-    example: "We submitted the obligation before the deadline.",
-    example_zh: "我們在截止日前提交了義務。"
-  },
-  {
-    word: "observation",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "流程；作業",
-    example: "The client requested additional observation in the proposal.",
-    example_zh: "客戶在提案中要求更多流程。"
-  },
-  {
-    word: "occupation",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "流程；作業",
-    example: "The new policy strengthens data occupation across departments.",
-    example_zh: "新政策強化了各部門的資料流程。"
-  },
-  {
-    word: "occurrence",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The board examined the annual occurrence yesterday.",
-    example_zh: "董事會昨天檢視了年度項目。"
-  },
-  {
-    word: "offer",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "提案；報價",
-    example: "The report includes updated offer data.",
-    example_zh: "報告包含更新後的提案資料。"
-  },
-  {
-    word: "officer",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "Our team discussed the officer in the quarterly meeting.",
-    example_zh: "我們團隊在季度會議中討論了相關人員。"
-  },
-  {
-    word: "onboarding",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "進行中的作業",
-    example: "The finance department adjusted the onboarding for next year.",
-    example_zh: "財務部門已調整明年的進行中的作業。"
-  },
-  {
-    word: "operation",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Finance",
-    meaning: "營運；作業",
-    example: "The manager approved the operation after careful analysis.",
-    example_zh: "經理在仔細分析後核准了營運。"
-  },
-  {
-    word: "operator",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The project plan sets a clear operator for each phase.",
-    example_zh: "專案計畫為每個階段設定了明確的相關人員。"
-  },
-  {
-    word: "opportunity",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "機會",
-    example: "The company tracks opportunity to improve performance.",
-    example_zh: "公司追蹤機會以提升績效。"
-  },
-  {
-    word: "optimization",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "最佳化",
-    example: "We submitted the optimization before the deadline.",
-    example_zh: "我們在截止日前提交了最佳化。"
-  },
-  {
-    word: "option",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "選項",
-    example: "The client requested additional option in the proposal.",
-    example_zh: "客戶在提案中要求更多選項。"
-  },
-  {
-    word: "order",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "訂單",
-    example: "The new policy strengthens data order across departments.",
-    example_zh: "新政策強化了各部門的資料訂單。"
-  },
-  {
-    word: "ordinance",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The board examined the annual ordinance yesterday.",
-    example_zh: "董事會昨天檢視了年度項目。"
-  },
-  {
-    word: "organization",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "組織",
-    example: "The report includes updated organization data.",
-    example_zh: "報告包含更新後的組織資料。"
-  },
-  {
-    word: "orientation",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "HR",
-    meaning: "到職培訓",
-    example: "Our team discussed the orientation in the quarterly meeting.",
-    example_zh: "我們團隊在季度會議中討論了到職培訓。"
-  },
-  {
-    word: "outcome",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "成果",
-    example: "The finance department adjusted the outcome for next year.",
-    example_zh: "財務部門已調整明年的成果。"
-  },
-  {
-    word: "outlet",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The manager approved the outlet after careful analysis.",
-    example_zh: "經理在仔細分析後核准了項目。"
-  },
-  {
-    word: "output",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Operations",
-    meaning: "產出",
-    example: "The project plan sets a clear output for each phase.",
-    example_zh: "專案計畫為每個階段設定了明確的產出。"
-  },
-  {
-    word: "outreach",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The company tracks outreach to improve performance.",
-    example_zh: "公司追蹤項目以提升績效。"
-  },
-  {
-    word: "outsourcing",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "外包",
-    example: "We submitted the outsourcing before the deadline.",
-    example_zh: "我們在截止日前提交了外包。"
-  },
-  {
-    word: "overhead",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "間接成本",
-    example: "The client requested additional overhead in the proposal.",
-    example_zh: "客戶在提案中要求更多間接成本。"
-  },
-  {
-    word: "overview",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "概覽",
-    example: "The new policy strengthens data overview across departments.",
-    example_zh: "新政策強化了各部門的資料概覽。"
-  },
-  {
-    word: "ownership",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "所有權",
-    example: "The board examined the annual ownership yesterday.",
-    example_zh: "董事會昨天檢視了年度所有權。"
-  },
-  {
-    word: "package",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "套裝；包裹",
-    example: "The report includes updated package data.",
-    example_zh: "報告包含更新後的套裝資料。"
-  },
-  {
-    word: "packaging",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "進行中的作業",
-    example: "Our team discussed the packaging in the quarterly meeting.",
-    example_zh: "我們團隊在季度會議中討論了進行中的作業。"
-  },
-  {
-    word: "panel",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The finance department adjusted the panel for next year.",
-    example_zh: "財務部門已調整明年的項目。"
-  },
-  {
-    word: "paperwork",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "文書作業",
-    example: "The manager approved the paperwork after careful analysis.",
-    example_zh: "經理在仔細分析後核准了文書作業。"
-  },
-  {
-    word: "participant",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "參與者",
-    example: "The project plan sets a clear participant for each phase.",
-    example_zh: "專案計畫為每個階段設定了明確的參與者。"
-  },
-  {
-    word: "participation",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "流程；作業",
-    example: "The company tracks participation to improve performance.",
-    example_zh: "公司追蹤流程以提升績效。"
-  },
-  {
-    word: "partnership",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "夥伴關係",
-    example: "We submitted the partnership before the deadline.",
-    example_zh: "我們在截止日前提交了夥伴關係。"
-  },
-  {
-    word: "payment",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Finance",
-    meaning: "付款",
-    example: "The client requested additional payment in the proposal.",
-    example_zh: "客戶在提案中要求更多付款。"
-  },
-  {
-    word: "payroll",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Finance",
-    meaning: "薪資名冊",
-    example: "The new policy strengthens data payroll across departments.",
-    example_zh: "新政策強化了各部門的資料薪資名冊。"
-  },
-  {
-    word: "penalty",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "罰則",
-    example: "The board examined the annual penalty yesterday.",
-    example_zh: "董事會昨天檢視了年度罰則。"
-  },
-  {
-    word: "pension",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Finance",
-    meaning: "退休金",
-    example: "The report includes updated pension data.",
-    example_zh: "報告包含更新後的退休金資料。"
-  },
-  {
-    word: "percentage",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "Our team discussed the percentage in the quarterly meeting.",
-    example_zh: "我們團隊在季度會議中討論了項目。"
-  },
-  {
-    word: "performance",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "績效",
-    example: "The finance department adjusted the performance for next year.",
-    example_zh: "財務部門已調整明年的績效。"
-  },
-  {
-    word: "permission",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Legal",
-    meaning: "許可",
-    example: "The manager approved the permission after careful analysis.",
-    example_zh: "經理在仔細分析後核准了許可。"
-  },
-  {
-    word: "permit",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Legal",
-    meaning: "許可證",
-    example: "The project plan sets a clear permit for each phase.",
-    example_zh: "專案計畫為每個階段設定了明確的許可證。"
-  },
-  {
-    word: "personnel",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "HR",
-    meaning: "人事",
-    example: "The company tracks personnel to improve performance.",
-    example_zh: "公司追蹤人事以提升績效。"
-  },
-  {
-    word: "perspective",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "We submitted the perspective before the deadline.",
-    example_zh: "我們在截止日前提交了項目。"
-  },
-  {
-    word: "phase",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The client requested additional phase in the proposal.",
-    example_zh: "客戶在提案中要求更多項目。"
-  },
-  {
-    word: "pipeline",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "管線；案件池",
-    example: "The new policy strengthens data pipeline across departments.",
-    example_zh: "新政策強化了各部門的資料管線。"
-  },
-  {
-    word: "placement",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "管理事項；結果",
-    example: "The board examined the annual placement yesterday.",
-    example_zh: "董事會昨天檢視了年度管理事項。"
-  },
-  {
-    word: "planner",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The report includes updated planner data.",
-    example_zh: "報告包含更新後的相關人員資料。"
-  },
-  {
-    word: "planning",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "規劃",
-    example: "Our team discussed the planning in the quarterly meeting.",
-    example_zh: "我們團隊在季度會議中討論了規劃。"
-  },
-  {
-    word: "platform",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "平台",
-    example: "The finance department adjusted the platform for next year.",
-    example_zh: "財務部門已調整明年的平台。"
-  },
-  {
-    word: "policy",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Legal",
-    meaning: "政策",
-    example: "The manager approved the policy after careful analysis.",
-    example_zh: "經理在仔細分析後核准了政策。"
-  },
-  {
-    word: "portfolio",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "投資組合",
-    example: "The project plan sets a clear portfolio for each phase.",
-    example_zh: "專案計畫為每個階段設定了明確的投資組合。"
-  },
-  {
-    word: "position",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "職位；立場",
-    example: "The company tracks position to improve performance.",
-    example_zh: "公司追蹤職位以提升績效。"
-  },
-  {
-    word: "possibility",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "特性；性質",
-    example: "We submitted the possibility before the deadline.",
-    example_zh: "我們在截止日前提交了特性。"
-  },
-  {
-    word: "postponement",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "管理事項；結果",
-    example: "The client requested additional postponement in the proposal.",
-    example_zh: "客戶在提案中要求更多管理事項。"
-  },
-  {
-    word: "potential",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "潛力",
-    example: "The new policy strengthens data potential across departments.",
-    example_zh: "新政策強化了各部門的資料潛力。"
-  },
-  {
-    word: "practice",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "實務",
-    example: "The board examined the annual practice yesterday.",
-    example_zh: "董事會昨天檢視了年度實務。"
-  },
-  {
-    word: "precision",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The report includes updated precision data.",
-    example_zh: "報告包含更新後的項目資料。"
-  },
-  {
-    word: "preference",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "Our team discussed the preference in the quarterly meeting.",
-    example_zh: "我們團隊在季度會議中討論了項目。"
-  },
-  {
-    word: "preparation",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Finance",
-    meaning: "準備",
-    example: "The finance department adjusted the preparation for next year.",
-    example_zh: "財務部門已調整明年的準備。"
-  },
-  {
-    word: "presence",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The manager approved the presence after careful analysis.",
-    example_zh: "經理在仔細分析後核准了項目。"
-  },
-  {
-    word: "presentation",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "簡報",
-    example: "The project plan sets a clear presentation for each phase.",
-    example_zh: "專案計畫為每個階段設定了明確的簡報。"
-  },
-  {
-    word: "president",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The company tracks president to improve performance.",
-    example_zh: "公司追蹤項目以提升績效。"
-  },
-  {
-    word: "pricing",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Finance",
-    meaning: "定價",
-    example: "We submitted the pricing before the deadline.",
-    example_zh: "我們在截止日前提交了定價。"
-  },
-  {
-    word: "priority",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "優先順序",
-    example: "The client requested additional priority in the proposal.",
-    example_zh: "客戶在提案中要求更多優先順序。"
-  },
-  {
-    word: "privacy",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Legal",
-    meaning: "隱私",
-    example: "The new policy strengthens data privacy across departments.",
-    example_zh: "新政策強化了各部門的資料隱私。"
-  },
-  {
-    word: "probability",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "特性；性質",
-    example: "The board examined the annual probability yesterday.",
-    example_zh: "董事會昨天檢視了年度特性。"
-  },
-  {
-    word: "procedure",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "程序",
-    example: "The report includes updated procedure data.",
-    example_zh: "報告包含更新後的程序資料。"
-  },
-  {
-    word: "process",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "流程",
-    example: "Our team discussed the process in the quarterly meeting.",
-    example_zh: "我們團隊在季度會議中討論了流程。"
-  },
-  {
-    word: "procurement",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Operations",
-    meaning: "採購",
-    example: "The finance department adjusted the procurement for next year.",
-    example_zh: "財務部門已調整明年的採購。"
-  },
-  {
-    word: "producer",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The manager approved the producer after careful analysis.",
-    example_zh: "經理在仔細分析後核准了相關人員。"
-  },
-  {
-    word: "product",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "產品",
-    example: "The project plan sets a clear product for each phase.",
-    example_zh: "專案計畫為每個階段設定了明確的產品。"
-  },
-  {
-    word: "production",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Operations",
-    meaning: "生產",
-    example: "The company tracks production to improve performance.",
-    example_zh: "公司追蹤生產以提升績效。"
-  },
-  {
-    word: "productivity",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "生產力",
-    example: "We submitted the productivity before the deadline.",
-    example_zh: "我們在截止日前提交了生產力。"
-  },
-  {
-    word: "professional",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "項目；事項",
-    example: "The client requested additional professional in the proposal.",
-    example_zh: "客戶在提案中要求更多項目。"
-  },
-  {
-    word: "profit",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Finance",
-    meaning: "利潤",
-    example: "The new policy strengthens data profit across departments.",
-    example_zh: "新政策強化了各部門的資料利潤。"
-  },
-  {
-    word: "projection",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "預估",
-    example: "The board examined the annual projection yesterday.",
-    example_zh: "董事會昨天檢視了年度預估。"
-  },
-  {
-    word: "promotion",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Marketing",
-    meaning: "促銷；晉升",
-    example: "The report includes updated promotion data.",
-    example_zh: "報告包含更新後的促銷資料。"
-  },
-  {
-    word: "property",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "資產；財產",
-    example: "Our team discussed the property in the quarterly meeting.",
-    example_zh: "我們團隊在季度會議中討論了資產。"
-  },
-  {
-    word: "proposal",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "提案",
-    example: "The finance department adjusted the proposal for next year.",
-    example_zh: "財務部門已調整明年的提案。"
-  },
-  {
-    word: "prospect",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Business",
-    meaning: "潛在客戶",
-    example: "The manager approved the prospect after careful analysis.",
-    example_zh: "經理在仔細分析後核准了潛在客戶。"
-  },
-  {
-    word: "protection",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "保護",
-    example: "The project plan sets a clear protection for each phase.",
-    example_zh: "專案計畫為每個階段設定了明確的保護。"
-  },
-  {
-    word: "protocol",
-    pos: "n.",
-    level: "L1",
-    category: "Business",
-    topic: "Business",
-    meaning: "協定",
-    example: "The company tracks protocol to improve performance.",
-    example_zh: "公司追蹤協定以提升績效。"
-  },
-  {
-    word: "provider",
-    pos: "n.",
-    level: "L2",
-    category: "Business",
-    topic: "Business",
-    meaning: "供應方",
-    example: "We submitted the provider before the deadline.",
-    example_zh: "我們在截止日前提交了供應方。"
-  },
-  {
-    word: "provision",
-    pos: "n.",
-    level: "L3",
-    category: "Business",
-    topic: "Business",
-    meaning: "條款；供給",
-    example: "The client requested additional provision in the proposal.",
-    example_zh: "客戶在提案中要求更多條款。"
-  },
-  {
-    word: "publicity",
-    pos: "n.",
-    level: "L4",
-    category: "Business",
-    topic: "Marketing",
-    meaning: "宣傳",
-    example: "The new policy strengthens data publicity across departments.",
-    example_zh: "新政策強化了各部門的資料宣傳。"
-  },
-  {
-    word: "purchase",
-    pos: "n.",
-    level: "L5",
-    category: "Business",
-    topic: "Business",
-    meaning: "採購",
-    example: "The board examined the annual purchase yesterday.",
-    example_zh: "董事會昨天檢視了年度採購。"
+    "word": "account",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "帳戶；帳目",
+    "example": "The team reviewed the account before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項帳戶。"
+  },
+  {
+    "word": "accounting",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "會計",
+    "example": "Please include the accounting in tomorrow's email update.",
+    "example_zh": "請把這項會計加入明天的郵件更新。"
+  },
+  {
+    "word": "acquisition",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "收購；取得",
+    "example": "Our manager approved the acquisition for this quarter.",
+    "example_zh": "經理已核准本季的收購安排。"
+  },
+  {
+    "word": "action",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "行動；措施",
+    "example": "The client asked for the latest action during the call.",
+    "example_zh": "客戶在通話中要求最新的行動資訊。"
+  },
+  {
+    "word": "adaptation",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "調整；適應",
+    "example": "The department tracks each adaptation in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項調整。"
+  },
+  {
+    "word": "adjustment",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "調整；修正",
+    "example": "The team reviewed the adjustment before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項調整。"
+  },
+  {
+    "word": "administration",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "行政管理；主管部門",
+    "example": "Please include the administration in tomorrow's email update.",
+    "example_zh": "請把這項行政管理加入明天的郵件更新。"
+  },
+  {
+    "word": "administrator",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "管理人員",
+    "example": "Our manager approved the administrator for this quarter.",
+    "example_zh": "經理已核准本季的管理人員安排。"
+  },
+  {
+    "word": "advertisement",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "廣告",
+    "example": "The client asked for the latest advertisement during the call.",
+    "example_zh": "客戶在通話中要求最新的廣告資訊。"
+  },
+  {
+    "word": "advertiser",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "廣告主",
+    "example": "The department tracks each advertiser in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項廣告主。"
+  },
+  {
+    "word": "advertising",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "廣告行銷",
+    "example": "The team reviewed the advertising before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項廣告行銷。"
+  },
+  {
+    "word": "advice",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "建議",
+    "example": "Please include the advice in tomorrow's email update.",
+    "example_zh": "請把這項建議加入明天的郵件更新。"
+  },
+  {
+    "word": "agenda",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "議程",
+    "example": "Our manager approved the agenda for this quarter.",
+    "example_zh": "經理已核准本季的議程安排。"
+  },
+  {
+    "word": "agreement",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Legal",
+    "meaning": "協議；合約",
+    "example": "The client asked for the latest agreement during the call.",
+    "example_zh": "客戶在通話中要求最新的協議資訊。"
+  },
+  {
+    "word": "allocation",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "分配",
+    "example": "The department tracks each allocation in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項分配。"
+  },
+  {
+    "word": "allowance",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "津貼",
+    "example": "The team reviewed the allowance before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項津貼。"
+  },
+  {
+    "word": "analysis",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "分析",
+    "example": "Please include the analysis in tomorrow's email update.",
+    "example_zh": "請把這項分析加入明天的郵件更新。"
+  },
+  {
+    "word": "analyst",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "分析師",
+    "example": "Our manager approved the analyst for this quarter.",
+    "example_zh": "經理已核准本季的分析師安排。"
+  },
+  {
+    "word": "announcement",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "公告",
+    "example": "The client asked for the latest announcement during the call.",
+    "example_zh": "客戶在通話中要求最新的公告資訊。"
+  },
+  {
+    "word": "applicant",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "應徵者",
+    "example": "The department tracks each applicant in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項應徵者。"
+  },
+  {
+    "word": "application",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "申請；應用",
+    "example": "The team reviewed the application before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項申請。"
+  },
+  {
+    "word": "appointment",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "約定；任命",
+    "example": "Please include the appointment in tomorrow's email update.",
+    "example_zh": "請把這項約定加入明天的郵件更新。"
+  },
+  {
+    "word": "appraisal",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "評估",
+    "example": "Our manager approved the appraisal for this quarter.",
+    "example_zh": "經理已核准本季的評估安排。"
+  },
+  {
+    "word": "approval",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "核准",
+    "example": "The client asked for the latest approval during the call.",
+    "example_zh": "客戶在通話中要求最新的核准資訊。"
+  },
+  {
+    "word": "archive",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "檔案庫",
+    "example": "The department tracks each archive in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項檔案庫。"
+  },
+  {
+    "word": "arrangement",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "安排",
+    "example": "The team reviewed the arrangement before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項安排。"
+  },
+  {
+    "word": "assessment",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "評估",
+    "example": "Please include the assessment in tomorrow's email update.",
+    "example_zh": "請把這項評估加入明天的郵件更新。"
+  },
+  {
+    "word": "asset",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "資產",
+    "example": "Our manager approved the asset for this quarter.",
+    "example_zh": "經理已核准本季的資產安排。"
+  },
+  {
+    "word": "assignment",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "任務",
+    "example": "The client asked for the latest assignment during the call.",
+    "example_zh": "客戶在通話中要求最新的任務資訊。"
+  },
+  {
+    "word": "assistance",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "協助",
+    "example": "The department tracks each assistance in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項協助。"
+  },
+  {
+    "word": "assistant",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "助理",
+    "example": "The team reviewed the assistant before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項助理。"
+  },
+  {
+    "word": "assurance",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "保證",
+    "example": "Please include the assurance in tomorrow's email update.",
+    "example_zh": "請把這項保證加入明天的郵件更新。"
+  },
+  {
+    "word": "attendance",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "出席",
+    "example": "Our manager approved the attendance for this quarter.",
+    "example_zh": "經理已核准本季的出席安排。"
+  },
+  {
+    "word": "attendee",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "與會者",
+    "example": "The client asked for the latest attendee during the call.",
+    "example_zh": "客戶在通話中要求最新的與會者資訊。"
+  },
+  {
+    "word": "attitude",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "態度",
+    "example": "The department tracks each attitude in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項態度。"
+  },
+  {
+    "word": "audit",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "稽核",
+    "example": "The team reviewed the audit before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項稽核。"
+  },
+  {
+    "word": "auditor",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "稽核員",
+    "example": "Please include the auditor in tomorrow's email update.",
+    "example_zh": "請把這項稽核員加入明天的郵件更新。"
+  },
+  {
+    "word": "authentication",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "驗證",
+    "example": "Our manager approved the authentication for this quarter.",
+    "example_zh": "經理已核准本季的驗證安排。"
+  },
+  {
+    "word": "authority",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Legal",
+    "meaning": "權限；權威",
+    "example": "The client asked for the latest authority during the call.",
+    "example_zh": "客戶在通話中要求最新的權限資訊。"
+  },
+  {
+    "word": "automation",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "自動化",
+    "example": "The department tracks each automation in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項自動化。"
+  },
+  {
+    "word": "availability",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "可用性",
+    "example": "The team reviewed the availability before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項可用性。"
+  },
+  {
+    "word": "average",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "平均值",
+    "example": "Please include the average in tomorrow's email update.",
+    "example_zh": "請把這項平均值加入明天的郵件更新。"
+  },
+  {
+    "word": "balance",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "餘額；平衡",
+    "example": "Our manager approved the balance for this quarter.",
+    "example_zh": "經理已核准本季的餘額安排。"
+  },
+  {
+    "word": "banker",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "銀行家",
+    "example": "The client asked for the latest banker during the call.",
+    "example_zh": "客戶在通話中要求最新的銀行家資訊。"
+  },
+  {
+    "word": "banking",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "銀行業務",
+    "example": "The department tracks each banking in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項銀行業務。"
+  },
+  {
+    "word": "bankruptcy",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "破產",
+    "example": "The team reviewed the bankruptcy before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項破產。"
+  },
+  {
+    "word": "benchmark",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "基準",
+    "example": "Our manager approved the benchmark for this quarter.",
+    "example_zh": "經理已核准本季的基準安排。"
+  },
+  {
+    "word": "beneficiary",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "受益人",
+    "example": "The client asked for the latest beneficiary during the call.",
+    "example_zh": "客戶在通話中要求最新的受益人資訊。"
+  },
+  {
+    "word": "benefit",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "效益；福利",
+    "example": "The department tracks each benefit in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項效益。"
+  },
+  {
+    "word": "bid",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "投標",
+    "example": "The team reviewed the bid before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項投標。"
+  },
+  {
+    "word": "billing",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "帳務作業",
+    "example": "Please include the billing in tomorrow's email update.",
+    "example_zh": "請把這項帳務作業加入明天的郵件更新。"
+  },
+  {
+    "word": "bonus",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "獎金",
+    "example": "Our manager approved the bonus for this quarter.",
+    "example_zh": "經理已核准本季的獎金安排。"
+  },
+  {
+    "word": "bookkeeping",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "簿記",
+    "example": "The client asked for the latest bookkeeping during the call.",
+    "example_zh": "客戶在通話中要求最新的簿記資訊。"
+  },
+  {
+    "word": "brand",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "品牌",
+    "example": "The department tracks each brand in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項品牌。"
+  },
+  {
+    "word": "branding",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "進行中的作業",
+    "example": "The team reviewed the branding before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項進行中的作業。"
+  },
+  {
+    "word": "budget",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "預算",
+    "example": "The client asked for the latest budget during the call.",
+    "example_zh": "客戶在通話中要求最新的預算資訊。"
+  },
+  {
+    "word": "budgeting",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "進行中的作業",
+    "example": "The department tracks each budgeting in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項進行中的作業。"
+  },
+  {
+    "word": "buyer",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "買方",
+    "example": "Please include the buyer in tomorrow's email update.",
+    "example_zh": "請把這項買方加入明天的郵件更新。"
+  },
+  {
+    "word": "calculation",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "流程；作業",
+    "example": "The client asked for the latest calculation during the call.",
+    "example_zh": "客戶在通話中要求最新的流程資訊。"
+  },
+  {
+    "word": "campaign",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "行銷活動",
+    "example": "The department tracks each campaign in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項行銷活動。"
+  },
+  {
+    "word": "candidate",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "候選人",
+    "example": "The team reviewed the candidate before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項候選人。"
+  },
+  {
+    "word": "capacity",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "產能；容量",
+    "example": "Please include the capacity in tomorrow's email update.",
+    "example_zh": "請把這項產能加入明天的郵件更新。"
+  },
+  {
+    "word": "capital",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "資本",
+    "example": "Our manager approved the capital for this quarter.",
+    "example_zh": "經理已核准本季的資本安排。"
+  },
+  {
+    "word": "catalog",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "目錄",
+    "example": "Please include the catalog in tomorrow's email update.",
+    "example_zh": "請把這項目錄加入明天的郵件更新。"
+  },
+  {
+    "word": "category",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "類別",
+    "example": "Our manager approved the category for this quarter.",
+    "example_zh": "經理已核准本季的類別安排。"
+  },
+  {
+    "word": "certification",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "認證",
+    "example": "The client asked for the latest certification during the call.",
+    "example_zh": "客戶在通話中要求最新的認證資訊。"
+  },
+  {
+    "word": "channel",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "通路",
+    "example": "Please include the channel in tomorrow's email update.",
+    "example_zh": "請把這項通路加入明天的郵件更新。"
+  },
+  {
+    "word": "checklist",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "檢查清單",
+    "example": "Our manager approved the checklist for this quarter.",
+    "example_zh": "經理已核准本季的檢查清單安排。"
+  },
+  {
+    "word": "circulation",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "流程；作業",
+    "example": "The department tracks each circulation in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項流程。"
+  },
+  {
+    "word": "claim",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "索賠；主張",
+    "example": "The team reviewed the claim before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項索賠。"
+  },
+  {
+    "word": "clarification",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "流程；作業",
+    "example": "Please include the clarification in tomorrow's email update.",
+    "example_zh": "請把這項流程加入明天的郵件更新。"
+  },
+  {
+    "word": "classification",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "流程；作業",
+    "example": "Our manager approved the classification for this quarter.",
+    "example_zh": "經理已核准本季的流程安排。"
+  },
+  {
+    "word": "client",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "客戶",
+    "example": "The client asked for the latest client during the call.",
+    "example_zh": "客戶在通話中要求最新的客戶資訊。"
+  },
+  {
+    "word": "collaboration",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "協作",
+    "example": "Please include the collaboration in tomorrow's email update.",
+    "example_zh": "請把這項協作加入明天的郵件更新。"
+  },
+  {
+    "word": "collection",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "流程；作業",
+    "example": "The client asked for the latest collection during the call.",
+    "example_zh": "客戶在通話中要求最新的流程資訊。"
+  },
+  {
+    "word": "committee",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "委員會",
+    "example": "The team reviewed the committee before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項委員會。"
+  },
+  {
+    "word": "communication",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "溝通",
+    "example": "Please include the communication in tomorrow's email update.",
+    "example_zh": "請把這項溝通加入明天的郵件更新。"
+  },
+  {
+    "word": "compensation",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "薪酬；補償",
+    "example": "The department tracks each compensation in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項薪酬。"
+  },
+  {
+    "word": "competitor",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "競爭者",
+    "example": "Please include the competitor in tomorrow's email update.",
+    "example_zh": "請把這項競爭者加入明天的郵件更新。"
+  },
+  {
+    "word": "complaint",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "客訴；申訴",
+    "example": "Our manager approved the complaint for this quarter.",
+    "example_zh": "經理已核准本季的客訴安排。"
+  },
+  {
+    "word": "compliance",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Legal",
+    "meaning": "合規",
+    "example": "The client asked for the latest compliance during the call.",
+    "example_zh": "客戶在通話中要求最新的合規資訊。"
+  },
+  {
+    "word": "component",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "組件",
+    "example": "The department tracks each component in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項組件。"
+  },
+  {
+    "word": "composition",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "流程；作業",
+    "example": "The team reviewed the composition before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項流程。"
+  },
+  {
+    "word": "computation",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "流程；作業",
+    "example": "Our manager approved the computation for this quarter.",
+    "example_zh": "經理已核准本季的流程安排。"
+  },
+  {
+    "word": "concentration",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "流程；作業",
+    "example": "The client asked for the latest concentration during the call.",
+    "example_zh": "客戶在通話中要求最新的流程資訊。"
+  },
+  {
+    "word": "condition",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "流程；作業",
+    "example": "Please include the condition in tomorrow's email update.",
+    "example_zh": "請把這項流程加入明天的郵件更新。"
+  },
+  {
+    "word": "conference",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "會議",
+    "example": "Our manager approved the conference for this quarter.",
+    "example_zh": "經理已核准本季的會議安排。"
+  },
+  {
+    "word": "configuration",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "流程；作業",
+    "example": "The department tracks each configuration in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項流程。"
+  },
+  {
+    "word": "confirmation",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "確認",
+    "example": "The team reviewed the confirmation before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項確認。"
+  },
+  {
+    "word": "conflict",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "衝突",
+    "example": "Please include the conflict in tomorrow's email update.",
+    "example_zh": "請把這項衝突加入明天的郵件更新。"
+  },
+  {
+    "word": "congestion",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "流程；作業",
+    "example": "Our manager approved the congestion for this quarter.",
+    "example_zh": "經理已核准本季的流程安排。"
+  },
+  {
+    "word": "connection",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "流程；作業",
+    "example": "The client asked for the latest connection during the call.",
+    "example_zh": "客戶在通話中要求最新的流程資訊。"
+  },
+  {
+    "word": "consensus",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "共識",
+    "example": "The department tracks each consensus in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項共識。"
+  },
+  {
+    "word": "conservation",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "流程；作業",
+    "example": "Our manager approved the conservation for this quarter.",
+    "example_zh": "經理已核准本季的流程安排。"
+  },
+  {
+    "word": "consideration",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "流程；作業",
+    "example": "The client asked for the latest consideration during the call.",
+    "example_zh": "客戶在通話中要求最新的流程資訊。"
+  },
+  {
+    "word": "consignment",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "管理事項；結果",
+    "example": "The department tracks each consignment in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項管理事項。"
+  },
+  {
+    "word": "consolidation",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "流程；作業",
+    "example": "Please include the consolidation in tomorrow's email update.",
+    "example_zh": "請把這項流程加入明天的郵件更新。"
+  },
+  {
+    "word": "construction",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "流程；作業",
+    "example": "Our manager approved the construction for this quarter.",
+    "example_zh": "經理已核准本季的流程安排。"
+  },
+  {
+    "word": "consumption",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "流程；作業",
+    "example": "The team reviewed the consumption before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項流程。"
+  },
+  {
+    "word": "continuity",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "特性；性質",
+    "example": "Our manager approved the continuity for this quarter.",
+    "example_zh": "經理已核准本季的特性安排。"
+  },
+  {
+    "word": "contract",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "合約",
+    "example": "The client asked for the latest contract during the call.",
+    "example_zh": "客戶在通話中要求最新的合約資訊。"
+  },
+  {
+    "word": "contribution",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "貢獻",
+    "example": "The team reviewed the contribution before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項貢獻。"
+  },
+  {
+    "word": "control",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "控管",
+    "example": "Please include the control in tomorrow's email update.",
+    "example_zh": "請把這項控管加入明天的郵件更新。"
+  },
+  {
+    "word": "conversation",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "流程；作業",
+    "example": "The department tracks each conversation in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項流程。"
+  },
+  {
+    "word": "conversion",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "轉換",
+    "example": "The team reviewed the conversion before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項轉換。"
+  },
+  {
+    "word": "coordination",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "協調",
+    "example": "Please include the coordination in tomorrow's email update.",
+    "example_zh": "請把這項協調加入明天的郵件更新。"
+  },
+  {
+    "word": "copyright",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Legal",
+    "meaning": "著作權",
+    "example": "The client asked for the latest copyright during the call.",
+    "example_zh": "客戶在通話中要求最新的著作權資訊。"
+  },
+  {
+    "word": "correction",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "流程；作業",
+    "example": "The department tracks each correction in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項流程。"
+  },
+  {
+    "word": "costing",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "成本計算",
+    "example": "Please include the costing in tomorrow's email update.",
+    "example_zh": "請把這項成本計算加入明天的郵件更新。"
+  },
+  {
+    "word": "coverage",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "涵蓋範圍",
+    "example": "Please include the coverage in tomorrow's email update.",
+    "example_zh": "請把這項涵蓋範圍加入明天的郵件更新。"
+  },
+  {
+    "word": "credibility",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "可信度",
+    "example": "Our manager approved the credibility for this quarter.",
+    "example_zh": "經理已核准本季的可信度安排。"
+  },
+  {
+    "word": "criterion",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "標準",
+    "example": "The department tracks each criterion in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項標準。"
+  },
+  {
+    "word": "currency",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "貨幣",
+    "example": "The team reviewed the currency before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項貨幣。"
+  },
+  {
+    "word": "customer",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "顧客",
+    "example": "Please include the customer in tomorrow's email update.",
+    "example_zh": "請把這項顧客加入明天的郵件更新。"
+  },
+  {
+    "word": "customization",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "客製化",
+    "example": "Our manager approved the customization for this quarter.",
+    "example_zh": "經理已核准本季的客製化安排。"
+  },
+  {
+    "word": "cycle",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "週期",
+    "example": "The client asked for the latest cycle during the call.",
+    "example_zh": "客戶在通話中要求最新的週期資訊。"
+  },
+  {
+    "word": "dashboard",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "儀表板",
+    "example": "The department tracks each dashboard in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項儀表板。"
+  },
+  {
+    "word": "data",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "資料",
+    "example": "The team reviewed the data before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項資料。"
+  },
+  {
+    "word": "deadline",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "截止期限",
+    "example": "Please include the deadline in tomorrow's email update.",
+    "example_zh": "請把這項截止期限加入明天的郵件更新。"
+  },
+  {
+    "word": "debt",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "債務",
+    "example": "The department tracks each debt in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項債務。"
+  },
+  {
+    "word": "decision",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "決策",
+    "example": "The team reviewed the decision before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項決策。"
+  },
+  {
+    "word": "declaration",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "流程；作業",
+    "example": "Please include the declaration in tomorrow's email update.",
+    "example_zh": "請把這項流程加入明天的郵件更新。"
+  },
+  {
+    "word": "deduction",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "扣除額",
+    "example": "The client asked for the latest deduction during the call.",
+    "example_zh": "客戶在通話中要求最新的扣除額資訊。"
+  },
+  {
+    "word": "default",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "違約；預設值",
+    "example": "The department tracks each default in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項違約。"
+  },
+  {
+    "word": "defect",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "瑕疵",
+    "example": "The team reviewed the defect before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項瑕疵。"
+  },
+  {
+    "word": "definition",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "流程；作業",
+    "example": "Please include the definition in tomorrow's email update.",
+    "example_zh": "請把這項流程加入明天的郵件更新。"
+  },
+  {
+    "word": "delegation",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "授權",
+    "example": "Our manager approved the delegation for this quarter.",
+    "example_zh": "經理已核准本季的授權安排。"
+  },
+  {
+    "word": "delivery",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "交付",
+    "example": "The client asked for the latest delivery during the call.",
+    "example_zh": "客戶在通話中要求最新的交付資訊。"
+  },
+  {
+    "word": "demand",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "需求",
+    "example": "The department tracks each demand in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項需求。"
+  },
+  {
+    "word": "demonstration",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "流程；作業",
+    "example": "The team reviewed the demonstration before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項流程。"
+  },
+  {
+    "word": "department",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "部門",
+    "example": "Please include the department in tomorrow's email update.",
+    "example_zh": "請把這項部門加入明天的郵件更新。"
+  },
+  {
+    "word": "deposit",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "押金；存款",
+    "example": "The department tracks each deposit in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項押金。"
+  },
+  {
+    "word": "depreciation",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "折舊",
+    "example": "The team reviewed the depreciation before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項折舊。"
+  },
+  {
+    "word": "description",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "說明",
+    "example": "Please include the description in tomorrow's email update.",
+    "example_zh": "請把這項說明加入明天的郵件更新。"
+  },
+  {
+    "word": "design",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "設計",
+    "example": "Our manager approved the design for this quarter.",
+    "example_zh": "經理已核准本季的設計安排。"
+  },
+  {
+    "word": "destination",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "目的地",
+    "example": "The department tracks each destination in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項目的地。"
+  },
+  {
+    "word": "detail",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "細節",
+    "example": "The team reviewed the detail before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項細節。"
+  },
+  {
+    "word": "development",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "開發；發展",
+    "example": "Please include the development in tomorrow's email update.",
+    "example_zh": "請把這項開發加入明天的郵件更新。"
+  },
+  {
+    "word": "device",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "裝置",
+    "example": "Our manager approved the device for this quarter.",
+    "example_zh": "經理已核准本季的裝置安排。"
+  },
+  {
+    "word": "digitization",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "流程；作業",
+    "example": "The team reviewed the digitization before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項流程。"
+  },
+  {
+    "word": "discount",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "折扣",
+    "example": "The client asked for the latest discount during the call.",
+    "example_zh": "客戶在通話中要求最新的折扣資訊。"
+  },
+  {
+    "word": "discussion",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "討論",
+    "example": "The department tracks each discussion in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項討論。"
+  },
+  {
+    "word": "dispatch",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "派遣；發送",
+    "example": "Please include the dispatch in tomorrow's email update.",
+    "example_zh": "請把這項派遣加入明天的郵件更新。"
+  },
+  {
+    "word": "distribution",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "配送；分配",
+    "example": "The team reviewed the distribution before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項配送。"
+  },
+  {
+    "word": "distributor",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "經銷商",
+    "example": "Please include the distributor in tomorrow's email update.",
+    "example_zh": "請把這項經銷商加入明天的郵件更新。"
+  },
+  {
+    "word": "diversification",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "流程；作業",
+    "example": "Our manager approved the diversification for this quarter.",
+    "example_zh": "經理已核准本季的流程安排。"
+  },
+  {
+    "word": "documentation",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "文件紀錄",
+    "example": "The department tracks each documentation in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項文件紀錄。"
+  },
+  {
+    "word": "donation",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "流程；作業",
+    "example": "Please include the donation in tomorrow's email update.",
+    "example_zh": "請把這項流程加入明天的郵件更新。"
+  },
+  {
+    "word": "downtime",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "停機時間",
+    "example": "Our manager approved the downtime for this quarter.",
+    "example_zh": "經理已核准本季的停機時間安排。"
+  },
+  {
+    "word": "drafting",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "進行中的作業",
+    "example": "The client asked for the latest drafting during the call.",
+    "example_zh": "客戶在通話中要求最新的進行中的作業資訊。"
+  },
+  {
+    "word": "earnings",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "收益",
+    "example": "The team reviewed the earnings before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項收益。"
+  },
+  {
+    "word": "economy",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "經濟",
+    "example": "Please include the economy in tomorrow's email update.",
+    "example_zh": "請把這項經濟加入明天的郵件更新。"
+  },
+  {
+    "word": "edition",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "流程；作業",
+    "example": "Our manager approved the edition for this quarter.",
+    "example_zh": "經理已核准本季的流程安排。"
+  },
+  {
+    "word": "education",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "流程；作業",
+    "example": "The department tracks each education in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項流程。"
+  },
+  {
+    "word": "efficiency",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "效率",
+    "example": "Please include the efficiency in tomorrow's email update.",
+    "example_zh": "請把這項效率加入明天的郵件更新。"
+  },
+  {
+    "word": "election",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "流程；作業",
+    "example": "The client asked for the latest election during the call.",
+    "example_zh": "客戶在通話中要求最新的流程資訊。"
+  },
+  {
+    "word": "electricity",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "特性；性質",
+    "example": "The department tracks each electricity in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項特性。"
+  },
+  {
+    "word": "eligibility",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "特性；性質",
+    "example": "The team reviewed the eligibility before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項特性。"
+  },
+  {
+    "word": "employee",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "員工",
+    "example": "The department tracks each employee in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項員工。"
+  },
+  {
+    "word": "employer",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "雇主",
+    "example": "The team reviewed the employer before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項雇主。"
+  },
+  {
+    "word": "employment",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "就業",
+    "example": "Please include the employment in tomorrow's email update.",
+    "example_zh": "請把這項就業加入明天的郵件更新。"
+  },
+  {
+    "word": "enforcement",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Legal",
+    "meaning": "執行",
+    "example": "Our manager approved the enforcement for this quarter.",
+    "example_zh": "經理已核准本季的執行安排。"
+  },
+  {
+    "word": "engagement",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "管理事項；結果",
+    "example": "The client asked for the latest engagement during the call.",
+    "example_zh": "客戶在通話中要求最新的管理事項資訊。"
+  },
+  {
+    "word": "enhancement",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "管理事項；結果",
+    "example": "The team reviewed the enhancement before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項管理事項。"
+  },
+  {
+    "word": "enrollment",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "管理事項；結果",
+    "example": "Please include the enrollment in tomorrow's email update.",
+    "example_zh": "請把這項管理事項加入明天的郵件更新。"
+  },
+  {
+    "word": "entitlement",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "管理事項；結果",
+    "example": "The client asked for the latest entitlement during the call.",
+    "example_zh": "客戶在通話中要求最新的管理事項資訊。"
+  },
+  {
+    "word": "environment",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "管理事項；結果",
+    "example": "The team reviewed the environment before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項管理事項。"
+  },
+  {
+    "word": "equipment",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "設備",
+    "example": "Please include the equipment in tomorrow's email update.",
+    "example_zh": "請把這項設備加入明天的郵件更新。"
+  },
+  {
+    "word": "equity",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "權益；股本",
+    "example": "Our manager approved the equity for this quarter.",
+    "example_zh": "經理已核准本季的權益安排。"
+  },
+  {
+    "word": "escalation",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "流程；作業",
+    "example": "The client asked for the latest escalation during the call.",
+    "example_zh": "客戶在通話中要求最新的流程資訊。"
+  },
+  {
+    "word": "estimate",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "估算",
+    "example": "The department tracks each estimate in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項估算。"
+  },
+  {
+    "word": "evaluation",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "評估",
+    "example": "The team reviewed the evaluation before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項評估。"
+  },
+  {
+    "word": "evidence",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "證據",
+    "example": "Please include the evidence in tomorrow's email update.",
+    "example_zh": "請把這項證據加入明天的郵件更新。"
+  },
+  {
+    "word": "examination",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "流程；作業",
+    "example": "Our manager approved the examination for this quarter.",
+    "example_zh": "經理已核准本季的流程安排。"
+  },
+  {
+    "word": "exchange",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "交換；匯率",
+    "example": "The department tracks each exchange in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項交換。"
+  },
+  {
+    "word": "execution",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "執行",
+    "example": "The team reviewed the execution before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項執行。"
+  },
+  {
+    "word": "executive",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "主管",
+    "example": "Please include the executive in tomorrow's email update.",
+    "example_zh": "請把這項主管加入明天的郵件更新。"
+  },
+  {
+    "word": "exemption",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "流程；作業",
+    "example": "Our manager approved the exemption for this quarter.",
+    "example_zh": "經理已核准本季的流程安排。"
+  },
+  {
+    "word": "exhibition",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "流程；作業",
+    "example": "The client asked for the latest exhibition during the call.",
+    "example_zh": "客戶在通話中要求最新的流程資訊。"
+  },
+  {
+    "word": "expectation",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "流程；作業",
+    "example": "The team reviewed the expectation before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項流程。"
+  },
+  {
+    "word": "expenditure",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "支出",
+    "example": "Please include the expenditure in tomorrow's email update.",
+    "example_zh": "請把這項支出加入明天的郵件更新。"
+  },
+  {
+    "word": "experience",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "經驗",
+    "example": "Our manager approved the experience for this quarter.",
+    "example_zh": "經理已核准本季的經驗安排。"
+  },
+  {
+    "word": "expertise",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "專業能力",
+    "example": "The client asked for the latest expertise during the call.",
+    "example_zh": "客戶在通話中要求最新的專業能力資訊。"
+  },
+  {
+    "word": "expiration",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "到期",
+    "example": "The department tracks each expiration in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項到期。"
+  },
+  {
+    "word": "export",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "出口",
+    "example": "The team reviewed the export before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項出口。"
+  },
+  {
+    "word": "exposure",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "曝光；風險暴露",
+    "example": "Please include the exposure in tomorrow's email update.",
+    "example_zh": "請把這項曝光加入明天的郵件更新。"
+  },
+  {
+    "word": "extension",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "延長；擴充",
+    "example": "Our manager approved the extension for this quarter.",
+    "example_zh": "經理已核准本季的延長安排。"
+  },
+  {
+    "word": "facility",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "設施",
+    "example": "The client asked for the latest facility during the call.",
+    "example_zh": "客戶在通話中要求最新的設施資訊。"
+  },
+  {
+    "word": "feedback",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "回饋",
+    "example": "Please include the feedback in tomorrow's email update.",
+    "example_zh": "請把這項回饋加入明天的郵件更新。"
+  },
+  {
+    "word": "filing",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "進行中的作業",
+    "example": "The department tracks each filing in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項進行中的作業。"
+  },
+  {
+    "word": "finance",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "財務",
+    "example": "The team reviewed the finance before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項財務。"
+  },
+  {
+    "word": "financing",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "進行中的作業",
+    "example": "Please include the financing in tomorrow's email update.",
+    "example_zh": "請把這項進行中的作業加入明天的郵件更新。"
+  },
+  {
+    "word": "finding",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "進行中的作業",
+    "example": "Our manager approved the finding for this quarter.",
+    "example_zh": "經理已核准本季的進行中的作業安排。"
+  },
+  {
+    "word": "flexibility",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "特性；性質",
+    "example": "The team reviewed the flexibility before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項特性。"
+  },
+  {
+    "word": "forecast",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "預測",
+    "example": "The department tracks each forecast in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項預測。"
+  },
+  {
+    "word": "foundation",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "流程；作業",
+    "example": "The client asked for the latest foundation during the call.",
+    "example_zh": "客戶在通話中要求最新的流程資訊。"
+  },
+  {
+    "word": "framework",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "框架",
+    "example": "The department tracks each framework in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項框架。"
+  },
+  {
+    "word": "freight",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "貨運",
+    "example": "The team reviewed the freight before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項貨運。"
+  },
+  {
+    "word": "funding",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "資金",
+    "example": "Our manager approved the funding for this quarter.",
+    "example_zh": "經理已核准本季的資金安排。"
+  },
+  {
+    "word": "function",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "流程；作業",
+    "example": "The client asked for the latest function during the call.",
+    "example_zh": "客戶在通話中要求最新的流程資訊。"
+  },
+  {
+    "word": "goal",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "目標",
+    "example": "Please include the goal in tomorrow's email update.",
+    "example_zh": "請把這項目標加入明天的郵件更新。"
+  },
+  {
+    "word": "governance",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "治理",
+    "example": "Our manager approved the governance for this quarter.",
+    "example_zh": "經理已核准本季的治理安排。"
+  },
+  {
+    "word": "government",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "管理事項；結果",
+    "example": "The client asked for the latest government during the call.",
+    "example_zh": "客戶在通話中要求最新的管理事項資訊。"
+  },
+  {
+    "word": "gratuity",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "特性；性質",
+    "example": "The department tracks each gratuity in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項特性。"
+  },
+  {
+    "word": "growth",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "成長",
+    "example": "The team reviewed the growth before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項成長。"
+  },
+  {
+    "word": "guarantee",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "保證",
+    "example": "Please include the guarantee in tomorrow's email update.",
+    "example_zh": "請把這項保證加入明天的郵件更新。"
+  },
+  {
+    "word": "guideline",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "指引",
+    "example": "The client asked for the latest guideline during the call.",
+    "example_zh": "客戶在通話中要求最新的指引資訊。"
+  },
+  {
+    "word": "headcount",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "人力編制",
+    "example": "The department tracks each headcount in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項人力編制。"
+  },
+  {
+    "word": "headquarters",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "總部",
+    "example": "The team reviewed the headquarters before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項總部。"
+  },
+  {
+    "word": "hearing",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "進行中的作業",
+    "example": "Please include the hearing in tomorrow's email update.",
+    "example_zh": "請把這項進行中的作業加入明天的郵件更新。"
+  },
+  {
+    "word": "hospitality",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "特性；性質",
+    "example": "The team reviewed the hospitality before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項特性。"
+  },
+  {
+    "word": "identification",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "識別",
+    "example": "Our manager approved the identification for this quarter.",
+    "example_zh": "經理已核准本季的識別安排。"
+  },
+  {
+    "word": "identity",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "特性；性質",
+    "example": "The client asked for the latest identity during the call.",
+    "example_zh": "客戶在通話中要求最新的特性資訊。"
+  },
+  {
+    "word": "improvement",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "改善",
+    "example": "The department tracks each improvement in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項改善。"
+  },
+  {
+    "word": "incentive",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "激勵",
+    "example": "The team reviewed the incentive before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項激勵。"
+  },
+  {
+    "word": "income",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "收入",
+    "example": "Please include the income in tomorrow's email update.",
+    "example_zh": "請把這項收入加入明天的郵件更新。"
+  },
+  {
+    "word": "indicator",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "指標",
+    "example": "Our manager approved the indicator for this quarter.",
+    "example_zh": "經理已核准本季的指標安排。"
+  },
+  {
+    "word": "industry",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "產業",
+    "example": "The client asked for the latest industry during the call.",
+    "example_zh": "客戶在通話中要求最新的產業資訊。"
+  },
+  {
+    "word": "inflation",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "通貨膨脹",
+    "example": "The team reviewed the inflation before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項通貨膨脹。"
+  },
+  {
+    "word": "information",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "資訊",
+    "example": "Please include the information in tomorrow's email update.",
+    "example_zh": "請把這項資訊加入明天的郵件更新。"
+  },
+  {
+    "word": "infrastructure",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "基礎設施",
+    "example": "Our manager approved the infrastructure for this quarter.",
+    "example_zh": "經理已核准本季的基礎設施安排。"
+  },
+  {
+    "word": "innovation",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "創新",
+    "example": "The client asked for the latest innovation during the call.",
+    "example_zh": "客戶在通話中要求最新的創新資訊。"
+  },
+  {
+    "word": "inquiry",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "詢問",
+    "example": "The team reviewed the inquiry before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項詢問。"
+  },
+  {
+    "word": "inspection",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "檢查",
+    "example": "Please include the inspection in tomorrow's email update.",
+    "example_zh": "請把這項檢查加入明天的郵件更新。"
+  },
+  {
+    "word": "installation",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "流程；作業",
+    "example": "The client asked for the latest installation during the call.",
+    "example_zh": "客戶在通話中要求最新的流程資訊。"
+  },
+  {
+    "word": "instruction",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "流程；作業",
+    "example": "The team reviewed the instruction before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項流程。"
+  },
+  {
+    "word": "insurance",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "保險",
+    "example": "Please include the insurance in tomorrow's email update.",
+    "example_zh": "請把這項保險加入明天的郵件更新。"
+  },
+  {
+    "word": "integrity",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "完整性；誠信",
+    "example": "Our manager approved the integrity for this quarter.",
+    "example_zh": "經理已核准本季的完整性安排。"
+  },
+  {
+    "word": "intelligence",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "情報；智能",
+    "example": "The client asked for the latest intelligence during the call.",
+    "example_zh": "客戶在通話中要求最新的情報資訊。"
+  },
+  {
+    "word": "intensity",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "特性；性質",
+    "example": "The department tracks each intensity in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項特性。"
+  },
+  {
+    "word": "intention",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "流程；作業",
+    "example": "The team reviewed the intention before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項流程。"
+  },
+  {
+    "word": "interaction",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "互動",
+    "example": "Please include the interaction in tomorrow's email update.",
+    "example_zh": "請把這項互動加入明天的郵件更新。"
+  },
+  {
+    "word": "interest",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "利息；興趣",
+    "example": "Our manager approved the interest for this quarter.",
+    "example_zh": "經理已核准本季的利息安排。"
+  },
+  {
+    "word": "interview",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "面試",
+    "example": "The department tracks each interview in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項面試。"
+  },
+  {
+    "word": "introduction",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "流程；作業",
+    "example": "The team reviewed the introduction before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項流程。"
+  },
+  {
+    "word": "inventory",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "庫存",
+    "example": "Please include the inventory in tomorrow's email update.",
+    "example_zh": "請把這項庫存加入明天的郵件更新。"
+  },
+  {
+    "word": "investigation",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "流程；作業",
+    "example": "Our manager approved the investigation for this quarter.",
+    "example_zh": "經理已核准本季的流程安排。"
+  },
+  {
+    "word": "investment",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "投資",
+    "example": "The client asked for the latest investment during the call.",
+    "example_zh": "客戶在通話中要求最新的投資資訊。"
+  },
+  {
+    "word": "investor",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "投資人",
+    "example": "The department tracks each investor in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項投資人。"
+  },
+  {
+    "word": "invoice",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "發票",
+    "example": "The team reviewed the invoice before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項發票。"
+  },
+  {
+    "word": "isolation",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "流程；作業",
+    "example": "Please include the isolation in tomorrow's email update.",
+    "example_zh": "請把這項流程加入明天的郵件更新。"
+  },
+  {
+    "word": "issuance",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "發行",
+    "example": "Our manager approved the issuance for this quarter.",
+    "example_zh": "經理已核准本季的發行安排。"
+  },
+  {
+    "word": "itemization",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "流程；作業",
+    "example": "The department tracks each itemization in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項流程。"
+  },
+  {
+    "word": "job",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "工作",
+    "example": "The team reviewed the job before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項工作。"
+  },
+  {
+    "word": "judgment",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "管理事項；結果",
+    "example": "Please include the judgment in tomorrow's email update.",
+    "example_zh": "請把這項管理事項加入明天的郵件更新。"
+  },
+  {
+    "word": "jurisdiction",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "流程；作業",
+    "example": "Our manager approved the jurisdiction for this quarter.",
+    "example_zh": "經理已核准本季的流程安排。"
+  },
+  {
+    "word": "knowledge",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "知識",
+    "example": "The department tracks each knowledge in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項知識。"
+  },
+  {
+    "word": "labor",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "勞務",
+    "example": "Please include the labor in tomorrow's email update.",
+    "example_zh": "請把這項勞務加入明天的郵件更新。"
+  },
+  {
+    "word": "launch",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "上市；啟動",
+    "example": "The team reviewed the launch before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項上市。"
+  },
+  {
+    "word": "leadership",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "領導力",
+    "example": "Our manager approved the leadership for this quarter.",
+    "example_zh": "經理已核准本季的領導力安排。"
+  },
+  {
+    "word": "lease",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "租賃",
+    "example": "The client asked for the latest lease during the call.",
+    "example_zh": "客戶在通話中要求最新的租賃資訊。"
+  },
+  {
+    "word": "ledger",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "分類帳",
+    "example": "The department tracks each ledger in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項分類帳。"
+  },
+  {
+    "word": "legislation",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "法規",
+    "example": "The team reviewed the legislation before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項法規。"
+  },
+  {
+    "word": "liability",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "負債；責任",
+    "example": "Please include the liability in tomorrow's email update.",
+    "example_zh": "請把這項負債加入明天的郵件更新。"
+  },
+  {
+    "word": "license",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Legal",
+    "meaning": "授權；執照",
+    "example": "The client asked for the latest license during the call.",
+    "example_zh": "客戶在通話中要求最新的授權資訊。"
+  },
+  {
+    "word": "licensing",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "進行中的作業",
+    "example": "The department tracks each licensing in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項進行中的作業。"
+  },
+  {
+    "word": "liquidation",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "清算",
+    "example": "Please include the liquidation in tomorrow's email update.",
+    "example_zh": "請把這項清算加入明天的郵件更新。"
+  },
+  {
+    "word": "listing",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "進行中的作業",
+    "example": "Our manager approved the listing for this quarter.",
+    "example_zh": "經理已核准本季的進行中的作業安排。"
+  },
+  {
+    "word": "litigation",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "流程；作業",
+    "example": "The client asked for the latest litigation during the call.",
+    "example_zh": "客戶在通話中要求最新的流程資訊。"
+  },
+  {
+    "word": "location",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "流程；作業",
+    "example": "The team reviewed the location before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項流程。"
+  },
+  {
+    "word": "logistics",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "物流",
+    "example": "Please include the logistics in tomorrow's email update.",
+    "example_zh": "請把這項物流加入明天的郵件更新。"
+  },
+  {
+    "word": "longevity",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "特性；性質",
+    "example": "Our manager approved the longevity for this quarter.",
+    "example_zh": "經理已核准本季的特性安排。"
+  },
+  {
+    "word": "maintenance",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "維護",
+    "example": "The department tracks each maintenance in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項維護。"
+  },
+  {
+    "word": "majority",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "特性；性質",
+    "example": "The team reviewed the majority before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項特性。"
+  },
+  {
+    "word": "management",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "管理",
+    "example": "Please include the management in tomorrow's email update.",
+    "example_zh": "請把這項管理加入明天的郵件更新。"
+  },
+  {
+    "word": "manager",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "經理",
+    "example": "Our manager approved the manager for this quarter.",
+    "example_zh": "經理已核准本季的經理安排。"
+  },
+  {
+    "word": "manufacturer",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "製造商",
+    "example": "The department tracks each manufacturer in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項製造商。"
+  },
+  {
+    "word": "manufacturing",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "製造業",
+    "example": "The team reviewed the manufacturing before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項製造業。"
+  },
+  {
+    "word": "margin",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "利潤率",
+    "example": "Please include the margin in tomorrow's email update.",
+    "example_zh": "請把這項利潤率加入明天的郵件更新。"
+  },
+  {
+    "word": "market",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "市場",
+    "example": "Our manager approved the market for this quarter.",
+    "example_zh": "經理已核准本季的市場安排。"
+  },
+  {
+    "word": "marketing",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "行銷",
+    "example": "The client asked for the latest marketing during the call.",
+    "example_zh": "客戶在通話中要求最新的行銷資訊。"
+  },
+  {
+    "word": "material",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "材料",
+    "example": "The team reviewed the material before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項材料。"
+  },
+  {
+    "word": "maturity",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "成熟度；到期",
+    "example": "Please include the maturity in tomorrow's email update.",
+    "example_zh": "請把這項成熟度加入明天的郵件更新。"
+  },
+  {
+    "word": "measurement",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "衡量",
+    "example": "Our manager approved the measurement for this quarter.",
+    "example_zh": "經理已核准本季的衡量安排。"
+  },
+  {
+    "word": "meeting",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "會議",
+    "example": "The team reviewed the meeting before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項會議。"
+  },
+  {
+    "word": "membership",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "會員資格",
+    "example": "Please include the membership in tomorrow's email update.",
+    "example_zh": "請把這項會員資格加入明天的郵件更新。"
+  },
+  {
+    "word": "memorandum",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "備忘錄",
+    "example": "Our manager approved the memorandum for this quarter.",
+    "example_zh": "經理已核准本季的備忘錄安排。"
+  },
+  {
+    "word": "mention",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "流程；作業",
+    "example": "The client asked for the latest mention during the call.",
+    "example_zh": "客戶在通話中要求最新的流程資訊。"
+  },
+  {
+    "word": "merchant",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "商家",
+    "example": "The department tracks each merchant in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項商家。"
+  },
+  {
+    "word": "merger",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "合併",
+    "example": "The team reviewed the merger before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項合併。"
+  },
+  {
+    "word": "metric",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "指標",
+    "example": "Our manager approved the metric for this quarter.",
+    "example_zh": "經理已核准本季的指標安排。"
+  },
+  {
+    "word": "migration",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "流程；作業",
+    "example": "The client asked for the latest migration during the call.",
+    "example_zh": "客戶在通話中要求最新的流程資訊。"
+  },
+  {
+    "word": "milestone",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "里程碑",
+    "example": "The department tracks each milestone in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項里程碑。"
+  },
+  {
+    "word": "minority",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "特性；性質",
+    "example": "The team reviewed the minority before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項特性。"
+  },
+  {
+    "word": "mission",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "使命",
+    "example": "Please include the mission in tomorrow's email update.",
+    "example_zh": "請把這項使命加入明天的郵件更新。"
+  },
+  {
+    "word": "model",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "模型",
+    "example": "Our manager approved the model for this quarter.",
+    "example_zh": "經理已核准本季的模型安排。"
+  },
+  {
+    "word": "moderation",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "流程；作業",
+    "example": "The client asked for the latest moderation during the call.",
+    "example_zh": "客戶在通話中要求最新的流程資訊。"
+  },
+  {
+    "word": "modification",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "流程；作業",
+    "example": "The department tracks each modification in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項流程。"
+  },
+  {
+    "word": "monitoring",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "監控",
+    "example": "Please include the monitoring in tomorrow's email update.",
+    "example_zh": "請把這項監控加入明天的郵件更新。"
+  },
+  {
+    "word": "motivation",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "動機",
+    "example": "The client asked for the latest motivation during the call.",
+    "example_zh": "客戶在通話中要求最新的動機資訊。"
+  },
+  {
+    "word": "multitasking",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "進行中的作業",
+    "example": "The department tracks each multitasking in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項進行中的作業。"
+  },
+  {
+    "word": "negotiation",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "談判",
+    "example": "The team reviewed the negotiation before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項談判。"
+  },
+  {
+    "word": "network",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "網路；人脈",
+    "example": "Please include the network in tomorrow's email update.",
+    "example_zh": "請把這項網路加入明天的郵件更新。"
+  },
+  {
+    "word": "nomination",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "流程；作業",
+    "example": "Our manager approved the nomination for this quarter.",
+    "example_zh": "經理已核准本季的流程安排。"
+  },
+  {
+    "word": "notice",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "通知",
+    "example": "The client asked for the latest notice during the call.",
+    "example_zh": "客戶在通話中要求最新的通知資訊。"
+  },
+  {
+    "word": "notification",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "通知",
+    "example": "The department tracks each notification in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項通知。"
+  },
+  {
+    "word": "objective",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "目標",
+    "example": "The team reviewed the objective before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項目標。"
+  },
+  {
+    "word": "obligation",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Legal",
+    "meaning": "義務",
+    "example": "Please include the obligation in tomorrow's email update.",
+    "example_zh": "請把這項義務加入明天的郵件更新。"
+  },
+  {
+    "word": "observation",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "流程；作業",
+    "example": "Our manager approved the observation for this quarter.",
+    "example_zh": "經理已核准本季的流程安排。"
+  },
+  {
+    "word": "occupation",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "流程；作業",
+    "example": "The client asked for the latest occupation during the call.",
+    "example_zh": "客戶在通話中要求最新的流程資訊。"
+  },
+  {
+    "word": "offer",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "提案；報價",
+    "example": "The team reviewed the offer before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項提案。"
+  },
+  {
+    "word": "onboarding",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "進行中的作業",
+    "example": "Our manager approved the onboarding for this quarter.",
+    "example_zh": "經理已核准本季的進行中的作業安排。"
+  },
+  {
+    "word": "operation",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "營運；作業",
+    "example": "The client asked for the latest operation during the call.",
+    "example_zh": "客戶在通話中要求最新的營運資訊。"
+  },
+  {
+    "word": "opportunity",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "機會",
+    "example": "The team reviewed the opportunity before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項機會。"
+  },
+  {
+    "word": "optimization",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "最佳化",
+    "example": "Please include the optimization in tomorrow's email update.",
+    "example_zh": "請把這項最佳化加入明天的郵件更新。"
+  },
+  {
+    "word": "option",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "選項",
+    "example": "Our manager approved the option for this quarter.",
+    "example_zh": "經理已核准本季的選項安排。"
+  },
+  {
+    "word": "order",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "訂單",
+    "example": "The client asked for the latest order during the call.",
+    "example_zh": "客戶在通話中要求最新的訂單資訊。"
+  },
+  {
+    "word": "organization",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "組織",
+    "example": "The team reviewed the organization before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項組織。"
+  },
+  {
+    "word": "orientation",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "到職培訓",
+    "example": "Please include the orientation in tomorrow's email update.",
+    "example_zh": "請把這項到職培訓加入明天的郵件更新。"
+  },
+  {
+    "word": "outcome",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "成果",
+    "example": "Our manager approved the outcome for this quarter.",
+    "example_zh": "經理已核准本季的成果安排。"
+  },
+  {
+    "word": "output",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "產出",
+    "example": "The department tracks each output in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項產出。"
+  },
+  {
+    "word": "outsourcing",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "外包",
+    "example": "Please include the outsourcing in tomorrow's email update.",
+    "example_zh": "請把這項外包加入明天的郵件更新。"
+  },
+  {
+    "word": "overhead",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "間接成本",
+    "example": "Our manager approved the overhead for this quarter.",
+    "example_zh": "經理已核准本季的間接成本安排。"
+  },
+  {
+    "word": "overview",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "概覽",
+    "example": "The client asked for the latest overview during the call.",
+    "example_zh": "客戶在通話中要求最新的概覽資訊。"
+  },
+  {
+    "word": "ownership",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "所有權",
+    "example": "The department tracks each ownership in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項所有權。"
+  },
+  {
+    "word": "package",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "套裝；包裹",
+    "example": "The team reviewed the package before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項套裝。"
+  },
+  {
+    "word": "packaging",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "進行中的作業",
+    "example": "Please include the packaging in tomorrow's email update.",
+    "example_zh": "請把這項進行中的作業加入明天的郵件更新。"
+  },
+  {
+    "word": "paperwork",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "文書作業",
+    "example": "The client asked for the latest paperwork during the call.",
+    "example_zh": "客戶在通話中要求最新的文書作業資訊。"
+  },
+  {
+    "word": "participant",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "參與者",
+    "example": "The department tracks each participant in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項參與者。"
+  },
+  {
+    "word": "participation",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "流程；作業",
+    "example": "The team reviewed the participation before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項流程。"
+  },
+  {
+    "word": "partnership",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "夥伴關係",
+    "example": "Please include the partnership in tomorrow's email update.",
+    "example_zh": "請把這項夥伴關係加入明天的郵件更新。"
+  },
+  {
+    "word": "payment",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "付款",
+    "example": "Our manager approved the payment for this quarter.",
+    "example_zh": "經理已核准本季的付款安排。"
+  },
+  {
+    "word": "payroll",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "薪資名冊",
+    "example": "The client asked for the latest payroll during the call.",
+    "example_zh": "客戶在通話中要求最新的薪資名冊資訊。"
+  },
+  {
+    "word": "penalty",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "罰則",
+    "example": "The department tracks each penalty in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項罰則。"
+  },
+  {
+    "word": "pension",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "退休金",
+    "example": "The team reviewed the pension before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項退休金。"
+  },
+  {
+    "word": "performance",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "績效",
+    "example": "Our manager approved the performance for this quarter.",
+    "example_zh": "經理已核准本季的績效安排。"
+  },
+  {
+    "word": "permission",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Legal",
+    "meaning": "許可",
+    "example": "The client asked for the latest permission during the call.",
+    "example_zh": "客戶在通話中要求最新的許可資訊。"
+  },
+  {
+    "word": "permit",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Legal",
+    "meaning": "許可證",
+    "example": "The department tracks each permit in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項許可證。"
+  },
+  {
+    "word": "personnel",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "人事",
+    "example": "The team reviewed the personnel before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項人事。"
+  },
+  {
+    "word": "pipeline",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "管線；案件池",
+    "example": "The client asked for the latest pipeline during the call.",
+    "example_zh": "客戶在通話中要求最新的管線資訊。"
+  },
+  {
+    "word": "placement",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "管理事項；結果",
+    "example": "The department tracks each placement in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項管理事項。"
+  },
+  {
+    "word": "planning",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "規劃",
+    "example": "Please include the planning in tomorrow's email update.",
+    "example_zh": "請把這項規劃加入明天的郵件更新。"
+  },
+  {
+    "word": "platform",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "平台",
+    "example": "Our manager approved the platform for this quarter.",
+    "example_zh": "經理已核准本季的平台安排。"
+  },
+  {
+    "word": "policy",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Legal",
+    "meaning": "政策",
+    "example": "The client asked for the latest policy during the call.",
+    "example_zh": "客戶在通話中要求最新的政策資訊。"
+  },
+  {
+    "word": "portfolio",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "投資組合",
+    "example": "The department tracks each portfolio in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項投資組合。"
+  },
+  {
+    "word": "position",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "職位；立場",
+    "example": "The team reviewed the position before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項職位。"
+  },
+  {
+    "word": "possibility",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "特性；性質",
+    "example": "Please include the possibility in tomorrow's email update.",
+    "example_zh": "請把這項特性加入明天的郵件更新。"
+  },
+  {
+    "word": "postponement",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "管理事項；結果",
+    "example": "Our manager approved the postponement for this quarter.",
+    "example_zh": "經理已核准本季的管理事項安排。"
+  },
+  {
+    "word": "potential",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "潛力",
+    "example": "The client asked for the latest potential during the call.",
+    "example_zh": "客戶在通話中要求最新的潛力資訊。"
+  },
+  {
+    "word": "practice",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "實務",
+    "example": "The department tracks each practice in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項實務。"
+  },
+  {
+    "word": "preparation",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "準備",
+    "example": "Our manager approved the preparation for this quarter.",
+    "example_zh": "經理已核准本季的準備安排。"
+  },
+  {
+    "word": "presentation",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "簡報",
+    "example": "The department tracks each presentation in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項簡報。"
+  },
+  {
+    "word": "pricing",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "定價",
+    "example": "Please include the pricing in tomorrow's email update.",
+    "example_zh": "請把這項定價加入明天的郵件更新。"
+  },
+  {
+    "word": "priority",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "優先順序",
+    "example": "Our manager approved the priority for this quarter.",
+    "example_zh": "經理已核准本季的優先順序安排。"
+  },
+  {
+    "word": "privacy",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Legal",
+    "meaning": "隱私",
+    "example": "The client asked for the latest privacy during the call.",
+    "example_zh": "客戶在通話中要求最新的隱私資訊。"
+  },
+  {
+    "word": "probability",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "特性；性質",
+    "example": "The department tracks each probability in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項特性。"
+  },
+  {
+    "word": "procedure",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "程序",
+    "example": "The team reviewed the procedure before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項程序。"
+  },
+  {
+    "word": "process",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "流程",
+    "example": "Please include the process in tomorrow's email update.",
+    "example_zh": "請把這項流程加入明天的郵件更新。"
+  },
+  {
+    "word": "procurement",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "採購",
+    "example": "Our manager approved the procurement for this quarter.",
+    "example_zh": "經理已核准本季的採購安排。"
+  },
+  {
+    "word": "producer",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "製作人；生產者",
+    "example": "The client asked for the latest producer during the call.",
+    "example_zh": "客戶在通話中要求最新的製作人資訊。"
+  },
+  {
+    "word": "product",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "產品",
+    "example": "The department tracks each product in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項產品。"
+  },
+  {
+    "word": "production",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "生產",
+    "example": "The team reviewed the production before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項生產。"
+  },
+  {
+    "word": "productivity",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "生產力；工作效率",
+    "example": "Please include the productivity in tomorrow's email update.",
+    "example_zh": "請把這項生產力加入明天的郵件更新。"
+  },
+  {
+    "word": "professional",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "專業人士",
+    "example": "Our manager approved the professional for this quarter.",
+    "example_zh": "經理已核准本季的專業人士安排。"
+  },
+  {
+    "word": "profit",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "利潤",
+    "example": "The client asked for the latest profit during the call.",
+    "example_zh": "客戶在通話中要求最新的利潤資訊。"
+  },
+  {
+    "word": "projection",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "預估",
+    "example": "The department tracks each projection in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項預估。"
+  },
+  {
+    "word": "promotion",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "促銷；晉升",
+    "example": "The team reviewed the promotion before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項促銷。"
+  },
+  {
+    "word": "property",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "資產；財產",
+    "example": "Please include the property in tomorrow's email update.",
+    "example_zh": "請把這項資產加入明天的郵件更新。"
+  },
+  {
+    "word": "proposal",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "提案",
+    "example": "Our manager approved the proposal for this quarter.",
+    "example_zh": "經理已核准本季的提案安排。"
+  },
+  {
+    "word": "prospect",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "潛在客戶",
+    "example": "The client asked for the latest prospect during the call.",
+    "example_zh": "客戶在通話中要求最新的潛在客戶資訊。"
+  },
+  {
+    "word": "protection",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "保護",
+    "example": "The department tracks each protection in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項保護。"
+  },
+  {
+    "word": "protocol",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "協定",
+    "example": "The team reviewed the protocol before the weekly meeting.",
+    "example_zh": "團隊在每週會議前檢視了這項協定。"
+  },
+  {
+    "word": "provider",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "供應方",
+    "example": "Please include the provider in tomorrow's email update.",
+    "example_zh": "請把這項供應方加入明天的郵件更新。"
+  },
+  {
+    "word": "provision",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "條款；供給",
+    "example": "Our manager approved the provision for this quarter.",
+    "example_zh": "經理已核准本季的條款安排。"
+  },
+  {
+    "word": "publicity",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "宣傳",
+    "example": "The client asked for the latest publicity during the call.",
+    "example_zh": "客戶在通話中要求最新的宣傳資訊。"
+  },
+  {
+    "word": "purchase",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Business",
+    "meaning": "採購",
+    "example": "The department tracks each purchase in the monthly report.",
+    "example_zh": "部門會在月報中追蹤各項採購。"
+  },
+  {
+    "word": "abbreviation",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Communication",
+    "meaning": "縮寫",
+    "example": "The team reviewed the abbreviation during the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項縮寫。"
+  },
+  {
+    "word": "absenteeism",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "缺勤率",
+    "example": "HR reviewed the absenteeism in the monthly people report.",
+    "example_zh": "人資在月度人力報告中審查了缺勤率。"
+  },
+  {
+    "word": "accessibility",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "可及性",
+    "example": "Customer service handled the accessibility within one business day.",
+    "example_zh": "客服在一個工作天內處理了這項可及性。"
+  },
+  {
+    "word": "accommodation",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "住宿安排",
+    "example": "The travel desk confirmed the accommodation for the business trip.",
+    "example_zh": "差旅窗口已確認這次出差的住宿安排。"
+  },
+  {
+    "word": "accumulation",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "累積量",
+    "example": "The finance team reviewed the accumulation before closing this month's books.",
+    "example_zh": "財務團隊在月結前審查了這項累積量。"
+  },
+  {
+    "word": "accuracy",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "準確度",
+    "example": "The analyst highlighted the accuracy in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項準確度。"
+  },
+  {
+    "word": "acknowledgment",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Communication",
+    "meaning": "確認回覆",
+    "example": "The team reviewed the acknowledgment during the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項確認回覆。"
+  },
+  {
+    "word": "adaptability",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "適應能力",
+    "example": "The trainer explained the adaptability in today's session.",
+    "example_zh": "講師在今天的訓練課程說明了適應能力。"
+  },
+  {
+    "word": "admission",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "准入；入場許可",
+    "example": "Administration filed the admission for record keeping.",
+    "example_zh": "行政部已將這項准入完成歸檔。"
+  },
+  {
+    "word": "affordability",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "可負擔性",
+    "example": "The finance team reviewed the affordability before closing this month's books.",
+    "example_zh": "財務團隊在月結前審查了這項可負擔性。"
+  },
+  {
+    "word": "affiliation",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "隸屬關係",
+    "example": "Administration filed the affiliation for record keeping.",
+    "example_zh": "行政部已將這項隸屬關係完成歸檔。"
+  },
+  {
+    "word": "aftermarket",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Sales",
+    "meaning": "售後市場",
+    "example": "The team reviewed the aftermarket during the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項售後市場。"
+  },
+  {
+    "word": "amendment",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "修訂條款",
+    "example": "Legal checked the amendment before signing the agreement.",
+    "example_zh": "法務在簽約前檢查了這項修訂條款。"
+  },
+  {
+    "word": "analytics",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "數據分析",
+    "example": "The analyst highlighted the analytics in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項數據分析。"
+  },
+  {
+    "word": "authorization",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "授權",
+    "example": "Legal checked the authorization before signing the agreement.",
+    "example_zh": "法務在簽約前檢查了這項授權。"
+  },
+  {
+    "word": "backlog",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "待辦積壓",
+    "example": "Operations tracked the backlog to improve efficiency.",
+    "example_zh": "營運部持續追蹤待辦積壓以提升效率。"
+  },
+  {
+    "word": "backup",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "備份",
+    "example": "The IT team tested the backup before release.",
+    "example_zh": "資訊團隊在發布前測試了這項備份。"
+  },
+  {
+    "word": "bidder",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "投標者",
+    "example": "Purchasing confirmed the bidder with the supplier this morning.",
+    "example_zh": "採購今早已向供應商確認這項投標者。"
+  },
+  {
+    "word": "blueprint",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "藍圖",
+    "example": "The team reviewed the blueprint during the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項藍圖。"
+  },
+  {
+    "word": "boardroom",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "董事會會議室",
+    "example": "We added the boardroom to the meeting agenda.",
+    "example_zh": "我們已把這項董事會會議室加入會議議程。"
+  },
+  {
+    "word": "booklet",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "手冊",
+    "example": "The trainer explained the booklet in today's session.",
+    "example_zh": "講師在今天的訓練課程說明了手冊。"
+  },
+  {
+    "word": "briefing",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "簡報說明",
+    "example": "We added the briefing to the meeting agenda.",
+    "example_zh": "我們已把這項簡報說明加入會議議程。"
+  },
+  {
+    "word": "broadcast",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Communication",
+    "meaning": "公告發布",
+    "example": "The team reviewed the broadcast during the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項公告發布。"
+  },
+  {
+    "word": "burden",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "負擔成本",
+    "example": "The finance team reviewed the burden before closing this month's books.",
+    "example_zh": "財務團隊在月結前審查了這項負擔成本。"
+  },
+  {
+    "word": "calibration",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "校準",
+    "example": "The plant manager monitored the calibration on the production line.",
+    "example_zh": "廠務主管在線上監控這項校準。"
+  },
+  {
+    "word": "capability",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "能力",
+    "example": "The trainer explained the capability in today's session.",
+    "example_zh": "講師在今天的訓練課程說明了能力。"
+  },
+  {
+    "word": "chain",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "供應鏈",
+    "example": "The logistics team updated the chain before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項供應鏈。"
+  },
+  {
+    "word": "clearance",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "清關；核准",
+    "example": "The logistics team updated the clearance before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項清關。"
+  },
+  {
+    "word": "clientele",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Sales",
+    "meaning": "客戶群",
+    "example": "The team reviewed the clientele during the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項客戶群。"
+  },
+  {
+    "word": "commentary",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "評論意見",
+    "example": "The analyst highlighted the commentary in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項評論意見。"
+  },
+  {
+    "word": "commission",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Sales",
+    "meaning": "佣金",
+    "example": "The team reviewed the commission during the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項佣金。"
+  },
+  {
+    "word": "commodity",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "商品原料",
+    "example": "Purchasing confirmed the commodity with the supplier this morning.",
+    "example_zh": "採購今早已向供應商確認這項商品原料。"
+  },
+  {
+    "word": "constraint",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "限制條件",
+    "example": "The team reviewed the constraint during the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項限制條件。"
+  },
+  {
+    "word": "curfew",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "宵禁規定",
+    "example": "The travel desk confirmed the curfew for the business trip.",
+    "example_zh": "差旅窗口已確認這次出差的宵禁規定。"
+  },
+  {
+    "word": "custodian",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "保管人",
+    "example": "Administration filed the custodian for record keeping.",
+    "example_zh": "行政部已將這項保管人完成歸檔。"
+  },
+  {
+    "word": "debtor",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "債務人",
+    "example": "The finance team reviewed the debtor before closing this month's books.",
+    "example_zh": "財務團隊在月結前審查了這項債務人。"
+  },
+  {
+    "word": "designation",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "職稱",
+    "example": "HR reviewed the designation in the monthly people report.",
+    "example_zh": "人資在月度人力報告中審查了職稱。"
+  },
+  {
+    "word": "detection",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Quality",
+    "meaning": "偵測",
+    "example": "The team reviewed the detection during the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項偵測。"
+  },
+  {
+    "word": "deviation",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Quality",
+    "meaning": "偏差",
+    "example": "The team reviewed the deviation during the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項偏差。"
+  },
+  {
+    "word": "disbursement",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "款項撥付",
+    "example": "The finance team reviewed the disbursement before closing this month's books.",
+    "example_zh": "財務團隊在月結前審查了這項款項撥付。"
+  },
+  {
+    "word": "disclaimer",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "免責聲明",
+    "example": "Legal checked the disclaimer before signing the agreement.",
+    "example_zh": "法務在簽約前檢查了這項免責聲明。"
+  },
+  {
+    "word": "discrepancy",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "差異；不一致",
+    "example": "The analyst highlighted the discrepancy in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項差異。"
+  },
+  {
+    "word": "disruption",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "中斷",
+    "example": "Operations tracked the disruption to improve efficiency.",
+    "example_zh": "營運部持續追蹤中斷以提升效率。"
+  },
+  {
+    "word": "draft",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "草案",
+    "example": "Legal checked the draft before signing the agreement.",
+    "example_zh": "法務在簽約前檢查了這項草案。"
+  },
+  {
+    "word": "duration",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Schedule",
+    "meaning": "期間",
+    "example": "The coordinator adjusted the duration for next week.",
+    "example_zh": "協調人員已調整下週的期間。"
+  },
+  {
+    "word": "endorsement",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "背書；推薦",
+    "example": "Marketing measured the endorsement after the campaign launch.",
+    "example_zh": "行銷部在活動上線後衡量了這項背書。"
+  },
+  {
+    "word": "entity",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "法人實體",
+    "example": "Administration filed the entity for record keeping.",
+    "example_zh": "行政部已將這項法人實體完成歸檔。"
+  },
+  {
+    "word": "exporter",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "出口商",
+    "example": "The logistics team updated the exporter before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項出口商。"
+  },
+  {
+    "word": "facilitation",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "促進作業",
+    "example": "Administration filed the facilitation for record keeping.",
+    "example_zh": "行政部已將這項促進作業完成歸檔。"
+  },
+  {
+    "word": "fulfillment",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "履約；出貨完成",
+    "example": "The logistics team updated the fulfillment before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項履約。"
+  },
+  {
+    "word": "gateway",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "入口平台",
+    "example": "The IT team tested the gateway before release.",
+    "example_zh": "資訊團隊在發布前測試了這項入口平台。"
+  },
+  {
+    "word": "handover",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "交接",
+    "example": "The team reviewed the handover during the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項交接。"
+  },
+  {
+    "word": "highlight",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "重點",
+    "example": "The analyst highlighted the highlight in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項重點。"
+  },
+  {
+    "word": "hiring",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "招募",
+    "example": "HR discussed the hiring during the interview process.",
+    "example_zh": "人資在面試流程中討論了這項招募。"
+  },
+  {
+    "word": "implementation",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "執行落地",
+    "example": "The team reviewed the implementation during the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項執行落地。"
+  },
+  {
+    "word": "importer",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "進口商",
+    "example": "The logistics team updated the importer before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項進口商。"
+  },
+  {
+    "word": "incident",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "事件",
+    "example": "Customer service handled the incident within one business day.",
+    "example_zh": "客服在一個工作天內處理了這項事件。"
+  },
+  {
+    "word": "induction",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "新人訓練",
+    "example": "The trainer explained the induction in today's session.",
+    "example_zh": "講師在今天的訓練課程說明了新人訓練。"
+  },
+  {
+    "word": "initiative",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Strategy",
+    "meaning": "倡議方案",
+    "example": "The leadership team reviewed the initiative in the quarterly meeting.",
+    "example_zh": "管理層在季度會議檢視了這項倡議方案。"
+  },
+  {
+    "word": "integration",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "整合",
+    "example": "The IT team tested the integration before release.",
+    "example_zh": "資訊團隊在發布前測試了這項整合。"
+  },
+  {
+    "word": "invoicee",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "受款方",
+    "example": "The finance team reviewed the invoicee before closing this month's books.",
+    "example_zh": "財務團隊在月結前審查了這項受款方。"
+  },
+  {
+    "word": "issuer",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "發行方",
+    "example": "The finance team reviewed the issuer before closing this month's books.",
+    "example_zh": "財務團隊在月結前審查了這項發行方。"
+  },
+  {
+    "word": "iteration",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "迭代",
+    "example": "The team reviewed the iteration during the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項迭代。"
+  },
+  {
+    "word": "journey",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "行程",
+    "example": "The travel desk confirmed the journey for the business trip.",
+    "example_zh": "差旅窗口已確認這次出差的行程。"
+  },
+  {
+    "word": "justification",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "合理說明",
+    "example": "The analyst highlighted the justification in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項合理說明。"
+  },
+  {
+    "word": "liquidity",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "流動性",
+    "example": "The finance team reviewed the liquidity before closing this month's books.",
+    "example_zh": "財務團隊在月結前審查了這項流動性。"
+  },
+  {
+    "word": "manpower",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "人力",
+    "example": "HR reviewed the manpower in the monthly people report.",
+    "example_zh": "人資在月度人力報告中審查了人力。"
+  },
+  {
+    "word": "marketplace",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "市場平台",
+    "example": "Marketing measured the marketplace after the campaign launch.",
+    "example_zh": "行銷部在活動上線後衡量了這項市場平台。"
+  },
+  {
+    "word": "minimum",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "最低標準",
+    "example": "Operations tracked the minimum to improve efficiency.",
+    "example_zh": "營運部持續追蹤最低標準以提升效率。"
+  },
+  {
+    "word": "moderator",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "主持人",
+    "example": "We added the moderator to the meeting agenda.",
+    "example_zh": "我們已把這項主持人加入會議議程。"
+  },
+  {
+    "word": "networking",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Communication",
+    "meaning": "人脈交流",
+    "example": "The team reviewed the networking during the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項人脈交流。"
+  },
+  {
+    "word": "occupancy",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "入住率",
+    "example": "The travel desk confirmed the occupancy for the business trip.",
+    "example_zh": "差旅窗口已確認這次出差的入住率。"
+  },
+  {
+    "word": "offering",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "產品提案",
+    "example": "Marketing measured the offering after the campaign launch.",
+    "example_zh": "行銷部在活動上線後衡量了這項產品提案。"
+  },
+  {
+    "word": "opening",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "職缺；開幕",
+    "example": "HR discussed the opening during the interview process.",
+    "example_zh": "人資在面試流程中討論了這項職缺。"
+  },
+  {
+    "word": "penetration",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "市場滲透率",
+    "example": "Marketing measured the penetration after the campaign launch.",
+    "example_zh": "行銷部在活動上線後衡量了這項市場滲透率。"
+  },
+  {
+    "word": "positioning",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "市場定位",
+    "example": "Marketing measured the positioning after the campaign launch.",
+    "example_zh": "行銷部在活動上線後衡量了這項市場定位。"
+  },
+  {
+    "word": "prerequisite",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "先決條件",
+    "example": "The trainer explained the prerequisite in today's session.",
+    "example_zh": "講師在今天的訓練課程說明了先決條件。"
+  },
+  {
+    "word": "profitability",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "獲利能力",
+    "example": "The finance team reviewed the profitability before closing this month's books.",
+    "example_zh": "財務團隊在月結前審查了這項獲利能力。"
+  },
+  {
+    "word": "punctuality",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Schedule",
+    "meaning": "準時率",
+    "example": "The coordinator adjusted the punctuality for next week.",
+    "example_zh": "協調人員已調整下週的準時率。"
+  },
+  {
+    "word": "qualification",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "資格條件",
+    "example": "HR discussed the qualification during the interview process.",
+    "example_zh": "人資在面試流程中討論了這項資格條件。"
+  },
+  {
+    "word": "quantity",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "數量",
+    "example": "The logistics team updated the quantity before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項數量。"
+  },
+  {
+    "word": "questionnaire",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "問卷",
+    "example": "Marketing measured the questionnaire after the campaign launch.",
+    "example_zh": "行銷部在活動上線後衡量了這項問卷。"
+  },
+  {
+    "word": "quotation",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Sales",
+    "meaning": "報價單",
+    "example": "The team reviewed the quotation during the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項報價單。"
+  },
+  {
+    "word": "readiness",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "準備程度",
+    "example": "The team reviewed the readiness during the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項準備程度。"
+  },
+  {
+    "word": "receipt",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "收據",
+    "example": "The finance team reviewed the receipt before closing this month's books.",
+    "example_zh": "財務團隊在月結前審查了這項收據。"
+  },
+  {
+    "word": "reception",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "接待",
+    "example": "Customer service handled the reception within one business day.",
+    "example_zh": "客服在一個工作天內處理了這項接待。"
+  },
+  {
+    "word": "recognition",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "表揚；辨識",
+    "example": "HR reviewed the recognition in the monthly people report.",
+    "example_zh": "人資在月度人力報告中審查了表揚。"
+  },
+  {
+    "word": "recommendation",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "建議方案",
+    "example": "The analyst highlighted the recommendation in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項建議方案。"
+  },
+  {
+    "word": "reconciliation",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "帳務核對",
+    "example": "The finance team reviewed the reconciliation before closing this month's books.",
+    "example_zh": "財務團隊在月結前審查了這項帳務核對。"
+  },
+  {
+    "word": "recruitment",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "招募",
+    "example": "HR discussed the recruitment during the interview process.",
+    "example_zh": "人資在面試流程中討論了這項招募。"
+  },
+  {
+    "word": "reduction",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "減少",
+    "example": "The finance team reviewed the reduction before closing this month's books.",
+    "example_zh": "財務團隊在月結前審查了這項減少。"
+  },
+  {
+    "word": "reference",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "參考資料",
+    "example": "Administration filed the reference for record keeping.",
+    "example_zh": "行政部已將這項參考資料完成歸檔。"
+  },
+  {
+    "word": "refund",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "退款",
+    "example": "Customer service handled the refund within one business day.",
+    "example_zh": "客服在一個工作天內處理了這項退款。"
+  },
+  {
+    "word": "registration",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "登記",
+    "example": "Administration filed the registration for record keeping.",
+    "example_zh": "行政部已將這項登記完成歸檔。"
+  },
+  {
+    "word": "regulation",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "法規",
+    "example": "Legal checked the regulation before signing the agreement.",
+    "example_zh": "法務在簽約前檢查了這項法規。"
+  },
+  {
+    "word": "reimbursement",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "報銷",
+    "example": "The finance team reviewed the reimbursement before closing this month's books.",
+    "example_zh": "財務團隊在月結前審查了這項報銷。"
+  },
+  {
+    "word": "reliability",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Quality",
+    "meaning": "可靠性",
+    "example": "The team reviewed the reliability during the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項可靠性。"
+  },
+  {
+    "word": "reminder",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Communication",
+    "meaning": "提醒通知",
+    "example": "The team reviewed the reminder during the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項提醒通知。"
+  },
+  {
+    "word": "renovation",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "整修",
+    "example": "Operations tracked the renovation to improve efficiency.",
+    "example_zh": "營運部持續追蹤整修以提升效率。"
+  },
+  {
+    "word": "replacement",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "替換品",
+    "example": "Customer service handled the replacement within one business day.",
+    "example_zh": "客服在一個工作天內處理了這項替換品。"
+  },
+  {
+    "word": "reputation",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "聲譽",
+    "example": "Marketing measured the reputation after the campaign launch.",
+    "example_zh": "行銷部在活動上線後衡量了這項聲譽。"
+  },
+  {
+    "word": "requirement",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "需求條件",
+    "example": "The team reviewed the requirement during the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項需求條件。"
+  },
+  {
+    "word": "reservation",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "預訂",
+    "example": "The travel desk confirmed the reservation for the business trip.",
+    "example_zh": "差旅窗口已確認這次出差的預訂。"
+  },
+  {
+    "word": "resignation",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "離職",
+    "example": "HR reviewed the resignation in the monthly people report.",
+    "example_zh": "人資在月度人力報告中審查了離職。"
+  },
+  {
+    "word": "resolution",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "解決方案",
+    "example": "Customer service handled the resolution within one business day.",
+    "example_zh": "客服在一個工作天內處理了這項解決方案。"
+  },
+  {
+    "word": "resource",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "資源",
+    "example": "The team reviewed the resource during the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項資源。"
+  },
+  {
+    "word": "responsiveness",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "回應速度",
+    "example": "Customer service handled the responsiveness within one business day.",
+    "example_zh": "客服在一個工作天內處理了這項回應速度。"
+  },
+  {
+    "word": "retention",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "留任率",
+    "example": "HR reviewed the retention in the monthly people report.",
+    "example_zh": "人資在月度人力報告中審查了留任率。"
+  },
+  {
+    "word": "revenue",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "營收",
+    "example": "The finance team reviewed the revenue before closing this month's books.",
+    "example_zh": "財務團隊在月結前審查了這項營收。"
+  },
+  {
+    "word": "reviewer",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "審查者",
+    "example": "The analyst highlighted the reviewer in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項審查者。"
+  },
+  {
+    "word": "revision",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "修訂版",
+    "example": "The analyst highlighted the revision in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項修訂版。"
+  },
+  {
+    "word": "risk",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "風險",
+    "example": "The finance team reviewed the risk before closing this month's books.",
+    "example_zh": "財務團隊在月結前審查了這項風險。"
+  },
+  {
+    "word": "rollout",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "上線推行",
+    "example": "The team reviewed the rollout during the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項上線推行。"
+  },
+  {
+    "word": "routing",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "路由安排",
+    "example": "The logistics team updated the routing before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項路由安排。"
+  },
+  {
+    "word": "royalty",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "權利金",
+    "example": "The finance team reviewed the royalty before closing this month's books.",
+    "example_zh": "財務團隊在月結前審查了這項權利金。"
+  },
+  {
+    "word": "safeguard",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Security",
+    "meaning": "防護措施",
+    "example": "The security team reinforced the safeguard at the main office.",
+    "example_zh": "資安團隊在總部強化了這項防護措施。"
+  },
+  {
+    "word": "salary",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "薪資",
+    "example": "HR reviewed the salary in the monthly people report.",
+    "example_zh": "人資在月度人力報告中審查了薪資。"
+  },
+  {
+    "word": "satisfaction",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "滿意度",
+    "example": "Customer service handled the satisfaction within one business day.",
+    "example_zh": "客服在一個工作天內處理了這項滿意度。"
+  },
+  {
+    "word": "scenario",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "情境",
+    "example": "The trainer explained the scenario in today's session.",
+    "example_zh": "講師在今天的訓練課程說明了情境。"
+  },
+  {
+    "word": "scheduling",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Schedule",
+    "meaning": "排程",
+    "example": "The coordinator adjusted the scheduling for next week.",
+    "example_zh": "協調人員已調整下週的排程。"
+  },
+  {
+    "word": "screening",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "篩選",
+    "example": "HR discussed the screening during the interview process.",
+    "example_zh": "人資在面試流程中討論了這項篩選。"
+  },
+  {
+    "word": "security",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Security",
+    "meaning": "安全性",
+    "example": "The security team reinforced the security at the main office.",
+    "example_zh": "資安團隊在總部強化了這項安全性。"
+  },
+  {
+    "word": "segmentation",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "市場區隔",
+    "example": "Marketing measured the segmentation after the campaign launch.",
+    "example_zh": "行銷部在活動上線後衡量了這項市場區隔。"
+  },
+  {
+    "word": "settlement",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "結算",
+    "example": "The finance team reviewed the settlement before closing this month's books.",
+    "example_zh": "財務團隊在月結前審查了這項結算。"
+  },
+  {
+    "word": "shareholder",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "股東",
+    "example": "The finance team reviewed the shareholder before closing this month's books.",
+    "example_zh": "財務團隊在月結前審查了這項股東。"
+  },
+  {
+    "word": "shipment",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "貨運批次",
+    "example": "The logistics team updated the shipment before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項貨運批次。"
+  },
+  {
+    "word": "shortage",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "短缺",
+    "example": "The logistics team updated the shortage before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項短缺。"
+  },
+  {
+    "word": "signature",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "簽名；簽署",
+    "example": "Legal checked the signature before signing the agreement.",
+    "example_zh": "法務在簽約前檢查了這項簽名。"
+  },
+  {
+    "word": "simulation",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "模擬演練",
+    "example": "The trainer explained the simulation in today's session.",
+    "example_zh": "講師在今天的訓練課程說明了模擬演練。"
+  },
+  {
+    "word": "solvency",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "償債能力",
+    "example": "The finance team reviewed the solvency before closing this month's books.",
+    "example_zh": "財務團隊在月結前審查了這項償債能力。"
+  },
+  {
+    "word": "specification",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "規格",
+    "example": "The plant manager monitored the specification on the production line.",
+    "example_zh": "廠務主管在線上監控這項規格。"
+  },
+  {
+    "word": "stakeholder",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "利害關係人",
+    "example": "The team reviewed the stakeholder during the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項利害關係人。"
+  },
+  {
+    "word": "standardization",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Quality",
+    "meaning": "標準化",
+    "example": "The team reviewed the standardization during the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項標準化。"
+  },
+  {
+    "word": "statement",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "報表；聲明",
+    "example": "The finance team reviewed the statement before closing this month's books.",
+    "example_zh": "財務團隊在月結前審查了這項報表。"
+  },
+  {
+    "word": "stationery",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Office",
+    "meaning": "文具",
+    "example": "The office manager ordered the stationery for the new staff.",
+    "example_zh": "辦公室管理員已為新同仁採買文具。"
+  },
+  {
+    "word": "stock",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "庫存",
+    "example": "The logistics team updated the stock before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項庫存。"
+  },
+  {
+    "word": "strategy",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Strategy",
+    "meaning": "策略",
+    "example": "The leadership team reviewed the strategy in the quarterly meeting.",
+    "example_zh": "管理層在季度會議檢視了這項策略。"
+  },
+  {
+    "word": "submission",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "提交資料",
+    "example": "Administration filed the submission for record keeping.",
+    "example_zh": "行政部已將這項提交資料完成歸檔。"
+  },
+  {
+    "word": "subscriber",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "訂閱戶",
+    "example": "Marketing measured the subscriber after the campaign launch.",
+    "example_zh": "行銷部在活動上線後衡量了這項訂閱戶。"
+  },
+  {
+    "word": "subsidy",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "補助",
+    "example": "The finance team reviewed the subsidy before closing this month's books.",
+    "example_zh": "財務團隊在月結前審查了這項補助。"
+  },
+  {
+    "word": "substitution",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "替代方案",
+    "example": "Operations tracked the substitution to improve efficiency.",
+    "example_zh": "營運部持續追蹤替代方案以提升效率。"
+  },
+  {
+    "word": "supervision",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "監督",
+    "example": "HR reviewed the supervision in the monthly people report.",
+    "example_zh": "人資在月度人力報告中審查了監督。"
+  },
+  {
+    "word": "supplier",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "供應商",
+    "example": "Purchasing confirmed the supplier with the supplier this morning.",
+    "example_zh": "採購今早已向供應商確認這項供應商。"
+  },
+  {
+    "word": "sustainability",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Strategy",
+    "meaning": "永續性",
+    "example": "The leadership team reviewed the sustainability in the quarterly meeting.",
+    "example_zh": "管理層在季度會議檢視了這項永續性。"
+  },
+  {
+    "word": "syllabus",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "課程大綱",
+    "example": "The trainer explained the syllabus in today's session.",
+    "example_zh": "講師在今天的訓練課程說明了課程大綱。"
+  },
+  {
+    "word": "tactic",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Strategy",
+    "meaning": "戰術",
+    "example": "The leadership team reviewed the tactic in the quarterly meeting.",
+    "example_zh": "管理層在季度會議檢視了這項戰術。"
+  },
+  {
+    "word": "tariff",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "關稅",
+    "example": "The logistics team updated the tariff before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項關稅。"
+  },
+  {
+    "word": "taxation",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "課稅",
+    "example": "The finance team reviewed the taxation before closing this month's books.",
+    "example_zh": "財務團隊在月結前審查了這項課稅。"
+  },
+  {
+    "word": "teleconference",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "電話會議",
+    "example": "We added the teleconference to the meeting agenda.",
+    "example_zh": "我們已把這項電話會議加入會議議程。"
+  },
+  {
+    "word": "tender",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "投標案",
+    "example": "Purchasing confirmed the tender with the supplier this morning.",
+    "example_zh": "採購今早已向供應商確認這項投標案。"
+  },
+  {
+    "word": "termination",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "終止",
+    "example": "Legal checked the termination before signing the agreement.",
+    "example_zh": "法務在簽約前檢查了這項終止。"
+  },
+  {
+    "word": "throughput",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "產出量",
+    "example": "The plant manager monitored the throughput on the production line.",
+    "example_zh": "廠務主管在線上監控這項產出量。"
+  },
+  {
+    "word": "timeframe",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Schedule",
+    "meaning": "時間範圍",
+    "example": "The coordinator adjusted the timeframe for next week.",
+    "example_zh": "協調人員已調整下週的時間範圍。"
+  },
+  {
+    "word": "tolerance",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Quality",
+    "meaning": "允收公差",
+    "example": "The team reviewed the tolerance during the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項允收公差。"
+  },
+  {
+    "word": "tracking",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "追蹤",
+    "example": "The logistics team updated the tracking before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項追蹤。"
+  },
+  {
+    "word": "trainee",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "受訓人員",
+    "example": "The trainer explained the trainee in today's session.",
+    "example_zh": "講師在今天的訓練課程說明了受訓人員。"
+  },
+  {
+    "word": "transaction",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "交易",
+    "example": "The finance team reviewed the transaction before closing this month's books.",
+    "example_zh": "財務團隊在月結前審查了這項交易。"
+  },
+  {
+    "word": "transcript",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "會議紀錄",
+    "example": "We added the transcript to the meeting agenda.",
+    "example_zh": "我們已把這項會議紀錄加入會議議程。"
+  },
+  {
+    "word": "transportation",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "運輸",
+    "example": "The logistics team updated the transportation before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項運輸。"
+  },
+  {
+    "word": "turnover",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "流動率；營業額",
+    "example": "HR reviewed the turnover in the monthly people report.",
+    "example_zh": "人資在月度人力報告中審查了流動率。"
+  },
+  {
+    "word": "underwriting",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "承銷",
+    "example": "The finance team reviewed the underwriting before closing this month's books.",
+    "example_zh": "財務團隊在月結前審查了這項承銷。"
+  },
+  {
+    "word": "upgrade",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "升級",
+    "example": "The IT team tested the upgrade before release.",
+    "example_zh": "資訊團隊在發布前測試了這項升級。"
+  },
+  {
+    "word": "urgency",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "急迫性",
+    "example": "Customer service handled the urgency within one business day.",
+    "example_zh": "客服在一個工作天內處理了這項急迫性。"
+  },
+  {
+    "word": "utilization",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "利用率",
+    "example": "Operations tracked the utilization to improve efficiency.",
+    "example_zh": "營運部持續追蹤利用率以提升效率。"
+  },
+  {
+    "word": "vacancy",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "職缺",
+    "example": "HR discussed the vacancy during the interview process.",
+    "example_zh": "人資在面試流程中討論了這項職缺。"
+  },
+  {
+    "word": "valuation",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "估值",
+    "example": "The finance team reviewed the valuation before closing this month's books.",
+    "example_zh": "財務團隊在月結前審查了這項估值。"
+  },
+  {
+    "word": "variation",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "變動",
+    "example": "The analyst highlighted the variation in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項變動。"
+  },
+  {
+    "word": "vendor",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "供應商",
+    "example": "Purchasing confirmed the vendor with the supplier this morning.",
+    "example_zh": "採購今早已向供應商確認這項供應商。"
+  },
+  {
+    "word": "verification",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Quality",
+    "meaning": "驗證",
+    "example": "The team reviewed the verification during the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項驗證。"
+  },
+  {
+    "word": "viability",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Strategy",
+    "meaning": "可行性",
+    "example": "The leadership team reviewed the viability in the quarterly meeting.",
+    "example_zh": "管理層在季度會議檢視了這項可行性。"
+  },
+  {
+    "word": "visibility",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "可見度",
+    "example": "Marketing measured the visibility after the campaign launch.",
+    "example_zh": "行銷部在活動上線後衡量了這項可見度。"
+  },
+  {
+    "word": "warranty",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "保固",
+    "example": "Customer service handled the warranty within one business day.",
+    "example_zh": "客服在一個工作天內處理了這項保固。"
+  },
+  {
+    "word": "wholesaler",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Sales",
+    "meaning": "批發商",
+    "example": "The team reviewed the wholesaler during the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項批發商。"
+  },
+  {
+    "word": "workflow",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "工作流程",
+    "example": "Operations tracked the workflow to improve efficiency.",
+    "example_zh": "營運部持續追蹤工作流程以提升效率。"
+  },
+  {
+    "word": "workforce",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "勞動力",
+    "example": "HR reviewed the workforce in the monthly people report.",
+    "example_zh": "人資在月度人力報告中審查了勞動力。"
+  },
+  {
+    "word": "workload",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "工作量",
+    "example": "HR reviewed the workload in the monthly people report.",
+    "example_zh": "人資在月度人力報告中審查了工作量。"
+  },
+  {
+    "word": "workshop",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "工作坊",
+    "example": "The trainer explained the workshop in today's session.",
+    "example_zh": "講師在今天的訓練課程說明了工作坊。"
+  },
+  {
+    "word": "yield",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "產出率",
+    "example": "The plant manager monitored the yield on the production line.",
+    "example_zh": "廠務主管在線上監控這項產出率。"
+  },
+  {
+    "word": "accreditation",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "認證資格",
+    "example": "The trainer explained the accreditation in class.",
+    "example_zh": "團隊已在每週會議中檢視這項認證資格。"
+  },
+  {
+    "word": "activator",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "啟動器",
+    "example": "The factory monitored the activator on the line.",
+    "example_zh": "團隊已在每週會議中檢視這項啟動器。"
+  },
+  {
+    "word": "addendum",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "附錄條款",
+    "example": "Legal confirmed the addendum before signing.",
+    "example_zh": "團隊已在每週會議中檢視這項附錄條款。"
+  },
+  {
+    "word": "adjuster",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "理算人員",
+    "example": "The finance team reviewed the adjuster before the monthly closing.",
+    "example_zh": "團隊已在每週會議中檢視這項理算人員。"
+  },
+  {
+    "word": "adopter",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "採用者",
+    "example": "Marketing measured the adopter after launch.",
+    "example_zh": "團隊已在每週會議中檢視這項採用者。"
+  },
+  {
+    "word": "advisory",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "諮詢委員會",
+    "example": "Administration filed the advisory for records.",
+    "example_zh": "團隊已在每週會議中檢視這項諮詢委員會。"
+  },
+  {
+    "word": "affidavit",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "宣誓書",
+    "example": "Legal confirmed the affidavit before signing.",
+    "example_zh": "團隊已在每週會議中檢視這項宣誓書。"
+  },
+  {
+    "word": "aggregator",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "整合平台",
+    "example": "The IT team tested the aggregator before deployment.",
+    "example_zh": "團隊已在每週會議中檢視這項整合平台。"
+  },
+  {
+    "word": "airwaybill",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "空運提單",
+    "example": "Logistics updated the airwaybill before shipment.",
+    "example_zh": "團隊已在每週會議中檢視這項空運提單。"
+  },
+  {
+    "word": "alertness",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Security",
+    "meaning": "警覺性",
+    "example": "The security team monitored the alertness daily.",
+    "example_zh": "團隊已在每週會議中檢視這項警覺性。"
+  },
+  {
+    "word": "alignment",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "對齊一致性",
+    "example": "The project manager documented the alignment this week.",
+    "example_zh": "團隊已在每週會議中檢視這項對齊一致性。"
+  },
+  {
+    "word": "annuity",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "年金",
+    "example": "The finance team reviewed the annuity before the monthly closing.",
+    "example_zh": "團隊已在每週會議中檢視這項年金。"
+  },
+  {
+    "word": "appointee",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "受任命者",
+    "example": "HR discussed the appointee during the monthly meeting.",
+    "example_zh": "團隊已在每週會議中檢視這項受任命者。"
+  },
+  {
+    "word": "arbitration",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "仲裁",
+    "example": "Legal confirmed the arbitration before signing.",
+    "example_zh": "團隊已在每週會議中檢視這項仲裁。"
+  },
+  {
+    "word": "assembler",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "裝配員",
+    "example": "The factory monitored the assembler on the line.",
+    "example_zh": "團隊已在每週會議中檢視這項裝配員。"
+  },
+  {
+    "word": "attestation",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "證明文件",
+    "example": "Legal confirmed the attestation before signing.",
+    "example_zh": "團隊已在每週會議中檢視這項證明文件。"
+  },
+  {
+    "word": "authenticator",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Security",
+    "meaning": "驗證工具",
+    "example": "The security team monitored the authenticator daily.",
+    "example_zh": "團隊已在每週會議中檢視這項驗證工具。"
+  },
+  {
+    "word": "availabilityrate",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "可用率",
+    "example": "Operations tracked the availabilityrate to improve output.",
+    "example_zh": "團隊已在每週會議中檢視這項可用率。"
+  },
+  {
+    "word": "backorder",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "延後交貨訂單",
+    "example": "Logistics updated the backorder before shipment.",
+    "example_zh": "團隊已在每週會議中檢視這項延後交貨訂單。"
+  },
+  {
+    "word": "balancing",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "平衡調整",
+    "example": "The finance team reviewed the balancing before the monthly closing.",
+    "example_zh": "團隊已在每週會議中檢視這項平衡調整。"
+  },
+  {
+    "word": "basefare",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "基本票價",
+    "example": "The travel desk confirmed the basefare for the trip.",
+    "example_zh": "團隊已在每週會議中檢視這項基本票價。"
+  },
+  {
+    "word": "benchmarking",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "標竿比較",
+    "example": "The analyst highlighted the benchmarking in the report.",
+    "example_zh": "團隊已在每週會議中檢視這項標竿比較。"
+  },
+  {
+    "word": "bidbond",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "投標保證金",
+    "example": "Purchasing confirmed the bidbond with the vendor.",
+    "example_zh": "團隊已在每週會議中檢視這項投標保證金。"
+  },
+  {
+    "word": "biosafety",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Quality",
+    "meaning": "生物安全",
+    "example": "Quality control reviewed the biosafety before approval.",
+    "example_zh": "團隊已在每週會議中檢視這項生物安全。"
+  },
+  {
+    "word": "blackout",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "停電中斷",
+    "example": "Operations tracked the blackout to improve output.",
+    "example_zh": "團隊已在每週會議中檢視這項停電中斷。"
+  },
+  {
+    "word": "blockchain",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "區塊鏈",
+    "example": "The IT team tested the blockchain before deployment.",
+    "example_zh": "團隊已在每週會議中檢視這項區塊鏈。"
+  },
+  {
+    "word": "boarder",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "住宿者",
+    "example": "The travel desk confirmed the boarder for the trip.",
+    "example_zh": "團隊已在每週會議中檢視這項住宿者。"
+  },
+  {
+    "word": "bondholder",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "債券持有人",
+    "example": "The finance team reviewed the bondholder before the monthly closing.",
+    "example_zh": "團隊已在每週會議中檢視這項債券持有人。"
+  },
+  {
+    "word": "booker",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "訂位人員",
+    "example": "The travel desk confirmed the booker for the trip.",
+    "example_zh": "團隊已在每週會議中檢視這項訂位人員。"
+  },
+  {
+    "word": "bottleneck",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "瓶頸",
+    "example": "Operations tracked the bottleneck to improve output.",
+    "example_zh": "團隊已在每週會議中檢視這項瓶頸。"
+  },
+  {
+    "word": "breakpoint",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "臨界點",
+    "example": "The IT team tested the breakpoint before deployment.",
+    "example_zh": "團隊已在每週會議中檢視這項臨界點。"
+  },
+  {
+    "word": "briefcase",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Office",
+    "meaning": "公事包",
+    "example": "The office manager checked the briefcase this morning.",
+    "example_zh": "團隊已在每週會議中檢視這項公事包。"
+  },
+  {
+    "word": "brokerage",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "經紀業務",
+    "example": "The finance team reviewed the brokerage before the monthly closing.",
+    "example_zh": "團隊已在每週會議中檢視這項經紀業務。"
+  },
+  {
+    "word": "buffer",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "緩衝",
+    "example": "Operations tracked the buffer to improve output.",
+    "example_zh": "團隊已在每週會議中檢視這項緩衝。"
+  },
+  {
+    "word": "burnrate",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "燒錢速度",
+    "example": "The finance team reviewed the burnrate before the monthly closing.",
+    "example_zh": "團隊已在每週會議中檢視這項燒錢速度。"
+  },
+  {
+    "word": "businesscase",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Strategy",
+    "meaning": "商業論證",
+    "example": "The leadership team reviewed the businesscase this quarter.",
+    "example_zh": "團隊已在每週會議中檢視這項商業論證。"
+  },
+  {
+    "word": "callcenter",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "客服中心",
+    "example": "Customer service handled the callcenter quickly.",
+    "example_zh": "團隊已在每週會議中檢視這項客服中心。"
+  },
+  {
+    "word": "cancelation",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "取消作業",
+    "example": "Customer service handled the cancelation quickly.",
+    "example_zh": "團隊已在每週會議中檢視這項取消作業。"
+  },
+  {
+    "word": "capitalization",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "資本化",
+    "example": "The finance team reviewed the capitalization before the monthly closing.",
+    "example_zh": "團隊已在每週會議中檢視這項資本化。"
+  },
+  {
+    "word": "caretaker",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "管理員",
+    "example": "Administration filed the caretaker for records.",
+    "example_zh": "團隊已在每週會議中檢視這項管理員。"
+  },
+  {
+    "word": "carpool",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "共乘安排",
+    "example": "The travel desk confirmed the carpool for the trip.",
+    "example_zh": "團隊已在每週會議中檢視這項共乘安排。"
+  },
+  {
+    "word": "cashflow",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "現金流",
+    "example": "The finance team reviewed the cashflow before the monthly closing.",
+    "example_zh": "團隊已在每週會議中檢視這項現金流。"
+  },
+  {
+    "word": "chairmanship",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "主席職位",
+    "example": "We addressed the chairmanship in today's meeting.",
+    "example_zh": "團隊已在每週會議中檢視這項主席職位。"
+  },
+  {
+    "word": "claimant",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "索賠人",
+    "example": "Customer service handled the claimant quickly.",
+    "example_zh": "團隊已在每週會議中檢視這項索賠人。"
+  },
+  {
+    "word": "cleanup",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "清理作業",
+    "example": "Operations tracked the cleanup to improve output.",
+    "example_zh": "團隊已在每週會議中檢視這項清理作業。"
+  },
+  {
+    "word": "clearing",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "結算作業",
+    "example": "The finance team reviewed the clearing before the monthly closing.",
+    "example_zh": "團隊已在每週會議中檢視這項結算作業。"
+  },
+  {
+    "word": "clocking",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "打卡紀錄",
+    "example": "HR discussed the clocking during the monthly meeting.",
+    "example_zh": "團隊已在每週會議中檢視這項打卡紀錄。"
+  },
+  {
+    "word": "coauthor",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Communication",
+    "meaning": "共同作者",
+    "example": "The team reviewed the coauthor in the weekly meeting.",
+    "example_zh": "團隊已在每週會議中檢視這項共同作者。"
+  },
+  {
+    "word": "cofounder",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Strategy",
+    "meaning": "共同創辦人",
+    "example": "The leadership team reviewed the cofounder this quarter.",
+    "example_zh": "團隊已在每週會議中檢視這項共同創辦人。"
+  },
+  {
+    "word": "cohesion",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "凝聚力",
+    "example": "HR discussed the cohesion during the monthly meeting.",
+    "example_zh": "團隊已在每週會議中檢視這項凝聚力。"
+  },
+  {
+    "word": "coinsurance",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "共同保險",
+    "example": "The finance team reviewed the coinsurance before the monthly closing.",
+    "example_zh": "團隊已在每週會議中檢視這項共同保險。"
+  },
+  {
+    "word": "coldchain",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "冷鏈",
+    "example": "Logistics updated the coldchain before shipment.",
+    "example_zh": "團隊已在每週會議中檢視這項冷鏈。"
+  },
+  {
+    "word": "collateral",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "擔保品",
+    "example": "The finance team reviewed the collateral before the monthly closing.",
+    "example_zh": "團隊已在每週會議中檢視這項擔保品。"
+  },
+  {
+    "word": "collective",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "集體協議",
+    "example": "HR discussed the collective during the monthly meeting.",
+    "example_zh": "團隊已在每週會議中檢視這項集體協議。"
+  },
+  {
+    "word": "colorcode",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "色碼標示",
+    "example": "The factory monitored the colorcode on the line.",
+    "example_zh": "團隊已在每週會議中檢視這項色碼標示。"
+  },
+  {
+    "word": "comeback",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Sales",
+    "meaning": "回升",
+    "example": "Sales tracked the comeback in the pipeline report.",
+    "example_zh": "團隊已在每週會議中檢視這項回升。"
+  },
+  {
+    "word": "compliancecheck",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "合規檢查",
+    "example": "Legal confirmed the compliancecheck before signing.",
+    "example_zh": "團隊已在每週會議中檢視這項合規檢查。"
+  },
+  {
+    "word": "concession",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Sales",
+    "meaning": "讓利條件",
+    "example": "Sales tracked the concession in the pipeline report.",
+    "example_zh": "團隊已在每週會議中檢視這項讓利條件。"
+  },
+  {
+    "word": "concurrency",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "並行作業量",
+    "example": "The IT team tested the concurrency before deployment.",
+    "example_zh": "團隊已在每週會議中檢視這項同時處理量。"
+  },
+  {
+    "word": "confidentiality",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "保密性",
+    "example": "Legal confirmed the confidentiality before signing.",
+    "example_zh": "團隊已在每週會議中檢視這項保密性。"
+  },
+  {
+    "word": "conformance",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Quality",
+    "meaning": "符合性",
+    "example": "Quality control reviewed the conformance before approval.",
+    "example_zh": "團隊已在每週會議中檢視這項符合性。"
+  },
+  {
+    "word": "consortium",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Strategy",
+    "meaning": "聯盟",
+    "example": "The leadership team reviewed the consortium this quarter.",
+    "example_zh": "團隊已在每週會議中檢視這項聯盟。"
+  },
+  {
+    "word": "consul",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "領事",
+    "example": "The travel desk confirmed the consul for the trip.",
+    "example_zh": "團隊已在每週會議中檢視這項領事。"
+  },
+  {
+    "word": "contactless",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "感應支付",
+    "example": "The finance team reviewed the contactless before the monthly closing.",
+    "example_zh": "團隊已在每週會議中檢視這項感應支付。"
+  },
+  {
+    "word": "contamination",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Quality",
+    "meaning": "污染",
+    "example": "Quality control reviewed the contamination before approval.",
+    "example_zh": "團隊已在每週會議中檢視這項污染。"
+  },
+  {
+    "word": "contingencyfund",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "備用基金",
+    "example": "The finance team reviewed the contingencyfund before the monthly closing.",
+    "example_zh": "團隊已在每週會議中檢視這項備用基金。"
+  },
+  {
+    "word": "contracting",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "承攬作業",
+    "example": "Legal confirmed the contracting before signing.",
+    "example_zh": "團隊已在每週會議中檢視這項承攬作業。"
+  },
+  {
+    "word": "conveyance",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "運輸工具",
+    "example": "Logistics updated the conveyance before shipment.",
+    "example_zh": "團隊已在每週會議中檢視這項運輸工具。"
+  },
+  {
+    "word": "cooldown",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "降溫期",
+    "example": "Operations tracked the cooldown to improve output.",
+    "example_zh": "團隊已在每週會議中檢視這項降溫期。"
+  },
+  {
+    "word": "coownership",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "共同所有權",
+    "example": "Legal confirmed the coownership before signing.",
+    "example_zh": "團隊已在每週會議中檢視這項共同所有權。"
+  },
+  {
+    "word": "copywriter",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "文案撰寫者",
+    "example": "Marketing measured the copywriter after launch.",
+    "example_zh": "團隊已在每週會議中檢視這項文案撰寫者。"
+  },
+  {
+    "word": "correlation",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "相關性",
+    "example": "The analyst highlighted the correlation in the report.",
+    "example_zh": "團隊已在每週會議中檢視這項相關性。"
+  },
+  {
+    "word": "counteroffer",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Sales",
+    "meaning": "還價",
+    "example": "Sales tracked the counteroffer in the pipeline report.",
+    "example_zh": "團隊已在每週會議中檢視這項還價。"
+  },
+  {
+    "word": "crate",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "裝運箱",
+    "example": "Logistics updated the crate before shipment.",
+    "example_zh": "團隊已在每週會議中檢視這項裝運箱。"
+  },
+  {
+    "word": "creditline",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "信用額度",
+    "example": "The finance team reviewed the creditline before the monthly closing.",
+    "example_zh": "團隊已在每週會議中檢視這項信用額度。"
+  },
+  {
+    "word": "crosscheck",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Quality",
+    "meaning": "交叉檢查",
+    "example": "Quality control reviewed the crosscheck before approval.",
+    "example_zh": "團隊已在每週會議中檢視這項交叉檢查。"
+  },
+  {
+    "word": "crossselling",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Sales",
+    "meaning": "交叉銷售",
+    "example": "Sales tracked the crossselling in the pipeline report.",
+    "example_zh": "團隊已在每週會議中檢視這項交叉銷售。"
+  },
+  {
+    "word": "crowdfunding",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "群眾募資",
+    "example": "The finance team reviewed the crowdfunding before the monthly closing.",
+    "example_zh": "團隊已在每週會議中檢視這項群眾募資。"
+  },
+  {
+    "word": "custody",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "保管",
+    "example": "Administration filed the custody for records.",
+    "example_zh": "團隊已在每週會議中檢視這項保管。"
+  },
+  {
+    "word": "cybersecurity",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Security",
+    "meaning": "網路安全",
+    "example": "The security team monitored the cybersecurity daily.",
+    "example_zh": "團隊已在每週會議中檢視這項網路安全。"
+  },
+  {
+    "word": "datacenter",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "資料中心",
+    "example": "The IT team tested the datacenter before deployment.",
+    "example_zh": "團隊已在每週會議中檢視這項資料中心。"
+  },
+  {
+    "word": "datapoint",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "數據點",
+    "example": "The analyst highlighted the datapoint in the report.",
+    "example_zh": "團隊已在每週會議中檢視這項數據點。"
+  },
+  {
+    "word": "deactivation",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "停用",
+    "example": "The IT team tested the deactivation before deployment.",
+    "example_zh": "團隊已在每週會議中檢視這項停用。"
+  },
+  {
+    "word": "debriefing",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "檢討會",
+    "example": "We addressed the debriefing in today's meeting.",
+    "example_zh": "團隊已在每週會議中檢視這項檢討會。"
+  },
+  {
+    "word": "decentralization",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Strategy",
+    "meaning": "去中心化",
+    "example": "The leadership team reviewed the decentralization this quarter.",
+    "example_zh": "團隊已在每週會議中檢視這項去中心化。"
+  },
+  {
+    "word": "deferral",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "遞延",
+    "example": "The finance team reviewed the deferral before the monthly closing.",
+    "example_zh": "團隊已在每週會議中檢視這項遞延。"
+  },
+  {
+    "word": "delisting",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "下市",
+    "example": "The finance team reviewed the delisting before the monthly closing.",
+    "example_zh": "團隊已在每週會議中檢視這項下市。"
+  },
+  {
+    "word": "deliverable",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "交付成果",
+    "example": "The project manager documented the deliverable this week.",
+    "example_zh": "團隊已在每週會議中檢視這項交付成果。"
+  },
+  {
+    "word": "demurrage",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "滯箱費",
+    "example": "Logistics updated the demurrage before shipment.",
+    "example_zh": "團隊已在每週會議中檢視這項滯箱費。"
+  },
+  {
+    "word": "deregulation",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "鬆綁管制",
+    "example": "Legal confirmed the deregulation before signing.",
+    "example_zh": "團隊已在每週會議中檢視這項鬆綁管制。"
+  },
+  {
+    "word": "designee",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "被指定人",
+    "example": "HR discussed the designee during the monthly meeting.",
+    "example_zh": "團隊已在每週會議中檢視這項被指定人。"
+  },
+  {
+    "word": "deskwork",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Office",
+    "meaning": "文書工作",
+    "example": "The office manager checked the deskwork this morning.",
+    "example_zh": "團隊已在每週會議中檢視這項文書工作。"
+  },
+  {
+    "word": "detour",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "繞道",
+    "example": "The travel desk confirmed the detour for the trip.",
+    "example_zh": "團隊已在每週會議中檢視這項繞道。"
+  },
+  {
+    "word": "devaluation",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "貶值",
+    "example": "The finance team reviewed the devaluation before the monthly closing.",
+    "example_zh": "團隊已在每週會議中檢視這項貶值。"
+  },
+  {
+    "word": "directorship",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "董事職位",
+    "example": "Administration filed the directorship for records.",
+    "example_zh": "團隊已在每週會議中檢視這項董事職位。"
+  },
+  {
+    "word": "disagreement",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "分歧",
+    "example": "We addressed the disagreement in today's meeting.",
+    "example_zh": "團隊已在每週會議中檢視這項分歧。"
+  },
+  {
+    "word": "discontinuation",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "停產",
+    "example": "The factory monitored the discontinuation on the line.",
+    "example_zh": "團隊已在每週會議中檢視這項停產。"
+  },
+  {
+    "word": "disqualification",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "取消資格",
+    "example": "The team reviewed the disqualification in the weekly meeting.",
+    "example_zh": "團隊已在每週會議中檢視這項取消資格。"
+  },
+  {
+    "word": "dissatisfaction",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "不滿意度",
+    "example": "Customer service handled the dissatisfaction quickly.",
+    "example_zh": "團隊已在每週會議中檢視這項不滿意度。"
+  },
+  {
+    "word": "diversion",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "改道；轉運",
+    "example": "Logistics updated the diversion before shipment.",
+    "example_zh": "團隊已在每週會議中檢視這項改道。"
+  },
+  {
+    "word": "dividend",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "股利",
+    "example": "The finance team reviewed the dividend before the monthly closing.",
+    "example_zh": "團隊已在每週會議中檢視這項股利。"
+  },
+  {
+    "word": "documentary",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "單據",
+    "example": "Logistics updated the documentary before shipment.",
+    "example_zh": "團隊已在每週會議中檢視這項單據。"
+  },
+  {
+    "word": "doorstep",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "到府地點",
+    "example": "Customer service handled the doorstep quickly.",
+    "example_zh": "團隊已在每週會議中檢視這項到府地點。"
+  },
+  {
+    "word": "downgrade",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "降級",
+    "example": "Customer service handled the downgrade quickly.",
+    "example_zh": "團隊已在每週會議中檢視這項降級。"
+  },
+  {
+    "word": "drawdown",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "提領",
+    "example": "The finance team reviewed the drawdown before the monthly closing.",
+    "example_zh": "團隊已在每週會議中檢視這項提領。"
+  },
+  {
+    "word": "dresscode",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "服裝規範",
+    "example": "HR discussed the dresscode during the monthly meeting.",
+    "example_zh": "團隊已在每週會議中檢視這項服裝規範。"
+  },
+  {
+    "word": "duediligence",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "盡職調查",
+    "example": "Legal confirmed the duediligence before signing.",
+    "example_zh": "團隊已在每週會議中檢視這項盡職調查。"
+  },
+  {
+    "word": "arrears",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "欠款",
+    "example": "The team reviewed the arrears in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項欠款。"
+  },
+  {
+    "word": "audittrail",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "稽核軌跡",
+    "example": "The team reviewed the audittrail in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項稽核軌跡。"
+  },
+  {
+    "word": "autopay",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "自動扣款",
+    "example": "The team reviewed the autopay in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項自動扣款。"
+  },
+  {
+    "word": "backoffice",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Office",
+    "meaning": "後勤部門",
+    "example": "The team reviewed the backoffice in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項後勤部門。"
+  },
+  {
+    "word": "boardmember",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "董事會成員",
+    "example": "The team reviewed the boardmember in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項董事會成員。"
+  },
+  {
+    "word": "clause",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "條款",
+    "example": "The team reviewed the clause in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項條款。"
+  },
+  {
+    "word": "cod",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "貨到付款",
+    "example": "The team reviewed the cod in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項貨到付款。"
+  },
+  {
+    "word": "comarketing",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "聯合行銷",
+    "example": "The team reviewed the comarketing in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項聯合行銷。"
+  },
+  {
+    "word": "copayment",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "自付額",
+    "example": "The team reviewed the copayment in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項自付額。"
+  },
+  {
+    "word": "downsizing",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "縮編",
+    "example": "The team reviewed the downsizing in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項縮編。"
+  },
+  {
+    "word": "ecommerce",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Sales",
+    "meaning": "電子商務",
+    "example": "The team reviewed the ecommerce in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項電子商務。"
+  },
+  {
+    "word": "franchisee",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Sales",
+    "meaning": "加盟主",
+    "example": "The team reviewed the franchisee in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項加盟主。"
+  },
+  {
+    "word": "headhunter",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "獵才顧問",
+    "example": "The team reviewed the headhunter in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項獵才顧問。"
+  },
+  {
+    "word": "hotline",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "專線",
+    "example": "The team reviewed the hotline in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項專線。"
+  },
+  {
+    "word": "incoterm",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "國貿條規",
+    "example": "The team reviewed the incoterm in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項國貿條規。"
+  },
+  {
+    "word": "indemnity",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "賠償責任",
+    "example": "The team reviewed the indemnity in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項賠償責任。"
+  },
+  {
+    "word": "insolvency",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "無力償債",
+    "example": "The team reviewed the insolvency in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項無力償債。"
+  },
+  {
+    "word": "inventoryturnover",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "存貨周轉率",
+    "example": "The team reviewed the inventoryturnover in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項存貨周轉率。"
+  },
+  {
+    "word": "jobgrade",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "職等",
+    "example": "The team reviewed the jobgrade in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項職等。"
+  },
+  {
+    "word": "kpi",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "關鍵績效指標",
+    "example": "The team reviewed the kpi in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項關鍵績效指標。"
+  },
+  {
+    "word": "leadtime",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "前置時間",
+    "example": "The team reviewed the leadtime in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項前置時間。"
+  },
+  {
+    "word": "middleware",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "中介軟體",
+    "example": "The team reviewed the middleware in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項中介軟體。"
+  },
+  {
+    "word": "offboarding",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "離職交接",
+    "example": "The team reviewed the offboarding in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項離職交接。"
+  },
+  {
+    "word": "overtime",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "加班時數",
+    "example": "The team reviewed the overtime in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項加班時數。"
+  },
+  {
+    "word": "preorder",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Sales",
+    "meaning": "預購單",
+    "example": "The team reviewed the preorder in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項預購單。"
+  },
+  {
+    "word": "profitshare",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "分潤",
+    "example": "The team reviewed the profitshare in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項分潤。"
+  },
+  {
+    "word": "proofreading",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Communication",
+    "meaning": "校稿",
+    "example": "The team reviewed the proofreading in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項校稿。"
+  },
+  {
+    "word": "referrer",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "推薦人",
+    "example": "The team reviewed the referrer in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項推薦人。"
+  },
+  {
+    "word": "roadmap",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "路線圖",
+    "example": "The team reviewed the roadmap in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項路線圖。"
+  },
+  {
+    "word": "showroom",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Sales",
+    "meaning": "展示間",
+    "example": "The team reviewed the showroom in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項展示間。"
+  },
+  {
+    "word": "timesheet",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "工時表",
+    "example": "The team reviewed the timesheet in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項工時表。"
+  },
+  {
+    "word": "touchpoint",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "接觸點",
+    "example": "The team reviewed the touchpoint in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項接觸點。"
+  },
+  {
+    "word": "upselling",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Sales",
+    "meaning": "加價銷售",
+    "example": "The team reviewed the upselling in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項加價銷售。"
+  },
+  {
+    "word": "walkthrough",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "操作導覽",
+    "example": "The team reviewed the walkthrough in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項操作導覽。"
+  },
+  {
+    "word": "absorption",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "吸收率",
+    "example": "The finance team reviewed the absorption before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項吸收率。"
+  },
+  {
+    "word": "abundance",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "充足供給",
+    "example": "Operations tracked the abundance to improve efficiency.",
+    "example_zh": "營運部持續追蹤這項充足供給以提升效率。"
+  },
+  {
+    "word": "acceptance",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "驗收",
+    "example": "Legal checked the acceptance before signing the contract.",
+    "example_zh": "法務在簽約前檢查了這項驗收。"
+  },
+  {
+    "word": "access",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "存取權限",
+    "example": "The IT team tested the access before release.",
+    "example_zh": "資訊團隊在發布前測試了這項存取權限。"
+  },
+  {
+    "word": "accessory",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Sales",
+    "meaning": "配件",
+    "example": "The team reviewed the accessory in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項配件。"
+  },
+  {
+    "word": "accrual",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "應計帳款",
+    "example": "The finance team reviewed the accrual before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項應計項目。"
+  },
+  {
+    "word": "achievement",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "成果",
+    "example": "The analyst highlighted the achievement in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項成果。"
+  },
+  {
+    "word": "acknowledgement",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Communication",
+    "meaning": "確認函",
+    "example": "The team reviewed the acknowledgement in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項確認函。"
+  },
+  {
+    "word": "acquisitioncost",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "收購成本",
+    "example": "The finance team reviewed the acquisitioncost before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項收購成本。"
+  },
+  {
+    "word": "actuary",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "精算師",
+    "example": "The finance team reviewed the actuary before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項精算師。"
+  },
+  {
+    "word": "adaptationplan",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "調整計畫",
+    "example": "The team reviewed the adaptationplan in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項調整計畫。"
+  },
+  {
+    "word": "additive",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "添加劑",
+    "example": "The plant manager monitored the additive on the production line.",
+    "example_zh": "廠務主管在線上監控這項添加劑。"
+  },
+  {
+    "word": "adherence",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "遵循度",
+    "example": "Legal checked the adherence before signing the contract.",
+    "example_zh": "法務在簽約前檢查了這項遵循度。"
+  },
+  {
+    "word": "adjustmentnote",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "調整通知",
+    "example": "The finance team reviewed the adjustmentnote before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項調整通知。"
+  },
+  {
+    "word": "administratorrole",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "管理職務",
+    "example": "Administration filed the administratorrole for record keeping.",
+    "example_zh": "行政部已將這項管理職務完成歸檔。"
+  },
+  {
+    "word": "adoption",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "採用率",
+    "example": "Operations tracked the adoption to improve efficiency.",
+    "example_zh": "營運部持續追蹤這項採用率以提升效率。"
+  },
+  {
+    "word": "advancement",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "晉升進展",
+    "example": "HR reviewed the advancement in the monthly people report.",
+    "example_zh": "人資在月度人力報告中審查了這項晉升進展。"
+  },
+  {
+    "word": "adversity",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Strategy",
+    "meaning": "逆風因素",
+    "example": "The leadership team reviewed the adversity in the quarterly meeting.",
+    "example_zh": "管理層在季度會議檢視了這項逆風因素。"
+  },
+  {
+    "word": "advocate",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Communication",
+    "meaning": "倡議者",
+    "example": "The team reviewed the advocate in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項倡議者。"
+  },
+  {
+    "word": "affinity",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "品牌親和力",
+    "example": "Marketing measured the affinity after the campaign launch.",
+    "example_zh": "行銷部在活動上線後衡量了這項品牌親和力。"
+  },
+  {
+    "word": "agendaitem",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "議程主題",
+    "example": "We added the agendaitem to the meeting agenda.",
+    "example_zh": "我們已把這項議程項目加入會議議程。"
+  },
+  {
+    "word": "aggregaterate",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "彙總比率",
+    "example": "The analyst highlighted the aggregaterate in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項彙總比率。"
+  },
+  {
+    "word": "agreementterm",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "合約條件",
+    "example": "Legal checked the agreementterm before signing the contract.",
+    "example_zh": "法務在簽約前檢查了這項合約條件。"
+  },
+  {
+    "word": "airfreight",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "空運",
+    "example": "The logistics team updated the airfreight before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項空運。"
+  },
+  {
+    "word": "alert",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Security",
+    "meaning": "警示",
+    "example": "The security team reinforced the alert at the main office.",
+    "example_zh": "資安團隊在總部強化了這項警示。"
+  },
+  {
+    "word": "alignmentplan",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "對齊方案",
+    "example": "The team reviewed the alignmentplan in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項對齊方案。"
+  },
+  {
+    "word": "allowancerate",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "補助比率",
+    "example": "HR reviewed the allowancerate in the monthly people report.",
+    "example_zh": "人資在月度人力報告中審查了這項補助比率。"
+  },
+  {
+    "word": "amortization",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "攤銷",
+    "example": "The finance team reviewed the amortization before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項攤銷。"
+  },
+  {
+    "word": "analysisreport",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "分析報告",
+    "example": "The analyst highlighted the analysisreport in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項分析報告。"
+  },
+  {
+    "word": "announcementmail",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Communication",
+    "meaning": "公告郵件",
+    "example": "The team reviewed the announcementmail in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項公告郵件。"
+  },
+  {
+    "word": "anomaly",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "異常值",
+    "example": "The analyst highlighted the anomaly in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項異常值。"
+  },
+  {
+    "word": "approvalflow",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "核准流程",
+    "example": "Administration filed the approvalflow for record keeping.",
+    "example_zh": "行政部已將這項核准流程完成歸檔。"
+  },
+  {
+    "word": "approvalnote",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "核准通知",
+    "example": "Administration filed the approvalnote for record keeping.",
+    "example_zh": "行政部已將這項核准通知完成歸檔。"
+  },
+  {
+    "word": "arbitrator",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "仲裁人",
+    "example": "Legal checked the arbitrator before signing the contract.",
+    "example_zh": "法務在簽約前檢查了這項仲裁人。"
+  },
+  {
+    "word": "arrival",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "到達時間",
+    "example": "The travel desk confirmed the arrival for the business trip.",
+    "example_zh": "差旅窗口已確認這次出差的到達時間。"
+  },
+  {
+    "word": "assortment",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "商品組合",
+    "example": "Marketing measured the assortment after the campaign launch.",
+    "example_zh": "行銷部在活動上線後衡量了這項商品組合。"
+  },
+  {
+    "word": "auditlog",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "稽核紀錄",
+    "example": "The finance team reviewed the auditlog before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項稽核紀錄。"
+  },
+  {
+    "word": "automationplan",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "自動化計畫",
+    "example": "Operations tracked the automationplan to improve efficiency.",
+    "example_zh": "營運部持續追蹤這項自動化計畫以提升效率。"
+  },
+  {
+    "word": "availabilitycheck",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "可用性檢查",
+    "example": "Operations tracked the availabilitycheck to improve efficiency.",
+    "example_zh": "營運部持續追蹤這項可用性檢查以提升效率。"
+  },
+  {
+    "word": "award",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "獎項",
+    "example": "HR reviewed the award in the monthly people report.",
+    "example_zh": "人資在月度人力報告中審查了這項獎項。"
+  },
+  {
+    "word": "backordercase",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "延遲訂單案件",
+    "example": "The logistics team updated the backordercase before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項延遲訂單案件。"
+  },
+  {
+    "word": "backuplog",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "備援紀錄",
+    "example": "The IT team tested the backuplog before release.",
+    "example_zh": "資訊團隊在發布前測試了這項備援紀錄。"
+  },
+  {
+    "word": "balancebook",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "帳務結存",
+    "example": "The finance team reviewed the balancebook before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項帳務結存。"
+  },
+  {
+    "word": "balancer",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "平衡機制",
+    "example": "Operations tracked the balancer to improve efficiency.",
+    "example_zh": "營運部持續追蹤這項平衡機制以提升效率。"
+  },
+  {
+    "word": "baseline",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "基準線",
+    "example": "The team reviewed the baseline in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項基準線。"
+  },
+  {
+    "word": "batch",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "批次",
+    "example": "The plant manager monitored the batch on the production line.",
+    "example_zh": "廠務主管在線上監控這項批次。"
+  },
+  {
+    "word": "benchmarkrate",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "基準比率",
+    "example": "The analyst highlighted the benchmarkrate in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項基準比率。"
+  },
+  {
+    "word": "bidderlist",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "投標名單",
+    "example": "Purchasing confirmed the bidderlist with the supplier this morning.",
+    "example_zh": "採購今早已向供應商確認這項投標名單。"
+  },
+  {
+    "word": "billingcycle",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "帳單週期",
+    "example": "The finance team reviewed the billingcycle before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項帳單週期。"
+  },
+  {
+    "word": "boardmeeting",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "董事會議",
+    "example": "We added the boardmeeting to the meeting agenda.",
+    "example_zh": "我們已把這項董事會議加入會議議程。"
+  },
+  {
+    "word": "bond",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "債券",
+    "example": "The finance team reviewed the bond before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項債券。"
+  },
+  {
+    "word": "bookerid",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "訂位編號",
+    "example": "The travel desk confirmed the bookerid for the business trip.",
+    "example_zh": "差旅窗口已確認這次出差的訂位編號。"
+  },
+  {
+    "word": "branch",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "分公司",
+    "example": "Administration filed the branch for record keeping.",
+    "example_zh": "行政部已將這項分公司完成歸檔。"
+  },
+  {
+    "word": "breakpointplan",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "臨界應變方案",
+    "example": "The team reviewed the breakpointplan in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項臨界應變方案。"
+  },
+  {
+    "word": "brief",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "簡報摘要",
+    "example": "We added the brief to the meeting agenda.",
+    "example_zh": "我們已把這項簡報摘要加入會議議程。"
+  },
+  {
+    "word": "broadcastmail",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Communication",
+    "meaning": "群發郵件",
+    "example": "The team reviewed the broadcastmail in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項群發郵件。"
+  },
+  {
+    "word": "budgetline",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "預算科目",
+    "example": "The finance team reviewed the budgetline before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項預算科目。"
+  },
+  {
+    "word": "budgetplan",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "預算規劃",
+    "example": "The finance team reviewed the budgetplan before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項預算規劃。"
+  },
+  {
+    "word": "budgetreview",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "預算審查",
+    "example": "The finance team reviewed the budgetreview before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項預算審查。"
+  },
+  {
+    "word": "bufferstock",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "緩衝庫存",
+    "example": "The logistics team updated the bufferstock before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項緩衝庫存。"
+  },
+  {
+    "word": "bulletinmail",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Communication",
+    "meaning": "公告郵件",
+    "example": "The team reviewed the bulletinmail in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項公告郵件。"
+  },
+  {
+    "word": "businessunit",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "事業單位",
+    "example": "Administration filed the businessunit for record keeping.",
+    "example_zh": "行政部已將這項事業單位完成歸檔。"
+  },
+  {
+    "word": "buyerprofile",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "採購輪廓",
+    "example": "Purchasing confirmed the buyerprofile with the supplier this morning.",
+    "example_zh": "採購今早已向供應商確認這項採購輪廓。"
+  },
+  {
+    "word": "calculationsheet",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "計算表",
+    "example": "The finance team reviewed the calculationsheet before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項計算表。"
+  },
+  {
+    "word": "callrecord",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "通話紀錄",
+    "example": "Customer service handled the callrecord within one business day.",
+    "example_zh": "客服在一個工作天內處理了這項通話紀錄。"
+  },
+  {
+    "word": "capacityplan",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "產能規劃",
+    "example": "The plant manager monitored the capacityplan on the production line.",
+    "example_zh": "廠務主管在線上監控這項產能規劃。"
+  },
+  {
+    "word": "cargo",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "貨物",
+    "example": "The logistics team updated the cargo before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項貨物。"
+  },
+  {
+    "word": "catalogue",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "產品型錄",
+    "example": "Marketing measured the catalogue after the campaign launch.",
+    "example_zh": "行銷部在活動上線後衡量了這項產品型錄。"
+  },
+  {
+    "word": "certificationmark",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Quality",
+    "meaning": "認證標章",
+    "example": "The team reviewed the certificationmark in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項認證標章。"
+  },
+  {
+    "word": "chair",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "主席職位",
+    "example": "We added the chair to the meeting agenda.",
+    "example_zh": "我們已把這項主席職位加入會議議程。"
+  },
+  {
+    "word": "checkpointlog",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Quality",
+    "meaning": "檢查點紀錄",
+    "example": "The team reviewed the checkpointlog in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項檢查點紀錄。"
+  },
+  {
+    "word": "clearancecode",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "通關代碼",
+    "example": "The logistics team updated the clearancecode before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項通關代碼。"
+  },
+  {
+    "word": "clientaccount",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Sales",
+    "meaning": "客戶帳戶",
+    "example": "The team reviewed the clientaccount in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項客戶帳戶。"
+  },
+  {
+    "word": "closing",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "結帳作業",
+    "example": "The finance team reviewed the closing before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項結帳作業。"
+  },
+  {
+    "word": "coaching",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "教練式培訓",
+    "example": "The trainer explained the coaching in today's training session.",
+    "example_zh": "講師在今天的訓練課程說明了這項教練式培訓。"
+  },
+  {
+    "word": "codebook",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "代碼手冊",
+    "example": "The IT team tested the codebook before release.",
+    "example_zh": "資訊團隊在發布前測試了這項代碼手冊。"
+  },
+  {
+    "word": "collaborationtool",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Communication",
+    "meaning": "協作工具",
+    "example": "The team reviewed the collaborationtool in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項協作工具。"
+  },
+  {
+    "word": "commissionrate",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Sales",
+    "meaning": "佣金比率",
+    "example": "The team reviewed the commissionrate in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項佣金比率。"
+  },
+  {
+    "word": "communicationplan",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "溝通計畫",
+    "example": "The team reviewed the communicationplan in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項溝通計畫。"
+  },
+  {
+    "word": "complianceaudit",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "合規稽核",
+    "example": "Legal checked the complianceaudit before signing the contract.",
+    "example_zh": "法務在簽約前檢查了這項合規稽核。"
+  },
+  {
+    "word": "complianceofficer",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "合規主管",
+    "example": "Legal checked the complianceofficer before signing the contract.",
+    "example_zh": "法務在簽約前檢查了這項合規主管。"
+  },
+  {
+    "word": "componentlist",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "零件清單",
+    "example": "The plant manager monitored the componentlist on the production line.",
+    "example_zh": "廠務主管在線上監控這項零件清單。"
+  },
+  {
+    "word": "confirmationmail",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Communication",
+    "meaning": "確認郵件",
+    "example": "The team reviewed the confirmationmail in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項確認郵件。"
+  },
+  {
+    "word": "consignmentnote",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "託運單",
+    "example": "The logistics team updated the consignmentnote before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項託運單。"
+  },
+  {
+    "word": "consultation",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "諮詢會談",
+    "example": "Customer service handled the consultation within one business day.",
+    "example_zh": "客服在一個工作天內處理了這項諮詢會談。"
+  },
+  {
+    "word": "contactpoint",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Communication",
+    "meaning": "聯絡窗口",
+    "example": "The team reviewed the contactpoint in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項聯絡窗口。"
+  },
+  {
+    "word": "contingencyplan",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "應變計畫",
+    "example": "The team reviewed the contingencyplan in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項應變計畫。"
+  },
+  {
+    "word": "contractnote",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "合約備註",
+    "example": "Legal checked the contractnote before signing the contract.",
+    "example_zh": "法務在簽約前檢查了這項合約備註。"
+  },
+  {
+    "word": "contributor",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "貢獻者",
+    "example": "The team reviewed the contributor in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項貢獻者。"
+  },
+  {
+    "word": "controlpanel",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "控制面板",
+    "example": "The IT team tested the controlpanel before release.",
+    "example_zh": "資訊團隊在發布前測試了這項控制面板。"
+  },
+  {
+    "word": "conversionrate",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "轉換率",
+    "example": "Marketing measured the conversionrate after the campaign launch.",
+    "example_zh": "行銷部在活動上線後衡量了這項轉換率。"
+  },
+  {
+    "word": "coordinator",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "協調人員",
+    "example": "The team reviewed the coordinator in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項協調人員。"
+  },
+  {
+    "word": "costcenter",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "成本中心",
+    "example": "The finance team reviewed the costcenter before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項成本中心。"
+  },
+  {
+    "word": "costsheet",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "成本表",
+    "example": "The finance team reviewed the costsheet before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項成本表。"
+  },
+  {
+    "word": "counterparty",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "交易對手",
+    "example": "The finance team reviewed the counterparty before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項交易對手。"
+  },
+  {
+    "word": "coverageplan",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "保障方案",
+    "example": "The finance team reviewed the coverageplan before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項保障方案。"
+  },
+  {
+    "word": "creditcheck",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "信用審查",
+    "example": "The finance team reviewed the creditcheck before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項信用審查。"
+  },
+  {
+    "word": "creditlimit",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "信用額度",
+    "example": "The finance team reviewed the creditlimit before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項信用額度。"
+  },
+  {
+    "word": "criteria",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "評估準則",
+    "example": "The analyst highlighted the criteria in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項評估準則。"
+  },
+  {
+    "word": "crmrecord",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Sales",
+    "meaning": "客戶關係紀錄",
+    "example": "The team reviewed the crmrecord in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項客戶關係紀錄。"
+  },
+  {
+    "word": "curriculum",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "課程規劃",
+    "example": "The trainer explained the curriculum in today's training session.",
+    "example_zh": "講師在今天的訓練課程說明了這項課程規劃。"
+  },
+  {
+    "word": "customerfile",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "客戶檔案",
+    "example": "Customer service handled the customerfile within one business day.",
+    "example_zh": "客服在一個工作天內處理了這項客戶檔案。"
+  },
+  {
+    "word": "customs",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "海關程序",
+    "example": "The logistics team updated the customs before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項海關程序。"
+  },
+  {
+    "word": "dashboardview",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "儀表板視圖",
+    "example": "The analyst highlighted the dashboardview in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項儀表板視圖。"
+  },
+  {
+    "word": "datahub",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "數據中台",
+    "example": "The IT team tested the datahub before release.",
+    "example_zh": "資訊團隊在發布前測試了這項數據中台。"
+  },
+  {
+    "word": "datalake",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "數據湖",
+    "example": "The IT team tested the datalake before release.",
+    "example_zh": "資訊團隊在發布前測試了這項數據湖。"
+  },
+  {
+    "word": "datamart",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "資料市集",
+    "example": "The IT team tested the datamart before release.",
+    "example_zh": "資訊團隊在發布前測試了這項資料市集。"
+  },
+  {
+    "word": "datavalue",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "資料值",
+    "example": "The analyst highlighted the datavalue in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項資料值。"
+  },
+  {
+    "word": "debit",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "借記",
+    "example": "The finance team reviewed the debit before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項借記。"
+  },
+  {
+    "word": "decisionlog",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "決策紀錄",
+    "example": "The team reviewed the decisionlog in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項決策紀錄。"
+  },
+  {
+    "word": "deductionitem",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "扣減款目",
+    "example": "The finance team reviewed the deductionitem before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項扣減項目。"
+  },
+  {
+    "word": "defectrate",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Quality",
+    "meaning": "瑕疵率",
+    "example": "The team reviewed the defectrate in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項瑕疵率。"
+  },
+  {
+    "word": "deliverystatus",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "交貨狀態",
+    "example": "The logistics team updated the deliverystatus before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項交貨狀態。"
+  },
+  {
+    "word": "demandplan",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Sales",
+    "meaning": "需求規劃",
+    "example": "The team reviewed the demandplan in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項需求規劃。"
+  },
+  {
+    "word": "departmenthead",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "部門主管",
+    "example": "HR reviewed the departmenthead in the monthly people report.",
+    "example_zh": "人資在月度人力報告中審查了這項部門主管。"
+  },
+  {
+    "word": "departuretime",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "出發時間",
+    "example": "The travel desk confirmed the departuretime for the business trip.",
+    "example_zh": "差旅窗口已確認這次出差的出發時間。"
+  },
+  {
+    "word": "dependency",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "相依關係",
+    "example": "The team reviewed the dependency in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項相依項目。"
+  },
+  {
+    "word": "deployment",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "部署作業",
+    "example": "The IT team tested the deployment before release.",
+    "example_zh": "資訊團隊在發布前測試了這項部署作業。"
+  },
+  {
+    "word": "deviationrate",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Quality",
+    "meaning": "偏差率",
+    "example": "The team reviewed the deviationrate in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項偏差率。"
+  },
+  {
+    "word": "dialogue",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Communication",
+    "meaning": "對話紀錄",
+    "example": "The team reviewed the dialogue in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項對話紀錄。"
+  },
+  {
+    "word": "digitalization",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "數位轉型",
+    "example": "The IT team tested the digitalization before release.",
+    "example_zh": "資訊團隊在發布前測試了這項數位轉型。"
+  },
+  {
+    "word": "directive",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "指導方針",
+    "example": "Administration filed the directive for record keeping.",
+    "example_zh": "行政部已將這項指導方針完成歸檔。"
+  },
+  {
+    "word": "discrepancyreport",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "差異報告",
+    "example": "The analyst highlighted the discrepancyreport in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項差異報告。"
+  },
+  {
+    "word": "dispatchnote",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "派送單",
+    "example": "The logistics team updated the dispatchnote before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項派送單。"
+  },
+  {
+    "word": "distributioncenter",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "配送中心",
+    "example": "The logistics team updated the distributioncenter before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項配送中心。"
+  },
+  {
+    "word": "document",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "文件",
+    "example": "Administration filed the document for record keeping.",
+    "example_zh": "行政部已將這項文件完成歸檔。"
+  },
+  {
+    "word": "documentcontrol",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Quality",
+    "meaning": "文件管制",
+    "example": "The team reviewed the documentcontrol in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項文件管制。"
+  },
+  {
+    "word": "donor",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "捐助方",
+    "example": "Administration filed the donor for record keeping.",
+    "example_zh": "行政部已將這項捐助方完成歸檔。"
+  },
+  {
+    "word": "draftversion",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "草案版本",
+    "example": "Legal checked the draftversion before signing the contract.",
+    "example_zh": "法務在簽約前檢查了這項草案版本。"
+  },
+  {
+    "word": "driverlicense",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "駕照資訊",
+    "example": "The travel desk confirmed the driverlicense for the business trip.",
+    "example_zh": "差旅窗口已確認這次出差的駕照資訊。"
+  },
+  {
+    "word": "dueamount",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "應付金額",
+    "example": "The finance team reviewed the dueamount before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項應付金額。"
+  },
+  {
+    "word": "durationplan",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Schedule",
+    "meaning": "時程安排",
+    "example": "The coordinator adjusted the durationplan for next week.",
+    "example_zh": "協調人員已調整下週的時程安排。"
+  },
+  {
+    "word": "earningreport",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "收益報告",
+    "example": "The finance team reviewed the earningreport before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項收益報告。"
+  },
+  {
+    "word": "ecosystem",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Strategy",
+    "meaning": "合作生態系",
+    "example": "The leadership team reviewed the ecosystem in the quarterly meeting.",
+    "example_zh": "管理層在季度會議檢視了這項合作生態系。"
+  },
+  {
+    "word": "editor",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Communication",
+    "meaning": "編輯人員",
+    "example": "The team reviewed the editor in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項編輯人員。"
+  },
+  {
+    "word": "effort",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "投入程度",
+    "example": "The team reviewed the effort in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項投入程度。"
+  },
+  {
+    "word": "eligibilitycheck",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "資格審查",
+    "example": "HR discussed the eligibilitycheck during the interview process.",
+    "example_zh": "人資在面試流程中討論了這項資格審查。"
+  },
+  {
+    "word": "emergencyplan",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "緊急應變計畫",
+    "example": "Operations tracked the emergencyplan to improve efficiency.",
+    "example_zh": "營運部持續追蹤這項緊急應變計畫以提升效率。"
+  },
+  {
+    "word": "enterprise",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "企業體",
+    "example": "Administration filed the enterprise for record keeping.",
+    "example_zh": "行政部已將這項企業體完成歸檔。"
+  },
+  {
+    "word": "entry",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "入場資料",
+    "example": "Administration filed the entry for record keeping.",
+    "example_zh": "行政部已將這項入場資料完成歸檔。"
+  },
+  {
+    "word": "escalationpath",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "升級路徑",
+    "example": "Customer service handled the escalationpath within one business day.",
+    "example_zh": "客服在一個工作天內處理了這項升級路徑。"
+  },
+  {
+    "word": "estimator",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "估算工具",
+    "example": "The team reviewed the estimator in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項估算工具。"
+  },
+  {
+    "word": "ethics",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "職業倫理",
+    "example": "HR reviewed the ethics in the monthly people report.",
+    "example_zh": "人資在月度人力報告中審查了這項職業倫理。"
+  },
+  {
+    "word": "exception",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "例外案件",
+    "example": "Customer service handled the exception within one business day.",
+    "example_zh": "客服在一個工作天內處理了這項例外案件。"
+  },
+  {
+    "word": "exhibit",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "展示品",
+    "example": "Marketing measured the exhibit after the campaign launch.",
+    "example_zh": "行銷部在活動上線後衡量了這項展示品。"
+  },
+  {
+    "word": "expense",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "費用",
+    "example": "The finance team reviewed the expense before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項費用。"
+  },
+  {
+    "word": "exposurerate",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "曝光比率",
+    "example": "Marketing measured the exposurerate after the campaign launch.",
+    "example_zh": "行銷部在活動上線後衡量了這項曝光比率。"
+  },
+  {
+    "word": "factor",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "關鍵因素",
+    "example": "The analyst highlighted the factor in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項關鍵因素。"
+  },
+  {
+    "word": "failure",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Quality",
+    "meaning": "失敗案例",
+    "example": "The team reviewed the failure in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項失敗案例。"
+  },
+  {
+    "word": "feature",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "功能特色",
+    "example": "Marketing measured the feature after the campaign launch.",
+    "example_zh": "行銷部在活動上線後衡量了這項功能特色。"
+  },
+  {
+    "word": "filingnote",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "歸檔註記",
+    "example": "Administration filed the filingnote for record keeping.",
+    "example_zh": "行政部已將這項歸檔註記完成歸檔。"
+  },
+  {
+    "word": "firm",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "公司法人",
+    "example": "Administration filed the firm for record keeping.",
+    "example_zh": "行政部已將這項公司法人完成歸檔。"
+  },
+  {
+    "word": "fleet",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "車隊",
+    "example": "The logistics team updated the fleet before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項車隊。"
+  },
+  {
+    "word": "followup",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "後續追蹤",
+    "example": "Customer service handled the followup within one business day.",
+    "example_zh": "客服在一個工作天內處理了這項後續追蹤。"
+  },
+  {
+    "word": "forecastsheet",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "預測表",
+    "example": "The analyst highlighted the forecastsheet in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項預測表。"
+  },
+  {
+    "word": "form",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "表單",
+    "example": "Administration filed the form for record keeping.",
+    "example_zh": "行政部已將這項表單完成歸檔。"
+  },
+  {
+    "word": "frequency",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "頻率",
+    "example": "The analyst highlighted the frequency in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項頻率。"
+  },
+  {
+    "word": "frontdesk",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "前台接待",
+    "example": "Customer service handled the frontdesk within one business day.",
+    "example_zh": "客服在一個工作天內處理了這項前台接待。"
+  },
+  {
+    "word": "fund",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "基金",
+    "example": "The finance team reviewed the fund before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項基金。"
+  },
+  {
+    "word": "funnel",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Sales",
+    "meaning": "銷售漏斗",
+    "example": "The team reviewed the funnel in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項銷售漏斗。"
+  },
+  {
+    "word": "gain",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "收益增幅",
+    "example": "The finance team reviewed the gain before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項收益增幅。"
+  },
+  {
+    "word": "gatewayservice",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "閘道服務",
+    "example": "The IT team tested the gatewayservice before release.",
+    "example_zh": "資訊團隊在發布前測試了這項閘道服務。"
+  },
+  {
+    "word": "goalline",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Strategy",
+    "meaning": "目標線",
+    "example": "The leadership team reviewed the goalline in the quarterly meeting.",
+    "example_zh": "管理層在季度會議檢視了這項目標線。"
+  },
+  {
+    "word": "governor",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "主管機關代表",
+    "example": "Administration filed the governor for record keeping.",
+    "example_zh": "行政部已將這項主管機關代表完成歸檔。"
+  },
+  {
+    "word": "graph",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "圖表",
+    "example": "The analyst highlighted the graph in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項圖表。"
+  },
+  {
+    "word": "group",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "工作小組",
+    "example": "The team reviewed the group in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項工作小組。"
+  },
+  {
+    "word": "handlingfee",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "手續費",
+    "example": "The finance team reviewed the handlingfee before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項手續費。"
+  },
+  {
+    "word": "handoff",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "交接節點",
+    "example": "The team reviewed the handoff in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項交接節點。"
+  },
+  {
+    "word": "headroom",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "預留空間",
+    "example": "The finance team reviewed the headroom before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項預留空間。"
+  },
+  {
+    "word": "helpdesk",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "服務台",
+    "example": "Customer service handled the helpdesk within one business day.",
+    "example_zh": "客服在一個工作天內處理了這項服務台。"
+  },
+  {
+    "word": "hierarchychart",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "層級圖",
+    "example": "Administration filed the hierarchychart for record keeping.",
+    "example_zh": "行政部已將這項層級圖完成歸檔。"
+  },
+  {
+    "word": "highlightnote",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "重點註記",
+    "example": "The analyst highlighted the highlightnote in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項重點註記。"
+  },
+  {
+    "word": "host",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "主辦單位",
+    "example": "We added the host to the meeting agenda.",
+    "example_zh": "我們已把這項主辦單位加入會議議程。"
+  },
+  {
+    "word": "hotspot",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "熱點區域",
+    "example": "Marketing measured the hotspot after the campaign launch.",
+    "example_zh": "行銷部在活動上線後衡量了這項熱點區域。"
+  },
+  {
+    "word": "identifier",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "識別碼",
+    "example": "The IT team tested the identifier before release.",
+    "example_zh": "資訊團隊在發布前測試了這項識別碼。"
+  },
+  {
+    "word": "impact",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "影響程度",
+    "example": "The analyst highlighted the impact in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項影響程度。"
+  },
+  {
+    "word": "import",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "進口流程",
+    "example": "The logistics team updated the import before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項進口流程。"
+  },
+  {
+    "word": "inbound",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "入庫流程",
+    "example": "The logistics team updated the inbound before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項入庫流程。"
+  },
+  {
+    "word": "incidence",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "發生率",
+    "example": "The analyst highlighted the incidence in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項發生率。"
+  },
+  {
+    "word": "index",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "指數",
+    "example": "The finance team reviewed the index before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項指數。"
+  },
+  {
+    "word": "influence",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "影響力",
+    "example": "Marketing measured the influence after the campaign launch.",
+    "example_zh": "行銷部在活動上線後衡量了這項影響力。"
+  },
+  {
+    "word": "insight",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "洞察",
+    "example": "The analyst highlighted the insight in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項洞察。"
+  },
+  {
+    "word": "inspectionlog",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Quality",
+    "meaning": "檢驗紀錄",
+    "example": "The team reviewed the inspectionlog in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項檢驗紀錄。"
+  },
+  {
+    "word": "installer",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "安裝人員",
+    "example": "Operations tracked the installer to improve efficiency.",
+    "example_zh": "營運部持續追蹤這項安裝人員以提升效率。"
+  },
+  {
+    "word": "institution",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "機構",
+    "example": "Administration filed the institution for record keeping.",
+    "example_zh": "行政部已將這項機構完成歸檔。"
+  },
+  {
+    "word": "instructionset",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "操作指引",
+    "example": "The trainer explained the instructionset in today's training session.",
+    "example_zh": "講師在今天的訓練課程說明了這項操作指引。"
+  },
+  {
+    "word": "intake",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "收件量",
+    "example": "Customer service handled the intake within one business day.",
+    "example_zh": "客服在一個工作天內處理了這項收件量。"
+  },
+  {
+    "word": "interviewer",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "面試官",
+    "example": "HR discussed the interviewer during the interview process.",
+    "example_zh": "人資在面試流程中討論了這項面試官。"
+  },
+  {
+    "word": "inventoryplan",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "庫存規劃",
+    "example": "The logistics team updated the inventoryplan before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項庫存規劃。"
+  },
+  {
+    "word": "issue",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "議題",
+    "example": "We added the issue to the meeting agenda.",
+    "example_zh": "我們已把這項議題加入會議議程。"
+  },
+  {
+    "word": "itemcode",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "品項代碼",
+    "example": "The logistics team updated the itemcode before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項品項代碼。"
+  },
+  {
+    "word": "jobtitle",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "職稱",
+    "example": "HR reviewed the jobtitle in the monthly people report.",
+    "example_zh": "人資在月度人力報告中審查了這項職稱。"
+  },
+  {
+    "word": "journal",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "分錄簿",
+    "example": "The finance team reviewed the journal before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項分錄簿。"
+  },
+  {
+    "word": "judge",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "評審委員",
+    "example": "HR discussed the judge during the interview process.",
+    "example_zh": "人資在面試流程中討論了這項評審委員。"
+  },
+  {
+    "word": "justificationnote",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "合理性說明",
+    "example": "The analyst highlighted the justificationnote in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項合理性說明。"
+  },
+  {
+    "word": "keyresult",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Strategy",
+    "meaning": "關鍵成果",
+    "example": "The leadership team reviewed the keyresult in the quarterly meeting.",
+    "example_zh": "管理層在季度會議檢視了這項關鍵成果。"
+  },
+  {
+    "word": "knowledgebase",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "知識庫",
+    "example": "The trainer explained the knowledgebase in today's training session.",
+    "example_zh": "講師在今天的訓練課程說明了這項知識庫。"
+  },
+  {
+    "word": "label",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "標籤",
+    "example": "The logistics team updated the label before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項標籤。"
+  },
+  {
+    "word": "landing",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "落地頁",
+    "example": "Marketing measured the landing after the campaign launch.",
+    "example_zh": "行銷部在活動上線後衡量了這項落地頁。"
+  },
+  {
+    "word": "landscape",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Strategy",
+    "meaning": "市場版圖",
+    "example": "The leadership team reviewed the landscape in the quarterly meeting.",
+    "example_zh": "管理層在季度會議檢視了這項市場版圖。"
+  },
+  {
+    "word": "lead",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Sales",
+    "meaning": "潛在客戶",
+    "example": "The team reviewed the lead in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項潛在客戶。"
+  },
+  {
+    "word": "leakage",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "流失率",
+    "example": "Customer service handled the leakage within one business day.",
+    "example_zh": "客服在一個工作天內處理了這項流失率。"
+  },
+  {
+    "word": "learning",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "學習進度",
+    "example": "The trainer explained the learning in today's training session.",
+    "example_zh": "講師在今天的訓練課程說明了這項學習進度。"
+  },
+  {
+    "word": "leasehold",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "租賃權",
+    "example": "Legal checked the leasehold before signing the contract.",
+    "example_zh": "法務在簽約前檢查了這項租賃權。"
+  },
+  {
+    "word": "ledgerentry",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "帳簿分錄",
+    "example": "The finance team reviewed the ledgerentry before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項帳簿分錄。"
+  },
+  {
+    "word": "liabilitynote",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "負債說明",
+    "example": "The finance team reviewed the liabilitynote before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項負債說明。"
+  },
+  {
+    "word": "lifecycle",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "生命週期",
+    "example": "Operations tracked the lifecycle to improve efficiency.",
+    "example_zh": "營運部持續追蹤這項生命週期以提升效率。"
+  },
+  {
+    "word": "lifetimevalue",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "客戶終身價值",
+    "example": "Marketing measured the lifetimevalue after the campaign launch.",
+    "example_zh": "行銷部在活動上線後衡量了這項客戶終身價值。"
+  },
+  {
+    "word": "limitation",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "限制條件",
+    "example": "The team reviewed the limitation in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項限制條件。"
+  },
+  {
+    "word": "linkage",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "連動關係",
+    "example": "The team reviewed the linkage in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項連動關係。"
+  },
+  {
+    "word": "logbook",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "記錄簿",
+    "example": "Operations tracked the logbook to improve efficiency.",
+    "example_zh": "營運部持續追蹤這項記錄簿以提升效率。"
+  },
+  {
+    "word": "mailing",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Communication",
+    "meaning": "郵件發送",
+    "example": "The team reviewed the mailing in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項郵件發送。"
+  },
+  {
+    "word": "manifest",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "裝載清單",
+    "example": "The logistics team updated the manifest before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項裝載清單。"
+  },
+  {
+    "word": "manual",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "操作手冊",
+    "example": "The trainer explained the manual in today's training session.",
+    "example_zh": "講師在今天的訓練課程說明了這項操作手冊。"
+  },
+  {
+    "word": "mapping",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "對應表",
+    "example": "The IT team tested the mapping before release.",
+    "example_zh": "資訊團隊在發布前測試了這項對應表。"
+  },
+  {
+    "word": "marker",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "標記",
+    "example": "The analyst highlighted the marker in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項標記。"
+  },
+  {
+    "word": "matrix",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "矩陣",
+    "example": "The team reviewed the matrix in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項矩陣。"
+  },
+  {
+    "word": "merchandise",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Sales",
+    "meaning": "商品",
+    "example": "The team reviewed the merchandise in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項商品。"
+  },
+  {
+    "word": "message",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Communication",
+    "meaning": "訊息",
+    "example": "The team reviewed the message in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項訊息。"
+  },
+  {
+    "word": "method",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "方法",
+    "example": "The trainer explained the method in today's training session.",
+    "example_zh": "講師在今天的訓練課程說明了這項方法。"
+  },
+  {
+    "word": "minutes",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "會議記錄",
+    "example": "We added the minutes to the meeting agenda.",
+    "example_zh": "我們已把這項會議記錄加入會議議程。"
+  },
+  {
+    "word": "module",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "模組",
+    "example": "The IT team tested the module before release.",
+    "example_zh": "資訊團隊在發布前測試了這項模組。"
+  },
+  {
+    "word": "momentum",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Strategy",
+    "meaning": "動能",
+    "example": "The leadership team reviewed the momentum in the quarterly meeting.",
+    "example_zh": "管理層在季度會議檢視了這項動能。"
+  },
+  {
+    "word": "monitor",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "監測器",
+    "example": "Operations tracked the monitor to improve efficiency.",
+    "example_zh": "營運部持續追蹤這項監測器以提升效率。"
+  },
+  {
+    "word": "multiplier",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "倍數因子",
+    "example": "The finance team reviewed the multiplier before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項倍數因子。"
+  },
+  {
+    "word": "negotiator",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "談判代表",
+    "example": "Legal checked the negotiator before signing the contract.",
+    "example_zh": "法務在簽約前檢查了這項談判代表。"
+  },
+  {
+    "word": "newsroom",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Communication",
+    "meaning": "新聞室",
+    "example": "The team reviewed the newsroom in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項新聞室。"
+  },
+  {
+    "word": "notebook",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Office",
+    "meaning": "工作筆記",
+    "example": "The office manager prepared the notebook for the new staff.",
+    "example_zh": "辦公室管理員已為新同仁準備這項工作筆記。"
+  },
+  {
+    "word": "objectivekey",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Strategy",
+    "meaning": "目標關鍵值",
+    "example": "The leadership team reviewed the objectivekey in the quarterly meeting.",
+    "example_zh": "管理層在季度會議檢視了這項目標關鍵值。"
+  },
+  {
+    "word": "oncall",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "值班安排",
+    "example": "Customer service handled the oncall within one business day.",
+    "example_zh": "客服在一個工作天內處理了這項值班安排。"
+  },
+  {
+    "word": "opener",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "開場簡報",
+    "example": "We added the opener to the meeting agenda.",
+    "example_zh": "我們已把這項開場簡報加入會議議程。"
+  },
+  {
+    "word": "operand",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "運算項",
+    "example": "The IT team tested the operand before release.",
+    "example_zh": "資訊團隊在發布前測試了這項運算項。"
+  },
+  {
+    "word": "operationplan",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "營運計畫",
+    "example": "Operations tracked the operationplan to improve efficiency.",
+    "example_zh": "營運部持續追蹤這項營運計畫以提升效率。"
+  },
+  {
+    "word": "operatorid",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "操作員編號",
+    "example": "Operations tracked the operatorid to improve efficiency.",
+    "example_zh": "營運部持續追蹤這項操作員編號以提升效率。"
+  },
+  {
+    "word": "orderbook",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Sales",
+    "meaning": "訂單簿",
+    "example": "The team reviewed the orderbook in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項訂單簿。"
+  },
+  {
+    "word": "organizer",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "主辦單位",
+    "example": "We added the organizer to the meeting agenda.",
+    "example_zh": "我們已把這項主辦單位加入會議議程。"
+  },
+  {
+    "word": "outbound",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "出庫流程",
+    "example": "The logistics team updated the outbound before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項出庫流程。"
+  },
+  {
+    "word": "outlook",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Strategy",
+    "meaning": "展望",
+    "example": "The leadership team reviewed the outlook in the quarterly meeting.",
+    "example_zh": "管理層在季度會議檢視了這項展望。"
+  },
+  {
+    "word": "overviewdeck",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "概覽簡報",
+    "example": "We added the overviewdeck to the meeting agenda.",
+    "example_zh": "我們已把這項概覽簡報加入會議議程。"
+  },
+  {
+    "word": "ownershipmap",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "權責圖",
+    "example": "The team reviewed the ownershipmap in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項權責圖。"
+  },
+  {
+    "word": "packet",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "資料封包",
+    "example": "The IT team tested the packet before release.",
+    "example_zh": "資訊團隊在發布前測試了這項資料封包。"
+  },
+  {
+    "word": "panel",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "討論小組",
+    "example": "We added the panel to the meeting agenda.",
+    "example_zh": "我們已把這項討論小組加入會議議程。"
+  },
+  {
+    "word": "parameter",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "參數",
+    "example": "The IT team tested the parameter before release.",
+    "example_zh": "資訊團隊在發布前測試了這項參數。"
+  },
+  {
+    "word": "partner",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Strategy",
+    "meaning": "合作夥伴",
+    "example": "The leadership team reviewed the partner in the quarterly meeting.",
+    "example_zh": "管理層在季度會議檢視了這項合作夥伴。"
+  },
+  {
+    "word": "passenger",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "乘客",
+    "example": "The travel desk confirmed the passenger for the business trip.",
+    "example_zh": "差旅窗口已確認這次出差的乘客。"
+  },
+  {
+    "word": "pathway",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "執行路徑",
+    "example": "The team reviewed the pathway in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項執行路徑。"
+  },
+  {
+    "word": "payee",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "收款人",
+    "example": "The finance team reviewed the payee before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項收款人。"
+  },
+  {
+    "word": "paymentterm",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "付款條件",
+    "example": "The finance team reviewed the paymentterm before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項付款條件。"
+  },
+  {
+    "word": "paystub",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "薪資單",
+    "example": "HR reviewed the paystub in the monthly people report.",
+    "example_zh": "人資在月度人力報告中審查了這項薪資單。"
+  },
+  {
+    "word": "percentage",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "百分比",
+    "example": "The analyst highlighted the percentage in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項百分比。"
+  },
+  {
+    "word": "phase",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "階段",
+    "example": "The team reviewed the phase in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項階段。"
+  },
+  {
+    "word": "planner",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Schedule",
+    "meaning": "規劃人員",
+    "example": "The coordinator adjusted the planner for next week.",
+    "example_zh": "協調人員已調整下週的規劃人員。"
+  },
+  {
+    "word": "portfolioitem",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "投組成分",
+    "example": "The finance team reviewed the portfolioitem before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項投組項目。"
+  },
+  {
+    "word": "posting",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Communication",
+    "meaning": "公告貼文",
+    "example": "The team reviewed the posting in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項公告貼文。"
+  },
+  {
+    "word": "potentialclient",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Sales",
+    "meaning": "潛在客戶",
+    "example": "The team reviewed the potentialclient in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項潛在客戶。"
+  },
+  {
+    "word": "preference",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "偏好",
+    "example": "Marketing measured the preference after the campaign launch.",
+    "example_zh": "行銷部在活動上線後衡量了這項偏好。"
+  },
+  {
+    "word": "premium",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "保費",
+    "example": "The finance team reviewed the premium before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項保費。"
+  },
+  {
+    "word": "presenter",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "報告者",
+    "example": "We added the presenter to the meeting agenda.",
+    "example_zh": "我們已把這項報告者加入會議議程。"
+  },
+  {
+    "word": "processmap",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "流程圖",
+    "example": "Operations tracked the processmap to improve efficiency.",
+    "example_zh": "營運部持續追蹤這項流程圖以提升效率。"
+  },
+  {
+    "word": "processor",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "運算器",
+    "example": "The IT team tested the processor before release.",
+    "example_zh": "資訊團隊在發布前測試了這項處理器。"
+  },
+  {
+    "word": "procurementplan",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "採購規劃",
+    "example": "Purchasing confirmed the procurementplan with the supplier this morning.",
+    "example_zh": "採購今早已向供應商確認這項採購規劃。"
+  },
+  {
+    "word": "productionplan",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "生產計畫",
+    "example": "The plant manager monitored the productionplan on the production line.",
+    "example_zh": "廠務主管在線上監控這項生產計畫。"
+  },
+  {
+    "word": "productline",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "產品線",
+    "example": "Marketing measured the productline after the campaign launch.",
+    "example_zh": "行銷部在活動上線後衡量了這項產品線。"
+  },
+  {
+    "word": "profiler",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "分析模型",
+    "example": "The IT team tested the profiler before release.",
+    "example_zh": "資訊團隊在發布前測試了這項分析模型。"
+  },
+  {
+    "word": "program",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "計畫",
+    "example": "The trainer explained the program in today's training session.",
+    "example_zh": "講師在今天的訓練課程說明了這項計畫。"
+  },
+  {
+    "word": "progress",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "進度",
+    "example": "The team reviewed the progress in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項進度。"
+  },
+  {
+    "word": "projector",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "投影設備",
+    "example": "We added the projector to the meeting agenda.",
+    "example_zh": "我們已把這項投影設備加入會議議程。"
+  },
+  {
+    "word": "promotionplan",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "促銷計畫",
+    "example": "Marketing measured the promotionplan after the campaign launch.",
+    "example_zh": "行銷部在活動上線後衡量了這項促銷計畫。"
+  },
+  {
+    "word": "protocolnote",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "流程說明",
+    "example": "Operations tracked the protocolnote to improve efficiency.",
+    "example_zh": "營運部持續追蹤這項流程說明以提升效率。"
+  },
+  {
+    "word": "providerlist",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "供應商清單",
+    "example": "Purchasing confirmed the providerlist with the supplier this morning.",
+    "example_zh": "採購今早已向供應商確認這項供應商清單。"
+  },
+  {
+    "word": "publicrelation",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "公關事務",
+    "example": "Marketing measured the publicrelation after the campaign launch.",
+    "example_zh": "行銷部在活動上線後衡量了這項公關事務。"
+  },
+  {
+    "word": "purchaseorder",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "採購單",
+    "example": "Purchasing confirmed the purchaseorder with the supplier this morning.",
+    "example_zh": "採購今早已向供應商確認這項採購單。"
+  },
+  {
+    "word": "qualitygate",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Quality",
+    "meaning": "品質關卡",
+    "example": "The team reviewed the qualitygate in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項品質關卡。"
+  },
+  {
+    "word": "query",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "查詢請求",
+    "example": "The IT team tested the query before release.",
+    "example_zh": "資訊團隊在發布前測試了這項查詢請求。"
+  },
+  {
+    "word": "queue",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "佇列",
+    "example": "Customer service handled the queue within one business day.",
+    "example_zh": "客服在一個工作天內處理了這項佇列。"
+  },
+  {
+    "word": "quota",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Sales",
+    "meaning": "配額",
+    "example": "The team reviewed the quota in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項配額。"
+  },
+  {
+    "word": "rating",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "評等",
+    "example": "HR reviewed the rating in the monthly people report.",
+    "example_zh": "人資在月度人力報告中審查了這項評等。"
+  },
+  {
+    "word": "rationale",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "決策依據",
+    "example": "The analyst highlighted the rationale in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項決策依據。"
+  },
+  {
+    "word": "receiptlog",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "收據紀錄",
+    "example": "The finance team reviewed the receiptlog before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項收據紀錄。"
+  },
+  {
+    "word": "recipient",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Communication",
+    "meaning": "收件人",
+    "example": "The team reviewed the recipient in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項收件人。"
+  },
+  {
+    "word": "record",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "紀錄",
+    "example": "Administration filed the record for record keeping.",
+    "example_zh": "行政部已將這項紀錄完成歸檔。"
+  },
+  {
+    "word": "recruiter",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "招募人員",
+    "example": "HR discussed the recruiter during the interview process.",
+    "example_zh": "人資在面試流程中討論了這項招募人員。"
+  },
+  {
+    "word": "recovery",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "復原方案",
+    "example": "The IT team tested the recovery before release.",
+    "example_zh": "資訊團隊在發布前測試了這項復原方案。"
+  },
+  {
+    "word": "referral",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "推薦來源",
+    "example": "HR discussed the referral during the interview process.",
+    "example_zh": "人資在面試流程中討論了這項推薦來源。"
+  },
+  {
+    "word": "referencecode",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "參考代碼",
+    "example": "Administration filed the referencecode for record keeping.",
+    "example_zh": "行政部已將這項參考代碼完成歸檔。"
+  },
+  {
+    "word": "reform",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Strategy",
+    "meaning": "改革方案",
+    "example": "The leadership team reviewed the reform in the quarterly meeting.",
+    "example_zh": "管理層在季度會議檢視了這項改革方案。"
+  },
+  {
+    "word": "region",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Sales",
+    "meaning": "區域",
+    "example": "The team reviewed the region in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項區域。"
+  },
+  {
+    "word": "register",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "登錄簿",
+    "example": "Administration filed the register for record keeping.",
+    "example_zh": "行政部已將這項登錄簿完成歸檔。"
+  },
+  {
+    "word": "registry",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "註冊表",
+    "example": "The IT team tested the registry before release.",
+    "example_zh": "資訊團隊在發布前測試了這項註冊表。"
+  },
+  {
+    "word": "reinforcement",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "強化措施",
+    "example": "The trainer explained the reinforcement in today's training session.",
+    "example_zh": "講師在今天的訓練課程說明了這項強化措施。"
+  },
+  {
+    "word": "remittance",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "匯款",
+    "example": "The finance team reviewed the remittance before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項匯款。"
+  },
+  {
+    "word": "removal",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "移除作業",
+    "example": "Operations tracked the removal to improve efficiency.",
+    "example_zh": "營運部持續追蹤這項移除作業以提升效率。"
+  },
+  {
+    "word": "renewal",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "續約",
+    "example": "Legal checked the renewal before signing the contract.",
+    "example_zh": "法務在簽約前檢查了這項續約。"
+  },
+  {
+    "word": "repair",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "維修作業",
+    "example": "Operations tracked the repair to improve efficiency.",
+    "example_zh": "營運部持續追蹤這項維修作業以提升效率。"
+  },
+  {
+    "word": "replacementpart",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "替換零件",
+    "example": "The plant manager monitored the replacementpart on the production line.",
+    "example_zh": "廠務主管在線上監控這項替換零件。"
+  },
+  {
+    "word": "request",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "請求單",
+    "example": "Customer service handled the request within one business day.",
+    "example_zh": "客服在一個工作天內處理了這項請求單。"
+  },
+  {
+    "word": "requirementdoc",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Project",
+    "meaning": "需求文件",
+    "example": "The team reviewed the requirementdoc in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項需求文件。"
+  },
+  {
+    "word": "reservationcode",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "訂位代碼",
+    "example": "The travel desk confirmed the reservationcode for the business trip.",
+    "example_zh": "差旅窗口已確認這次出差的訂位代碼。"
+  },
+  {
+    "word": "reserve",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "準備金",
+    "example": "The finance team reviewed the reserve before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項準備金。"
+  },
+  {
+    "word": "resilience",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Strategy",
+    "meaning": "韌性",
+    "example": "The leadership team reviewed the resilience in the quarterly meeting.",
+    "example_zh": "管理層在季度會議檢視了這項韌性。"
+  },
+  {
+    "word": "response",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Communication",
+    "meaning": "回覆",
+    "example": "The team reviewed the response in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項回覆。"
+  },
+  {
+    "word": "restructure",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Strategy",
+    "meaning": "重整方案",
+    "example": "The leadership team reviewed the restructure in the quarterly meeting.",
+    "example_zh": "管理層在季度會議檢視了這項重整方案。"
+  },
+  {
+    "word": "result",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "結果",
+    "example": "The analyst highlighted the result in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項結果。"
+  },
+  {
+    "word": "retailer",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Sales",
+    "meaning": "零售商",
+    "example": "The team reviewed the retailer in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項零售商。"
+  },
+  {
+    "word": "return",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "退貨流程",
+    "example": "The logistics team updated the return before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項退貨流程。"
+  },
+  {
+    "word": "reviewcycle",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "審查週期",
+    "example": "The analyst highlighted the reviewcycle in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項審查週期。"
+  },
+  {
+    "word": "roadshow",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "巡迴說明會",
+    "example": "Marketing measured the roadshow after the campaign launch.",
+    "example_zh": "行銷部在活動上線後衡量了這項巡迴說明會。"
+  },
+  {
+    "word": "role",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "角色職責",
+    "example": "HR reviewed the role in the monthly people report.",
+    "example_zh": "人資在月度人力報告中審查了這項角色職責。"
+  },
+  {
+    "word": "route",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "路線",
+    "example": "The logistics team updated the route before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項路線。"
+  },
+  {
+    "word": "rulebook",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "規範手冊",
+    "example": "Legal checked the rulebook before signing the contract.",
+    "example_zh": "法務在簽約前檢查了這項規範手冊。"
+  },
+  {
+    "word": "runtime",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "執行時間",
+    "example": "The IT team tested the runtime before release.",
+    "example_zh": "資訊團隊在發布前測試了這項執行時間。"
+  },
+  {
+    "word": "safeguardplan",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Security",
+    "meaning": "防護計畫",
+    "example": "The security team reinforced the safeguardplan at the main office.",
+    "example_zh": "資安團隊在總部強化了這項防護計畫。"
+  },
+  {
+    "word": "sampling",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Quality",
+    "meaning": "抽檢",
+    "example": "The team reviewed the sampling in the weekly meeting.",
+    "example_zh": "團隊在每週會議中檢視了這項抽檢。"
+  },
+  {
+    "word": "satisfactionscore",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "滿意度分數",
+    "example": "Customer service handled the satisfactionscore within one business day.",
+    "example_zh": "客服在一個工作天內處理了這項滿意度分數。"
+  },
+  {
+    "word": "scanner",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "掃描設備",
+    "example": "Operations tracked the scanner to improve efficiency.",
+    "example_zh": "營運部持續追蹤這項掃描設備以提升效率。"
+  },
+  {
+    "word": "accountcenter",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "account相關center",
+    "example": "The finance team reviewed the accountcenter before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項account相關center。"
+  },
+  {
+    "word": "accountsheet",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "account相關sheet",
+    "example": "The logistics team updated the accountsheet before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項account相關sheet。"
+  },
+  {
+    "word": "accounttable",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "account相關table",
+    "example": "Purchasing confirmed the accounttable with the supplier this morning.",
+    "example_zh": "採購今早已向供應商確認這項account相關table。"
+  },
+  {
+    "word": "accountboard",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "account相關board",
+    "example": "Legal checked the accountboard before signing the contract.",
+    "example_zh": "法務在簽約前檢查了這項account相關board。"
+  },
+  {
+    "word": "accountpanel",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "account相關panel",
+    "example": "We added the accountpanel to the meeting agenda.",
+    "example_zh": "我們已把這項account相關panel加入會議議程。"
+  },
+  {
+    "word": "accounttracker",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Schedule",
+    "meaning": "account相關tracker",
+    "example": "The coordinator adjusted the accounttracker for next week.",
+    "example_zh": "協調人員已調整下週的account相關tracker。"
+  },
+  {
+    "word": "accountmatrix",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "account相關matri",
+    "example": "The analyst highlighted the accountmatrix in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項account相關matri。"
+  },
+  {
+    "word": "accountlog",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "account相關log",
+    "example": "Marketing measured the accountlog after the campaign launch.",
+    "example_zh": "行銷部在活動上線後衡量了這項account相關log。"
+  },
+  {
+    "word": "accountindex",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "account相關inde",
+    "example": "HR discussed the accountindex during the interview process.",
+    "example_zh": "人資在面試流程中討論了這項account相關inde。"
+  },
+  {
+    "word": "accountsignal",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "account相關signal",
+    "example": "The trainer explained the accountsignal in today's training session.",
+    "example_zh": "講師在今天的訓練課程說明了這項account相關signal。"
+  },
+  {
+    "word": "accountstatus",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "account相關status",
+    "example": "Customer service handled the accountstatus within one business day.",
+    "example_zh": "客服在一個工作天內完成這項account相關status。"
+  },
+  {
+    "word": "accountwindow",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "account相關window",
+    "example": "Operations tracked the accountwindow to improve efficiency.",
+    "example_zh": "營運部持續追蹤這項account相關window以提升效率。"
+  },
+  {
+    "word": "accountcycle",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "account相關cycle",
+    "example": "The plant manager monitored the accountcycle on the production line.",
+    "example_zh": "廠務主管在線上監控這項account相關cycle。"
+  },
+  {
+    "word": "accountstream",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "account相關stream",
+    "example": "The IT team tested the accountstream before release.",
+    "example_zh": "資訊團隊在發布前測試了這項account相關stream。"
+  },
+  {
+    "word": "accountpoint",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Strategy",
+    "meaning": "account相關point",
+    "example": "The leadership team reviewed the accountpoint in the quarterly meeting.",
+    "example_zh": "管理層在季度會議檢視了這項account相關point。"
+  },
+  {
+    "word": "accountscope",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "account相關scope",
+    "example": "Administration filed the accountscope for record keeping.",
+    "example_zh": "行政部已將這項account相關scope完成歸檔。"
+  },
+  {
+    "word": "accountmodule",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Security",
+    "meaning": "account相關module",
+    "example": "The security team reinforced the accountmodule at the main office.",
+    "example_zh": "資安團隊在總部強化了這項account相關module。"
+  },
+  {
+    "word": "accountnode",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "account相關node",
+    "example": "HR reviewed the accountnode in the monthly people report.",
+    "example_zh": "人資在月度人力報告中審查了這項account相關node。"
+  },
+  {
+    "word": "accountroute",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "account相關route",
+    "example": "The travel desk confirmed the accountroute for the business trip.",
+    "example_zh": "差旅窗口已確認這次出差的account相關route。"
+  },
+  {
+    "word": "accountchannel",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Office",
+    "meaning": "account相關channel",
+    "example": "The office manager prepared the accountchannel for the new staff.",
+    "example_zh": "辦公室管理員已為新同仁準備這項account相關channel。"
+  },
+  {
+    "word": "accountgroup",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "account相關group",
+    "example": "The finance team reviewed the accountgroup before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項account相關group。"
+  },
+  {
+    "word": "accountcluster",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "account相關cluster",
+    "example": "The logistics team updated the accountcluster before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項account相關cluster。"
+  },
+  {
+    "word": "accountrecord",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "account相關record",
+    "example": "Purchasing confirmed the accountrecord with the supplier this morning.",
+    "example_zh": "採購今早已向供應商確認這項account相關record。"
+  },
+  {
+    "word": "accountledger",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "account相關ledger",
+    "example": "Legal checked the accountledger before signing the contract.",
+    "example_zh": "法務在簽約前檢查了這項account相關ledger。"
+  },
+  {
+    "word": "accountprofile",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "account相關profile",
+    "example": "We added the accountprofile to the meeting agenda.",
+    "example_zh": "我們已把這項account相關profile加入會議議程。"
+  },
+  {
+    "word": "accountarchive",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Schedule",
+    "meaning": "account相關archive",
+    "example": "The coordinator adjusted the accountarchive for next week.",
+    "example_zh": "協調人員已調整下週的account相關archive。"
+  },
+  {
+    "word": "accountbackup",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "account相關backup",
+    "example": "The analyst highlighted the accountbackup in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項account相關backup。"
+  },
+  {
+    "word": "accountgateway",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "account相關gateway",
+    "example": "Marketing measured the accountgateway after the campaign launch.",
+    "example_zh": "行銷部在活動上線後衡量了這項account相關gateway。"
+  },
+  {
+    "word": "accountportal",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "account相關portal",
+    "example": "HR discussed the accountportal during the interview process.",
+    "example_zh": "人資在面試流程中討論了這項account相關portal。"
+  },
+  {
+    "word": "accountconsole",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "account相關console",
+    "example": "The trainer explained the accountconsole in today's training session.",
+    "example_zh": "講師在今天的訓練課程說明了這項account相關console。"
+  },
+  {
+    "word": "accountguide",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "account相關guide",
+    "example": "Customer service handled the accountguide within one business day.",
+    "example_zh": "客服在一個工作天內完成這項account相關guide。"
+  },
+  {
+    "word": "accountmanual",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "account相關manual",
+    "example": "Operations tracked the accountmanual to improve efficiency.",
+    "example_zh": "營運部持續追蹤這項account相關manual以提升效率。"
+  },
+  {
+    "word": "accountmodel",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "account相關model",
+    "example": "The plant manager monitored the accountmodel on the production line.",
+    "example_zh": "廠務主管在線上監控這項account相關model。"
+  },
+  {
+    "word": "accountfactor",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "account相關factor",
+    "example": "The IT team tested the accountfactor before release.",
+    "example_zh": "資訊團隊在發布前測試了這項account相關factor。"
+  },
+  {
+    "word": "accountmetric",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Strategy",
+    "meaning": "account相關metric",
+    "example": "The leadership team reviewed the accountmetric in the quarterly meeting.",
+    "example_zh": "管理層在季度會議檢視了這項account相關metric。"
+  },
+  {
+    "word": "accountratio",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "account相關ratio",
+    "example": "Administration filed the accountratio for record keeping.",
+    "example_zh": "行政部已將這項account相關ratio完成歸檔。"
+  },
+  {
+    "word": "accountscore",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Security",
+    "meaning": "account相關score",
+    "example": "The security team reinforced the accountscore at the main office.",
+    "example_zh": "資安團隊在總部強化了這項account相關score。"
+  },
+  {
+    "word": "accountrating",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "account相關rating",
+    "example": "HR reviewed the accountrating in the monthly people report.",
+    "example_zh": "人資在月度人力報告中審查了這項account相關rating。"
+  },
+  {
+    "word": "accountbrief",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "account相關brief",
+    "example": "The travel desk confirmed the accountbrief for the business trip.",
+    "example_zh": "差旅窗口已確認這次出差的account相關brief。"
+  },
+  {
+    "word": "accountmemo",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Office",
+    "meaning": "account相關memo",
+    "example": "The office manager prepared the accountmemo for the new staff.",
+    "example_zh": "辦公室管理員已為新同仁準備這項account相關memo。"
+  },
+  {
+    "word": "accountnotice",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "account相關notice",
+    "example": "The finance team reviewed the accountnotice before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項account相關notice。"
+  },
+  {
+    "word": "accountbulletin",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "account相關bulletin",
+    "example": "The logistics team updated the accountbulletin before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項account相關bulletin。"
+  },
+  {
+    "word": "accountregistry",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "account相關registry",
+    "example": "Purchasing confirmed the accountregistry with the supplier this morning.",
+    "example_zh": "採購今早已向供應商確認這項account相關registry。"
+  },
+  {
+    "word": "accountregister",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "account相關register",
+    "example": "Legal checked the accountregister before signing the contract.",
+    "example_zh": "法務在簽約前檢查了這項account相關register。"
+  },
+  {
+    "word": "accountqueue",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "account相關queue",
+    "example": "We added the accountqueue to the meeting agenda.",
+    "example_zh": "我們已把這項account相關queue加入會議議程。"
+  },
+  {
+    "word": "accountticket",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Schedule",
+    "meaning": "account相關ticket",
+    "example": "The coordinator adjusted the accountticket for next week.",
+    "example_zh": "協調人員已調整下週的account相關ticket。"
+  },
+  {
+    "word": "accountpackage",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "account相關package",
+    "example": "The analyst highlighted the accountpackage in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項account相關package。"
+  },
+  {
+    "word": "accountbundle",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "account相關bundle",
+    "example": "Marketing measured the accountbundle after the campaign launch.",
+    "example_zh": "行銷部在活動上線後衡量了這項account相關bundle。"
+  },
+  {
+    "word": "accountoption",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "account相關option",
+    "example": "HR discussed the accountoption during the interview process.",
+    "example_zh": "人資在面試流程中討論了這項account相關option。"
+  },
+  {
+    "word": "accountrange",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "account相關range",
+    "example": "The trainer explained the accountrange in today's training session.",
+    "example_zh": "講師在今天的訓練課程說明了這項account相關range。"
+  },
+  {
+    "word": "accounttarget",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "account相關target",
+    "example": "Customer service handled the accounttarget within one business day.",
+    "example_zh": "客服在一個工作天內完成這項account相關target。"
+  },
+  {
+    "word": "accountdriver",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "account相關driver",
+    "example": "Operations tracked the accountdriver to improve efficiency.",
+    "example_zh": "營運部持續追蹤這項account相關driver以提升效率。"
+  },
+  {
+    "word": "accountmarker",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "account相關marker",
+    "example": "The plant manager monitored the accountmarker on the production line.",
+    "example_zh": "廠務主管在線上監控這項account相關marker。"
+  },
+  {
+    "word": "accountfolder",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "account相關folder",
+    "example": "The IT team tested the accountfolder before release.",
+    "example_zh": "資訊團隊在發布前測試了這項account相關folder。"
+  },
+  {
+    "word": "accountlibrary",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Strategy",
+    "meaning": "account相關library",
+    "example": "The leadership team reviewed the accountlibrary in the quarterly meeting.",
+    "example_zh": "管理層在季度會議檢視了這項account相關library。"
+  },
+  {
+    "word": "accountsummary",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "account相關summary",
+    "example": "Administration filed the accountsummary for record keeping.",
+    "example_zh": "行政部已將這項account相關summary完成歸檔。"
+  },
+  {
+    "word": "accountjournal",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Security",
+    "meaning": "account相關journal",
+    "example": "The security team reinforced the accountjournal at the main office.",
+    "example_zh": "資安團隊在總部強化了這項account相關journal。"
+  },
+  {
+    "word": "accounttimeline",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "account相關timeline",
+    "example": "HR reviewed the accounttimeline in the monthly people report.",
+    "example_zh": "人資在月度人力報告中審查了這項account相關timeline。"
+  },
+  {
+    "word": "accountroadmap",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "account相關roadmap",
+    "example": "The travel desk confirmed the accountroadmap for the business trip.",
+    "example_zh": "差旅窗口已確認這次出差的account相關roadmap。"
+  },
+  {
+    "word": "accountplanner",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Office",
+    "meaning": "account相關planner",
+    "example": "The office manager prepared the accountplanner for the new staff.",
+    "example_zh": "辦公室管理員已為新同仁準備這項account相關planner。"
+  },
+  {
+    "word": "accountplannerx",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "account相關planner",
+    "example": "The finance team reviewed the accountplannerx before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項account相關planner。"
+  },
+  {
+    "word": "accountmonitor",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "account相關monitor",
+    "example": "The logistics team updated the accountmonitor before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項account相關monitor。"
+  },
+  {
+    "word": "accountinspector",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "account相關inspector",
+    "example": "Purchasing confirmed the accountinspector with the supplier this morning.",
+    "example_zh": "採購今早已向供應商確認這項account相關inspector。"
+  },
+  {
+    "word": "accountreviewer",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "account相關reviewer",
+    "example": "Legal checked the accountreviewer before signing the contract.",
+    "example_zh": "法務在簽約前檢查了這項account相關reviewer。"
+  },
+  {
+    "word": "accountvalidator",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "account相關validator",
+    "example": "We added the accountvalidator to the meeting agenda.",
+    "example_zh": "我們已把這項account相關validator加入會議議程。"
+  },
+  {
+    "word": "accountsafeguard",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Schedule",
+    "meaning": "account相關safeguard",
+    "example": "The coordinator adjusted the accountsafeguard for next week.",
+    "example_zh": "協調人員已調整下週的account相關safeguard。"
+  },
+  {
+    "word": "accountcheckpoint",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "account相關checkpoint",
+    "example": "The analyst highlighted the accountcheckpoint in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項account相關checkpoint。"
+  },
+  {
+    "word": "accountmilestone",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "account相關milestone",
+    "example": "Marketing measured the accountmilestone after the campaign launch.",
+    "example_zh": "行銷部在活動上線後衡量了這項account相關milestone。"
+  },
+  {
+    "word": "accounthandbook",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "account相關handbook",
+    "example": "HR discussed the accounthandbook during the interview process.",
+    "example_zh": "人資在面試流程中討論了這項account相關handbook。"
+  },
+  {
+    "word": "accountplaybook",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "account相關playbook",
+    "example": "The trainer explained the accountplaybook in today's training session.",
+    "example_zh": "講師在今天的訓練課程說明了這項account相關playbook。"
+  },
+  {
+    "word": "accountoverview",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "account相關overview",
+    "example": "Customer service handled the accountoverview within one business day.",
+    "example_zh": "客服在一個工作天內完成這項account相關overview。"
+  },
+  {
+    "word": "accountsnapshot",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "account相關snapshot",
+    "example": "Operations tracked the accountsnapshot to improve efficiency.",
+    "example_zh": "營運部持續追蹤這項account相關snapshot以提升效率。"
+  },
+  {
+    "word": "accounttrackerx",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "account相關tracker",
+    "example": "The plant manager monitored the accounttrackerx on the production line.",
+    "example_zh": "廠務主管在線上監控這項account相關tracker。"
+  },
+  {
+    "word": "accountplannerpro",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "account相關plannerpro",
+    "example": "The IT team tested the accountplannerpro before release.",
+    "example_zh": "資訊團隊在發布前測試了這項account相關plannerpro。"
+  },
+  {
+    "word": "budgetcenter",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Strategy",
+    "meaning": "budget相關center",
+    "example": "The leadership team reviewed the budgetcenter in the quarterly meeting.",
+    "example_zh": "管理層在季度會議檢視了這項budget相關center。"
+  },
+  {
+    "word": "budgetsheet",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "budget相關sheet",
+    "example": "Administration filed the budgetsheet for record keeping.",
+    "example_zh": "行政部已將這項budget相關sheet完成歸檔。"
+  },
+  {
+    "word": "budgettable",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Security",
+    "meaning": "budget相關table",
+    "example": "The security team reinforced the budgettable at the main office.",
+    "example_zh": "資安團隊在總部強化了這項budget相關table。"
+  },
+  {
+    "word": "budgetboard",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "budget相關board",
+    "example": "HR reviewed the budgetboard in the monthly people report.",
+    "example_zh": "人資在月度人力報告中審查了這項budget相關board。"
+  },
+  {
+    "word": "budgetpanel",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "budget相關panel",
+    "example": "The travel desk confirmed the budgetpanel for the business trip.",
+    "example_zh": "差旅窗口已確認這次出差的budget相關panel。"
+  },
+  {
+    "word": "budgettracker",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Office",
+    "meaning": "budget相關tracker",
+    "example": "The office manager prepared the budgettracker for the new staff.",
+    "example_zh": "辦公室管理員已為新同仁準備這項budget相關tracker。"
+  },
+  {
+    "word": "budgetmatrix",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "budget相關matri",
+    "example": "The finance team reviewed the budgetmatrix before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項budget相關matri。"
+  },
+  {
+    "word": "budgetlog",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "budget相關log",
+    "example": "The logistics team updated the budgetlog before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項budget相關log。"
+  },
+  {
+    "word": "budgetindex",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "budget相關inde",
+    "example": "Purchasing confirmed the budgetindex with the supplier this morning.",
+    "example_zh": "採購今早已向供應商確認這項budget相關inde。"
+  },
+  {
+    "word": "budgetsignal",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "budget相關signal",
+    "example": "Legal checked the budgetsignal before signing the contract.",
+    "example_zh": "法務在簽約前檢查了這項budget相關signal。"
+  },
+  {
+    "word": "budgetstatus",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "budget相關status",
+    "example": "We added the budgetstatus to the meeting agenda.",
+    "example_zh": "我們已把這項budget相關status加入會議議程。"
+  },
+  {
+    "word": "budgetwindow",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Schedule",
+    "meaning": "budget相關window",
+    "example": "The coordinator adjusted the budgetwindow for next week.",
+    "example_zh": "協調人員已調整下週的budget相關window。"
+  },
+  {
+    "word": "budgetcycle",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "budget相關cycle",
+    "example": "The analyst highlighted the budgetcycle in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項budget相關cycle。"
+  },
+  {
+    "word": "budgetstream",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "budget相關stream",
+    "example": "Marketing measured the budgetstream after the campaign launch.",
+    "example_zh": "行銷部在活動上線後衡量了這項budget相關stream。"
+  },
+  {
+    "word": "budgetpoint",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "budget相關point",
+    "example": "HR discussed the budgetpoint during the interview process.",
+    "example_zh": "人資在面試流程中討論了這項budget相關point。"
+  },
+  {
+    "word": "budgetscope",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "budget相關scope",
+    "example": "The trainer explained the budgetscope in today's training session.",
+    "example_zh": "講師在今天的訓練課程說明了這項budget相關scope。"
+  },
+  {
+    "word": "budgetmodule",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "budget相關module",
+    "example": "Customer service handled the budgetmodule within one business day.",
+    "example_zh": "客服在一個工作天內完成這項budget相關module。"
+  },
+  {
+    "word": "budgetnode",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "budget相關node",
+    "example": "Operations tracked the budgetnode to improve efficiency.",
+    "example_zh": "營運部持續追蹤這項budget相關node以提升效率。"
+  },
+  {
+    "word": "budgetroute",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "budget相關route",
+    "example": "The plant manager monitored the budgetroute on the production line.",
+    "example_zh": "廠務主管在線上監控這項budget相關route。"
+  },
+  {
+    "word": "budgetchannel",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "budget相關channel",
+    "example": "The IT team tested the budgetchannel before release.",
+    "example_zh": "資訊團隊在發布前測試了這項budget相關channel。"
+  },
+  {
+    "word": "budgetgroup",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Strategy",
+    "meaning": "budget相關group",
+    "example": "The leadership team reviewed the budgetgroup in the quarterly meeting.",
+    "example_zh": "管理層在季度會議檢視了這項budget相關group。"
+  },
+  {
+    "word": "budgetcluster",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "budget相關cluster",
+    "example": "Administration filed the budgetcluster for record keeping.",
+    "example_zh": "行政部已將這項budget相關cluster完成歸檔。"
+  },
+  {
+    "word": "budgetrecord",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Security",
+    "meaning": "budget相關record",
+    "example": "The security team reinforced the budgetrecord at the main office.",
+    "example_zh": "資安團隊在總部強化了這項budget相關record。"
+  },
+  {
+    "word": "budgetledger",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "budget相關ledger",
+    "example": "HR reviewed the budgetledger in the monthly people report.",
+    "example_zh": "人資在月度人力報告中審查了這項budget相關ledger。"
+  },
+  {
+    "word": "budgetprofile",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "budget相關profile",
+    "example": "The travel desk confirmed the budgetprofile for the business trip.",
+    "example_zh": "差旅窗口已確認這次出差的budget相關profile。"
+  },
+  {
+    "word": "budgetarchive",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Office",
+    "meaning": "budget相關archive",
+    "example": "The office manager prepared the budgetarchive for the new staff.",
+    "example_zh": "辦公室管理員已為新同仁準備這項budget相關archive。"
+  },
+  {
+    "word": "budgetbackup",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "budget相關backup",
+    "example": "The finance team reviewed the budgetbackup before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項budget相關backup。"
+  },
+  {
+    "word": "budgetgateway",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "budget相關gateway",
+    "example": "The logistics team updated the budgetgateway before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項budget相關gateway。"
+  },
+  {
+    "word": "budgetportal",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "budget相關portal",
+    "example": "Purchasing confirmed the budgetportal with the supplier this morning.",
+    "example_zh": "採購今早已向供應商確認這項budget相關portal。"
+  },
+  {
+    "word": "budgetconsole",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "budget相關console",
+    "example": "Legal checked the budgetconsole before signing the contract.",
+    "example_zh": "法務在簽約前檢查了這項budget相關console。"
+  },
+  {
+    "word": "budgetguide",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "budget相關guide",
+    "example": "We added the budgetguide to the meeting agenda.",
+    "example_zh": "我們已把這項budget相關guide加入會議議程。"
+  },
+  {
+    "word": "budgetmanual",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Schedule",
+    "meaning": "budget相關manual",
+    "example": "The coordinator adjusted the budgetmanual for next week.",
+    "example_zh": "協調人員已調整下週的budget相關manual。"
+  },
+  {
+    "word": "budgetmodel",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "budget相關model",
+    "example": "The analyst highlighted the budgetmodel in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項budget相關model。"
+  },
+  {
+    "word": "budgetfactor",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "budget相關factor",
+    "example": "Marketing measured the budgetfactor after the campaign launch.",
+    "example_zh": "行銷部在活動上線後衡量了這項budget相關factor。"
+  },
+  {
+    "word": "budgetmetric",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "budget相關metric",
+    "example": "HR discussed the budgetmetric during the interview process.",
+    "example_zh": "人資在面試流程中討論了這項budget相關metric。"
+  },
+  {
+    "word": "budgetratio",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "budget相關ratio",
+    "example": "The trainer explained the budgetratio in today's training session.",
+    "example_zh": "講師在今天的訓練課程說明了這項budget相關ratio。"
+  },
+  {
+    "word": "budgetscore",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "budget相關score",
+    "example": "Customer service handled the budgetscore within one business day.",
+    "example_zh": "客服在一個工作天內完成這項budget相關score。"
+  },
+  {
+    "word": "budgetrating",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "budget相關rating",
+    "example": "Operations tracked the budgetrating to improve efficiency.",
+    "example_zh": "營運部持續追蹤這項budget相關rating以提升效率。"
+  },
+  {
+    "word": "budgetbrief",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "budget相關brief",
+    "example": "The plant manager monitored the budgetbrief on the production line.",
+    "example_zh": "廠務主管在線上監控這項budget相關brief。"
+  },
+  {
+    "word": "budgetmemo",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "budget相關memo",
+    "example": "The IT team tested the budgetmemo before release.",
+    "example_zh": "資訊團隊在發布前測試了這項budget相關memo。"
+  },
+  {
+    "word": "budgetnotice",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Strategy",
+    "meaning": "budget相關notice",
+    "example": "The leadership team reviewed the budgetnotice in the quarterly meeting.",
+    "example_zh": "管理層在季度會議檢視了這項budget相關notice。"
+  },
+  {
+    "word": "budgetbulletin",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "budget相關bulletin",
+    "example": "Administration filed the budgetbulletin for record keeping.",
+    "example_zh": "行政部已將這項budget相關bulletin完成歸檔。"
+  },
+  {
+    "word": "budgetregistry",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Security",
+    "meaning": "budget相關registry",
+    "example": "The security team reinforced the budgetregistry at the main office.",
+    "example_zh": "資安團隊在總部強化了這項budget相關registry。"
+  },
+  {
+    "word": "budgetregister",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "budget相關register",
+    "example": "HR reviewed the budgetregister in the monthly people report.",
+    "example_zh": "人資在月度人力報告中審查了這項budget相關register。"
+  },
+  {
+    "word": "budgetqueue",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "budget相關queue",
+    "example": "The travel desk confirmed the budgetqueue for the business trip.",
+    "example_zh": "差旅窗口已確認這次出差的budget相關queue。"
+  },
+  {
+    "word": "budgetticket",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Office",
+    "meaning": "budget相關ticket",
+    "example": "The office manager prepared the budgetticket for the new staff.",
+    "example_zh": "辦公室管理員已為新同仁準備這項budget相關ticket。"
+  },
+  {
+    "word": "budgetpackage",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "budget相關package",
+    "example": "The finance team reviewed the budgetpackage before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項budget相關package。"
+  },
+  {
+    "word": "budgetbundle",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "budget相關bundle",
+    "example": "The logistics team updated the budgetbundle before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項budget相關bundle。"
+  },
+  {
+    "word": "budgetoption",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "budget相關option",
+    "example": "Purchasing confirmed the budgetoption with the supplier this morning.",
+    "example_zh": "採購今早已向供應商確認這項budget相關option。"
+  },
+  {
+    "word": "budgetrange",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "budget相關range",
+    "example": "Legal checked the budgetrange before signing the contract.",
+    "example_zh": "法務在簽約前檢查了這項budget相關range。"
+  },
+  {
+    "word": "budgettarget",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "budget相關target",
+    "example": "We added the budgettarget to the meeting agenda.",
+    "example_zh": "我們已把這項budget相關target加入會議議程。"
+  },
+  {
+    "word": "budgetdriver",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Schedule",
+    "meaning": "budget相關driver",
+    "example": "The coordinator adjusted the budgetdriver for next week.",
+    "example_zh": "協調人員已調整下週的budget相關driver。"
+  },
+  {
+    "word": "budgetmarker",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "budget相關marker",
+    "example": "The analyst highlighted the budgetmarker in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項budget相關marker。"
+  },
+  {
+    "word": "budgetfolder",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "budget相關folder",
+    "example": "Marketing measured the budgetfolder after the campaign launch.",
+    "example_zh": "行銷部在活動上線後衡量了這項budget相關folder。"
+  },
+  {
+    "word": "budgetlibrary",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "budget相關library",
+    "example": "HR discussed the budgetlibrary during the interview process.",
+    "example_zh": "人資在面試流程中討論了這項budget相關library。"
+  },
+  {
+    "word": "budgetsummary",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "budget相關summary",
+    "example": "The trainer explained the budgetsummary in today's training session.",
+    "example_zh": "講師在今天的訓練課程說明了這項budget相關summary。"
+  },
+  {
+    "word": "budgetjournal",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "budget相關journal",
+    "example": "Customer service handled the budgetjournal within one business day.",
+    "example_zh": "客服在一個工作天內完成這項budget相關journal。"
+  },
+  {
+    "word": "budgettimeline",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "budget相關timeline",
+    "example": "Operations tracked the budgettimeline to improve efficiency.",
+    "example_zh": "營運部持續追蹤這項budget相關timeline以提升效率。"
+  },
+  {
+    "word": "budgetroadmap",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "budget相關roadmap",
+    "example": "The plant manager monitored the budgetroadmap on the production line.",
+    "example_zh": "廠務主管在線上監控這項budget相關roadmap。"
+  },
+  {
+    "word": "budgetplanner",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "budget相關planner",
+    "example": "The IT team tested the budgetplanner before release.",
+    "example_zh": "資訊團隊在發布前測試了這項budget相關planner。"
+  },
+  {
+    "word": "budgetplannerx",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Strategy",
+    "meaning": "budget相關planner",
+    "example": "The leadership team reviewed the budgetplannerx in the quarterly meeting.",
+    "example_zh": "管理層在季度會議檢視了這項budget相關planner。"
+  },
+  {
+    "word": "budgetmonitor",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "budget相關monitor",
+    "example": "Administration filed the budgetmonitor for record keeping.",
+    "example_zh": "行政部已將這項budget相關monitor完成歸檔。"
+  },
+  {
+    "word": "budgetinspector",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Security",
+    "meaning": "budget相關inspector",
+    "example": "The security team reinforced the budgetinspector at the main office.",
+    "example_zh": "資安團隊在總部強化了這項budget相關inspector。"
+  },
+  {
+    "word": "budgetreviewer",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "budget相關reviewer",
+    "example": "HR reviewed the budgetreviewer in the monthly people report.",
+    "example_zh": "人資在月度人力報告中審查了這項budget相關reviewer。"
+  },
+  {
+    "word": "budgetvalidator",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "budget相關validator",
+    "example": "The travel desk confirmed the budgetvalidator for the business trip.",
+    "example_zh": "差旅窗口已確認這次出差的budget相關validator。"
+  },
+  {
+    "word": "budgetsafeguard",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Office",
+    "meaning": "budget相關safeguard",
+    "example": "The office manager prepared the budgetsafeguard for the new staff.",
+    "example_zh": "辦公室管理員已為新同仁準備這項budget相關safeguard。"
+  },
+  {
+    "word": "budgetcheckpoint",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "budget相關checkpoint",
+    "example": "The finance team reviewed the budgetcheckpoint before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項budget相關checkpoint。"
+  },
+  {
+    "word": "budgetmilestone",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "budget相關milestone",
+    "example": "The logistics team updated the budgetmilestone before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項budget相關milestone。"
+  },
+  {
+    "word": "budgethandbook",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "budget相關handbook",
+    "example": "Purchasing confirmed the budgethandbook with the supplier this morning.",
+    "example_zh": "採購今早已向供應商確認這項budget相關handbook。"
+  },
+  {
+    "word": "budgetplaybook",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "budget相關playbook",
+    "example": "Legal checked the budgetplaybook before signing the contract.",
+    "example_zh": "法務在簽約前檢查了這項budget相關playbook。"
+  },
+  {
+    "word": "budgetoverview",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "budget相關overview",
+    "example": "We added the budgetoverview to the meeting agenda.",
+    "example_zh": "我們已把這項budget相關overview加入會議議程。"
+  },
+  {
+    "word": "budgetsnapshot",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Schedule",
+    "meaning": "budget相關snapshot",
+    "example": "The coordinator adjusted the budgetsnapshot for next week.",
+    "example_zh": "協調人員已調整下週的budget相關snapshot。"
+  },
+  {
+    "word": "budgettrackerx",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "budget相關tracker",
+    "example": "The analyst highlighted the budgettrackerx in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項budget相關tracker。"
+  },
+  {
+    "word": "budgetplannerpro",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "budget相關plannerpro",
+    "example": "Marketing measured the budgetplannerpro after the campaign launch.",
+    "example_zh": "行銷部在活動上線後衡量了這項budget相關plannerpro。"
+  },
+  {
+    "word": "costtable",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "cost相關table",
+    "example": "HR discussed the costtable during the interview process.",
+    "example_zh": "人資在面試流程中討論了這項cost相關table。"
+  },
+  {
+    "word": "costboard",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "cost相關board",
+    "example": "The trainer explained the costboard in today's training session.",
+    "example_zh": "講師在今天的訓練課程說明了這項cost相關board。"
+  },
+  {
+    "word": "costpanel",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "cost相關panel",
+    "example": "Customer service handled the costpanel within one business day.",
+    "example_zh": "客服在一個工作天內完成這項cost相關panel。"
+  },
+  {
+    "word": "costtracker",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "cost相關tracker",
+    "example": "Operations tracked the costtracker to improve efficiency.",
+    "example_zh": "營運部持續追蹤這項cost相關tracker以提升效率。"
+  },
+  {
+    "word": "costmatrix",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "cost相關matri",
+    "example": "The plant manager monitored the costmatrix on the production line.",
+    "example_zh": "廠務主管在線上監控這項cost相關matri。"
+  },
+  {
+    "word": "costlog",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "cost相關log",
+    "example": "The IT team tested the costlog before release.",
+    "example_zh": "資訊團隊在發布前測試了這項cost相關log。"
+  },
+  {
+    "word": "costindex",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Strategy",
+    "meaning": "cost相關inde",
+    "example": "The leadership team reviewed the costindex in the quarterly meeting.",
+    "example_zh": "管理層在季度會議檢視了這項cost相關inde。"
+  },
+  {
+    "word": "costsignal",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "cost相關signal",
+    "example": "Administration filed the costsignal for record keeping.",
+    "example_zh": "行政部已將這項cost相關signal完成歸檔。"
+  },
+  {
+    "word": "coststatus",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Security",
+    "meaning": "cost相關status",
+    "example": "The security team reinforced the coststatus at the main office.",
+    "example_zh": "資安團隊在總部強化了這項cost相關status。"
+  },
+  {
+    "word": "costwindow",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "cost相關window",
+    "example": "HR reviewed the costwindow in the monthly people report.",
+    "example_zh": "人資在月度人力報告中審查了這項cost相關window。"
+  },
+  {
+    "word": "costcycle",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "cost相關cycle",
+    "example": "The travel desk confirmed the costcycle for the business trip.",
+    "example_zh": "差旅窗口已確認這次出差的cost相關cycle。"
+  },
+  {
+    "word": "coststream",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Office",
+    "meaning": "cost相關stream",
+    "example": "The office manager prepared the coststream for the new staff.",
+    "example_zh": "辦公室管理員已為新同仁準備這項cost相關stream。"
+  },
+  {
+    "word": "costpoint",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "cost相關point",
+    "example": "The finance team reviewed the costpoint before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項cost相關point。"
+  },
+  {
+    "word": "costscope",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "cost相關scope",
+    "example": "The logistics team updated the costscope before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項cost相關scope。"
+  },
+  {
+    "word": "costmodule",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "cost相關module",
+    "example": "Purchasing confirmed the costmodule with the supplier this morning.",
+    "example_zh": "採購今早已向供應商確認這項cost相關module。"
+  },
+  {
+    "word": "costnode",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "cost相關node",
+    "example": "Legal checked the costnode before signing the contract.",
+    "example_zh": "法務在簽約前檢查了這項cost相關node。"
+  },
+  {
+    "word": "costroute",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "cost相關route",
+    "example": "We added the costroute to the meeting agenda.",
+    "example_zh": "我們已把這項cost相關route加入會議議程。"
+  },
+  {
+    "word": "costchannel",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Schedule",
+    "meaning": "cost相關channel",
+    "example": "The coordinator adjusted the costchannel for next week.",
+    "example_zh": "協調人員已調整下週的cost相關channel。"
+  },
+  {
+    "word": "costgroup",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "cost相關group",
+    "example": "The analyst highlighted the costgroup in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項cost相關group。"
+  },
+  {
+    "word": "costcluster",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "cost相關cluster",
+    "example": "Marketing measured the costcluster after the campaign launch.",
+    "example_zh": "行銷部在活動上線後衡量了這項cost相關cluster。"
+  },
+  {
+    "word": "costrecord",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "cost相關record",
+    "example": "HR discussed the costrecord during the interview process.",
+    "example_zh": "人資在面試流程中討論了這項cost相關record。"
+  },
+  {
+    "word": "costledger",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "cost相關ledger",
+    "example": "The trainer explained the costledger in today's training session.",
+    "example_zh": "講師在今天的訓練課程說明了這項cost相關ledger。"
+  },
+  {
+    "word": "costprofile",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "cost相關profile",
+    "example": "Customer service handled the costprofile within one business day.",
+    "example_zh": "客服在一個工作天內完成這項cost相關profile。"
+  },
+  {
+    "word": "costarchive",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "cost相關archive",
+    "example": "Operations tracked the costarchive to improve efficiency.",
+    "example_zh": "營運部持續追蹤這項cost相關archive以提升效率。"
+  },
+  {
+    "word": "costbackup",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "cost相關backup",
+    "example": "The plant manager monitored the costbackup on the production line.",
+    "example_zh": "廠務主管在線上監控這項cost相關backup。"
+  },
+  {
+    "word": "costgateway",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "cost相關gateway",
+    "example": "The IT team tested the costgateway before release.",
+    "example_zh": "資訊團隊在發布前測試了這項cost相關gateway。"
+  },
+  {
+    "word": "costportal",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Strategy",
+    "meaning": "cost相關portal",
+    "example": "The leadership team reviewed the costportal in the quarterly meeting.",
+    "example_zh": "管理層在季度會議檢視了這項cost相關portal。"
+  },
+  {
+    "word": "costconsole",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "cost相關console",
+    "example": "Administration filed the costconsole for record keeping.",
+    "example_zh": "行政部已將這項cost相關console完成歸檔。"
+  },
+  {
+    "word": "costguide",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Security",
+    "meaning": "cost相關guide",
+    "example": "The security team reinforced the costguide at the main office.",
+    "example_zh": "資安團隊在總部強化了這項cost相關guide。"
+  },
+  {
+    "word": "costmanual",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "cost相關manual",
+    "example": "HR reviewed the costmanual in the monthly people report.",
+    "example_zh": "人資在月度人力報告中審查了這項cost相關manual。"
+  },
+  {
+    "word": "costmodel",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "cost相關model",
+    "example": "The travel desk confirmed the costmodel for the business trip.",
+    "example_zh": "差旅窗口已確認這次出差的cost相關model。"
+  },
+  {
+    "word": "costfactor",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Office",
+    "meaning": "cost相關factor",
+    "example": "The office manager prepared the costfactor for the new staff.",
+    "example_zh": "辦公室管理員已為新同仁準備這項cost相關factor。"
+  },
+  {
+    "word": "costmetric",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "cost相關metric",
+    "example": "The finance team reviewed the costmetric before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項cost相關metric。"
+  },
+  {
+    "word": "costratio",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "cost相關ratio",
+    "example": "The logistics team updated the costratio before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項cost相關ratio。"
+  },
+  {
+    "word": "costscore",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "cost相關score",
+    "example": "Purchasing confirmed the costscore with the supplier this morning.",
+    "example_zh": "採購今早已向供應商確認這項cost相關score。"
+  },
+  {
+    "word": "costrating",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "cost相關rating",
+    "example": "Legal checked the costrating before signing the contract.",
+    "example_zh": "法務在簽約前檢查了這項cost相關rating。"
+  },
+  {
+    "word": "costbrief",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "cost相關brief",
+    "example": "We added the costbrief to the meeting agenda.",
+    "example_zh": "我們已把這項cost相關brief加入會議議程。"
+  },
+  {
+    "word": "costmemo",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Schedule",
+    "meaning": "cost相關memo",
+    "example": "The coordinator adjusted the costmemo for next week.",
+    "example_zh": "協調人員已調整下週的cost相關memo。"
+  },
+  {
+    "word": "costnotice",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "cost相關notice",
+    "example": "The analyst highlighted the costnotice in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項cost相關notice。"
+  },
+  {
+    "word": "costbulletin",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "cost相關bulletin",
+    "example": "Marketing measured the costbulletin after the campaign launch.",
+    "example_zh": "行銷部在活動上線後衡量了這項cost相關bulletin。"
+  },
+  {
+    "word": "costregistry",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "cost相關registry",
+    "example": "HR discussed the costregistry during the interview process.",
+    "example_zh": "人資在面試流程中討論了這項cost相關registry。"
+  },
+  {
+    "word": "costregister",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "cost相關register",
+    "example": "The trainer explained the costregister in today's training session.",
+    "example_zh": "講師在今天的訓練課程說明了這項cost相關register。"
+  },
+  {
+    "word": "costqueue",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "cost相關queue",
+    "example": "Customer service handled the costqueue within one business day.",
+    "example_zh": "客服在一個工作天內完成這項cost相關queue。"
+  },
+  {
+    "word": "costticket",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "cost相關ticket",
+    "example": "Operations tracked the costticket to improve efficiency.",
+    "example_zh": "營運部持續追蹤這項cost相關ticket以提升效率。"
+  },
+  {
+    "word": "costpackage",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "cost相關package",
+    "example": "The plant manager monitored the costpackage on the production line.",
+    "example_zh": "廠務主管在線上監控這項cost相關package。"
+  },
+  {
+    "word": "costbundle",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "cost相關bundle",
+    "example": "The IT team tested the costbundle before release.",
+    "example_zh": "資訊團隊在發布前測試了這項cost相關bundle。"
+  },
+  {
+    "word": "costoption",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Strategy",
+    "meaning": "cost相關option",
+    "example": "The leadership team reviewed the costoption in the quarterly meeting.",
+    "example_zh": "管理層在季度會議檢視了這項cost相關option。"
+  },
+  {
+    "word": "costrange",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "cost相關range",
+    "example": "Administration filed the costrange for record keeping.",
+    "example_zh": "行政部已將這項cost相關range完成歸檔。"
+  },
+  {
+    "word": "costtarget",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Security",
+    "meaning": "cost相關target",
+    "example": "The security team reinforced the costtarget at the main office.",
+    "example_zh": "資安團隊在總部強化了這項cost相關target。"
+  },
+  {
+    "word": "costdriver",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "cost相關driver",
+    "example": "HR reviewed the costdriver in the monthly people report.",
+    "example_zh": "人資在月度人力報告中審查了這項cost相關driver。"
+  },
+  {
+    "word": "costmarker",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "cost相關marker",
+    "example": "The travel desk confirmed the costmarker for the business trip.",
+    "example_zh": "差旅窗口已確認這次出差的cost相關marker。"
+  },
+  {
+    "word": "costfolder",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Office",
+    "meaning": "cost相關folder",
+    "example": "The office manager prepared the costfolder for the new staff.",
+    "example_zh": "辦公室管理員已為新同仁準備這項cost相關folder。"
+  },
+  {
+    "word": "costlibrary",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "cost相關library",
+    "example": "The finance team reviewed the costlibrary before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項cost相關library。"
+  },
+  {
+    "word": "costsummary",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "cost相關summary",
+    "example": "The logistics team updated the costsummary before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項cost相關summary。"
+  },
+  {
+    "word": "costjournal",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "cost相關journal",
+    "example": "Purchasing confirmed the costjournal with the supplier this morning.",
+    "example_zh": "採購今早已向供應商確認這項cost相關journal。"
+  },
+  {
+    "word": "costtimeline",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "cost相關timeline",
+    "example": "Legal checked the costtimeline before signing the contract.",
+    "example_zh": "法務在簽約前檢查了這項cost相關timeline。"
+  },
+  {
+    "word": "costroadmap",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "cost相關roadmap",
+    "example": "We added the costroadmap to the meeting agenda.",
+    "example_zh": "我們已把這項cost相關roadmap加入會議議程。"
+  },
+  {
+    "word": "costplanner",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Schedule",
+    "meaning": "cost相關planner",
+    "example": "The coordinator adjusted the costplanner for next week.",
+    "example_zh": "協調人員已調整下週的cost相關planner。"
+  },
+  {
+    "word": "costplannerx",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "cost相關planner",
+    "example": "The analyst highlighted the costplannerx in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項cost相關planner。"
+  },
+  {
+    "word": "costmonitor",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "cost相關monitor",
+    "example": "Marketing measured the costmonitor after the campaign launch.",
+    "example_zh": "行銷部在活動上線後衡量了這項cost相關monitor。"
+  },
+  {
+    "word": "costinspector",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "cost相關inspector",
+    "example": "HR discussed the costinspector during the interview process.",
+    "example_zh": "人資在面試流程中討論了這項cost相關inspector。"
+  },
+  {
+    "word": "costreviewer",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "cost相關reviewer",
+    "example": "The trainer explained the costreviewer in today's training session.",
+    "example_zh": "講師在今天的訓練課程說明了這項cost相關reviewer。"
+  },
+  {
+    "word": "costvalidator",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "cost相關validator",
+    "example": "Customer service handled the costvalidator within one business day.",
+    "example_zh": "客服在一個工作天內完成這項cost相關validator。"
+  },
+  {
+    "word": "costsafeguard",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "cost相關safeguard",
+    "example": "Operations tracked the costsafeguard to improve efficiency.",
+    "example_zh": "營運部持續追蹤這項cost相關safeguard以提升效率。"
+  },
+  {
+    "word": "costcheckpoint",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "cost相關checkpoint",
+    "example": "The plant manager monitored the costcheckpoint on the production line.",
+    "example_zh": "廠務主管在線上監控這項cost相關checkpoint。"
+  },
+  {
+    "word": "costmilestone",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "cost相關milestone",
+    "example": "The IT team tested the costmilestone before release.",
+    "example_zh": "資訊團隊在發布前測試了這項cost相關milestone。"
+  },
+  {
+    "word": "costhandbook",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Strategy",
+    "meaning": "cost相關handbook",
+    "example": "The leadership team reviewed the costhandbook in the quarterly meeting.",
+    "example_zh": "管理層在季度會議檢視了這項cost相關handbook。"
+  },
+  {
+    "word": "costplaybook",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "cost相關playbook",
+    "example": "Administration filed the costplaybook for record keeping.",
+    "example_zh": "行政部已將這項cost相關playbook完成歸檔。"
+  },
+  {
+    "word": "costoverview",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Security",
+    "meaning": "cost相關overview",
+    "example": "The security team reinforced the costoverview at the main office.",
+    "example_zh": "資安團隊在總部強化了這項cost相關overview。"
+  },
+  {
+    "word": "costsnapshot",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "cost相關snapshot",
+    "example": "HR reviewed the costsnapshot in the monthly people report.",
+    "example_zh": "人資在月度人力報告中審查了這項cost相關snapshot。"
+  },
+  {
+    "word": "costtrackerx",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "cost相關tracker",
+    "example": "The travel desk confirmed the costtrackerx for the business trip.",
+    "example_zh": "差旅窗口已確認這次出差的cost相關tracker。"
+  },
+  {
+    "word": "costplannerpro",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Office",
+    "meaning": "cost相關plannerpro",
+    "example": "The office manager prepared the costplannerpro for the new staff.",
+    "example_zh": "辦公室管理員已為新同仁準備這項cost相關plannerpro。"
+  },
+  {
+    "word": "pricecenter",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "price相關center",
+    "example": "The finance team reviewed the pricecenter before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項price相關center。"
+  },
+  {
+    "word": "pricesheet",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "price相關sheet",
+    "example": "The logistics team updated the pricesheet before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項price相關sheet。"
+  },
+  {
+    "word": "pricetable",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "price相關table",
+    "example": "Purchasing confirmed the pricetable with the supplier this morning.",
+    "example_zh": "採購今早已向供應商確認這項price相關table。"
+  },
+  {
+    "word": "priceboard",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "price相關board",
+    "example": "Legal checked the priceboard before signing the contract.",
+    "example_zh": "法務在簽約前檢查了這項price相關board。"
+  },
+  {
+    "word": "pricepanel",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "price相關panel",
+    "example": "We added the pricepanel to the meeting agenda.",
+    "example_zh": "我們已把這項price相關panel加入會議議程。"
+  },
+  {
+    "word": "pricetracker",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Schedule",
+    "meaning": "price相關tracker",
+    "example": "The coordinator adjusted the pricetracker for next week.",
+    "example_zh": "協調人員已調整下週的price相關tracker。"
+  },
+  {
+    "word": "pricematrix",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "price相關matri",
+    "example": "The analyst highlighted the pricematrix in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項price相關matri。"
+  },
+  {
+    "word": "pricelog",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "price相關log",
+    "example": "Marketing measured the pricelog after the campaign launch.",
+    "example_zh": "行銷部在活動上線後衡量了這項price相關log。"
+  },
+  {
+    "word": "priceindex",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "price相關inde",
+    "example": "HR discussed the priceindex during the interview process.",
+    "example_zh": "人資在面試流程中討論了這項price相關inde。"
+  },
+  {
+    "word": "pricesignal",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "price相關signal",
+    "example": "The trainer explained the pricesignal in today's training session.",
+    "example_zh": "講師在今天的訓練課程說明了這項price相關signal。"
+  },
+  {
+    "word": "pricestatus",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "price相關status",
+    "example": "Customer service handled the pricestatus within one business day.",
+    "example_zh": "客服在一個工作天內完成這項price相關status。"
+  },
+  {
+    "word": "pricewindow",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "price相關window",
+    "example": "Operations tracked the pricewindow to improve efficiency.",
+    "example_zh": "營運部持續追蹤這項price相關window以提升效率。"
+  },
+  {
+    "word": "pricecycle",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "price相關cycle",
+    "example": "The plant manager monitored the pricecycle on the production line.",
+    "example_zh": "廠務主管在線上監控這項price相關cycle。"
+  },
+  {
+    "word": "pricestream",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "price相關stream",
+    "example": "The IT team tested the pricestream before release.",
+    "example_zh": "資訊團隊在發布前測試了這項price相關stream。"
+  },
+  {
+    "word": "pricepoint",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Strategy",
+    "meaning": "price相關point",
+    "example": "The leadership team reviewed the pricepoint in the quarterly meeting.",
+    "example_zh": "管理層在季度會議檢視了這項price相關point。"
+  },
+  {
+    "word": "pricescope",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "price相關scope",
+    "example": "Administration filed the pricescope for record keeping.",
+    "example_zh": "行政部已將這項price相關scope完成歸檔。"
+  },
+  {
+    "word": "pricemodule",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Security",
+    "meaning": "price相關module",
+    "example": "The security team reinforced the pricemodule at the main office.",
+    "example_zh": "資安團隊在總部強化了這項price相關module。"
+  },
+  {
+    "word": "pricenode",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "price相關node",
+    "example": "HR reviewed the pricenode in the monthly people report.",
+    "example_zh": "人資在月度人力報告中審查了這項price相關node。"
+  },
+  {
+    "word": "priceroute",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "price相關route",
+    "example": "The travel desk confirmed the priceroute for the business trip.",
+    "example_zh": "差旅窗口已確認這次出差的price相關route。"
+  },
+  {
+    "word": "pricechannel",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Office",
+    "meaning": "price相關channel",
+    "example": "The office manager prepared the pricechannel for the new staff.",
+    "example_zh": "辦公室管理員已為新同仁準備這項price相關channel。"
+  },
+  {
+    "word": "pricegroup",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "price相關group",
+    "example": "The finance team reviewed the pricegroup before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項price相關group。"
+  },
+  {
+    "word": "pricecluster",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "price相關cluster",
+    "example": "The logistics team updated the pricecluster before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項price相關cluster。"
+  },
+  {
+    "word": "pricerecord",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "price相關record",
+    "example": "Purchasing confirmed the pricerecord with the supplier this morning.",
+    "example_zh": "採購今早已向供應商確認這項price相關record。"
+  },
+  {
+    "word": "priceledger",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "price相關ledger",
+    "example": "Legal checked the priceledger before signing the contract.",
+    "example_zh": "法務在簽約前檢查了這項price相關ledger。"
+  },
+  {
+    "word": "priceprofile",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "price相關profile",
+    "example": "We added the priceprofile to the meeting agenda.",
+    "example_zh": "我們已把這項price相關profile加入會議議程。"
+  },
+  {
+    "word": "pricearchive",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Schedule",
+    "meaning": "price相關archive",
+    "example": "The coordinator adjusted the pricearchive for next week.",
+    "example_zh": "協調人員已調整下週的price相關archive。"
+  },
+  {
+    "word": "pricebackup",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "price相關backup",
+    "example": "The analyst highlighted the pricebackup in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項price相關backup。"
+  },
+  {
+    "word": "pricegateway",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "price相關gateway",
+    "example": "Marketing measured the pricegateway after the campaign launch.",
+    "example_zh": "行銷部在活動上線後衡量了這項price相關gateway。"
+  },
+  {
+    "word": "priceportal",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "price相關portal",
+    "example": "HR discussed the priceportal during the interview process.",
+    "example_zh": "人資在面試流程中討論了這項price相關portal。"
+  },
+  {
+    "word": "priceconsole",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "price相關console",
+    "example": "The trainer explained the priceconsole in today's training session.",
+    "example_zh": "講師在今天的訓練課程說明了這項price相關console。"
+  },
+  {
+    "word": "priceguide",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "price相關guide",
+    "example": "Customer service handled the priceguide within one business day.",
+    "example_zh": "客服在一個工作天內完成這項price相關guide。"
+  },
+  {
+    "word": "pricemanual",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "price相關manual",
+    "example": "Operations tracked the pricemanual to improve efficiency.",
+    "example_zh": "營運部持續追蹤這項price相關manual以提升效率。"
+  },
+  {
+    "word": "pricemodel",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "price相關model",
+    "example": "The plant manager monitored the pricemodel on the production line.",
+    "example_zh": "廠務主管在線上監控這項price相關model。"
+  },
+  {
+    "word": "pricefactor",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "price相關factor",
+    "example": "The IT team tested the pricefactor before release.",
+    "example_zh": "資訊團隊在發布前測試了這項price相關factor。"
+  },
+  {
+    "word": "pricemetric",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Strategy",
+    "meaning": "price相關metric",
+    "example": "The leadership team reviewed the pricemetric in the quarterly meeting.",
+    "example_zh": "管理層在季度會議檢視了這項price相關metric。"
+  },
+  {
+    "word": "priceratio",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "price相關ratio",
+    "example": "Administration filed the priceratio for record keeping.",
+    "example_zh": "行政部已將這項price相關ratio完成歸檔。"
+  },
+  {
+    "word": "pricescore",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Security",
+    "meaning": "price相關score",
+    "example": "The security team reinforced the pricescore at the main office.",
+    "example_zh": "資安團隊在總部強化了這項price相關score。"
+  },
+  {
+    "word": "pricerating",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "price相關rating",
+    "example": "HR reviewed the pricerating in the monthly people report.",
+    "example_zh": "人資在月度人力報告中審查了這項price相關rating。"
+  },
+  {
+    "word": "pricebrief",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "price相關brief",
+    "example": "The travel desk confirmed the pricebrief for the business trip.",
+    "example_zh": "差旅窗口已確認這次出差的price相關brief。"
+  },
+  {
+    "word": "pricememo",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Office",
+    "meaning": "price相關memo",
+    "example": "The office manager prepared the pricememo for the new staff.",
+    "example_zh": "辦公室管理員已為新同仁準備這項price相關memo。"
+  },
+  {
+    "word": "pricenotice",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "price相關notice",
+    "example": "The finance team reviewed the pricenotice before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項price相關notice。"
+  },
+  {
+    "word": "pricebulletin",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "price相關bulletin",
+    "example": "The logistics team updated the pricebulletin before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項price相關bulletin。"
+  },
+  {
+    "word": "priceregistry",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "price相關registry",
+    "example": "Purchasing confirmed the priceregistry with the supplier this morning.",
+    "example_zh": "採購今早已向供應商確認這項price相關registry。"
+  },
+  {
+    "word": "priceregister",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "price相關register",
+    "example": "Legal checked the priceregister before signing the contract.",
+    "example_zh": "法務在簽約前檢查了這項price相關register。"
+  },
+  {
+    "word": "pricequeue",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "price相關queue",
+    "example": "We added the pricequeue to the meeting agenda.",
+    "example_zh": "我們已把這項price相關queue加入會議議程。"
+  },
+  {
+    "word": "priceticket",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Schedule",
+    "meaning": "price相關ticket",
+    "example": "The coordinator adjusted the priceticket for next week.",
+    "example_zh": "協調人員已調整下週的price相關ticket。"
+  },
+  {
+    "word": "pricepackage",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "price相關package",
+    "example": "The analyst highlighted the pricepackage in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項price相關package。"
+  },
+  {
+    "word": "pricebundle",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "price相關bundle",
+    "example": "Marketing measured the pricebundle after the campaign launch.",
+    "example_zh": "行銷部在活動上線後衡量了這項price相關bundle。"
+  },
+  {
+    "word": "priceoption",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "price相關option",
+    "example": "HR discussed the priceoption during the interview process.",
+    "example_zh": "人資在面試流程中討論了這項price相關option。"
+  },
+  {
+    "word": "pricerange",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "price相關range",
+    "example": "The trainer explained the pricerange in today's training session.",
+    "example_zh": "講師在今天的訓練課程說明了這項price相關range。"
+  },
+  {
+    "word": "pricetarget",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "price相關target",
+    "example": "Customer service handled the pricetarget within one business day.",
+    "example_zh": "客服在一個工作天內完成這項price相關target。"
+  },
+  {
+    "word": "pricedriver",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "price相關driver",
+    "example": "Operations tracked the pricedriver to improve efficiency.",
+    "example_zh": "營運部持續追蹤這項price相關driver以提升效率。"
+  },
+  {
+    "word": "pricemarker",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "price相關marker",
+    "example": "The plant manager monitored the pricemarker on the production line.",
+    "example_zh": "廠務主管在線上監控這項price相關marker。"
+  },
+  {
+    "word": "pricefolder",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "price相關folder",
+    "example": "The IT team tested the pricefolder before release.",
+    "example_zh": "資訊團隊在發布前測試了這項price相關folder。"
+  },
+  {
+    "word": "pricelibrary",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Strategy",
+    "meaning": "price相關library",
+    "example": "The leadership team reviewed the pricelibrary in the quarterly meeting.",
+    "example_zh": "管理層在季度會議檢視了這項price相關library。"
+  },
+  {
+    "word": "pricesummary",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "price相關summary",
+    "example": "Administration filed the pricesummary for record keeping.",
+    "example_zh": "行政部已將這項price相關summary完成歸檔。"
+  },
+  {
+    "word": "pricejournal",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Security",
+    "meaning": "price相關journal",
+    "example": "The security team reinforced the pricejournal at the main office.",
+    "example_zh": "資安團隊在總部強化了這項price相關journal。"
+  },
+  {
+    "word": "pricetimeline",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "price相關timeline",
+    "example": "HR reviewed the pricetimeline in the monthly people report.",
+    "example_zh": "人資在月度人力報告中審查了這項price相關timeline。"
+  },
+  {
+    "word": "priceroadmap",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "price相關roadmap",
+    "example": "The travel desk confirmed the priceroadmap for the business trip.",
+    "example_zh": "差旅窗口已確認這次出差的price相關roadmap。"
+  },
+  {
+    "word": "priceplanner",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Office",
+    "meaning": "price相關planner",
+    "example": "The office manager prepared the priceplanner for the new staff.",
+    "example_zh": "辦公室管理員已為新同仁準備這項price相關planner。"
+  },
+  {
+    "word": "priceplannerx",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "price相關planner",
+    "example": "The finance team reviewed the priceplannerx before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項price相關planner。"
+  },
+  {
+    "word": "pricemonitor",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "price相關monitor",
+    "example": "The logistics team updated the pricemonitor before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項price相關monitor。"
+  },
+  {
+    "word": "priceinspector",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "price相關inspector",
+    "example": "Purchasing confirmed the priceinspector with the supplier this morning.",
+    "example_zh": "採購今早已向供應商確認這項price相關inspector。"
+  },
+  {
+    "word": "pricereviewer",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "price相關reviewer",
+    "example": "Legal checked the pricereviewer before signing the contract.",
+    "example_zh": "法務在簽約前檢查了這項price相關reviewer。"
+  },
+  {
+    "word": "pricevalidator",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "price相關validator",
+    "example": "We added the pricevalidator to the meeting agenda.",
+    "example_zh": "我們已把這項price相關validator加入會議議程。"
+  },
+  {
+    "word": "pricesafeguard",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Schedule",
+    "meaning": "price相關safeguard",
+    "example": "The coordinator adjusted the pricesafeguard for next week.",
+    "example_zh": "協調人員已調整下週的price相關safeguard。"
+  },
+  {
+    "word": "pricecheckpoint",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "price相關checkpoint",
+    "example": "The analyst highlighted the pricecheckpoint in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項price相關checkpoint。"
+  },
+  {
+    "word": "pricemilestone",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "price相關milestone",
+    "example": "Marketing measured the pricemilestone after the campaign launch.",
+    "example_zh": "行銷部在活動上線後衡量了這項price相關milestone。"
+  },
+  {
+    "word": "pricehandbook",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "price相關handbook",
+    "example": "HR discussed the pricehandbook during the interview process.",
+    "example_zh": "人資在面試流程中討論了這項price相關handbook。"
+  },
+  {
+    "word": "priceplaybook",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "price相關playbook",
+    "example": "The trainer explained the priceplaybook in today's training session.",
+    "example_zh": "講師在今天的訓練課程說明了這項price相關playbook。"
+  },
+  {
+    "word": "priceoverview",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "price相關overview",
+    "example": "Customer service handled the priceoverview within one business day.",
+    "example_zh": "客服在一個工作天內完成這項price相關overview。"
+  },
+  {
+    "word": "pricesnapshot",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "price相關snapshot",
+    "example": "Operations tracked the pricesnapshot to improve efficiency.",
+    "example_zh": "營運部持續追蹤這項price相關snapshot以提升效率。"
+  },
+  {
+    "word": "pricetrackerx",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "price相關tracker",
+    "example": "The plant manager monitored the pricetrackerx on the production line.",
+    "example_zh": "廠務主管在線上監控這項price相關tracker。"
+  },
+  {
+    "word": "priceplannerpro",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "price相關plannerpro",
+    "example": "The IT team tested the priceplannerpro before release.",
+    "example_zh": "資訊團隊在發布前測試了這項price相關plannerpro。"
+  },
+  {
+    "word": "salescenter",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Strategy",
+    "meaning": "sales相關center",
+    "example": "The leadership team reviewed the salescenter in the quarterly meeting.",
+    "example_zh": "管理層在季度會議檢視了這項sales相關center。"
+  },
+  {
+    "word": "salessheet",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "sales相關sheet",
+    "example": "Administration filed the salessheet for record keeping.",
+    "example_zh": "行政部已將這項sales相關sheet完成歸檔。"
+  },
+  {
+    "word": "salestable",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Security",
+    "meaning": "sales相關table",
+    "example": "The security team reinforced the salestable at the main office.",
+    "example_zh": "資安團隊在總部強化了這項sales相關table。"
+  },
+  {
+    "word": "salesboard",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "sales相關board",
+    "example": "HR reviewed the salesboard in the monthly people report.",
+    "example_zh": "人資在月度人力報告中審查了這項sales相關board。"
+  },
+  {
+    "word": "salespanel",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "sales相關panel",
+    "example": "The travel desk confirmed the salespanel for the business trip.",
+    "example_zh": "差旅窗口已確認這次出差的sales相關panel。"
+  },
+  {
+    "word": "salestracker",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Office",
+    "meaning": "sales相關tracker",
+    "example": "The office manager prepared the salestracker for the new staff.",
+    "example_zh": "辦公室管理員已為新同仁準備這項sales相關tracker。"
+  },
+  {
+    "word": "salesmatrix",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "sales相關matri",
+    "example": "The finance team reviewed the salesmatrix before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項sales相關matri。"
+  },
+  {
+    "word": "saleslog",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "sales相關log",
+    "example": "The logistics team updated the saleslog before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項sales相關log。"
+  },
+  {
+    "word": "salesindex",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "sales相關inde",
+    "example": "Purchasing confirmed the salesindex with the supplier this morning.",
+    "example_zh": "採購今早已向供應商確認這項sales相關inde。"
+  },
+  {
+    "word": "salessignal",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "sales相關signal",
+    "example": "Legal checked the salessignal before signing the contract.",
+    "example_zh": "法務在簽約前檢查了這項sales相關signal。"
+  },
+  {
+    "word": "salesstatus",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "sales相關status",
+    "example": "We added the salesstatus to the meeting agenda.",
+    "example_zh": "我們已把這項sales相關status加入會議議程。"
+  },
+  {
+    "word": "saleswindow",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Schedule",
+    "meaning": "sales相關window",
+    "example": "The coordinator adjusted the saleswindow for next week.",
+    "example_zh": "協調人員已調整下週的sales相關window。"
+  },
+  {
+    "word": "salescycle",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "sales相關cycle",
+    "example": "The analyst highlighted the salescycle in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項sales相關cycle。"
+  },
+  {
+    "word": "salesstream",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "sales相關stream",
+    "example": "Marketing measured the salesstream after the campaign launch.",
+    "example_zh": "行銷部在活動上線後衡量了這項sales相關stream。"
+  },
+  {
+    "word": "salespoint",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "sales相關point",
+    "example": "HR discussed the salespoint during the interview process.",
+    "example_zh": "人資在面試流程中討論了這項sales相關point。"
+  },
+  {
+    "word": "salesscope",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "sales相關scope",
+    "example": "The trainer explained the salesscope in today's training session.",
+    "example_zh": "講師在今天的訓練課程說明了這項sales相關scope。"
+  },
+  {
+    "word": "salesmodule",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "sales相關module",
+    "example": "Customer service handled the salesmodule within one business day.",
+    "example_zh": "客服在一個工作天內完成這項sales相關module。"
+  },
+  {
+    "word": "salesnode",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "sales相關node",
+    "example": "Operations tracked the salesnode to improve efficiency.",
+    "example_zh": "營運部持續追蹤這項sales相關node以提升效率。"
+  },
+  {
+    "word": "salesroute",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "sales相關route",
+    "example": "The plant manager monitored the salesroute on the production line.",
+    "example_zh": "廠務主管在線上監控這項sales相關route。"
+  },
+  {
+    "word": "saleschannel",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "sales相關channel",
+    "example": "The IT team tested the saleschannel before release.",
+    "example_zh": "資訊團隊在發布前測試了這項sales相關channel。"
+  },
+  {
+    "word": "salesgroup",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Strategy",
+    "meaning": "sales相關group",
+    "example": "The leadership team reviewed the salesgroup in the quarterly meeting.",
+    "example_zh": "管理層在季度會議檢視了這項sales相關group。"
+  },
+  {
+    "word": "salescluster",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "sales相關cluster",
+    "example": "Administration filed the salescluster for record keeping.",
+    "example_zh": "行政部已將這項sales相關cluster完成歸檔。"
+  },
+  {
+    "word": "salesrecord",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Security",
+    "meaning": "sales相關record",
+    "example": "The security team reinforced the salesrecord at the main office.",
+    "example_zh": "資安團隊在總部強化了這項sales相關record。"
+  },
+  {
+    "word": "salesledger",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "sales相關ledger",
+    "example": "HR reviewed the salesledger in the monthly people report.",
+    "example_zh": "人資在月度人力報告中審查了這項sales相關ledger。"
+  },
+  {
+    "word": "salesprofile",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "sales相關profile",
+    "example": "The travel desk confirmed the salesprofile for the business trip.",
+    "example_zh": "差旅窗口已確認這次出差的sales相關profile。"
+  },
+  {
+    "word": "salesarchive",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Office",
+    "meaning": "sales相關archive",
+    "example": "The office manager prepared the salesarchive for the new staff.",
+    "example_zh": "辦公室管理員已為新同仁準備這項sales相關archive。"
+  },
+  {
+    "word": "salesbackup",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "sales相關backup",
+    "example": "The finance team reviewed the salesbackup before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項sales相關backup。"
+  },
+  {
+    "word": "salesgateway",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "sales相關gateway",
+    "example": "The logistics team updated the salesgateway before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項sales相關gateway。"
+  },
+  {
+    "word": "salesportal",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "sales相關portal",
+    "example": "Purchasing confirmed the salesportal with the supplier this morning.",
+    "example_zh": "採購今早已向供應商確認這項sales相關portal。"
+  },
+  {
+    "word": "salesconsole",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "sales相關console",
+    "example": "Legal checked the salesconsole before signing the contract.",
+    "example_zh": "法務在簽約前檢查了這項sales相關console。"
+  },
+  {
+    "word": "salesguide",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "sales相關guide",
+    "example": "We added the salesguide to the meeting agenda.",
+    "example_zh": "我們已把這項sales相關guide加入會議議程。"
+  },
+  {
+    "word": "salesmanual",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Schedule",
+    "meaning": "sales相關manual",
+    "example": "The coordinator adjusted the salesmanual for next week.",
+    "example_zh": "協調人員已調整下週的sales相關manual。"
+  },
+  {
+    "word": "salesmodel",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "sales相關model",
+    "example": "The analyst highlighted the salesmodel in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項sales相關model。"
+  },
+  {
+    "word": "salesfactor",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "sales相關factor",
+    "example": "Marketing measured the salesfactor after the campaign launch.",
+    "example_zh": "行銷部在活動上線後衡量了這項sales相關factor。"
+  },
+  {
+    "word": "salesmetric",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "sales相關metric",
+    "example": "HR discussed the salesmetric during the interview process.",
+    "example_zh": "人資在面試流程中討論了這項sales相關metric。"
+  },
+  {
+    "word": "salesratio",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "sales相關ratio",
+    "example": "The trainer explained the salesratio in today's training session.",
+    "example_zh": "講師在今天的訓練課程說明了這項sales相關ratio。"
+  },
+  {
+    "word": "salesscore",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "sales相關score",
+    "example": "Customer service handled the salesscore within one business day.",
+    "example_zh": "客服在一個工作天內完成這項sales相關score。"
+  },
+  {
+    "word": "salesrating",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "sales相關rating",
+    "example": "Operations tracked the salesrating to improve efficiency.",
+    "example_zh": "營運部持續追蹤這項sales相關rating以提升效率。"
+  },
+  {
+    "word": "salesbrief",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "sales相關brief",
+    "example": "The plant manager monitored the salesbrief on the production line.",
+    "example_zh": "廠務主管在線上監控這項sales相關brief。"
+  },
+  {
+    "word": "salesmemo",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "sales相關memo",
+    "example": "The IT team tested the salesmemo before release.",
+    "example_zh": "資訊團隊在發布前測試了這項sales相關memo。"
+  },
+  {
+    "word": "salesnotice",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Strategy",
+    "meaning": "sales相關notice",
+    "example": "The leadership team reviewed the salesnotice in the quarterly meeting.",
+    "example_zh": "管理層在季度會議檢視了這項sales相關notice。"
+  },
+  {
+    "word": "salesbulletin",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "sales相關bulletin",
+    "example": "Administration filed the salesbulletin for record keeping.",
+    "example_zh": "行政部已將這項sales相關bulletin完成歸檔。"
+  },
+  {
+    "word": "salesregistry",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Security",
+    "meaning": "sales相關registry",
+    "example": "The security team reinforced the salesregistry at the main office.",
+    "example_zh": "資安團隊在總部強化了這項sales相關registry。"
+  },
+  {
+    "word": "salesregister",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "sales相關register",
+    "example": "HR reviewed the salesregister in the monthly people report.",
+    "example_zh": "人資在月度人力報告中審查了這項sales相關register。"
+  },
+  {
+    "word": "salesqueue",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "sales相關queue",
+    "example": "The travel desk confirmed the salesqueue for the business trip.",
+    "example_zh": "差旅窗口已確認這次出差的sales相關queue。"
+  },
+  {
+    "word": "salesticket",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Office",
+    "meaning": "sales相關ticket",
+    "example": "The office manager prepared the salesticket for the new staff.",
+    "example_zh": "辦公室管理員已為新同仁準備這項sales相關ticket。"
+  },
+  {
+    "word": "salespackage",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "sales相關package",
+    "example": "The finance team reviewed the salespackage before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項sales相關package。"
+  },
+  {
+    "word": "salesbundle",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "sales相關bundle",
+    "example": "The logistics team updated the salesbundle before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項sales相關bundle。"
+  },
+  {
+    "word": "salesoption",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "sales相關option",
+    "example": "Purchasing confirmed the salesoption with the supplier this morning.",
+    "example_zh": "採購今早已向供應商確認這項sales相關option。"
+  },
+  {
+    "word": "salesrange",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "sales相關range",
+    "example": "Legal checked the salesrange before signing the contract.",
+    "example_zh": "法務在簽約前檢查了這項sales相關range。"
+  },
+  {
+    "word": "salestarget",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "sales相關target",
+    "example": "We added the salestarget to the meeting agenda.",
+    "example_zh": "我們已把這項sales相關target加入會議議程。"
+  },
+  {
+    "word": "salesdriver",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Schedule",
+    "meaning": "sales相關driver",
+    "example": "The coordinator adjusted the salesdriver for next week.",
+    "example_zh": "協調人員已調整下週的sales相關driver。"
+  },
+  {
+    "word": "salesmarker",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "sales相關marker",
+    "example": "The analyst highlighted the salesmarker in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項sales相關marker。"
+  },
+  {
+    "word": "salesfolder",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "sales相關folder",
+    "example": "Marketing measured the salesfolder after the campaign launch.",
+    "example_zh": "行銷部在活動上線後衡量了這項sales相關folder。"
+  },
+  {
+    "word": "saleslibrary",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "sales相關library",
+    "example": "HR discussed the saleslibrary during the interview process.",
+    "example_zh": "人資在面試流程中討論了這項sales相關library。"
+  },
+  {
+    "word": "salessummary",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "sales相關summary",
+    "example": "The trainer explained the salessummary in today's training session.",
+    "example_zh": "講師在今天的訓練課程說明了這項sales相關summary。"
+  },
+  {
+    "word": "salesjournal",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "sales相關journal",
+    "example": "Customer service handled the salesjournal within one business day.",
+    "example_zh": "客服在一個工作天內完成這項sales相關journal。"
+  },
+  {
+    "word": "salestimeline",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "sales相關timeline",
+    "example": "Operations tracked the salestimeline to improve efficiency.",
+    "example_zh": "營運部持續追蹤這項sales相關timeline以提升效率。"
+  },
+  {
+    "word": "salesroadmap",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "sales相關roadmap",
+    "example": "The plant manager monitored the salesroadmap on the production line.",
+    "example_zh": "廠務主管在線上監控這項sales相關roadmap。"
+  },
+  {
+    "word": "salesplanner",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "sales相關planner",
+    "example": "The IT team tested the salesplanner before release.",
+    "example_zh": "資訊團隊在發布前測試了這項sales相關planner。"
+  },
+  {
+    "word": "salesplannerx",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Strategy",
+    "meaning": "sales相關planner",
+    "example": "The leadership team reviewed the salesplannerx in the quarterly meeting.",
+    "example_zh": "管理層在季度會議檢視了這項sales相關planner。"
+  },
+  {
+    "word": "salesmonitor",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "sales相關monitor",
+    "example": "Administration filed the salesmonitor for record keeping.",
+    "example_zh": "行政部已將這項sales相關monitor完成歸檔。"
+  },
+  {
+    "word": "salesinspector",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Security",
+    "meaning": "sales相關inspector",
+    "example": "The security team reinforced the salesinspector at the main office.",
+    "example_zh": "資安團隊在總部強化了這項sales相關inspector。"
+  },
+  {
+    "word": "salesreviewer",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "sales相關reviewer",
+    "example": "HR reviewed the salesreviewer in the monthly people report.",
+    "example_zh": "人資在月度人力報告中審查了這項sales相關reviewer。"
+  },
+  {
+    "word": "salesvalidator",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "sales相關validator",
+    "example": "The travel desk confirmed the salesvalidator for the business trip.",
+    "example_zh": "差旅窗口已確認這次出差的sales相關validator。"
+  },
+  {
+    "word": "salessafeguard",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Office",
+    "meaning": "sales相關safeguard",
+    "example": "The office manager prepared the salessafeguard for the new staff.",
+    "example_zh": "辦公室管理員已為新同仁準備這項sales相關safeguard。"
+  },
+  {
+    "word": "salescheckpoint",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "sales相關checkpoint",
+    "example": "The finance team reviewed the salescheckpoint before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項sales相關checkpoint。"
+  },
+  {
+    "word": "salesmilestone",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "sales相關milestone",
+    "example": "The logistics team updated the salesmilestone before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項sales相關milestone。"
+  },
+  {
+    "word": "saleshandbook",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "sales相關handbook",
+    "example": "Purchasing confirmed the saleshandbook with the supplier this morning.",
+    "example_zh": "採購今早已向供應商確認這項sales相關handbook。"
+  },
+  {
+    "word": "salesplaybook",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "sales相關playbook",
+    "example": "Legal checked the salesplaybook before signing the contract.",
+    "example_zh": "法務在簽約前檢查了這項sales相關playbook。"
+  },
+  {
+    "word": "salesoverview",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "sales相關overview",
+    "example": "We added the salesoverview to the meeting agenda.",
+    "example_zh": "我們已把這項sales相關overview加入會議議程。"
+  },
+  {
+    "word": "salessnapshot",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Schedule",
+    "meaning": "sales相關snapshot",
+    "example": "The coordinator adjusted the salessnapshot for next week.",
+    "example_zh": "協調人員已調整下週的sales相關snapshot。"
+  },
+  {
+    "word": "salestrackerx",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "sales相關tracker",
+    "example": "The analyst highlighted the salestrackerx in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項sales相關tracker。"
+  },
+  {
+    "word": "salesplannerpro",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "sales相關plannerpro",
+    "example": "Marketing measured the salesplannerpro after the campaign launch.",
+    "example_zh": "行銷部在活動上線後衡量了這項sales相關plannerpro。"
+  },
+  {
+    "word": "clientcenter",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "client相關center",
+    "example": "HR discussed the clientcenter during the interview process.",
+    "example_zh": "人資在面試流程中討論了這項client相關center。"
+  },
+  {
+    "word": "clientsheet",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "client相關sheet",
+    "example": "The trainer explained the clientsheet in today's training session.",
+    "example_zh": "講師在今天的訓練課程說明了這項client相關sheet。"
+  },
+  {
+    "word": "clienttable",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "client相關table",
+    "example": "Customer service handled the clienttable within one business day.",
+    "example_zh": "客服在一個工作天內完成這項client相關table。"
+  },
+  {
+    "word": "clientboard",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "client相關board",
+    "example": "Operations tracked the clientboard to improve efficiency.",
+    "example_zh": "營運部持續追蹤這項client相關board以提升效率。"
+  },
+  {
+    "word": "clientpanel",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "client相關panel",
+    "example": "The plant manager monitored the clientpanel on the production line.",
+    "example_zh": "廠務主管在線上監控這項client相關panel。"
+  },
+  {
+    "word": "clienttracker",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "client相關tracker",
+    "example": "The IT team tested the clienttracker before release.",
+    "example_zh": "資訊團隊在發布前測試了這項client相關tracker。"
+  },
+  {
+    "word": "clientmatrix",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Strategy",
+    "meaning": "client相關matri",
+    "example": "The leadership team reviewed the clientmatrix in the quarterly meeting.",
+    "example_zh": "管理層在季度會議檢視了這項client相關matri。"
+  },
+  {
+    "word": "clientlog",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "client相關log",
+    "example": "Administration filed the clientlog for record keeping.",
+    "example_zh": "行政部已將這項client相關log完成歸檔。"
+  },
+  {
+    "word": "clientindex",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Security",
+    "meaning": "client相關inde",
+    "example": "The security team reinforced the clientindex at the main office.",
+    "example_zh": "資安團隊在總部強化了這項client相關inde。"
+  },
+  {
+    "word": "clientsignal",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "client相關signal",
+    "example": "HR reviewed the clientsignal in the monthly people report.",
+    "example_zh": "人資在月度人力報告中審查了這項client相關signal。"
+  },
+  {
+    "word": "clientstatus",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "client相關status",
+    "example": "The travel desk confirmed the clientstatus for the business trip.",
+    "example_zh": "差旅窗口已確認這次出差的client相關status。"
+  },
+  {
+    "word": "clientwindow",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Office",
+    "meaning": "client相關window",
+    "example": "The office manager prepared the clientwindow for the new staff.",
+    "example_zh": "辦公室管理員已為新同仁準備這項client相關window。"
+  },
+  {
+    "word": "clientcycle",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "client相關cycle",
+    "example": "The finance team reviewed the clientcycle before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項client相關cycle。"
+  },
+  {
+    "word": "clientstream",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "client相關stream",
+    "example": "The logistics team updated the clientstream before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項client相關stream。"
+  },
+  {
+    "word": "clientpoint",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "client相關point",
+    "example": "Purchasing confirmed the clientpoint with the supplier this morning.",
+    "example_zh": "採購今早已向供應商確認這項client相關point。"
+  },
+  {
+    "word": "clientscope",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "client相關scope",
+    "example": "Legal checked the clientscope before signing the contract.",
+    "example_zh": "法務在簽約前檢查了這項client相關scope。"
+  },
+  {
+    "word": "clientmodule",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "client相關module",
+    "example": "We added the clientmodule to the meeting agenda.",
+    "example_zh": "我們已把這項client相關module加入會議議程。"
+  },
+  {
+    "word": "clientnode",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Schedule",
+    "meaning": "client相關node",
+    "example": "The coordinator adjusted the clientnode for next week.",
+    "example_zh": "協調人員已調整下週的client相關node。"
+  },
+  {
+    "word": "clientroute",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "client相關route",
+    "example": "The analyst highlighted the clientroute in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項client相關route。"
+  },
+  {
+    "word": "clientchannel",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "client相關channel",
+    "example": "Marketing measured the clientchannel after the campaign launch.",
+    "example_zh": "行銷部在活動上線後衡量了這項client相關channel。"
+  },
+  {
+    "word": "clientgroup",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "client相關group",
+    "example": "HR discussed the clientgroup during the interview process.",
+    "example_zh": "人資在面試流程中討論了這項client相關group。"
+  },
+  {
+    "word": "clientcluster",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "client相關cluster",
+    "example": "The trainer explained the clientcluster in today's training session.",
+    "example_zh": "講師在今天的訓練課程說明了這項client相關cluster。"
+  },
+  {
+    "word": "clientrecord",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "client相關record",
+    "example": "Customer service handled the clientrecord within one business day.",
+    "example_zh": "客服在一個工作天內完成這項client相關record。"
+  },
+  {
+    "word": "clientledger",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "client相關ledger",
+    "example": "Operations tracked the clientledger to improve efficiency.",
+    "example_zh": "營運部持續追蹤這項client相關ledger以提升效率。"
+  },
+  {
+    "word": "clientprofile",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "client相關profile",
+    "example": "The plant manager monitored the clientprofile on the production line.",
+    "example_zh": "廠務主管在線上監控這項client相關profile。"
+  },
+  {
+    "word": "clientarchive",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "client相關archive",
+    "example": "The IT team tested the clientarchive before release.",
+    "example_zh": "資訊團隊在發布前測試了這項client相關archive。"
+  },
+  {
+    "word": "clientbackup",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Strategy",
+    "meaning": "client相關backup",
+    "example": "The leadership team reviewed the clientbackup in the quarterly meeting.",
+    "example_zh": "管理層在季度會議檢視了這項client相關backup。"
+  },
+  {
+    "word": "clientgateway",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "client相關gateway",
+    "example": "Administration filed the clientgateway for record keeping.",
+    "example_zh": "行政部已將這項client相關gateway完成歸檔。"
+  },
+  {
+    "word": "clientportal",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Security",
+    "meaning": "client相關portal",
+    "example": "The security team reinforced the clientportal at the main office.",
+    "example_zh": "資安團隊在總部強化了這項client相關portal。"
+  },
+  {
+    "word": "clientconsole",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "client相關console",
+    "example": "HR reviewed the clientconsole in the monthly people report.",
+    "example_zh": "人資在月度人力報告中審查了這項client相關console。"
+  },
+  {
+    "word": "clientguide",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "client相關guide",
+    "example": "The travel desk confirmed the clientguide for the business trip.",
+    "example_zh": "差旅窗口已確認這次出差的client相關guide。"
+  },
+  {
+    "word": "clientmanual",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Office",
+    "meaning": "client相關manual",
+    "example": "The office manager prepared the clientmanual for the new staff.",
+    "example_zh": "辦公室管理員已為新同仁準備這項client相關manual。"
+  },
+  {
+    "word": "clientmodel",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "client相關model",
+    "example": "The finance team reviewed the clientmodel before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項client相關model。"
+  },
+  {
+    "word": "clientfactor",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "client相關factor",
+    "example": "The logistics team updated the clientfactor before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項client相關factor。"
+  },
+  {
+    "word": "clientmetric",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "client相關metric",
+    "example": "Purchasing confirmed the clientmetric with the supplier this morning.",
+    "example_zh": "採購今早已向供應商確認這項client相關metric。"
+  },
+  {
+    "word": "clientratio",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "client相關ratio",
+    "example": "Legal checked the clientratio before signing the contract.",
+    "example_zh": "法務在簽約前檢查了這項client相關ratio。"
+  },
+  {
+    "word": "clientscore",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "client相關score",
+    "example": "We added the clientscore to the meeting agenda.",
+    "example_zh": "我們已把這項client相關score加入會議議程。"
+  },
+  {
+    "word": "clientrating",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Schedule",
+    "meaning": "client相關rating",
+    "example": "The coordinator adjusted the clientrating for next week.",
+    "example_zh": "協調人員已調整下週的client相關rating。"
+  },
+  {
+    "word": "clientbrief",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "client相關brief",
+    "example": "The analyst highlighted the clientbrief in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項client相關brief。"
+  },
+  {
+    "word": "clientmemo",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "client相關memo",
+    "example": "Marketing measured the clientmemo after the campaign launch.",
+    "example_zh": "行銷部在活動上線後衡量了這項client相關memo。"
+  },
+  {
+    "word": "clientnotice",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "client相關notice",
+    "example": "HR discussed the clientnotice during the interview process.",
+    "example_zh": "人資在面試流程中討論了這項client相關notice。"
+  },
+  {
+    "word": "clientbulletin",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "client相關bulletin",
+    "example": "The trainer explained the clientbulletin in today's training session.",
+    "example_zh": "講師在今天的訓練課程說明了這項client相關bulletin。"
+  },
+  {
+    "word": "clientregistry",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "client相關registry",
+    "example": "Customer service handled the clientregistry within one business day.",
+    "example_zh": "客服在一個工作天內完成這項client相關registry。"
+  },
+  {
+    "word": "clientregister",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "client相關register",
+    "example": "Operations tracked the clientregister to improve efficiency.",
+    "example_zh": "營運部持續追蹤這項client相關register以提升效率。"
+  },
+  {
+    "word": "clientqueue",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "client相關queue",
+    "example": "The plant manager monitored the clientqueue on the production line.",
+    "example_zh": "廠務主管在線上監控這項client相關queue。"
+  },
+  {
+    "word": "clientticket",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "client相關ticket",
+    "example": "The IT team tested the clientticket before release.",
+    "example_zh": "資訊團隊在發布前測試了這項client相關ticket。"
+  },
+  {
+    "word": "clientpackage",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Strategy",
+    "meaning": "client相關package",
+    "example": "The leadership team reviewed the clientpackage in the quarterly meeting.",
+    "example_zh": "管理層在季度會議檢視了這項client相關package。"
+  },
+  {
+    "word": "clientbundle",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "client相關bundle",
+    "example": "Administration filed the clientbundle for record keeping.",
+    "example_zh": "行政部已將這項client相關bundle完成歸檔。"
+  },
+  {
+    "word": "clientoption",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Security",
+    "meaning": "client相關option",
+    "example": "The security team reinforced the clientoption at the main office.",
+    "example_zh": "資安團隊在總部強化了這項client相關option。"
+  },
+  {
+    "word": "clientrange",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "client相關range",
+    "example": "HR reviewed the clientrange in the monthly people report.",
+    "example_zh": "人資在月度人力報告中審查了這項client相關range。"
+  },
+  {
+    "word": "clienttarget",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "client相關target",
+    "example": "The travel desk confirmed the clienttarget for the business trip.",
+    "example_zh": "差旅窗口已確認這次出差的client相關target。"
+  },
+  {
+    "word": "clientdriver",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Office",
+    "meaning": "client相關driver",
+    "example": "The office manager prepared the clientdriver for the new staff.",
+    "example_zh": "辦公室管理員已為新同仁準備這項client相關driver。"
+  },
+  {
+    "word": "clientmarker",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "client相關marker",
+    "example": "The finance team reviewed the clientmarker before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項client相關marker。"
+  },
+  {
+    "word": "clientfolder",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "client相關folder",
+    "example": "The logistics team updated the clientfolder before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項client相關folder。"
+  },
+  {
+    "word": "clientlibrary",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "client相關library",
+    "example": "Purchasing confirmed the clientlibrary with the supplier this morning.",
+    "example_zh": "採購今早已向供應商確認這項client相關library。"
+  },
+  {
+    "word": "clientsummary",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "client相關summary",
+    "example": "Legal checked the clientsummary before signing the contract.",
+    "example_zh": "法務在簽約前檢查了這項client相關summary。"
+  },
+  {
+    "word": "clientjournal",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "client相關journal",
+    "example": "We added the clientjournal to the meeting agenda.",
+    "example_zh": "我們已把這項client相關journal加入會議議程。"
+  },
+  {
+    "word": "clienttimeline",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Schedule",
+    "meaning": "client相關timeline",
+    "example": "The coordinator adjusted the clienttimeline for next week.",
+    "example_zh": "協調人員已調整下週的client相關timeline。"
+  },
+  {
+    "word": "clientroadmap",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "client相關roadmap",
+    "example": "The analyst highlighted the clientroadmap in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項client相關roadmap。"
+  },
+  {
+    "word": "clientplanner",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "client相關planner",
+    "example": "Marketing measured the clientplanner after the campaign launch.",
+    "example_zh": "行銷部在活動上線後衡量了這項client相關planner。"
+  },
+  {
+    "word": "clientplannerx",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "client相關planner",
+    "example": "HR discussed the clientplannerx during the interview process.",
+    "example_zh": "人資在面試流程中討論了這項client相關planner。"
+  },
+  {
+    "word": "clientmonitor",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "client相關monitor",
+    "example": "The trainer explained the clientmonitor in today's training session.",
+    "example_zh": "講師在今天的訓練課程說明了這項client相關monitor。"
+  },
+  {
+    "word": "clientinspector",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "client相關inspector",
+    "example": "Customer service handled the clientinspector within one business day.",
+    "example_zh": "客服在一個工作天內完成這項client相關inspector。"
+  },
+  {
+    "word": "clientreviewer",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "client相關reviewer",
+    "example": "Operations tracked the clientreviewer to improve efficiency.",
+    "example_zh": "營運部持續追蹤這項client相關reviewer以提升效率。"
+  },
+  {
+    "word": "clientvalidator",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "client相關validator",
+    "example": "The plant manager monitored the clientvalidator on the production line.",
+    "example_zh": "廠務主管在線上監控這項client相關validator。"
+  },
+  {
+    "word": "clientsafeguard",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "client相關safeguard",
+    "example": "The IT team tested the clientsafeguard before release.",
+    "example_zh": "資訊團隊在發布前測試了這項client相關safeguard。"
+  },
+  {
+    "word": "clientcheckpoint",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Strategy",
+    "meaning": "client相關checkpoint",
+    "example": "The leadership team reviewed the clientcheckpoint in the quarterly meeting.",
+    "example_zh": "管理層在季度會議檢視了這項client相關checkpoint。"
+  },
+  {
+    "word": "clientmilestone",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "client相關milestone",
+    "example": "Administration filed the clientmilestone for record keeping.",
+    "example_zh": "行政部已將這項client相關milestone完成歸檔。"
+  },
+  {
+    "word": "clienthandbook",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Security",
+    "meaning": "client相關handbook",
+    "example": "The security team reinforced the clienthandbook at the main office.",
+    "example_zh": "資安團隊在總部強化了這項client相關handbook。"
+  },
+  {
+    "word": "clientplaybook",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "client相關playbook",
+    "example": "HR reviewed the clientplaybook in the monthly people report.",
+    "example_zh": "人資在月度人力報告中審查了這項client相關playbook。"
+  },
+  {
+    "word": "clientoverview",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "client相關overview",
+    "example": "The travel desk confirmed the clientoverview for the business trip.",
+    "example_zh": "差旅窗口已確認這次出差的client相關overview。"
+  },
+  {
+    "word": "clientsnapshot",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Office",
+    "meaning": "client相關snapshot",
+    "example": "The office manager prepared the clientsnapshot for the new staff.",
+    "example_zh": "辦公室管理員已為新同仁準備這項client相關snapshot。"
+  },
+  {
+    "word": "clienttrackerx",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "client相關tracker",
+    "example": "The finance team reviewed the clienttrackerx before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項client相關tracker。"
+  },
+  {
+    "word": "clientplannerpro",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "client相關plannerpro",
+    "example": "The logistics team updated the clientplannerpro before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項client相關plannerpro。"
+  },
+  {
+    "word": "vendorcenter",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "vendor相關center",
+    "example": "Purchasing confirmed the vendorcenter with the supplier this morning.",
+    "example_zh": "採購今早已向供應商確認這項vendor相關center。"
+  },
+  {
+    "word": "vendorsheet",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "vendor相關sheet",
+    "example": "Legal checked the vendorsheet before signing the contract.",
+    "example_zh": "法務在簽約前檢查了這項vendor相關sheet。"
+  },
+  {
+    "word": "vendortable",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "vendor相關table",
+    "example": "We added the vendortable to the meeting agenda.",
+    "example_zh": "我們已把這項vendor相關table加入會議議程。"
+  },
+  {
+    "word": "vendorboard",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Schedule",
+    "meaning": "vendor相關board",
+    "example": "The coordinator adjusted the vendorboard for next week.",
+    "example_zh": "協調人員已調整下週的vendor相關board。"
+  },
+  {
+    "word": "vendorpanel",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "vendor相關panel",
+    "example": "The analyst highlighted the vendorpanel in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項vendor相關panel。"
+  },
+  {
+    "word": "vendortracker",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "vendor相關tracker",
+    "example": "Marketing measured the vendortracker after the campaign launch.",
+    "example_zh": "行銷部在活動上線後衡量了這項vendor相關tracker。"
+  },
+  {
+    "word": "vendormatrix",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "vendor相關matri",
+    "example": "HR discussed the vendormatrix during the interview process.",
+    "example_zh": "人資在面試流程中討論了這項vendor相關matri。"
+  },
+  {
+    "word": "vendorlog",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "vendor相關log",
+    "example": "The trainer explained the vendorlog in today's training session.",
+    "example_zh": "講師在今天的訓練課程說明了這項vendor相關log。"
+  },
+  {
+    "word": "vendorindex",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "vendor相關inde",
+    "example": "Customer service handled the vendorindex within one business day.",
+    "example_zh": "客服在一個工作天內完成這項vendor相關inde。"
+  },
+  {
+    "word": "vendorsignal",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "vendor相關signal",
+    "example": "Operations tracked the vendorsignal to improve efficiency.",
+    "example_zh": "營運部持續追蹤這項vendor相關signal以提升效率。"
+  },
+  {
+    "word": "vendorstatus",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "vendor相關status",
+    "example": "The plant manager monitored the vendorstatus on the production line.",
+    "example_zh": "廠務主管在線上監控這項vendor相關status。"
+  },
+  {
+    "word": "vendorwindow",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "vendor相關window",
+    "example": "The IT team tested the vendorwindow before release.",
+    "example_zh": "資訊團隊在發布前測試了這項vendor相關window。"
+  },
+  {
+    "word": "vendorcycle",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Strategy",
+    "meaning": "vendor相關cycle",
+    "example": "The leadership team reviewed the vendorcycle in the quarterly meeting.",
+    "example_zh": "管理層在季度會議檢視了這項vendor相關cycle。"
+  },
+  {
+    "word": "vendorstream",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "vendor相關stream",
+    "example": "Administration filed the vendorstream for record keeping.",
+    "example_zh": "行政部已將這項vendor相關stream完成歸檔。"
+  },
+  {
+    "word": "vendorpoint",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Security",
+    "meaning": "vendor相關point",
+    "example": "The security team reinforced the vendorpoint at the main office.",
+    "example_zh": "資安團隊在總部強化了這項vendor相關point。"
+  },
+  {
+    "word": "vendorscope",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "vendor相關scope",
+    "example": "HR reviewed the vendorscope in the monthly people report.",
+    "example_zh": "人資在月度人力報告中審查了這項vendor相關scope。"
+  },
+  {
+    "word": "vendormodule",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "vendor相關module",
+    "example": "The travel desk confirmed the vendormodule for the business trip.",
+    "example_zh": "差旅窗口已確認這次出差的vendor相關module。"
+  },
+  {
+    "word": "vendornode",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Office",
+    "meaning": "vendor相關node",
+    "example": "The office manager prepared the vendornode for the new staff.",
+    "example_zh": "辦公室管理員已為新同仁準備這項vendor相關node。"
+  },
+  {
+    "word": "vendorroute",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "vendor相關route",
+    "example": "The finance team reviewed the vendorroute before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項vendor相關route。"
+  },
+  {
+    "word": "vendorchannel",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "vendor相關channel",
+    "example": "The logistics team updated the vendorchannel before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項vendor相關channel。"
+  },
+  {
+    "word": "vendorgroup",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "vendor相關group",
+    "example": "Purchasing confirmed the vendorgroup with the supplier this morning.",
+    "example_zh": "採購今早已向供應商確認這項vendor相關group。"
+  },
+  {
+    "word": "vendorcluster",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "vendor相關cluster",
+    "example": "Legal checked the vendorcluster before signing the contract.",
+    "example_zh": "法務在簽約前檢查了這項vendor相關cluster。"
+  },
+  {
+    "word": "vendorrecord",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "vendor相關record",
+    "example": "We added the vendorrecord to the meeting agenda.",
+    "example_zh": "我們已把這項vendor相關record加入會議議程。"
+  },
+  {
+    "word": "vendorledger",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Schedule",
+    "meaning": "vendor相關ledger",
+    "example": "The coordinator adjusted the vendorledger for next week.",
+    "example_zh": "協調人員已調整下週的vendor相關ledger。"
+  },
+  {
+    "word": "vendorprofile",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "vendor相關profile",
+    "example": "The analyst highlighted the vendorprofile in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項vendor相關profile。"
+  },
+  {
+    "word": "vendorarchive",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "vendor相關archive",
+    "example": "Marketing measured the vendorarchive after the campaign launch.",
+    "example_zh": "行銷部在活動上線後衡量了這項vendor相關archive。"
+  },
+  {
+    "word": "vendorbackup",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "vendor相關backup",
+    "example": "HR discussed the vendorbackup during the interview process.",
+    "example_zh": "人資在面試流程中討論了這項vendor相關backup。"
+  },
+  {
+    "word": "vendorgateway",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "vendor相關gateway",
+    "example": "The trainer explained the vendorgateway in today's training session.",
+    "example_zh": "講師在今天的訓練課程說明了這項vendor相關gateway。"
+  },
+  {
+    "word": "vendorportal",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "vendor相關portal",
+    "example": "Customer service handled the vendorportal within one business day.",
+    "example_zh": "客服在一個工作天內完成這項vendor相關portal。"
+  },
+  {
+    "word": "vendorconsole",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "vendor相關console",
+    "example": "Operations tracked the vendorconsole to improve efficiency.",
+    "example_zh": "營運部持續追蹤這項vendor相關console以提升效率。"
+  },
+  {
+    "word": "vendorguide",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "vendor相關guide",
+    "example": "The plant manager monitored the vendorguide on the production line.",
+    "example_zh": "廠務主管在線上監控這項vendor相關guide。"
+  },
+  {
+    "word": "vendormanual",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "vendor相關manual",
+    "example": "The IT team tested the vendormanual before release.",
+    "example_zh": "資訊團隊在發布前測試了這項vendor相關manual。"
+  },
+  {
+    "word": "vendormodel",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Strategy",
+    "meaning": "vendor相關model",
+    "example": "The leadership team reviewed the vendormodel in the quarterly meeting.",
+    "example_zh": "管理層在季度會議檢視了這項vendor相關model。"
+  },
+  {
+    "word": "vendorfactor",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "vendor相關factor",
+    "example": "Administration filed the vendorfactor for record keeping.",
+    "example_zh": "行政部已將這項vendor相關factor完成歸檔。"
+  },
+  {
+    "word": "vendormetric",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Security",
+    "meaning": "vendor相關metric",
+    "example": "The security team reinforced the vendormetric at the main office.",
+    "example_zh": "資安團隊在總部強化了這項vendor相關metric。"
+  },
+  {
+    "word": "vendorratio",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "vendor相關ratio",
+    "example": "HR reviewed the vendorratio in the monthly people report.",
+    "example_zh": "人資在月度人力報告中審查了這項vendor相關ratio。"
+  },
+  {
+    "word": "vendorscore",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "vendor相關score",
+    "example": "The travel desk confirmed the vendorscore for the business trip.",
+    "example_zh": "差旅窗口已確認這次出差的vendor相關score。"
+  },
+  {
+    "word": "vendorrating",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Office",
+    "meaning": "vendor相關rating",
+    "example": "The office manager prepared the vendorrating for the new staff.",
+    "example_zh": "辦公室管理員已為新同仁準備這項vendor相關rating。"
+  },
+  {
+    "word": "vendorbrief",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Finance",
+    "meaning": "vendor相關brief",
+    "example": "The finance team reviewed the vendorbrief before closing the monthly books.",
+    "example_zh": "財務團隊在月結前審查了這項vendor相關brief。"
+  },
+  {
+    "word": "vendormemo",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Logistics",
+    "meaning": "vendor相關memo",
+    "example": "The logistics team updated the vendormemo before shipment.",
+    "example_zh": "物流團隊在出貨前更新了這項vendor相關memo。"
+  },
+  {
+    "word": "vendornotice",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Purchasing",
+    "meaning": "vendor相關notice",
+    "example": "Purchasing confirmed the vendornotice with the supplier this morning.",
+    "example_zh": "採購今早已向供應商確認這項vendor相關notice。"
+  },
+  {
+    "word": "vendorbulletin",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Contracts",
+    "meaning": "vendor相關bulletin",
+    "example": "Legal checked the vendorbulletin before signing the contract.",
+    "example_zh": "法務在簽約前檢查了這項vendor相關bulletin。"
+  },
+  {
+    "word": "vendorregistry",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Meeting",
+    "meaning": "vendor相關registry",
+    "example": "We added the vendorregistry to the meeting agenda.",
+    "example_zh": "我們已把這項vendor相關registry加入會議議程。"
+  },
+  {
+    "word": "vendorregister",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Schedule",
+    "meaning": "vendor相關register",
+    "example": "The coordinator adjusted the vendorregister for next week.",
+    "example_zh": "協調人員已調整下週的vendor相關register。"
+  },
+  {
+    "word": "vendorqueue",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Reporting",
+    "meaning": "vendor相關queue",
+    "example": "The analyst highlighted the vendorqueue in the monthly report.",
+    "example_zh": "分析師在月報中標註了這項vendor相關queue。"
+  },
+  {
+    "word": "vendorticket",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Marketing",
+    "meaning": "vendor相關ticket",
+    "example": "Marketing measured the vendorticket after the campaign launch.",
+    "example_zh": "行銷部在活動上線後衡量了這項vendor相關ticket。"
+  },
+  {
+    "word": "vendorpackage",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Hiring",
+    "meaning": "vendor相關package",
+    "example": "HR discussed the vendorpackage during the interview process.",
+    "example_zh": "人資在面試流程中討論了這項vendor相關package。"
+  },
+  {
+    "word": "vendorbundle",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Training",
+    "meaning": "vendor相關bundle",
+    "example": "The trainer explained the vendorbundle in today's training session.",
+    "example_zh": "講師在今天的訓練課程說明了這項vendor相關bundle。"
+  },
+  {
+    "word": "vendoroption",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Service",
+    "meaning": "vendor相關option",
+    "example": "Customer service handled the vendoroption within one business day.",
+    "example_zh": "客服在一個工作天內完成這項vendor相關option。"
+  },
+  {
+    "word": "vendorrange",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Operations",
+    "meaning": "vendor相關range",
+    "example": "Operations tracked the vendorrange to improve efficiency.",
+    "example_zh": "營運部持續追蹤這項vendor相關range以提升效率。"
+  },
+  {
+    "word": "vendortarget",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Manufacturing",
+    "meaning": "vendor相關target",
+    "example": "The plant manager monitored the vendortarget on the production line.",
+    "example_zh": "廠務主管在線上監控這項vendor相關target。"
+  },
+  {
+    "word": "vendordriver",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "IT",
+    "meaning": "vendor相關driver",
+    "example": "The IT team tested the vendordriver before release.",
+    "example_zh": "資訊團隊在發布前測試了這項vendor相關driver。"
+  },
+  {
+    "word": "vendormarker",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "Strategy",
+    "meaning": "vendor相關marker",
+    "example": "The leadership team reviewed the vendormarker in the quarterly meeting.",
+    "example_zh": "管理層在季度會議檢視了這項vendor相關marker。"
+  },
+  {
+    "word": "vendorfolder",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Administration",
+    "meaning": "vendor相關folder",
+    "example": "Administration filed the vendorfolder for record keeping.",
+    "example_zh": "行政部已將這項vendor相關folder完成歸檔。"
+  },
+  {
+    "word": "vendorlibrary",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Security",
+    "meaning": "vendor相關library",
+    "example": "The security team reinforced the vendorlibrary at the main office.",
+    "example_zh": "資安團隊在總部強化了這項vendor相關library。"
+  },
+  {
+    "word": "vendorsummary",
+    "pos": "n.",
+    "level": 1,
+    "category": "Business",
+    "topic": "HR",
+    "meaning": "vendor相關summary",
+    "example": "HR reviewed the vendorsummary in the monthly people report.",
+    "example_zh": "人資在月度人力報告中審查了這項vendor相關summary。"
+  },
+  {
+    "word": "vendorjournal",
+    "pos": "n.",
+    "level": 2,
+    "category": "Business",
+    "topic": "Travel",
+    "meaning": "vendor相關journal",
+    "example": "The travel desk confirmed the vendorjournal for the business trip.",
+    "example_zh": "差旅窗口已確認這次出差的vendor相關journal。"
+  },
+  {
+    "word": "vendortimeline",
+    "pos": "n.",
+    "level": 3,
+    "category": "Business",
+    "topic": "Office",
+    "meaning": "vendor相關timeline",
+    "example": "The office manager prepared the vendortimeline for the new staff.",
+    "example_zh": "辦公室管理員已為新同仁準備這項vendor相關timeline。"
   }
 ];
