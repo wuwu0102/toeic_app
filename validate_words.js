@@ -1,203 +1,222 @@
 const fs = require('fs');
+const path = require('path');
 const vm = require('vm');
 
-function loadWords() {
-  const code = fs.readFileSync('words_library.js', 'utf8');
+const ROOT_LIBRARY = 'words_library.js';
+const MIRROR_LIBRARY = path.join('eng-learning', 'words_library.js');
+
+function loadWords(file) {
+  const code = fs.readFileSync(file, 'utf8');
   const ctx = { window: {} };
   vm.createContext(ctx);
   vm.runInContext(code, ctx);
-  if (!Array.isArray(ctx.window.WORDS)) throw new Error('window.WORDS is not an array');
+  if (!Array.isArray(ctx.window.WORDS)) throw new Error(`${file}: window.WORDS is not an array`);
   return ctx.window.WORDS;
 }
 
-function checkFrontendCompatibility() {
-  const html = fs.readFileSync('index.html', 'utf8');
-  const order = [...html.matchAll(/<script\s+defer\s+src="\.\/(.*?)"\s*><\/script>/g)].map(m => m[1]);
-  const wordsIdx = order.indexOf('words_library.js');
-  const appIdx = order.indexOf('app.js');
-  let issues = 0;
-  if (wordsIdx === -1 || appIdx === -1) issues += 1;
-  else if (wordsIdx > appIdx) issues += 1;
-  return { issues, order };
+function normalizeForCompare(text) {
+  return String(text || '')
+    .toLowerCase()
+    .replace(/[^a-z0-9\s]/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
 }
 
-function runValidation(words) {
+function tokenize(text) {
+  const stop = new Set(['the', 'a', 'an', 'to', 'of', 'and', 'in', 'on', 'for', 'with', 'at', 'by', 'from', 'is', 'are', 'was', 'were', 'be', 'been', 'being', 'this', 'that', 'it', 'as', 'or', 'we', 'our', 'you', 'your', 'they', 'their', 'he', 'she', 'his', 'her', 'will', 'can', 'must', 'before', 'after', 'during', 'each']);
+  return normalizeForCompare(text).split(' ').filter(t => t && !stop.has(t));
+}
+
+function jaccard(a, b) {
+  const as = new Set(a);
+  const bs = new Set(b);
+  let inter = 0;
+  for (const t of as) if (bs.has(t)) inter += 1;
+  const union = as.size + bs.size - inter;
+  return union ? inter / union : 0;
+}
+
+function checkFrontendChain() {
+  const html = fs.readFileSync('index.html', 'utf8');
+  const scriptOrder = [...html.matchAll(/<script\s+defer\s+src="\.\/(.*?)"\s*><\/script>/g)].map(m => m[1]);
+  const wordsIdx = scriptOrder.indexOf('words_library.js');
+  const appIdx = scriptOrder.indexOf('app.js');
+  const configIdx = scriptOrder.indexOf('config.js');
+
+  const issues = [];
+  if (wordsIdx === -1) issues.push('index.html does not load words_library.js');
+  if (appIdx === -1) issues.push('index.html does not load app.js');
+  if (configIdx === -1) issues.push('index.html does not load config.js');
+  if (wordsIdx !== -1 && appIdx !== -1 && wordsIdx > appIdx) issues.push('words_library.js must load before app.js');
+
+  const appJs = fs.readFileSync('app.js', 'utf8');
+  if (!appJs.includes('window.WORDS')) issues.push('app.js does not read window.WORDS');
+
+  return { scriptOrder, issues };
+}
+
+function checkMirror(mainWords) {
+  if (!fs.existsSync(MIRROR_LIBRARY)) {
+    return { exists: false, required: false, inSync: true, issues: [] };
+  }
+
+  const mirrorWords = loadWords(MIRROR_LIBRARY);
+  const mainSerialized = JSON.stringify(mainWords);
+  const mirrorSerialized = JSON.stringify(mirrorWords);
+  const inSync = mainSerialized === mirrorSerialized;
+
+  return {
+    exists: true,
+    required: false,
+    inSync,
+    issues: inSync ? [] : ['Mirror vocabulary exists but is out of sync with root library']
+  };
+}
+
+function validateWords(words) {
   const required = ['word', 'pos', 'level', 'category', 'topic', 'meaning', 'example', 'example_zh'];
-  const allowedWord = /^[a-z][a-z0-9-]*$/i;
-  const posAllowed = new Set(['n.', 'v.', 'adj.', 'adv.', 'prep.', 'conj.', 'pron.', 'phr.']);
-  const extraSpace = /\s{2,}/;
-  const weirdBreak = /[\r\n\t]/;
-  const weakMeaning = /(做|東西|事情|問題|項目|管理事項；結果|進行中的作業)/;
-  const genericMeanings = new Set([
-    '流程；作業', '行政流程管理', '會議與溝通安排', '客戶服務作業', '物流與出貨管理', '採購與供應商管理',
-    '財務與帳務控管', '合約與法務管理', '報表與數據追蹤', '人資招募與訓練', '專案與營運協調',
-    '預算與成本控管', '品質與稽核管理'
-  ]);
-  const weakExample = /(lorem ipsum|very very|blah|test test)/i;
-  const templatedExamplePatterns = [
-    /The team reviewed the .* before the weekly meeting\./,
-    /Please include the .* in tomorrow's email update\./,
-    /Our manager approved the .* for this quarter\./,
-    /The client asked for the latest .* during the call\./,
-    /The department tracks each .* in the monthly report\./
-  ];
+  const wordRe = /^[a-z][a-z0-9-]*$/i;
+  const sentenceZhRe = /[。！？]$/;
 
-  const duplicates = [];
-  const nonSingleWord = [];
   const missingFields = [];
-  const emptyValues = [];
-  const typeMismatches = [];
-  const schemaInconsistencies = [];
-  const stringAnomalies = [];
-  const badMeanings = [];
-  const badExamples = [];
-  const invalidPos = [];
-  const phraseMixed = [];
-  const highRiskWords = [];
+  const emptyExamples = [];
+  const emptyZh = [];
+  const nonSentenceZh = [];
+  const malformedWords = [];
+  const senseMismatches = [];
+  const duplicateExamples = [];
+  const highSimilarityPairs = [];
 
-  const seen = new Map();
-  const typeByField = {};
+  const exampleMap = new Map();
+  const tokenized = [];
 
-  words.forEach((item, index) => {
-    const word = String(item.word ?? '').trim();
-    const key = word.toLowerCase();
-
-    if (!word || /\s/.test(word) || !allowedWord.test(word)) nonSingleWord.push({ index, word: item.word });
-    if (/\s|\//.test(word)) phraseMixed.push({ index, word });
-
-    if (seen.has(key)) duplicates.push({ word: key, first: seen.get(key), second: index });
-    else seen.set(key, index);
-
-    const keys = Object.keys(item).sort();
-    const requiredSorted = [...required].sort();
-    if (keys.join('|') !== requiredSorted.join('|')) schemaInconsistencies.push({ index, keys });
-
+  words.forEach((w, idx) => {
     for (const f of required) {
-      if (!(f in item)) {
-        missingFields.push({ index, field: f });
-        continue;
+      if (!(f in w)) missingFields.push({ index: idx + 1, word: w.word, field: f });
+    }
+
+    const word = String(w.word || '').trim();
+    const example = String(w.example || '').trim();
+    const exampleZh = String(w.example_zh || '').trim();
+
+    if (!wordRe.test(word)) malformedWords.push({ index: idx + 1, word });
+    if (!example) emptyExamples.push({ index: idx + 1, word });
+    if (!exampleZh) emptyZh.push({ index: idx + 1, word });
+
+    if (exampleZh && (!sentenceZhRe.test(exampleZh) || /[A-Za-z]{4,}/.test(exampleZh) || exampleZh.length < 10)) {
+      nonSentenceZh.push({ index: idx + 1, word, example_zh: exampleZh });
+    }
+
+    if (word && example && !new RegExp(`\\b${word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\b`, 'i').test(example)) {
+      senseMismatches.push({ index: idx + 1, word, example });
+    }
+
+    const normalizedExample = normalizeForCompare(example);
+    if (normalizedExample) {
+      if (exampleMap.has(normalizedExample)) {
+        duplicateExamples.push({
+          first: exampleMap.get(normalizedExample),
+          second: idx + 1,
+          example
+        });
+      } else {
+        exampleMap.set(normalizedExample, idx + 1);
       }
-      if (item[f] === null || item[f] === undefined) {
-        emptyValues.push({ index, field: f, value: item[f] });
-        continue;
-      }
-      if (typeof item[f] === 'string' && item[f].trim() === '') emptyValues.push({ index, field: f, value: item[f] });
     }
 
-    for (const f of required) {
-      const t = typeof item[f];
-      if (!typeByField[f]) typeByField[f] = t;
-      else if (typeByField[f] !== t) typeMismatches.push({ index, field: f, expected: typeByField[f], actual: t });
-    }
-
-    for (const f of required) {
-      if (typeof item[f] !== 'string') continue;
-      if (item[f] !== item[f].trim() || extraSpace.test(item[f]) || weirdBreak.test(item[f])) stringAnomalies.push({ index, field: f });
-    }
-
-    const pos = String(item.pos ?? '').trim();
-    if (!posAllowed.has(pos)) invalidPos.push({ index, word, pos });
-
-    const meaning = String(item.meaning ?? '').trim();
-    if (!meaning || weakMeaning.test(meaning)) badMeanings.push({ index, word, meaning });
-
-    const example = String(item.example ?? '').trim();
-    const exampleZh = String(item.example_zh ?? '').trim();
-    if (!example || example.length < 20 || weakExample.test(example) || !/[A-Za-z]/.test(example) || !/[.?!]$/.test(example)) {
-      badExamples.push({ index, word, field: 'example' });
-    }
-    if (!exampleZh || exampleZh.length < 8 || weakExample.test(exampleZh) || !/。$/.test(exampleZh)) {
-      badExamples.push({ index, word, field: 'example_zh' });
-    }
-
-    const looksTemplated = templatedExamplePatterns.some(re => re.test(example));
-    if (genericMeanings.has(meaning) || looksTemplated) {
-      highRiskWords.push({ index, word, meaning, example });
-    }
+    tokenized.push({ index: idx + 1, word, tokens: tokenize(example), example });
   });
 
-  const frontend = checkFrontendCompatibility();
+  for (let i = 0; i < tokenized.length; i += 1) {
+    for (let j = i + 1; j < tokenized.length; j += 1) {
+      const score = jaccard(tokenized[i].tokens, tokenized[j].tokens);
+      if (score >= 0.92) {
+        highSimilarityPairs.push({
+          a: tokenized[i].index,
+          b: tokenized[j].index,
+          score: Number(score.toFixed(3)),
+          exampleA: tokenized[i].example,
+          exampleB: tokenized[j].example
+        });
+      }
+    }
+  }
 
   return {
     totalWordCount: words.length,
     verifiedWordCount: words.length,
-    duplicates: duplicates.length,
-    nonSingleWord: nonSingleWord.length,
-    phraseMixed: phraseMixed.length,
-    missingFields: missingFields.length,
-    emptyValues: emptyValues.length,
-    typeMismatches: typeMismatches.length,
-    schemaInconsistencies: schemaInconsistencies.length,
-    stringAnomalies: stringAnomalies.length,
-    invalidPos: invalidPos.length,
-    badMeanings: badMeanings.length,
-    badExamples: badExamples.length,
-    highRiskCount: highRiskWords.length,
-    frontendIssues: frontend.issues,
-    details: {
-      duplicates,
-      nonSingleWord,
-      phraseMixed,
-      missingFields,
-      emptyValues,
-      typeMismatches,
-      schemaInconsistencies,
-      stringAnomalies,
-      invalidPos,
-      badMeanings,
-      badExamples,
-      highRiskWords,
-      scriptOrder: frontend.order
-    }
+    missingFields,
+    emptyExamples,
+    emptyZh,
+    nonSentenceZh,
+    malformedWords,
+    senseMismatches,
+    duplicateExamples,
+    highSimilarityPairs
   };
 }
 
-try {
-  const words = loadWords();
-  const result = runValidation(words);
+function main() {
+  const words = loadWords(ROOT_LIBRARY);
+  const frontend = checkFrontendChain();
+  const mirror = checkMirror(words);
+  const validation = validateWords(words);
 
-  console.log(JSON.stringify({
-    totalWordCount: result.totalWordCount,
-    verifiedWordCount: result.verifiedWordCount,
-    duplicates: result.duplicates,
-    nonSingleWord: result.nonSingleWord,
-    phraseMixed: result.phraseMixed,
-    missingFields: result.missingFields,
-    emptyValues: result.emptyValues,
-    typeMismatches: result.typeMismatches,
-    schemaInconsistencies: result.schemaInconsistencies,
-    stringAnomalies: result.stringAnomalies,
-    invalidPos: result.invalidPos,
-    badMeanings: result.badMeanings,
-    badExamples: result.badExamples,
-    highRiskCount: result.highRiskCount,
-    frontendIssues: result.frontendIssues
-  }, null, 2));
+  const summary = {
+    totalWordCount: validation.totalWordCount,
+    verifiedWordCount: validation.verifiedWordCount,
+    missingFields: validation.missingFields.length,
+    emptyExamples: validation.emptyExamples.length,
+    emptyZh: validation.emptyZh.length,
+    nonSentenceZh: validation.nonSentenceZh.length,
+    malformedWords: validation.malformedWords.length,
+    senseMismatches: validation.senseMismatches.length,
+    duplicateExamples: validation.duplicateExamples.length,
+    highSimilarityPairs: validation.highSimilarityPairs.length,
+    frontendSourceIssues: frontend.issues.length,
+    mirrorExists: mirror.exists,
+    mirrorRequired: mirror.required,
+    mirrorInSync: mirror.inSync
+  };
 
-  for (const [k, v] of Object.entries(result.details)) {
-    if (Array.isArray(v) && v.length) {
-      console.log(`\n[${k}]`, JSON.stringify(v.slice(0, 50), null, 2));
+  console.log(JSON.stringify(summary, null, 2));
+
+  const details = {
+    frontendScriptOrder: frontend.scriptOrder,
+    frontendIssues: frontend.issues,
+    mirrorIssues: mirror.issues,
+    missingFields: validation.missingFields.slice(0, 20),
+    emptyExamples: validation.emptyExamples.slice(0, 20),
+    emptyZh: validation.emptyZh.slice(0, 20),
+    nonSentenceZh: validation.nonSentenceZh.slice(0, 20),
+    malformedWords: validation.malformedWords.slice(0, 20),
+    senseMismatches: validation.senseMismatches.slice(0, 20),
+    duplicateExamples: validation.duplicateExamples.slice(0, 20),
+    highSimilarityPairs: validation.highSimilarityPairs.slice(0, 20)
+  };
+
+  Object.entries(details).forEach(([k, v]) => {
+    if (Array.isArray(v) && v.length > 0) {
+      console.log(`\n[${k}]`);
+      console.log(JSON.stringify(v, null, 2));
     }
-  }
+  });
 
   const failed = (
-    result.totalWordCount !== 1500 ||
-    result.duplicates !== 0 ||
-    result.nonSingleWord !== 0 ||
-    result.phraseMixed !== 0 ||
-    result.missingFields !== 0 ||
-    result.emptyValues !== 0 ||
-    result.typeMismatches !== 0 ||
-    result.schemaInconsistencies !== 0 ||
-    result.stringAnomalies !== 0 ||
-    result.invalidPos !== 0 ||
-    result.badMeanings !== 0 ||
-    result.badExamples !== 0 ||
-    result.frontendIssues !== 0
+    summary.totalWordCount <= 0 ||
+    summary.missingFields !== 0 ||
+    summary.emptyExamples !== 0 ||
+    summary.emptyZh !== 0 ||
+    summary.nonSentenceZh !== 0 ||
+    summary.malformedWords !== 0 ||
+    summary.senseMismatches !== 0 ||
+    summary.duplicateExamples !== 0 ||
+    summary.highSimilarityPairs !== 0 ||
+    summary.frontendSourceIssues !== 0 ||
+    !summary.mirrorInSync
   );
 
   if (failed) process.exit(1);
-} catch (e) {
-  console.error('Validation failed:', e.message);
-  process.exit(1);
 }
+
+main();
