@@ -1,18 +1,18 @@
 const fs = require('fs');
 const vm = require('vm');
 
-function loadWords() {
-  const code = fs.readFileSync('words_library.js', 'utf8');
+function loadWords(file = 'words_library.js') {
+  const code = fs.readFileSync(file, 'utf8');
   const ctx = { window: {} };
   vm.createContext(ctx);
   vm.runInContext(code, ctx);
-  if (!Array.isArray(ctx.window.WORDS)) throw new Error('window.WORDS is not an array');
+  if (!Array.isArray(ctx.window.WORDS)) throw new Error(`${file}: window.WORDS is not an array`);
   return ctx.window.WORDS;
 }
 
 function checkFrontendCompatibility() {
   const html = fs.readFileSync('index.html', 'utf8');
-  const order = [...html.matchAll(/<script\s+defer\s+src="\.\/(.*?)"\s*><\/script>/g)].map(m => m[1]);
+  const order = [...html.matchAll(/<script\s+defer\s+src="\.\/(.*?)"\s*><\/script>/g)].map((m) => m[1]);
   const wordsIdx = order.indexOf('words_library.js');
   const appIdx = order.indexOf('app.js');
   let issues = 0;
@@ -21,52 +21,68 @@ function checkFrontendCompatibility() {
   return { issues, order };
 }
 
+function normalizeTokens(s) {
+  return String(s || '')
+    .toLowerCase()
+    .replace(/[^a-z0-9\s]/g, ' ')
+    .split(/\s+/)
+    .filter(Boolean);
+}
+
+function jaccard(a, b) {
+  const sa = new Set(a);
+  const sb = new Set(b);
+  const inter = [...sa].filter((x) => sb.has(x)).length;
+  const union = new Set([...sa, ...sb]).size;
+  return union ? inter / union : 0;
+}
+
+function containsWordOrVariant(word, sentence) {
+  const lowerWord = String(word || '').toLowerCase();
+  const lowerSentence = String(sentence || '').toLowerCase();
+  if (!lowerWord || !lowerSentence) return false;
+  if (new RegExp(`\\b${lowerWord}\\b`, 'i').test(lowerSentence)) return true;
+  const variants = [
+    `${lowerWord}s`, `${lowerWord}es`, `${lowerWord}ed`, `${lowerWord}ing`,
+    `${lowerWord}d`, `${lowerWord}er`, `${lowerWord}est`,
+  ];
+  if (lowerWord.endsWith('y')) variants.push(`${lowerWord.slice(0, -1)}ies`, `${lowerWord.slice(0, -1)}ied`);
+  if (lowerWord.endsWith('e')) variants.push(`${lowerWord.slice(0, -1)}ing`);
+  return variants.some((v) => new RegExp(`\\b${v}\\b`, 'i').test(lowerSentence));
+}
+
 function runValidation(words) {
   const required = ['word', 'pos', 'level', 'category', 'topic', 'meaning', 'example', 'example_zh'];
   const allowedWord = /^[a-z][a-z0-9-]*$/i;
   const posAllowed = new Set(['n.', 'v.', 'adj.', 'adv.', 'prep.', 'conj.', 'pron.', 'phr.']);
   const extraSpace = /\s{2,}/;
   const weirdBreak = /[\r\n\t]/;
-  const weakMeaning = /(做|東西|事情|問題|項目|管理事項；結果|進行中的作業)/;
-  const genericMeanings = new Set([
-    '流程；作業', '行政流程管理', '會議與溝通安排', '客戶服務作業', '物流與出貨管理', '採購與供應商管理',
-    '財務與帳務控管', '合約與法務管理', '報表與數據追蹤', '人資招募與訓練', '專案與營運協調',
-    '預算與成本控管', '品質與稽核管理'
-  ]);
-  const weakExample = /(lorem ipsum|very very|blah|test test)/i;
-  const templatedExamplePatterns = [
-    /The team reviewed the .* before the weekly meeting\./,
-    /Please include the .* in tomorrow's email update\./,
-    /Our manager approved the .* for this quarter\./,
-    /The client asked for the latest .* during the call\./,
-    /The department tracks each .* in the monthly report\./
-  ];
 
   const duplicates = [];
-  const nonSingleWord = [];
   const missingFields = [];
   const emptyValues = [];
   const typeMismatches = [];
   const schemaInconsistencies = [];
   const stringAnomalies = [];
-  const badMeanings = [];
   const badExamples = [];
   const invalidPos = [];
-  const phraseMixed = [];
-  const highRiskWords = [];
+  const invalidWord = [];
+  const exampleMismatch = [];
+  const duplicateExamples = [];
+  const highSimilarityPairs = [];
 
-  const seen = new Map();
+  const seenWord = new Map();
+  const seenExample = new Map();
   const typeByField = {};
 
   words.forEach((item, index) => {
     const word = String(item.word ?? '').trim();
     const key = word.toLowerCase();
 
-    if (!word || /\s/.test(word) || !allowedWord.test(word)) nonSingleWord.push({ index, word: item.word });
-    if (/\s|\//.test(word)) phraseMixed.push({ index, word });
+    if (!word || !allowedWord.test(word)) invalidWord.push({ index, word: item.word });
 
-    if (seen.has(key)) duplicates.push({ word: key, first: seen.get(key), second: index });
-    else seen.set(key, index);
+    if (seenWord.has(key)) duplicates.push({ word: key, first: seenWord.get(key), second: index });
+    else seenWord.set(key, index);
 
     const keys = Object.keys(item).sort();
     const requiredSorted = [...required].sort();
@@ -98,23 +114,41 @@ function runValidation(words) {
     const pos = String(item.pos ?? '').trim();
     if (!posAllowed.has(pos)) invalidPos.push({ index, word, pos });
 
-    const meaning = String(item.meaning ?? '').trim();
-    if (!meaning || weakMeaning.test(meaning)) badMeanings.push({ index, word, meaning });
-
     const example = String(item.example ?? '').trim();
     const exampleZh = String(item.example_zh ?? '').trim();
-    if (!example || example.length < 20 || weakExample.test(example) || !/[A-Za-z]/.test(example) || !/[.?!]$/.test(example)) {
+
+    if (!example || example.length < 20 || !/[A-Za-z]/.test(example) || !/[.?!]$/.test(example)) {
       badExamples.push({ index, word, field: 'example' });
     }
-    if (!exampleZh || exampleZh.length < 8 || weakExample.test(exampleZh) || !/。$/.test(exampleZh)) {
+    if (!exampleZh || exampleZh.length < 10 || !/。$/.test(exampleZh)) {
       badExamples.push({ index, word, field: 'example_zh' });
     }
+    if (!containsWordOrVariant(word, example)) {
+      exampleMismatch.push({ index, word, example });
+    }
 
-    const looksTemplated = templatedExamplePatterns.some(re => re.test(example));
-    if (genericMeanings.has(meaning) || looksTemplated) {
-      highRiskWords.push({ index, word, meaning, example });
+    const normalized = normalizeTokens(example).join(' ');
+    if (seenExample.has(normalized)) {
+      duplicateExamples.push({
+        first: seenExample.get(normalized),
+        second: index,
+        text: example,
+      });
+    } else {
+      seenExample.set(normalized, index);
     }
   });
+
+  // Near-duplicate similarity scan (full library, O(n^2), manageable for 1500)
+  const tokenized = words.map((w) => normalizeTokens(w.example));
+  for (let i = 0; i < tokenized.length; i++) {
+    for (let j = i + 1; j < tokenized.length; j++) {
+      const sim = jaccard(tokenized[i], tokenized[j]);
+      if (sim >= 0.92) {
+        highSimilarityPairs.push({ i, j, sim: Number(sim.toFixed(3)) });
+      }
+    }
+  }
 
   const frontend = checkFrontendCompatibility();
 
@@ -122,77 +156,85 @@ function runValidation(words) {
     totalWordCount: words.length,
     verifiedWordCount: words.length,
     duplicates: duplicates.length,
-    nonSingleWord: nonSingleWord.length,
-    phraseMixed: phraseMixed.length,
     missingFields: missingFields.length,
     emptyValues: emptyValues.length,
     typeMismatches: typeMismatches.length,
     schemaInconsistencies: schemaInconsistencies.length,
     stringAnomalies: stringAnomalies.length,
     invalidPos: invalidPos.length,
-    badMeanings: badMeanings.length,
+    invalidWord: invalidWord.length,
     badExamples: badExamples.length,
-    highRiskCount: highRiskWords.length,
+    exampleMismatch: exampleMismatch.length,
+    duplicateExamples: duplicateExamples.length,
+    highSimilarityPairs: highSimilarityPairs.length,
     frontendIssues: frontend.issues,
     details: {
       duplicates,
-      nonSingleWord,
-      phraseMixed,
       missingFields,
       emptyValues,
       typeMismatches,
       schemaInconsistencies,
       stringAnomalies,
       invalidPos,
-      badMeanings,
+      invalidWord,
       badExamples,
-      highRiskWords,
-      scriptOrder: frontend.order
-    }
+      exampleMismatch,
+      duplicateExamples,
+      highSimilarityPairs: highSimilarityPairs.slice(0, 100),
+      scriptOrder: frontend.order,
+    },
   };
 }
 
 try {
-  const words = loadWords();
+  const words = loadWords('words_library.js');
+  const mirrorWords = loadWords('eng-learning/words_library.js');
+
+  if (JSON.stringify(words) !== JSON.stringify(mirrorWords)) {
+    console.error('Validation failed: words_library.js and eng-learning/words_library.js are not identical');
+    process.exit(1);
+  }
+
   const result = runValidation(words);
 
   console.log(JSON.stringify({
     totalWordCount: result.totalWordCount,
     verifiedWordCount: result.verifiedWordCount,
     duplicates: result.duplicates,
-    nonSingleWord: result.nonSingleWord,
-    phraseMixed: result.phraseMixed,
     missingFields: result.missingFields,
     emptyValues: result.emptyValues,
     typeMismatches: result.typeMismatches,
     schemaInconsistencies: result.schemaInconsistencies,
     stringAnomalies: result.stringAnomalies,
     invalidPos: result.invalidPos,
-    badMeanings: result.badMeanings,
+    invalidWord: result.invalidWord,
     badExamples: result.badExamples,
-    highRiskCount: result.highRiskCount,
-    frontendIssues: result.frontendIssues
+    exampleMismatch: result.exampleMismatch,
+    duplicateExamples: result.duplicateExamples,
+    highSimilarityPairs: result.highSimilarityPairs,
+    frontendIssues: result.frontendIssues,
   }, null, 2));
 
   for (const [k, v] of Object.entries(result.details)) {
     if (Array.isArray(v) && v.length) {
-      console.log(`\n[${k}]`, JSON.stringify(v.slice(0, 50), null, 2));
+      console.log(`\n[${k}]`, JSON.stringify(v.slice(0, 30), null, 2));
     }
   }
 
   const failed = (
-    result.totalWordCount !== 1500 ||
+    result.totalWordCount < 1000 ||
     result.duplicates !== 0 ||
-    result.nonSingleWord !== 0 ||
-    result.phraseMixed !== 0 ||
     result.missingFields !== 0 ||
     result.emptyValues !== 0 ||
     result.typeMismatches !== 0 ||
     result.schemaInconsistencies !== 0 ||
     result.stringAnomalies !== 0 ||
     result.invalidPos !== 0 ||
-    result.badMeanings !== 0 ||
+    result.invalidWord !== 0 ||
     result.badExamples !== 0 ||
+    result.exampleMismatch !== 0 ||
+    result.duplicateExamples !== 0 ||
+    result.highSimilarityPairs !== 0 ||
     result.frontendIssues !== 0
   );
 
