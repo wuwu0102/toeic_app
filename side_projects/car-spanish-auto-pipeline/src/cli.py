@@ -64,7 +64,7 @@ def main(argv: list[str] | None = None) -> int:
     print(f"[OK] 完成：{result.output_path} (source={result.used_source})")
 
     if args.preview:
-        web_root = cfg.project_root / "web_preview"
+        web_root = cfg.project_root / "web_player"
         serve_preview(Path(args.out), web_root, port=args.preview_port)
 
     return 0

@@ -1,0 +1,20 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.5,
+    "es": "Hola, ¿cómo estás?",
+    "zh": "你好嗎？"
+  },
+  {
+    "start": 2.5,
+    "end": 5.0,
+    "es": "Estoy cantando en el coche",
+    "zh": "我正在車上唱歌"
+  },
+  {
+    "start": 5.0,
+    "end": 8.0,
+    "es": "Sigue la música esta noche",
+    "zh": "今晚讓音樂繼續"
+  }
+]
