@@ -46,7 +46,7 @@ async function loadData() {
     const primaryLines = normalizeData(primaryRaw);
     if (primaryLines.length > 0) {
       state.usingFallback = false;
-      el.status.textContent = 'playing (backend source)';
+      el.status.textContent = 'playing (output result)';
       return primaryLines;
     }
   } catch (_) {
@@ -78,7 +78,7 @@ function renderLine(line) {
   }
 
   el.es.textContent = line.es;
-  el.zh.textContent = line.zh || ' '; // keep layout stable if translation missing
+  el.zh.textContent = line.zh || ' ';
   el.es.classList.add('active');
   el.zh.classList.add('active');
 }
