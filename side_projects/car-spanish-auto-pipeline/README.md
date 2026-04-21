@@ -1,18 +1,16 @@
 # CarPlay / 車載西文歌曲字幕系統
 
-本專案是單一用途專案：
+本目錄是**單一用途專案**：把 YouTube 西文歌曲處理成車載可讀字幕 JSON，並提供簡潔的車載播放器頁面。
 
-- **Backend pipeline**：產生可給前端播放器使用的西文/中文字幕 JSON。
-- **web_player**：在車載（CarPlay / 車機）風格畫面顯示西文大字 + 中文次大字字幕。
-
-> 這不是西文學習 app，不是多版本播放器實驗場。
+- ✅ 這不是西文學習 app。
+- ✅ Root TOEIC 英文學習 app 與本專案完全獨立，這次整理僅調整 `side_projects/car-spanish-auto-pipeline`。
 
 ---
 
 ## 專案結構
 
 ```text
-car-spanish-auto-pipeline/
+side_projects/car-spanish-auto-pipeline/
   src/
     __init__.py
     config.py
@@ -24,7 +22,6 @@ car-spanish-auto-pipeline/
     formatter.py
     pipeline.py
     cli.py
-    preview_server.py
   output/
     result.json
   web_player/
@@ -35,86 +32,45 @@ car-spanish-auto-pipeline/
       sample_result.json
   tests_or_checks/
     run_checks.py
-  requirements.txt
   .env.example
+  requirements.txt
   README.md
 ```
 
+GitHub Actions workflow：`/.github/workflows/generate_spanish_lyrics.yml`
+
 ---
 
-## 安裝
+## 目標流程（GitHub 端）
+
+1. 打開 GitHub Actions：**Generate Spanish Lyrics JSON**。
+2. 手動觸發（Run workflow）。
+3. 在 `youtube_url` 貼入 YouTube 連結。
+4. Workflow 會自動：
+   - checkout repo
+   - 安裝依賴
+   - 執行 pipeline
+   - 更新 `side_projects/car-spanish-auto-pipeline/output/result.json`
+   - 若有變更，自動 commit + push 回 repo
+
+---
+
+## 本地執行 pipeline
 
 ```bash
 cd /workspace/toeic_app/side_projects/car-spanish-auto-pipeline
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
-```
 
-系統需求（若要跑完整 YouTube/語音流程）：
-
-- Python 3.11+
-- ffmpeg
-- yt-dlp
-
----
-
-## Backend：執行 pipeline
-
-### 基本執行
-
-```bash
 python -m src.cli \
   --url "https://www.youtube.com/watch?v=<VIDEO_ID>" \
-  --out ./output/result.json \
+  --out "./output/result.json" \
+  --prefer-subs \
   --translator dummy
 ```
 
-### 強制語音辨識（無字幕時常用）
-
-```bash
-python -m src.cli \
-  --url "https://www.youtube.com/watch?v=<VIDEO_ID>" \
-  --force-transcribe \
-  --model small \
-  --translator dummy \
-  --out ./output/result.json
-```
-
-### 產生 output/result.json
-
-請確認 `--out ./output/result.json`，成功後前端會優先讀這個檔案。
-
-如果執行環境暫時無法連 YouTube / Whisper，本專案已提供可直接播放的 `output/result.json`（目前為 **mock output**，格式與正式輸出一致）。
-
----
-
-## Frontend：開啟 web_player
-
-可用任一靜態伺服器在專案根目錄啟動，例如：
-
-```bash
-cd /workspace/toeic_app/side_projects/car-spanish-auto-pipeline
-python -m http.server 8080
-```
-
-然後打開：
-
-- `http://127.0.0.1:8080/web_player/`
-
-### 載入規則（已實作）
-
-1. 先讀：`../output/result.json`
-2. 若失敗，自動 fallback：`./test_data/sample_result.json`
-
-狀態列會顯示目前來源：
-
-- `playing (backend source)`：正式 output
-- `playing (fallback sample)`：fallback sample
-
----
-
-## JSON 格式（前後端對接）
+輸出格式固定為：
 
 ```json
 [
@@ -127,18 +83,41 @@ python -m http.server 8080
 ]
 ```
 
-`web_player/app.js` 內的 `normalizeData()` 也支援下列 fallback key：
+---
 
-- `start` / `start_time`
-- `end` / `end_time`
-- `es` / `text`
-- `zh` / `translation`
+## web_player 使用方式
+
+```bash
+cd /workspace/toeic_app/side_projects/car-spanish-auto-pipeline
+python -m http.server 8080
+# open http://127.0.0.1:8080/web_player/
+```
+
+### 載入規則
+
+1. 優先讀取 `../output/result.json`
+2. 若讀不到或內容無效，fallback 到 `./test_data/sample_result.json`
+
+### 畫面行為
+
+- 顯示西文（大字）與中文（次大字）
+- 深色、簡潔、車載導向
+- 狀態列：
+  - `playing (output result)`
+  - `playing (fallback sample)`
+- 依時間軸自動切換字幕並循環播放
+- `normalizeData()` 支援欄位映射：
+  - `start / start_time`
+  - `end / end_time`
+  - `es / text`
+  - `zh / translation`
 
 ---
 
-## 檢查
+## 自檢
 
 ```bash
+cd /workspace/toeic_app/side_projects/car-spanish-auto-pipeline
 PYTHONPATH=. python tests_or_checks/run_checks.py
 ```
 
@@ -146,7 +125,10 @@ PYTHONPATH=. python tests_or_checks/run_checks.py
 
 ## 已知限制
 
-- 是否能成功抓取 YouTube 字幕，取決於影片是否公開且有字幕。
-- 若要走語音辨識，需可用 Whisper 執行環境與模型資源。
-- 若使用 OpenAI 翻譯，需要有效的 `OPENAI_API_KEY`。
-- 未配置上述外部能力時，可先使用現有 mock `output/result.json` + fallback sample 完成前端驗證。
+1. GitHub Actions 與本地環境都依賴影片可公開存取。
+2. 字幕流程採「先抓字幕」策略：
+   - 先嘗試抓人工字幕 / 自動字幕（最穩定）
+   - 若抓不到才 fallback 音訊擷取 + Whisper
+3. 若執行環境缺少網路、`yt-dlp`、`ffmpeg` 或 Whisper 模型資源，完整語音辨識可能失敗。
+4. `--translator openai` 需設定 `OPENAI_API_KEY`；否則會自動退回 dummy 翻譯。
+

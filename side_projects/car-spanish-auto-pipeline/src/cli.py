@@ -11,7 +11,6 @@ except Exception:  # pragma: no cover
 
 from .config import load_config
 from .pipeline import PipelineOptions, run_pipeline
-from .preview_server import serve_preview
 
 
 def build_parser() -> argparse.ArgumentParser:
@@ -25,8 +24,6 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument(
         "--model", choices=["tiny", "base", "small", "medium", "large-v3"], default="small"
     )
-    parser.add_argument("--preview", action="store_true", help="Start local preview after output")
-    parser.add_argument("--preview-port", type=int, default=8765)
     return parser
 
 
@@ -62,11 +59,6 @@ def main(argv: list[str] | None = None) -> int:
         return 1
 
     print(f"[OK] 完成：{result.output_path} (source={result.used_source})")
-
-    if args.preview:
-        web_root = cfg.project_root / "web_player"
-        serve_preview(Path(args.out), web_root, port=args.preview_port)
-
     return 0
 
 
