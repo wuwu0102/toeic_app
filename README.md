@@ -1,16 +1,20 @@
-# Repository Structure
+# TOEIC Learning App
 
-This repository keeps the TOEIC vocabulary app at the root for GitHub Pages deployment.
+This repository contains only a single-purpose English learning web app focused on TOEIC vocabulary practice.
 
-## TOEIC app (active)
-- `index.html`
-- `app.js`
-- `words_library.js`
-- `validate_words.js`
-- `config.js`
-- `styles.css`
+## Project scope
+Only the TOEIC learning app is included in this repo.
 
-## Other projects (organized)
-- `side_projects/car-spanish-auto-pipeline/`
+## Files kept for the app
+- `index.html` - app entry page
+- `app.js` - app logic and interactions
+- `words_library.js` - vocabulary dataset
+- `validate_words.js` - vocabulary validation script
+- `config.js` - app configuration
+- `styles.css` - app styles
 
-The `side_projects/` folder is used to keep non-TOEIC projects grouped in one place without affecting the TOEIC app runtime or page loading paths.
+## Run locally
+Because this is a static app, you can open `index.html` directly in a browser, or serve the folder with any static file server.
+
+## Deployment
+The app is compatible with GitHub Pages static hosting from the repository root.
