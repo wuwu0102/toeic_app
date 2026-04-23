@@ -1,9 +1,12 @@
 
-const STORAGE_KEY='toeic_v7_1_state';
-const PROGRESS_STORAGE_KEY='toeic_progress_v1';
-const SETTINGS_KEY='toeic_v7_1_settings';
+const STORAGE_KEY='toeic_v7_7_state';
+const LEGACY_STORAGE_KEY='toeic_v7_1_state';
+const PROGRESS_STORAGE_KEY='toeic_progress_v7_7';
+const LEGACY_PROGRESS_STORAGE_KEY='toeic_progress_v1';
+const SETTINGS_KEY='toeic_v7_7_settings';
+const LEGACY_SETTINGS_KEY='toeic_v7_1_settings';
 const DAILY_NEW=10,DAILY_MIN=25,DAILY_MAX=30,REVIEW_LIMIT=20,DAILY_MASTER_TARGET=2;
-const APP_SCHEMA_VERSION=72;
+const APP_SCHEMA_VERSION=77;
 const DEFAULT_PROGRESS_STATE={learnedWords:[],wrongWords:[],correctCount:0,wrongCount:0,lastStudyDate:'',dailyProgress:0,mode:'daily'};
 const SM2_DEFAULTS={repetition:0,interval:0,efactor:2.5,dueDate:null,lastReviewedAt:null,lapseCount:0,correctCount:0,wrongCount:0,lastAskedAt:null};
 
@@ -38,7 +41,7 @@ const EXAMPLE_ZH_PATTERNS=[
 function getExampleEn(w){if(!w)return'';const example=getWordExample(w);if(!example)return 'This entry currently has no verified example sentence.';return example}
 function getExampleZh(w){if(!w)return'';const example=getWordExample(w);const zh=String(w?.example_zh||'').trim();if(!example||!zh)return '這個單字目前沒有可信的例句與翻譯，暫時不顯示錯誤內容。';if(!needsExampleZhRepair(w))return zh;const subject=getExampleSubject(w),en=example;for(const[p,render]of EXAMPLE_ZH_PATTERNS){if(p.test(en))return render(subject)}return `這句例句和${subject}有關。`}
 
-function readSettings(){const raw=localStorage.getItem(SETTINGS_KEY);const fb={apiBaseUrl:(window.APP_CONFIG&&window.APP_CONFIG.API_BASE_URL)||'',syncCode:''};if(!raw)return fb;try{return {...fb,...JSON.parse(raw)}}catch{return fb}}
+function readSettings(){const raw=localStorage.getItem(SETTINGS_KEY)||localStorage.getItem(LEGACY_SETTINGS_KEY);const fb={apiBaseUrl:(window.APP_CONFIG&&window.APP_CONFIG.API_BASE_URL)||'',syncCode:''};if(!raw)return fb;try{const parsed={...fb,...JSON.parse(raw)};localStorage.setItem(SETTINGS_KEY,JSON.stringify(parsed));return parsed}catch{return fb}}
 function writeSettings(s){localStorage.setItem(SETTINGS_KEY,JSON.stringify(s))}
 function getOrCreateSyncCode(){const s=readSettings();if(s.syncCode)return s.syncCode;s.syncCode='sync-'+Math.random().toString(36).slice(2,10)+'-'+Math.random().toString(36).slice(2,8);writeSettings(s);return s.syncCode}
 function setSyncCode(v){v=(v||'').trim();if(!v)return false;const s=readSettings();s.syncCode=v;writeSettings(s);return true}
@@ -78,8 +81,8 @@ return ensureSm2Fields(merged)
 }
 function buildInitialState(oldState=null){const oldById=oldState?.words||{};const oldByWord={};for(const item of Object.values(oldById)){if(item&&item.word)oldByWord[item.word]=item}const words={};const library=getLibraryWords().map((w,i)=>normalizeWordEntry(w,i));for(const w of library){const oldWord=oldById[w.id]&&oldById[w.id].word===w.word?oldById[w.id]:(oldByWord[w.word]||null);words[w.id]=makeFreshWordState(w,oldWord)}return {schemaVersion:APP_SCHEMA_VERSION,librarySignature:getLibrarySignature(),currentRoute:oldState?.currentRoute||'home',filters:oldState?.filters||{topic:'all',level:'all'},selectedWordId:null,words,sessions:{},history:oldState?.history||[],sync:oldState?.sync||{lastCloudLoad:null,lastCloudSave:null,cloudEnabled:false}}}
 function saveLocalState(s){s.schemaVersion=APP_SCHEMA_VERSION;s.librarySignature=getLibrarySignature();localStorage.setItem(STORAGE_KEY,JSON.stringify(s))}
-function loadLocalState(){const raw=localStorage.getItem(STORAGE_KEY);if(raw){try{const parsed=JSON.parse(raw);const sameSchema=parsed?.schemaVersion===APP_SCHEMA_VERSION;const sameLibrary=parsed?.librarySignature===getLibrarySignature();if(sameSchema&&sameLibrary)return parsed;const rebuilt=buildInitialState(parsed);saveLocalState(rebuilt);return rebuilt}catch{}}const initial=buildInitialState();saveLocalState(initial);return initial}
-function loadProgress(){try{const raw=localStorage.getItem(PROGRESS_STORAGE_KEY);if(!raw)return {...DEFAULT_PROGRESS_STATE};const parsed=JSON.parse(raw);return {...DEFAULT_PROGRESS_STATE,...parsed,learnedWords:Array.isArray(parsed?.learnedWords)?parsed.learnedWords:[],wrongWords:Array.isArray(parsed?.wrongWords)?parsed.wrongWords:[],mode:'daily'}}catch{return {...DEFAULT_PROGRESS_STATE}}}
+function loadLocalState(){const raw=localStorage.getItem(STORAGE_KEY)||localStorage.getItem(LEGACY_STORAGE_KEY);if(raw){try{const parsed=JSON.parse(raw);const sameSchema=parsed?.schemaVersion===APP_SCHEMA_VERSION;const sameLibrary=parsed?.librarySignature===getLibrarySignature();if(sameSchema&&sameLibrary){localStorage.setItem(STORAGE_KEY,raw);return parsed}const rebuilt=buildInitialState(parsed);saveLocalState(rebuilt);return rebuilt}catch{}}const initial=buildInitialState();saveLocalState(initial);return initial}
+function loadProgress(){try{const raw=localStorage.getItem(PROGRESS_STORAGE_KEY)||localStorage.getItem(LEGACY_PROGRESS_STORAGE_KEY);if(!raw)return {...DEFAULT_PROGRESS_STATE};const parsed=JSON.parse(raw);localStorage.setItem(PROGRESS_STORAGE_KEY,JSON.stringify(parsed));return {...DEFAULT_PROGRESS_STATE,...parsed,learnedWords:Array.isArray(parsed?.learnedWords)?parsed.learnedWords:[],wrongWords:Array.isArray(parsed?.wrongWords)?parsed.wrongWords:[],mode:'daily'}}catch{return {...DEFAULT_PROGRESS_STATE}}}
 let progressSaveTimer=null;
 function saveProgress(){if(progressSaveTimer)clearTimeout(progressSaveTimer);progressSaveTimer=setTimeout(()=>{try{localStorage.setItem(PROGRESS_STORAGE_KEY,JSON.stringify(progressState));console.log('AUTO SAVE OK')}catch{progressState={...DEFAULT_PROGRESS_STATE}}},300)}
 function updateProgressAfterAnswer(w,ok){if(!w)return;const wordKey=String(w.word||'').trim().toLowerCase();if(!wordKey)return;progressState.lastStudyDate=todayStr();if(!progressState.learnedWords.includes(wordKey))progressState.learnedWords.push(wordKey);if(ok){progressState.correctCount+=1;progressState.wrongWords=progressState.wrongWords.filter(x=>x!==wordKey)}else{progressState.wrongCount+=1;if(!progressState.wrongWords.includes(wordKey))progressState.wrongWords.push(wordKey)}progressState.dailyProgress=getTodayMasteredCount();saveProgress()}
