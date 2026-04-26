@@ -51,11 +51,29 @@ async function handleGenerateExample(request, env) {
   if (!word) return json({ error: 'word required' }, 400);
   if (!env.OPENAI_API_KEY) return json({ error: 'OPENAI_API_KEY missing' }, 500);
 
-  const prompt = `Generate ONE short TOEIC-style example sentence using the word "${word}".\n\nRules:\n- Max 12 words\n- Simple grammar\n- Focus on one clear business idea\n- Suitable for fill-in-the-blank quiz\n- Avoid long clauses\n- Prefer present tense when natural\n- Traditional Chinese translation must also be concise and natural\n\nReturn exactly in this format:\nEN: ...\nZH: ...`;
+  const prompt = `你是專門設計 TOEIC 學習句子的助手。
+
+請產生兩種例句（JSON 格式）：
+
+{
+  "short": "短句（8-12字，口語、好記，只包含一個動作）",
+  "long": "正式句（偏商業 TOEIC，15-20字）",
+  "zh_short": "短句中文翻譯",
+  "zh_long": "長句中文翻譯"
+}
+
+規則：
+1. short 必須簡單、直覺、可快速記憶
+2. long 可以正式，但不能太複雜（最多一個子句）
+3. 不要使用太冷門或學術詞
+4. 句子一定要自然、真實場景
+5. 不要解釋，只回傳 JSON
+
+目標單字：${word}`;
 
   let result = await callOpenAI(env.OPENAI_API_KEY, prompt);
-  if (countEnglishWords(result.en) > 12) {
-    const retryPrompt = `${prompt}\n\nThe previous EN sentence was too long. Please shorten it to 12 words or fewer.`;
+  if (countEnglishWords(result.short) > 12) {
+    const retryPrompt = `${prompt}\n\nshort 太長，請將 short 控制在 8-12 個英文單字並只輸出 JSON。`;
     const retry = await callOpenAI(env.OPENAI_API_KEY, retryPrompt);
     result = retry;
   }
@@ -64,7 +82,7 @@ async function handleGenerateExample(request, env) {
     choices: [
       {
         message: {
-          content: `EN: ${result.en}\nZH: ${result.zh}`
+          content: JSON.stringify(result)
         }
       }
     ]
@@ -84,7 +102,7 @@ async function callOpenAI(apiKey, prompt) {
       messages: [
         {
           role: 'system',
-          content: 'You write concise TOEIC learning examples and follow output format exactly.'
+          content: 'You design natural TOEIC learning examples and must return strict JSON only.'
         },
         {
           role: 'user',
@@ -101,12 +119,26 @@ async function callOpenAI(apiKey, prompt) {
 
   const data = await response.json();
   const content = data?.choices?.[0]?.message?.content || '';
-  const enMatch = content.match(/EN:\s*([\s\S]*?)\r?\nZH:/);
-  const zhMatch = content.match(/ZH:\s*([\s\S]*)$/);
+
+  let parsed = null;
+  try {
+    parsed = JSON.parse(content);
+  } catch {
+    const candidate = content.match(/\{[\s\S]*\}/)?.[0] || '';
+    if (candidate) {
+      try {
+        parsed = JSON.parse(candidate);
+      } catch {
+        parsed = null;
+      }
+    }
+  }
 
   return {
-    en: (enMatch?.[1] || '').trim() || 'The team reviews the report today.',
-    zh: (zhMatch?.[1] || '').trim() || '團隊今天審閱報告。'
+    short: String(parsed?.short || '').trim() || 'The team checks the report now.',
+    long: String(parsed?.long || '').trim() || 'The team reviews the monthly report before the meeting starts.',
+    zh_short: String(parsed?.zh_short || '').trim() || '團隊現在檢查報告。',
+    zh_long: String(parsed?.zh_long || '').trim() || '團隊在會議開始前審閱每月報告。'
   };
 }
 
