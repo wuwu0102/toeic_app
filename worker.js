@@ -17,6 +17,9 @@ export default {
     if (url.pathname === '/generate-example' && request.method === 'POST') {
       return handleGenerateExample(request, env);
     }
+    if (url.pathname === '/lookup-word' && request.method === 'POST') {
+      return handleLookupWord(request, env);
+    }
 
     return json({ error: 'Not found' }, 404);
   }
@@ -89,6 +92,19 @@ async function handleGenerateExample(request, env) {
   });
 }
 
+async function handleLookupWord(request, env) {
+  const body = await request.json().catch(() => null);
+  const word = String(body?.word || '').trim().toLowerCase();
+  if (!word) return json({ error: 'word required' }, 400);
+  if (!env.OPENAI_API_KEY) return json({ error: 'OPENAI_API_KEY missing' }, 500);
+
+  const prompt = `請給我這個英文單字的中文意思（非常簡短，不超過10字）。
+word: ${word}
+只回傳純文字。`;
+  const meaning = await callOpenAIText(env.OPENAI_API_KEY, prompt);
+  return json({ meaning });
+}
+
 async function callOpenAI(apiKey, prompt) {
   const response = await fetch('https://api.openai.com/v1/chat/completions', {
     method: 'POST',
@@ -140,6 +156,37 @@ async function callOpenAI(apiKey, prompt) {
     zh_short: String(parsed?.zh_short || '').trim() || '團隊現在檢查報告。',
     zh_long: String(parsed?.zh_long || '').trim() || '團隊在會議開始前審閱每月報告。'
   };
+}
+
+async function callOpenAIText(apiKey, prompt) {
+  const response = await fetch('https://api.openai.com/v1/chat/completions', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      Authorization: `Bearer ${apiKey}`
+    },
+    body: JSON.stringify({
+      model: 'gpt-4o-mini',
+      temperature: 0.2,
+      messages: [
+        {
+          role: 'system',
+          content: 'You translate English words into concise Traditional Chinese. Return plain text only.'
+        },
+        {
+          role: 'user',
+          content: prompt
+        }
+      ]
+    })
+  });
+
+  if (!response.ok) {
+    const text = await response.text();
+    throw new Error(`OpenAI error ${response.status}: ${text}`);
+  }
+  const data = await response.json();
+  return String(data?.choices?.[0]?.message?.content || '').trim() || '無翻譯';
 }
 
 function countEnglishWords(text) {
