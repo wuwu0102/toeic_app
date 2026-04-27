@@ -101,55 +101,45 @@ ZH: ...`;
 
 async function handleLookupWord(request, env) {
   try {
-    const body = await request.json();
-    const word = String(body.word || '').trim().toLowerCase();
+    const body = await request.json().catch(() => null);
+    const word = String(body?.word || '')
+      .trim()
+      .toLowerCase()
+      .replace(/['’]s\b/g, '')
+      .replace(/[^a-z]/g, '');
 
-    if (!word) {
-      return json({ meaning: '暫無翻譯' });
-    }
-
-    const local = {
-      mattered: '重要；有關係',
-      division: '部門',
-      during: '在…期間',
-      yesterday: '昨天',
-      client: '客戶',
-      sales: '業務',
-      team: '團隊',
-      accounting: '會計',
-      scheduling: '排班；排程',
-      meeting: '會議'
-    };
-
-    if (local[word]) {
-      return json({ meaning: local[word] });
-    }
-
-    if (!env.OPENAI_API_KEY) {
-      return json({ meaning: '暫無翻譯' });
-    }
+    if (!word) return json({ meaning: '翻譯失敗' });
+    if (!env.OPENAI_API_KEY) return json({ meaning: '翻譯失敗' });
 
     const prompt = `Translate this English word to Traditional Chinese.
+
 Word: ${word}
 
 Rules:
 - Return only the most common Traditional Chinese meaning
-- Maximum 8 Chinese characters
 - No explanation
-- No punctuation`;
-    const meaning = await callOpenAIText(env.OPENAI_API_KEY, prompt);
+- No punctuation
+- Maximum 8 Chinese characters
+- If the word is a verb form, translate the base meaning naturally
+- If the word is an adverb, translate as an adverb
 
-    return json({ meaning: meaning || '暫無翻譯' });
+Examples:
+boosted -> 提升
+significantly -> 顯著地
+mattered -> 重要；有關係
+division -> 部門`;
+    const meaning = String(await callOpenAIText(env.OPENAI_API_KEY, prompt)).trim();
+    return json({ meaning: meaning || '翻譯失敗' });
   } catch (error) {
     console.error('lookup-word failed', error);
-    return json({ meaning: '暫無翻譯' });
+    return json({ meaning: '翻譯失敗' });
   }
 }
 
 async function handleQuickTranslateCompat(request, env) {
   const res = await handleLookupWord(request, env);
   const data = await res.json().catch(() => null);
-  const meaning = String(data?.meaning || '').trim() || '暫無資料';
+  const meaning = String(data?.meaning || '').trim() || '翻譯失敗';
   return json({ zh: meaning, meaning });
 }
 
