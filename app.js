@@ -45,47 +45,7 @@ function renderClickableSentence(sentence){return String(sentence||'').split(/(\
 
 
 // ===== v7.9 FINAL Word System =====
-
-// ⭐ 本地字典（基本保底）
-const BASE_DICT = {
-  during: "在…期間",
-  mattered: "重要；有關係",
-  division: "部門",
-  scheduling: "排班；排程",
-  explained: "說明了",
-  why: "為什麼",
-  for: "為了；給",
-  throughout: "整個期間",
-  quarter: "季度",
-  inventory: "庫存",
-  control: "控管",
-  service: "服務",
-  audit: "稽核",
-  preparation: "準備",
-  vendor: "供應商",
-  yesterday: "昨天",
-  today: "今天",
-  tomorrow: "明天",
-  client: "客戶",
-  customer: "顧客",
-  sales: "業務",
-  team: "團隊",
-  meeting: "會議",
-  schedule: "行程；排程",
-  staff: "員工",
-  company: "公司",
-  manager: "主管",
-  report: "報告",
-  summary: "摘要",
-  before: "在…之前",
-  after: "在…之後",
-  because: "因為",
-  important: "重要的",
-  information: "資訊"
-};
-
-// ⭐ 自動學習字典
-const AUTO_DICT_KEY = "auto_dict_v1";
+const AUTO_DICT_KEY = "toeic_auto_lookup_dict_v1";
 
 function loadAutoDict(){
   try{
@@ -102,7 +62,7 @@ function saveAutoDict(dict){
 let AUTO_DICT = loadAutoDict();
 
 // ⭐ 安全 fetch（避免卡死）
-async function safeFetch(url, options={}, timeout=1200){
+async function safeFetch(url, options={}, timeout=8000){
   const controller = new AbortController();
   const id = setTimeout(()=>controller.abort(), timeout);
 
@@ -116,48 +76,51 @@ async function safeFetch(url, options={}, timeout=1200){
   }
 }
 
-// ⭐ 核心查詢（永遠有結果）
+function normalizeLookupWord(word){
+  const raw=String(word||'').trim().toLowerCase();
+  if(!raw)return'';
+  return raw
+    .replace(/['’]s\b/g,'')
+    .replace(/[^a-z]/g,'')
+    .trim()
+}
+
+function getMeaningFromWordsLibrary(normalized){
+  if(!normalized)return'';
+  const list=Array.isArray(window.WORDS)?window.WORDS:[];
+  const hit=list.find(item=>String(item?.word||'').trim().toLowerCase()===normalized);
+  return String(hit?.meaning||'').trim()
+}
+
+// ⭐ 核心查詢（自動翻譯 + 快取）
 async function lookupWordMeaning(word){
-  const w = String(word||'').toLowerCase().replace(/[^a-z]/g,'');
-  if(!w) return "（暫無翻譯）";
+  const normalized=normalizeLookupWord(word);
+  if(!normalized)return"";
 
-  // 1️⃣ 本地保底字典
-  if(BASE_DICT[w]){
-    return BASE_DICT[w];
-  }
+  const libraryMeaning=getMeaningFromWordsLibrary(normalized);
+  if(libraryMeaning)return libraryMeaning;
 
-  // 2️⃣ 已學字典
-  if(AUTO_DICT[w]){
-    return AUTO_DICT[w];
-  }
+  if(AUTO_DICT[normalized])return AUTO_DICT[normalized];
 
-  // 3️⃣ API
+  const settings=readSettings();
+  const api=(settings.apiBaseUrl||window.APP_CONFIG?.API_BASE_URL||"").trim().replace(/\/+$/,'');
+  if(!api)return"翻譯失敗";
+
   try{
-    const res = await safeFetch(
-      "https://floral-unit-6a80.chttwm.workers.dev/lookup-word",
-      {
-        method:"POST",
-        headers:{"Content-Type":"application/json"},
-        body:JSON.stringify({word:w})
-      }
-    );
-
-    if(res){
-      const data = await res.json();
-
-      if(data && data.meaning){
-        AUTO_DICT[w] = data.meaning;
-        saveAutoDict(AUTO_DICT);
-        return data.meaning;
-      }
+    const res=await safeFetch(api+"/lookup-word",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({word:normalized})},8000);
+    if(!res||!res.ok)return"翻譯失敗";
+    const data=await res.json().catch(()=>null);
+    const meaning=String(data?.meaning||'').trim();
+    if(!meaning)return"翻譯失敗";
+    if(meaning!=="翻譯失敗"){
+      AUTO_DICT[normalized]=meaning;
+      saveAutoDict(AUTO_DICT);
     }
-
+    return meaning;
   }catch(e){
-    console.log("lookup error", e);
+    console.log("lookup error",e);
+    return"翻譯失敗";
   }
-
-  // 4️⃣ fallback
-  return "（暫無翻譯）";
 }
 
 // ⭐ Toast UI
@@ -190,21 +153,7 @@ function showToast(msg){
 
 // ⭐ 啟用點擊查詢
 function enableWordClickMeaning(){
-  const el = document.querySelector(".example-sentence");
-  if(!el) return;
-
-  const words = el.innerText.split(" ");
-
-  el.innerHTML = words.map(w=>`<span class="click-word">${w}</span>`).join(" ");
-
-  document.querySelectorAll(".click-word").forEach(span=>{
-    span.onclick = async ()=>{
-      const word = span.innerText;
-      showToast(word); // 立即回應
-      const meaning = await lookupWordMeaning(word);
-      showToast(`${word}：${meaning}`);
-    };
-  });
+  bindClickableWords();
 }
 
 
@@ -265,7 +214,7 @@ function getLookupMeaning(word){const dict=readLookupDictionary();const entry=di
 function saveLookupEntry(word,data){if(!data||typeof data!=='object')return;const meaning=String(data?.meaning||'').trim();if(!meaning)return;const dict=readLookupDictionary();dict[word]={word:String(data?.word||word).trim().toLowerCase()||word,meaning,pos:String(data?.pos||'').trim(),example:String(data?.example||'').trim(),example_zh:String(data?.example_zh||'').trim(),source:'ai'};writeLookupDictionary(dict);WORD_LOOKUP_CACHE[word]=meaning}
 async function fetchWithTimeout(url,options={},timeoutMs=5000){const controller=new AbortController();const timer=setTimeout(()=>controller.abort(),timeoutMs);try{return await fetch(url,{...options,signal:controller.signal})}finally{clearTimeout(timer)}}
 async function getWordMeaning(word){return lookupWordMeaning(word)}
-function bindClickableWords(){document.querySelectorAll('.click-word').forEach(el=>{el.addEventListener('click',async()=>{const word=el.dataset.word;showTooltip(el,'查詢中...');const meaning=await lookupWordMeaning(word);showTooltip(el,meaning)})})}
+function bindClickableWords(){document.querySelectorAll('.click-word').forEach(el=>{if(el.dataset.lookupBound==='1')return;el.dataset.lookupBound='1';el.addEventListener('click',async()=>{const word=String(el.dataset.word||el.textContent||'').trim();if(!word)return;showTooltip(el,`${word}：翻譯中...`);const meaning=await lookupWordMeaning(word);showTooltip(el,`${word}：${meaning||'翻譯失敗'}`)})})}
 let cloudSaveTimer=null,cloudSyncInFlight=false,cloudSyncRetryQueued=false,cloudSyncStatus='Synced';
 function getCloudSyncConfig(){const settings=readSettings();const api=(settings.apiBaseUrl||'').trim().replace(/\/+$/,'');const syncCode=(settings.syncCode||'').trim();if(!api||!syncCode)return null;return {api,syncCode}}
 function setCloudSyncStatus(status){cloudSyncStatus=status;const el=document.getElementById('cloudSyncStatus');if(el)el.textContent=status}
