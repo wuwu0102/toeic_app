@@ -100,37 +100,49 @@ ZH: ...`;
 }
 
 async function handleLookupWord(request, env) {
-  const body = await request.json().catch(() => null);
-  const word = String(body?.word || '').trim().toLowerCase();
-  if (!word) return json({ error: 'word required' }, 400);
-  if (!env.OPENAI_API_KEY) return json({ error: 'OPENAI_API_KEY missing' }, 500);
-
   try {
-    const prompt = `Please create a compact Traditional Chinese dictionary entry for this English word.
+    const body = await request.json();
+    const word = String(body.word || '').trim().toLowerCase();
 
+    if (!word) {
+      return json({ meaning: '暫無翻譯' });
+    }
+
+    const local = {
+      mattered: '重要；有關係',
+      division: '部門',
+      during: '在…期間',
+      yesterday: '昨天',
+      client: '客戶',
+      sales: '業務',
+      team: '團隊',
+      accounting: '會計',
+      scheduling: '排班；排程',
+      meeting: '會議'
+    };
+
+    if (local[word]) {
+      return json({ meaning: local[word] });
+    }
+
+    if (!env.OPENAI_API_KEY) {
+      return json({ meaning: '暫無翻譯' });
+    }
+
+    const prompt = `Translate this English word to Traditional Chinese.
 Word: ${word}
 
-Return ONLY valid JSON:
-{
-  "word": "...",
-  "meaning": "...",
-  "pos": "...",
-  "example": "...",
-  "example_zh": "..."
-}
-
 Rules:
-- meaning must be Traditional Chinese
-- meaning must be short
-- pos should be like n., v., adj., adv., prep., conj.
-- example must be short and natural English
-- example_zh must naturally translate the example
-- Do not add explanations outside JSON`;
-    const entry = await callOpenAIDictionaryEntry(env.OPENAI_API_KEY, prompt, word);
-    return json(entry);
+- Return only the most common Traditional Chinese meaning
+- Maximum 8 Chinese characters
+- No explanation
+- No punctuation`;
+    const meaning = await callOpenAIText(env.OPENAI_API_KEY, prompt);
+
+    return json({ meaning: meaning || '暫無翻譯' });
   } catch (error) {
     console.error('lookup-word failed', error);
-    return json({ error: 'lookup failed' }, 500);
+    return json({ meaning: '暫無翻譯' });
   }
 }
 
@@ -318,7 +330,7 @@ async function callOpenAIText(apiKey, prompt) {
     throw new Error(`OpenAI error ${response.status}: ${text}`);
   }
   const data = await response.json();
-  return String(data?.choices?.[0]?.message?.content || '').trim() || '暫無資料';
+  return String(data?.choices?.[0]?.message?.content || '').trim() || '暫無翻譯';
 }
 
 function countEnglishWords(text) {
