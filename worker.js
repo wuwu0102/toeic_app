@@ -54,38 +54,39 @@ async function handleGenerateExample(request, env) {
   if (!word) return json({ error: 'word required' }, 400);
   if (!env.OPENAI_API_KEY) return json({ error: 'OPENAI_API_KEY missing' }, 500);
 
-  const prompt = `你是專門設計 TOEIC 學習句子的助手。
+  const prompt = `Generate ONE short and natural TOEIC-style sentence using the word "${word}".
 
-請產生兩種例句（JSON 格式）：
+Rules:
+- 8 to 12 words if possible
+- Natural English
+- Simple grammar
+- One clear idea only
+- Business or daily workplace context
+- The target word must be used correctly
+- Do NOT force the word into an unnatural business sentence
+- If the word is not suitable for business context, use a simple daily context
+- Avoid vague phrases like "linked to", "affected audit preparation", "service record"
+- Avoid strange abstract sentences
+- Avoid overly formal sentences
+- Traditional Chinese must be natural and match the English meaning
+- Chinese translation should not be word-for-word
 
-{
-  "short": "短句（8-12字，口語、好記，只包含一個動作）",
-  "long": "正式句（偏商業 TOEIC，15-20字）",
-  "zh_short": "短句中文翻譯",
-  "zh_long": "長句中文翻譯"
-}
+Return exactly:
+EN: ...
+ZH: ...`;
 
-規則：
-1. short 必須簡單、直覺、可快速記憶
-2. long 可以正式，但不能太複雜（最多一個子句）
-3. 不要使用太冷門或學術詞
-4. 句子一定要自然、真實場景
-5. 不要解釋，只回傳 JSON
-
-目標單字：${word}`;
-
-  let result = await callOpenAI(env.OPENAI_API_KEY, prompt);
-  if (countEnglishWords(result.short) > 12) {
-    const retryPrompt = `${prompt}\n\nshort 太長，請將 short 控制在 8-12 個英文單字並只輸出 JSON。`;
-    const retry = await callOpenAI(env.OPENAI_API_KEY, retryPrompt);
-    result = retry;
+  let content = await callOpenAIExample(env.OPENAI_API_KEY, prompt);
+  const en = extractLineValue(content, 'EN');
+  if (!en || countEnglishWords(en) > 12) {
+    const retryPrompt = `${prompt}\n\nPlease keep EN to 8-12 words and still return exactly EN/ZH format.`;
+    content = await callOpenAIExample(env.OPENAI_API_KEY, retryPrompt);
   }
 
   return json({
     choices: [
       {
         message: {
-          content: JSON.stringify(result)
+          content
         }
       }
     ]
@@ -156,6 +157,47 @@ async function callOpenAI(apiKey, prompt) {
     zh_short: String(parsed?.zh_short || '').trim() || '團隊現在檢查報告。',
     zh_long: String(parsed?.zh_long || '').trim() || '團隊在會議開始前審閱每月報告。'
   };
+}
+
+async function callOpenAIExample(apiKey, prompt) {
+  const response = await fetch('https://api.openai.com/v1/chat/completions', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      Authorization: `Bearer ${apiKey}`
+    },
+    body: JSON.stringify({
+      model: 'gpt-4o-mini',
+      temperature: 0.3,
+      messages: [
+        {
+          role: 'system',
+          content: 'You create short, natural TOEIC example lines. Return exactly two lines: EN and ZH.'
+        },
+        {
+          role: 'user',
+          content: prompt
+        }
+      ]
+    })
+  });
+
+  if (!response.ok) {
+    const text = await response.text();
+    throw new Error(`OpenAI error ${response.status}: ${text}`);
+  }
+  const data = await response.json();
+  const content = String(data?.choices?.[0]?.message?.content || '').trim();
+  const fallback = 'EN: The team updated the report before the meeting.\nZH: 團隊在會議前更新了報告。';
+  const en = extractLineValue(content, 'EN');
+  const zh = extractLineValue(content, 'ZH');
+  if (!en || !zh) return fallback;
+  return `EN: ${en}\nZH: ${zh}`;
+}
+
+function extractLineValue(content, key) {
+  const match = String(content || '').match(new RegExp(`${key}:\\s*(.+)`, 'i'));
+  return String(match?.[1] || '').trim();
 }
 
 async function callOpenAIText(apiKey, prompt) {

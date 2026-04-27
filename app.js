@@ -5,7 +5,7 @@ const PROGRESS_STORAGE_KEY='toeic_progress_v7_7';
 const LEGACY_PROGRESS_STORAGE_KEY='toeic_progress_v1';
 const SETTINGS_KEY='toeic_v7_7_settings';
 const LEGACY_SETTINGS_KEY='toeic_v7_1_settings';
-const DAILY_NEW=10,DAILY_MIN=25,DAILY_MAX=30,REVIEW_LIMIT=20,DAILY_MASTER_TARGET=2;
+const DAILY_NEW=10,DAILY_MIN=20,DAILY_MAX=20,REVIEW_LIMIT=20,DAILY_MASTER_TARGET=2;
 const APP_SCHEMA_VERSION=77;
 const DEFAULT_PROGRESS_STATE={learnedWords:[],wrongWords:[],correctCount:0,wrongCount:0,lastStudyDate:'',dailyProgress:0,mode:'daily'};
 const SM2_DEFAULTS={repetition:0,interval:0,efactor:2.5,dueDate:null,lastReviewedAt:null,lapseCount:0,correctCount:0,wrongCount:0,lastAskedAt:null};
@@ -18,7 +18,8 @@ function safeNumber(v,fallback=0){const n=Number(v);return Number.isFinite(n)?n:
 function isoNow(){return new Date().toISOString()}
 function masteryColor(m){if(m<=1)return'red';if(m<=3)return'yellow';return'green'}
 function getLibraryWords(){return Array.isArray(window.WORDS)?window.WORDS:[]}
-function getAppVersion(){return (window.APP_CONFIG&&window.APP_CONFIG.APP_VERSION)||'v7.7'}
+function getAppVersion(){return (window.APP_CONFIG&&window.APP_CONFIG.APP_VERSION)||'v7.8'}
+function getAppName(){return (window.APP_CONFIG&&window.APP_CONFIG.APP_NAME)||'TOEIC v7.8 正式版'}
 function getStudyWords(){return Object.values(state.words)}
 function escapeRegExp(s){return String(s||'').replace(/[.*+?^${}()|[\]\\]/g,'\\$&')}
 function getPrimaryMeaning(meaning){return String(meaning||'').split(/[；;、,，/]/).map(x=>x.trim()).find(Boolean)||'這個字'}
@@ -110,33 +111,38 @@ const recentPenalty=recentSet.has(word.id)?45:0;
 const noise=Math.random()*8;
 return dueWeight+mistakeWeight+newWordWeight-recentPenalty+noise
 }
-function interleaveWeighted(primaryIds,secondaryIds,target){
-const out=[];let p=0,s=0;
-while(out.length<target&&(p<primaryIds.length||s<secondaryIds.length)){
-const usePrimary=(out.length%4!==3&&p<primaryIds.length)||s>=secondaryIds.length;
-if(usePrimary&&p<primaryIds.length)out.push(primaryIds[p++]);
-else if(s<secondaryIds.length)out.push(secondaryIds[s++]);
+function scoreReviewPriority(word,today){
+const isDue=(word.dueDate||word.nextReview||today)<=today?1:0;
+return isDue*1000000+(safeNumber(word.wrongCount,0)*10000)+(safeNumber(word.lapseCount,0)*1000)+((10-safeNumber(word.mastery,0))*100)+((100-Math.min(100,safeNumber(word.interval,0)))*10)+Math.random()
 }
-return out
+function hasTargetWord(sentence,targetWord){
+const target=String(targetWord||'').trim().toLowerCase();
+if(!target)return true;
+return new RegExp(`\\b${escapeRegExp(target)}\\b`,'i').test(String(sentence||''))
+}
+function isAwkwardExample(sentence,targetWord=''){
+const text=String(sentence||'').trim();
+if(!text)return true;
+if(text.split(/\s+/).filter(Boolean).length>16)return true;
+const lower=text.toLowerCase();
+const suspicious=['linked','affect audit','service record','accurate abundance','without accurate'];
+if(suspicious.some(x=>lower.includes(x)))return true;
+if(targetWord&&!hasTargetWord(text,targetWord))return true;
+const abstractHits=['synergy','framework','paradigm','optimization','enhancement'].filter(x=>lower.includes(x)).length;
+return abstractHits>=2
 }
 function createDailyCandidateIds(){
-const t=todayStr();const all=getStudyWords();const nowDate=t;
-const dueCards=all.filter(w=>(w.dueDate||w.nextReview||t)<=t);
-const otherCards=all.filter(w=>!dueCards.includes(w));
-const dueSorted=[...dueCards].sort((a,b)=>calcCardWeight(b,nowDate)-calcCardWeight(a,nowDate)).map(w=>w.id);
-const mixedPool=[...otherCards].sort((a,b)=>calcCardWeight(b,nowDate)-calcCardWeight(a,nowDate));
-const target=Math.min(DAILY_MAX,Math.max(DAILY_MIN,dueSorted.length||DAILY_MIN));
-const dueTarget=Math.min(dueSorted.length,Math.floor(target*0.8));
-const extraTarget=Math.max(0,target-dueTarget);
-const freshOrWeak=mixedPool.filter(w=>w.repetition===0||w.mastery<=2).map(w=>w.id);
-const backup=mixedPool.filter(w=>!freshOrWeak.includes(w.id)).map(w=>w.id);
-const secondaryIds=[...freshOrWeak,...backup].slice(0,Math.max(extraTarget,DAILY_NEW));
-let q=interleaveWeighted(dueSorted.slice(0,dueTarget),secondaryIds,target);
-if(q.length<DAILY_MIN){
-const fill=[...dueSorted.slice(dueTarget),...secondaryIds.slice(extraTarget),...all.map(w=>w.id).filter(id=>!q.includes(id))];
-for(const id of fill){if(q.length>=DAILY_MIN)break;if(!q.includes(id))q.push(id)}
-}
-return q.slice(0,DAILY_MAX)
+const today=todayStr();const all=getStudyWords();
+const freshPool=[...all].filter(w=>!w.seen||safeNumber(w.repetition,0)===0).sort((a,b)=>safeNumber(a.repetition,0)-safeNumber(b.repetition,0));
+const reviewPool=[...all].filter(w=>w.seen||safeNumber(w.repetition,0)>0).sort((a,b)=>scoreReviewPriority(b,today)-scoreReviewPriority(a,today));
+const weakPool=[...all].sort((a,b)=>scoreReviewPriority(b,today)-scoreReviewPriority(a,today));
+const picked=[];const pickFrom=(list,limit)=>{for(const w of list){if(picked.length>=limit)break;if(!picked.includes(w.id))picked.push(w.id)}};
+pickFrom(freshPool,DAILY_NEW);
+if(picked.length<DAILY_NEW)pickFrom(reviewPool,DAILY_NEW);
+pickFrom(reviewPool,DAILY_MAX);
+if(picked.length<DAILY_MAX)pickFrom(freshPool,DAILY_MAX);
+if(picked.length<DAILY_MAX)pickFrom(weakPool,DAILY_MAX);
+return picked.slice(0,DAILY_MAX)
 }
 function getTodayMasteredCount(){const s=state?.sessions?.[todayStr()];if(!s)return 0;return s.activeIds.filter(id=>(state.words[id]?.todayScore||0)>=DAILY_MASTER_TARGET).length}
 function getTodayCompletedCount(session){if(!session)return 0;const done=new Set([...(session.completedCards||[]),...(session.completedQuiz||[])]);return Math.min(session.activeIds.length,done.size)}
@@ -192,6 +198,7 @@ function getMasteryStage(word){if((word.repetition||0)===0)return'新字';if(wor
 function formatDateSafe(s){if(!s)return'尚未安排';const d=new Date(s.length===10?`${s}T00:00:00`:s);if(Number.isNaN(d.getTime()))return'尚未安排';return d.toISOString().slice(0,16).replace('T',' ')}
 function finalizeSessionIfNeeded(){const t=todayStr(),s=state.sessions[t];if(!s||s.stage!=='done')return;const exists=(state.history||[]).some(x=>x.date===t);if(!exists){state.history.unshift({date:t,total:s.activeIds.length,correct:s.stats.correct,wrong:s.stats.wrong});if(state.history.length>30)state.history=state.history.slice(0,30);saveState(state,{autoSync:true})}}
 function setTitle(title,showHome){document.getElementById('title').textContent=title;document.getElementById('homeBtn').classList.toggle('hidden',!showHome);const v=getAppVersion();const versionTag=document.getElementById('versionTag');const versionBadge=document.getElementById('versionBadge');if(versionTag)versionTag.textContent=v;if(versionBadge)versionBadge.textContent=v}
+function applyAppIdentity(){document.title=getAppName();const v=getAppVersion();const versionTag=document.getElementById('versionTag');const versionBadge=document.getElementById('versionBadge');if(versionTag)versionTag.textContent=v;if(versionBadge)versionBadge.textContent=v}
 function setNav(route){document.querySelectorAll('.navbtn').forEach(btn=>btn.classList.toggle('active',btn.dataset.route===route))}
 function go(route){state.currentRoute=route;saveState(state);render()}
 function openWordDetail(id){state.selectedWordId=id;state.currentRoute='word';saveState(state);render()}
@@ -224,8 +231,12 @@ const res=await fetch((window.APP_CONFIG?.API_BASE_URL||'')+'/generate-example',
 const data=await res.json();
 const parsed=parseGeneratedExamplePayload(data);
 if(!parsed)throw new Error('format error');
-const en=parsed.short||word.example||'';
-const zh=parsed.zh_short||word.example_zh||'';
+const originalExample=String(word.example||'').trim();
+const originalZh=String(word.example_zh||'').trim();
+const en=String(parsed.short||parsed.long||'').trim()||originalExample;
+const zhCandidate=String(parsed.zh_short||parsed.zh_long||'').trim();
+const zh=zhCandidate||originalZh;
+if(isAwkwardExample(en,word.word))console.warn('[awkward-example]',{word:word.word,en});
 word.example_short=parsed.short||word.example;
 word.example_long=parsed.long||word.example;
 word.example_zh_short=parsed.zh_short||word.example_zh;
@@ -262,14 +273,18 @@ if(!res.ok)throw new Error('HTTP '+res.status);
 const data=await res.json();
 const parsed=parseGeneratedExamplePayload(data);
 if(!parsed){wordObj.example=originalExample;wordObj.example_zh=originalExampleZh;alert('AI 回傳格式錯誤');return}
-wordObj.example_short=parsed.short||wordObj.example;
-wordObj.example_long=parsed.long||wordObj.example;
-wordObj.example_zh_short=parsed.zh_short||wordObj.example_zh;
-wordObj.example_zh_long=parsed.zh_long||wordObj.example_zh;
+const nextExample=String(parsed.short||parsed.long||'').trim();
+const nextZh=String(parsed.zh_short||parsed.zh_long||'').trim();
+if(!nextExample){wordObj.example=originalExample;wordObj.example_zh=originalExampleZh;alert('AI 回傳格式錯誤');return}
+wordObj.example_short=nextExample||wordObj.example;
+wordObj.example_long=String(parsed.long||nextExample||wordObj.example).trim();
+wordObj.example_zh_short=nextZh||wordObj.example_zh;
+wordObj.example_zh_long=String(parsed.zh_long||nextZh||wordObj.example_zh).trim();
 wordObj.example=wordObj.example_short;
-wordObj.example_zh=wordObj.example_zh_short;
+if(nextZh)wordObj.example_zh=wordObj.example_zh_short;
 wordObj.showLongExample=false;
-if(!wordObj.example||!wordObj.example_zh){wordObj.example=originalExample;wordObj.example_zh=originalExampleZh;alert('AI 沒有產生完整例句');return}
+if(isAwkwardExample(wordObj.example,wordObj.word))console.warn('[awkward-example]',{word:wordObj.word,en:wordObj.example});
+if(!wordObj.example||!String(wordObj.example_zh||'').trim()){wordObj.example=originalExample;wordObj.example_zh=originalExampleZh;alert('AI 沒有產生完整例句');return}
 saveState(state,{autoSync:true});
 saveProgress();
 render();
@@ -288,4 +303,4 @@ window.addEventListener('pagehide',flushAutoSync);window.addEventListener('befor
 let state=loadLocalState();
 let progressState=loadProgress();
 function hydrateProgressState(){const all=getStudyWords();const learnedWords=all.filter(w=>w.seen).map(w=>w.word.toLowerCase());if(!progressState.learnedWords.length)progressState.learnedWords=learnedWords;progressState.correctCount=Math.max(progressState.correctCount,(state.history||[]).reduce((sum,h)=>sum+(Number(h.correct)||0),0));progressState.wrongCount=Math.max(progressState.wrongCount,(state.history||[]).reduce((sum,h)=>sum+(Number(h.wrong)||0),0));progressState.mode='daily';progressState.dailyProgress=getTodayMasteredCount();saveProgress()}
-(async()=>{const cloud=await loadCloudStateIfPossible();if(cloud){state=cloud;saveLocalState(state)}ensureTodaySession();finalizeSessionIfNeeded();hydrateProgressState();render()})();
+(async()=>{applyAppIdentity();const cloud=await loadCloudStateIfPossible();if(cloud){state=cloud;saveLocalState(state)}ensureTodaySession();finalizeSessionIfNeeded();hydrateProgressState();render()})();
