@@ -24,7 +24,7 @@ export default {
     }
 
     if (url.pathname === '/api/quick-translate' && request.method === 'POST') {
-      return handleQuickTranslate(request, env);
+      return handleQuickTranslateCompat(request, env);
     }
 
     return json({ error: 'Not found' }, 404);
@@ -102,55 +102,32 @@ ZH: ...`;
 async function handleLookupWord(request, env) {
   const body = await request.json().catch(() => null);
   const word = String(body?.word || '').trim().toLowerCase();
-  if (!word) return json({ error: 'word required' }, 400);
-  if (!env.OPENAI_API_KEY) return json({ error: 'OPENAI_API_KEY missing' }, 500);
-
-  const prompt = `請給我這個英文單字的中文意思（非常簡短，不超過10字）。
-word: ${word}
-只回傳純文字。`;
-  const meaning = await callOpenAIText(env.OPENAI_API_KEY, prompt);
-  return json({ meaning });
-}
-
-async function handleQuickTranslate(request, env) {
-  const body = await request.json().catch(() => null);
-  const word = String(body?.word || '').trim();
-  if (!word) return json({ error: 'word required' }, 400);
-  if (!env.OPENAI_API_KEY) return json({ error: 'OPENAI_API_KEY missing' }, 500);
+  if (!word) return json({ meaning: '未收錄' });
+  if (!env.OPENAI_API_KEY) return json({ meaning: '未收錄' });
 
   try {
     const prompt = `Translate this English word to Traditional Chinese.
-
 Word: ${word}
 
 Rules:
-- Only return Chinese meaning
+- Return only the most common Traditional Chinese meaning
+- Maximum 8 Chinese characters
 - No explanation
-- No sentence
-- Keep it short`;
-    const aiRes = await fetch(OPENAI_URL, {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-        Authorization: `Bearer ${env.OPENAI_API_KEY}`
-      },
-      body: JSON.stringify({
-        model: 'gpt-4o-mini',
-        messages: [{ role: 'user', content: prompt }]
-      })
-    });
-
-    if (!aiRes.ok) {
-      const text = await aiRes.text();
-      return json({ error: `OpenAI error ${aiRes.status}: ${text}` }, 502);
-    }
-
-    const jsonData = await aiRes.json();
-    const text = String(jsonData?.choices?.[0]?.message?.content || '').trim();
-    return json({ zh: text });
+- No punctuation
+- If it is a common function word, return its normal meaning`;
+    const meaning = await callOpenAIText(env.OPENAI_API_KEY, prompt);
+    return json({ meaning: meaning || '未收錄' });
   } catch (error) {
-    return json({ error: String(error?.message || error || 'quick translate failed') }, 500);
+    console.error('lookup-word failed', error);
+    return json({ meaning: '未收錄' });
   }
+}
+
+async function handleQuickTranslateCompat(request, env) {
+  const res = await handleLookupWord(request, env);
+  const data = await res.json().catch(() => null);
+  const meaning = String(data?.meaning || '').trim() || '未收錄';
+  return json({ zh: meaning, meaning });
 }
 
 async function callOpenAI(apiKey, prompt) {
@@ -275,7 +252,7 @@ async function callOpenAIText(apiKey, prompt) {
     throw new Error(`OpenAI error ${response.status}: ${text}`);
   }
   const data = await response.json();
-  return String(data?.choices?.[0]?.message?.content || '').trim() || '無翻譯';
+  return String(data?.choices?.[0]?.message?.content || '').trim() || '未收錄';
 }
 
 function countEnglishWords(text) {
