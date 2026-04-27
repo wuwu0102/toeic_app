@@ -1,4 +1,14 @@
 const OPENAI_URL = 'https://api.openai.com/v1/chat/completions';
+const LOCAL_LOOKUP = {
+  crucial: '關鍵的',
+  boosted: '提升',
+  significantly: '顯著地',
+  acquisition: '收購',
+  firm: '公司',
+  presence: '影響力；存在感',
+  workflow: '工作流程',
+  division: '部門'
+};
 
 export default {
   async fetch(request, env) {
@@ -109,6 +119,7 @@ async function handleLookupWord(request, env) {
       .replace(/[^a-z]/g, '');
 
     if (!word) return json({ meaning: '翻譯失敗' });
+    if (LOCAL_LOOKUP[word]) return json({ meaning: LOCAL_LOOKUP[word] });
     if (!env.OPENAI_API_KEY) return json({ meaning: '翻譯失敗' });
 
     const prompt = `Translate this English word to Traditional Chinese.
@@ -320,7 +331,7 @@ async function callOpenAIText(apiKey, prompt) {
     throw new Error(`OpenAI error ${response.status}: ${text}`);
   }
   const data = await response.json();
-  return String(data?.choices?.[0]?.message?.content || '').trim() || '暫無翻譯';
+  return String(data?.choices?.[0]?.message?.content || '').trim();
 }
 
 function countEnglishWords(text) {
