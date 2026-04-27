@@ -18,8 +18,8 @@ function safeNumber(v,fallback=0){const n=Number(v);return Number.isFinite(n)?n:
 function isoNow(){return new Date().toISOString()}
 function masteryColor(m){if(m<=1)return'red';if(m<=3)return'yellow';return'green'}
 function getLibraryWords(){return Array.isArray(window.WORDS)?window.WORDS:[]}
-function getAppVersion(){return (window.APP_CONFIG&&window.APP_CONFIG.APP_VERSION)||'v7.8.1'}
-function getAppName(){return (window.APP_CONFIG&&window.APP_CONFIG.APP_NAME)||'TOEIC v7.8.1 正式版'}
+function getAppVersion(){return (window.APP_CONFIG&&window.APP_CONFIG.APP_VERSION)||'v7.9'}
+function getAppName(){return (window.APP_CONFIG&&window.APP_CONFIG.APP_NAME)||'TOEIC v7.9 正式版'}
 function getStudyWords(){return Object.values(state.words)}
 function escapeRegExp(s){return String(s||'').replace(/[.*+?^${}()|[\]\\]/g,'\\$&')}
 function getPrimaryMeaning(meaning){return String(meaning||'').split(/[；;、,，/]/).map(x=>x.trim()).find(Boolean)||'這個字'}
@@ -42,6 +42,157 @@ const EXAMPLE_ZH_PATTERNS=[
 function getExampleEn(w){if(!w)return'';const example=getWordExample(w);if(!example)return 'This entry currently has no verified example sentence.';return example}
 function getExampleZh(w){if(!w)return'';const example=getWordExample(w);const zh=String(w?.example_zh||'').trim();if(!example||!zh)return '這個單字目前沒有可信的例句與翻譯，暫時不顯示錯誤內容。';if(!needsExampleZhRepair(w))return zh;const subject=getExampleSubject(w),en=example;for(const[p,render]of EXAMPLE_ZH_PATTERNS){if(p.test(en))return render(subject)}return `這句例句和${subject}有關。`}
 function renderClickableSentence(sentence){return String(sentence||'').split(/(\s+|[.,!?])/).map(token=>/^[a-zA-Z]+$/.test(token)?`<span class="click-word" data-word="${token.toLowerCase()}">${token}</span>`:token).join('')}
+
+
+// ===== v7.9 FINAL Word System =====
+
+// ⭐ 本地字典（基本保底）
+const BASE_DICT = {
+  during: "在…期間",
+  yesterday: "昨天",
+  today: "今天",
+  tomorrow: "明天",
+  client: "客戶",
+  customer: "顧客",
+  sales: "業務",
+  team: "團隊",
+  meeting: "會議",
+  schedule: "行程；排程",
+  staff: "員工",
+  company: "公司",
+  manager: "主管",
+  report: "報告",
+  summary: "摘要",
+  before: "在…之前",
+  after: "在…之後",
+  because: "因為",
+  important: "重要的",
+  information: "資訊"
+};
+
+// ⭐ 自動學習字典
+const AUTO_DICT_KEY = "auto_dict_v1";
+
+function loadAutoDict(){
+  try{
+    return JSON.parse(localStorage.getItem(AUTO_DICT_KEY)) || {};
+  }catch{
+    return {};
+  }
+}
+
+function saveAutoDict(dict){
+  localStorage.setItem(AUTO_DICT_KEY, JSON.stringify(dict));
+}
+
+let AUTO_DICT = loadAutoDict();
+
+// ⭐ 安全 fetch（避免卡死）
+async function safeFetch(url, options={}, timeout=1200){
+  const controller = new AbortController();
+  const id = setTimeout(()=>controller.abort(), timeout);
+
+  try{
+    const res = await fetch(url,{...options, signal:controller.signal});
+    return res;
+  }catch{
+    return null;
+  }finally{
+    clearTimeout(id);
+  }
+}
+
+// ⭐ 核心查詢（永遠有結果）
+async function lookupWordMeaning(word){
+  const w = String(word||'').toLowerCase().replace(/[^a-z]/g,'');
+  if(!w) return "（暫無翻譯）";
+
+  // 1️⃣ 本地保底字典
+  if(BASE_DICT[w]){
+    return BASE_DICT[w];
+  }
+
+  // 2️⃣ 已學字典
+  if(AUTO_DICT[w]){
+    return AUTO_DICT[w];
+  }
+
+  // 3️⃣ API
+  try{
+    const res = await safeFetch(
+      "https://floral-unit-6a80.chttwm.workers.dev/lookup-word",
+      {
+        method:"POST",
+        headers:{"Content-Type":"application/json"},
+        body:JSON.stringify({word:w})
+      }
+    );
+
+    if(res){
+      const data = await res.json();
+
+      if(data && data.meaning){
+        AUTO_DICT[w] = data.meaning;
+        saveAutoDict(AUTO_DICT);
+        return data.meaning;
+      }
+    }
+
+  }catch(e){
+    console.log("lookup error", e);
+  }
+
+  // 4️⃣ fallback
+  return "（暫無翻譯）";
+}
+
+// ⭐ Toast UI
+function showToast(msg){
+  let el = document.getElementById("toast-msg");
+
+  if(!el){
+    el = document.createElement("div");
+    el.id = "toast-msg";
+    el.style.position = "fixed";
+    el.style.bottom = "100px";
+    el.style.left = "50%";
+    el.style.transform = "translateX(-50%)";
+    el.style.background = "black";
+    el.style.color = "white";
+    el.style.padding = "8px 12px";
+    el.style.borderRadius = "8px";
+    el.style.zIndex = "9999";
+    document.body.appendChild(el);
+  }
+
+  el.innerText = msg;
+  el.style.display = "block";
+
+  clearTimeout(el.timer);
+  el.timer = setTimeout(()=>{
+    el.style.display = "none";
+  },1500);
+}
+
+// ⭐ 啟用點擊查詢
+function enableWordClickMeaning(){
+  const el = document.querySelector(".example-sentence");
+  if(!el) return;
+
+  const words = el.innerText.split(" ");
+
+  el.innerHTML = words.map(w=>`<span class="click-word">${w}</span>`).join(" ");
+
+  document.querySelectorAll(".click-word").forEach(span=>{
+    span.onclick = async ()=>{
+      const word = span.innerText;
+      showToast(word); // 立即回應
+      const meaning = await lookupWordMeaning(word);
+      showToast(`${word}：${meaning}`);
+    };
+  });
+}
+
 
 function readSettings(){const raw=localStorage.getItem(SETTINGS_KEY)||localStorage.getItem(LEGACY_SETTINGS_KEY);const fb={apiBaseUrl:(window.APP_CONFIG&&window.APP_CONFIG.API_BASE_URL)||'',syncCode:''};if(!raw)return fb;try{const parsed={...fb,...JSON.parse(raw)};localStorage.setItem(SETTINGS_KEY,JSON.stringify(parsed));return parsed}catch{return fb}}
 function writeSettings(s){localStorage.setItem(SETTINGS_KEY,JSON.stringify(s))}
@@ -213,9 +364,9 @@ document.getElementById('homeBtn').addEventListener('click',()=>go('home'))
 document.querySelectorAll('.navbtn').forEach(btn=>btn.addEventListener('click',()=>go(btn.dataset.route)))
 
 function renderHome(){const s=ensureTodaySession();setTitle('今日任務',false);setNav('home');const total=s.activeIds.length,remain=getUnmasteredCount(s),done=total-remain,completed=getTodayCompletedCount(s),completionPercent=total?Math.floor((completed/total)*100):100,p=total?Math.round(done/total*100):0;const all=getStudyWords(),learned=all.filter(w=>w.seen).length,finished=libraryDone(all);document.getElementById('view').innerHTML=`${finished?`<div class="card notice"><div class="section">目前字庫已練完</div><div class="muted">可以直接換新的 words_library.js。</div></div>`:''}<div class="card hero"><div class="small">穩定版：單字庫獨立成單檔，可直接抽換</div><div class="section">今日未熟 ${remain} / ${total}</div><div class="track"><div class="bar" style="width:${p}%"></div></div><div style="height:8px"></div><div class="section" style="font-size:20px;margin-top:8px">${completionPercent===100?'今日任務已完成 100%':`今日完成度 ${completionPercent}%`}</div><div class="track"><div class="bar" style="width:${completionPercent}%"></div></div><div class="small" style="margin-top:8px">已完成 ${completed} / ${total||0}</div>${completionPercent===100?'<div class="pill" style="margin-top:8px">今天進度已完成</div>':''}<div style="height:8px"></div><div class="pill">熟練條件：每字至少答對 2 次</div><div class="stack" style="margin-top:14px"><button class="btn primary" id="startBtn" type="button">${done>0?'繼續今日練習':'開始今日練習'}</button></div></div><div class="grid"><div class="metric"><div class="ml">今天字數</div><div class="mv">${total}</div></div><div class="metric"><div class="ml">剩餘未熟</div><div class="mv">${remain}</div></div><div class="metric"><div class="ml">已學過</div><div class="mv">${learned}</div></div><div class="metric"><div class="ml">正式字庫</div><div class="mv">${all.length}</div></div></div>`;document.getElementById('startBtn').addEventListener('click',()=>{if(s.stage==='cards')go('study');else if(s.stage==='quiz')go('quiz');else continueFreePractice()})}
-function renderStudy(){const s=ensureTodaySession();setTitle('單字卡',true);setNav('');const total=s.activeIds.length;if(s.cardIndex>=total){s.stage='quiz';saveState(state,{autoSync:true});go('quiz');return}const id=s.activeIds[s.cardIndex],w=state.words[id];if(w.showLongExample===undefined){w.showLongExample=false}w.example_short=String(w.example_short||w.example||w.example_en||'').trim();w.example_long=String(w.example_long||w.example||w.example_en||w.example_short||'').trim();w.example_zh_short=String(w.example_zh_short||w.example_zh||'').trim();w.example_zh_long=String(w.example_zh_long||w.example_zh||w.example_zh_short||'').trim();const exampleEn=w.showLongExample?w.example_long:w.example_short;const exampleZh=w.showLongExample?w.example_zh_long:w.example_zh_short;document.getElementById('view').innerHTML=`<div class="card hero"><div class="small">第 ${s.cardIndex+1} / ${total} 張</div><div class="track"><div class="bar" style="width:${Math.round(s.cardIndex/total*100)}%"></div></div></div><div class="card"><div class="word">${w.word}</div><div class="phon">${w.phonetic}</div><div class="meta"><span class="badge">${w.pos}</span><span class="badge">${w.topic}</span><span class="badge">L${w.level}</span></div><div class="meaning">${w.meaning}</div><div class="stack" style="margin-top:12px"><button class="btn secondary" id="speakBtn" type="button">🔊 聽發音</button><button class="btn secondary" id="playSentence" type="button">🔊 聽例句</button></div><div class="exen">${renderClickableSentence(exampleEn||getExampleEn(w))}</div><div class="exzh">${exampleZh||getExampleZh(w)}</div><div class="stack" style="margin-top:10px"><button class="btn secondary" id="regenStudyExampleBtn" type="button">🔄 換一句 / 看正式句</button></div><div class="answers"><button class="btn red" data-grade="red" type="button">不會</button><button class="btn yellow" data-grade="yellow" type="button">模糊</button><button class="btn green" data-grade="green" type="button">記得</button></div></div>`;document.getElementById('speakBtn').addEventListener('click',()=>speakWord(w.word));bindSentenceTTS(w);bindClickableWords();const regenStudyBtn=document.getElementById('regenStudyExampleBtn');if(regenStudyBtn){regenStudyBtn.addEventListener('click',async()=>{if(!w.showLongExample){w.showLongExample=true;render();return}const oldText=regenStudyBtn.textContent;regenStudyBtn.disabled=true;regenStudyBtn.textContent='生成中...';try{await regenerateExampleAI(w);w.showLongExample=false}finally{const btn=document.getElementById('regenStudyExampleBtn');if(btn){btn.disabled=false;btn.textContent=oldText}}})}document.querySelectorAll('[data-grade]').forEach(btn=>btn.addEventListener('click',()=>{const g=btn.dataset.grade;scheduleByCard(w,g);updateProgressAfterAnswer(w,g!=='red');if(!s.completedCards.includes(id))s.completedCards.push(id);s.stats[g]+=1;s.cardIndex+=1;saveState(state,{autoSync:true});saveProgress();renderStudy()}))}
+function renderStudy(){const s=ensureTodaySession();setTitle('單字卡',true);setNav('');const total=s.activeIds.length;if(s.cardIndex>=total){s.stage='quiz';saveState(state,{autoSync:true});go('quiz');return}const id=s.activeIds[s.cardIndex],w=state.words[id];if(w.showLongExample===undefined){w.showLongExample=false}w.example_short=String(w.example_short||w.example||w.example_en||'').trim();w.example_long=String(w.example_long||w.example||w.example_en||w.example_short||'').trim();w.example_zh_short=String(w.example_zh_short||w.example_zh||'').trim();w.example_zh_long=String(w.example_zh_long||w.example_zh||w.example_zh_short||'').trim();const exampleEn=w.showLongExample?w.example_long:w.example_short;const exampleZh=w.showLongExample?w.example_zh_long:w.example_zh_short;document.getElementById('view').innerHTML=`<div class="card hero"><div class="small">第 ${s.cardIndex+1} / ${total} 張</div><div class="track"><div class="bar" style="width:${Math.round(s.cardIndex/total*100)}%"></div></div></div><div class="card"><div class="word">${w.word}</div><div class="phon">${w.phonetic}</div><div class="meta"><span class="badge">${w.pos}</span><span class="badge">${w.topic}</span><span class="badge">L${w.level}</span></div><div class="meaning">${w.meaning}</div><div class="stack" style="margin-top:12px"><button class="btn secondary" id="speakBtn" type="button">🔊 聽發音</button><button class="btn secondary" id="playSentence" type="button">🔊 聽例句</button></div><div class="exen example-sentence">${renderClickableSentence(exampleEn||getExampleEn(w))}</div><div class="exzh">${exampleZh||getExampleZh(w)}</div><div class="stack" style="margin-top:10px"><button class="btn secondary" id="regenStudyExampleBtn" type="button">🔄 換一句 / 看正式句</button></div><div class="answers"><button class="btn red" data-grade="red" type="button">不會</button><button class="btn yellow" data-grade="yellow" type="button">模糊</button><button class="btn green" data-grade="green" type="button">記得</button></div></div>`;document.getElementById('speakBtn').addEventListener('click',()=>speakWord(w.word));bindSentenceTTS(w);bindClickableWords();setTimeout(enableWordClickMeaning,0);const regenStudyBtn=document.getElementById('regenStudyExampleBtn');if(regenStudyBtn){regenStudyBtn.addEventListener('click',async()=>{if(!w.showLongExample){w.showLongExample=true;render();return}const oldText=regenStudyBtn.textContent;regenStudyBtn.disabled=true;regenStudyBtn.textContent='生成中...';try{await regenerateExampleAI(w);w.showLongExample=false}finally{const btn=document.getElementById('regenStudyExampleBtn');if(btn){btn.disabled=false;btn.textContent=oldText}}})}document.querySelectorAll('[data-grade]').forEach(btn=>btn.addEventListener('click',()=>{const g=btn.dataset.grade;scheduleByCard(w,g);updateProgressAfterAnswer(w,g!=='red');if(!s.completedCards.includes(id))s.completedCards.push(id);s.stats[g]+=1;s.cardIndex+=1;saveState(state,{autoSync:true});saveProgress();renderStudy()}))}
 function makeQuestionSentence(w){const sentence=getWordExample(w);if(!sentence)return 'Please choose the correct word: _____';const lowerSentence=sentence.toLowerCase();const lowerWord=(w.word||'').toLowerCase();const idx=lowerSentence.indexOf(lowerWord);if(idx===-1)return 'Please choose the correct word: _____';return sentence.slice(0,idx)+'_____'+sentence.slice(idx+w.word.length)}
-function renderQuiz(){const s=ensureTodaySession();setTitle('熟練練習',true);setNav('');const nextId=pickNextQuizId(s);if(nextId==null){s.stage='done';s.mode='daily';progressState.mode='daily';progressState.dailyProgress=getTodayMasteredCount();saveState(state,{autoSync:true});saveProgress();finalizeSessionIfNeeded();go('summary');return}const w=state.words[nextId],remain=getUnmasteredCount(s),masked=makeQuestionSentence(w),exampleZh=getExampleZh(w);state.currentQuizWordId=nextId;document.getElementById('view').innerHTML=`<div class="card hero"><div class="small">今天剩餘未熟 ${remain} 題</div><div class="track"><div class="bar" style="width:${Math.round((s.activeIds.length-remain)/s.activeIds.length*100)}%"></div></div></div><div class="card quiz"><div class="exen">${renderClickableSentence(masked)}</div><div class="meta">${w.pos} ｜ 中文已隱藏</div><button class="btn secondary" id="speakBtn" type="button">🔊 聽發音</button><input id="answerInput" class="input" placeholder="輸入英文單字" autocomplete="off" autocapitalize="none" spellcheck="false"><div class="stack" style="margin-top:10px"><button class="btn primary" id="checkBtn" type="button">確認答案</button></div><div id="resultBox"></div></div>`;document.getElementById('speakBtn').addEventListener('click',()=>speakWord(w.word));const speakBtn=document.getElementById('speakBtn');if(speakBtn){speakBtn.insertAdjacentHTML('afterend','<button id="regenExampleBtn" style="margin-top:8px;">🔄 換一句</button><div id="quizExampleEn" class="exen" style="margin-top:8px;">'+renderClickableSentence(masked)+'</div><div id="quizExampleZh" class="exzh">'+exampleZh+'</div>')}bindClickableWords();const input=document.getElementById('answerInput');input.focus();function nextStep(){if(!s.completedQuiz.includes(nextId))s.completedQuiz.push(nextId);s.recentQuizIds=[...(s.recentQuizIds||[]),nextId].slice(-4);state.words[nextId].lastAskedAt=isoNow();saveState(state,{autoSync:true});saveProgress();renderQuiz();window.scrollTo({top:0,behavior:'instant'})}function showResult(ok){const box=document.getElementById('resultBox');if(ok){s.stats.correct+=1;box.innerHTML=`<div class="result good"><div><strong>答對了</strong></div><div style="margin-top:4px">${w.word}</div><div style="margin-top:4px">${w.meaning||'—'}</div><div class="muted" style="margin-top:4px">${exampleZh}</div><div class="muted" style="margin-top:4px">今日熟練進度：${w.todayScore}/${DAILY_MASTER_TARGET}</div></div><div class="stack" style="margin-top:10px"><button class="btn primary" id="nextBtn" type="button">下一題</button></div>`}else{s.stats.wrong+=1;if(!s.wrongIds.includes(nextId))s.wrongIds.push(nextId);box.innerHTML=`<div class="result bad"><div><strong>答錯了</strong></div><div style="margin-top:4px">正確答案：<strong>${w.word}</strong></div><div style="margin-top:4px">${w.meaning||'—'}</div><div class="muted" style="margin-top:4px">${exampleZh}</div><div class="muted" style="margin-top:4px">這個單字今天會再次出現，直到熟練。</div></div><div class="stack" style="margin-top:10px"><button class="btn primary" id="nextBtn" type="button">繼續練習</button></div>`}document.getElementById('nextBtn').addEventListener('click',nextStep)}function check(){const answer=input.value.trim().toLowerCase(),correct=w.word.toLowerCase(),ok=answer===correct;scheduleByQuiz(w,ok);updateProgressAfterAnswer(w,ok);document.getElementById('checkBtn').disabled=true;input.disabled=true;showResult(ok);saveState(state,{autoSync:true});saveProgress()}document.getElementById('checkBtn').addEventListener('click',check);input.addEventListener('keydown',e=>{if(e.key==='Enter'&&!document.getElementById('checkBtn').disabled)check()});const regenBtn=document.getElementById("regenExampleBtn");if(regenBtn){regenBtn.onclick=async()=>{await regenerateExampleForQuiz();}}}
+function renderQuiz(){const s=ensureTodaySession();setTitle('熟練練習',true);setNav('');const nextId=pickNextQuizId(s);if(nextId==null){s.stage='done';s.mode='daily';progressState.mode='daily';progressState.dailyProgress=getTodayMasteredCount();saveState(state,{autoSync:true});saveProgress();finalizeSessionIfNeeded();go('summary');return}const w=state.words[nextId],remain=getUnmasteredCount(s),masked=makeQuestionSentence(w),exampleZh=getExampleZh(w);state.currentQuizWordId=nextId;document.getElementById('view').innerHTML=`<div class="card hero"><div class="small">今天剩餘未熟 ${remain} 題</div><div class="track"><div class="bar" style="width:${Math.round((s.activeIds.length-remain)/s.activeIds.length*100)}%"></div></div></div><div class="card quiz"><div class="exen example-sentence">${renderClickableSentence(masked)}</div><div class="meta">${w.pos} ｜ 中文已隱藏</div><button class="btn secondary" id="speakBtn" type="button">🔊 聽發音</button><input id="answerInput" class="input" placeholder="輸入英文單字" autocomplete="off" autocapitalize="none" spellcheck="false"><div class="stack" style="margin-top:10px"><button class="btn primary" id="checkBtn" type="button">確認答案</button></div><div id="resultBox"></div></div>`;document.getElementById('speakBtn').addEventListener('click',()=>speakWord(w.word));const speakBtn=document.getElementById('speakBtn');if(speakBtn){speakBtn.insertAdjacentHTML('afterend','<button id="regenExampleBtn" style="margin-top:8px;">🔄 換一句</button><div id="quizExampleEn" class="exen example-sentence" style="margin-top:8px;">'+renderClickableSentence(masked)+'</div><div id="quizExampleZh" class="exzh">'+exampleZh+'</div>')}bindClickableWords();setTimeout(enableWordClickMeaning,0);const input=document.getElementById('answerInput');input.focus();function nextStep(){if(!s.completedQuiz.includes(nextId))s.completedQuiz.push(nextId);s.recentQuizIds=[...(s.recentQuizIds||[]),nextId].slice(-4);state.words[nextId].lastAskedAt=isoNow();saveState(state,{autoSync:true});saveProgress();renderQuiz();window.scrollTo({top:0,behavior:'instant'})}function showResult(ok){const box=document.getElementById('resultBox');if(ok){s.stats.correct+=1;box.innerHTML=`<div class="result good"><div><strong>答對了</strong></div><div style="margin-top:4px">${w.word}</div><div style="margin-top:4px">${w.meaning||'—'}</div><div class="muted" style="margin-top:4px">${exampleZh}</div><div class="muted" style="margin-top:4px">今日熟練進度：${w.todayScore}/${DAILY_MASTER_TARGET}</div></div><div class="stack" style="margin-top:10px"><button class="btn primary" id="nextBtn" type="button">下一題</button></div>`}else{s.stats.wrong+=1;if(!s.wrongIds.includes(nextId))s.wrongIds.push(nextId);box.innerHTML=`<div class="result bad"><div><strong>答錯了</strong></div><div style="margin-top:4px">正確答案：<strong>${w.word}</strong></div><div style="margin-top:4px">${w.meaning||'—'}</div><div class="muted" style="margin-top:4px">${exampleZh}</div><div class="muted" style="margin-top:4px">這個單字今天會再次出現，直到熟練。</div></div><div class="stack" style="margin-top:10px"><button class="btn primary" id="nextBtn" type="button">繼續練習</button></div>`}document.getElementById('nextBtn').addEventListener('click',nextStep)}function check(){const answer=input.value.trim().toLowerCase(),correct=w.word.toLowerCase(),ok=answer===correct;scheduleByQuiz(w,ok);updateProgressAfterAnswer(w,ok);document.getElementById('checkBtn').disabled=true;input.disabled=true;showResult(ok);saveState(state,{autoSync:true});saveProgress()}document.getElementById('checkBtn').addEventListener('click',check);input.addEventListener('keydown',e=>{if(e.key==='Enter'&&!document.getElementById('checkBtn').disabled)check()});const regenBtn=document.getElementById("regenExampleBtn");if(regenBtn){regenBtn.onclick=async()=>{await regenerateExampleForQuiz();}}}
 function renderSummary(){const s=ensureTodaySession();finalizeSessionIfNeeded();setTitle('今日完成',true);setNav('');const total=s.activeIds.length,acc=(s.stats.correct+s.stats.wrong)?Math.round(s.stats.correct/(s.stats.correct+s.stats.wrong)*100):0,wrongList=s.wrongIds.map(id=>state.words[id]);document.getElementById('view').innerHTML=`<div class="card hero" style="text-align:center"><div class="small">已達今日目標，可自由練習</div><div class="section">${total} / ${total}</div><div class="meaning">作答正確率 ${acc}%</div></div><div class="grid"><div class="metric"><div class="ml">綠燈</div><div class="mv">${s.stats.green}</div></div><div class="metric"><div class="ml">黃燈</div><div class="mv">${s.stats.yellow}</div></div><div class="metric"><div class="ml">紅燈</div><div class="mv">${s.stats.red}</div></div><div class="metric"><div class="ml">答對次數</div><div class="mv">${s.stats.correct}</div></div></div><div class="card"><div class="section">今天錯過的單字</div>${wrongList.length?wrongList.map(w=>`<div class="kv"><span>${w.word}</span><span class="muted">${w.meaning}</span></div>`).join(''):'<div class="muted">今天沒有錯字</div>'}</div><div class="stack"><button class="btn primary" id="continueBtn" type="button">繼續今日練習</button><button class="btn secondary" id="backHomeBtn" type="button">回首頁</button></div>`;document.getElementById('continueBtn').addEventListener('click',continueFreePractice);document.getElementById('backHomeBtn').addEventListener('click',()=>go('home'))}
 function getCurrentWord(){const id=state.currentQuizWordId;return id==null?null:state.words[id]}
 function parseGeneratedExamplePayload(payload){
@@ -256,6 +407,7 @@ const zhEl=document.querySelector('#quizExampleZh');
 if(enEl)enEl.innerHTML=renderClickableSentence(en);
 if(zhEl)zhEl.innerText=zh;
 bindClickableWords();
+setTimeout(enableWordClickMeaning,0);
 if(typeof saveState==='function'){
 saveState(state,{autoSync:true});
 }
