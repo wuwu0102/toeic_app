@@ -59,8 +59,6 @@ function saveAutoDict(dict){
   localStorage.setItem(AUTO_DICT_KEY, JSON.stringify(dict));
 }
 
-let AUTO_DICT = loadAutoDict();
-
 // ⭐ 安全 fetch（避免卡死）
 async function safeFetch(url, options={}, timeout=8000){
   const controller = new AbortController();
@@ -92,34 +90,43 @@ function getMeaningFromWordsLibrary(normalized){
   return String(hit?.meaning||'').trim()
 }
 
-// ⭐ 核心查詢（自動翻譯 + 快取）
 async function lookupWordMeaning(word){
-  const normalized=normalizeLookupWord(word);
-  if(!normalized)return"";
+  const normalized = normalizeLookupWord(word);
+  if(!normalized) return "";
 
-  const libraryMeaning=getMeaningFromWordsLibrary(normalized);
-  if(libraryMeaning)return libraryMeaning;
+  const libraryMeaning = getMeaningFromWordsLibrary(normalized);
+  if(libraryMeaning) return libraryMeaning;
 
-  if(AUTO_DICT[normalized])return AUTO_DICT[normalized];
+  const dict = loadAutoDict();
+  if(dict[normalized]) return dict[normalized];
 
-  const settings=readSettings();
-  const api=(settings.apiBaseUrl||window.APP_CONFIG?.API_BASE_URL||"").trim().replace(/\/+$/,'');
-  if(!api)return"翻譯失敗";
+  const settings = readSettings();
+  const api = (settings.apiBaseUrl || window.APP_CONFIG?.API_BASE_URL || "").trim().replace(/\/+$/, "");
+  if(!api) return "請先設定雲端API";
 
   try{
-    const res=await safeFetch(api+"/lookup-word",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({word:normalized})},8000);
-    if(!res||!res.ok)return"翻譯失敗";
-    const data=await res.json().catch(()=>null);
-    const meaning=String(data?.meaning||'').trim();
-    if(!meaning)return"翻譯失敗";
-    if(meaning!=="翻譯失敗"){
-      AUTO_DICT[normalized]=meaning;
-      saveAutoDict(AUTO_DICT);
+    const res = await safeFetch(api + "/lookup-word", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ word: normalized })
+    }, 12000);
+
+    if(!res || !res.ok) return "翻譯失敗";
+
+    const data = await res.json().catch(() => null);
+    const meaning = String(data?.meaning || "").trim();
+
+    if(!meaning || meaning === "翻譯失敗" || meaning === "暫無翻譯") {
+      return "翻譯失敗";
     }
+
+    dict[normalized] = meaning;
+    saveAutoDict(dict);
+
     return meaning;
   }catch(e){
-    console.log("lookup error",e);
-    return"翻譯失敗";
+    console.warn("lookup failed", e);
+    return "翻譯失敗";
   }
 }
 
@@ -206,15 +213,25 @@ function updateProgressAfterAnswer(w,ok){if(!w)return;const wordKey=String(w.wor
 async function loadCloudStateIfPossible(){const settings=readSettings();const api=(settings.apiBaseUrl||'').trim().replace(/\/+$/,'');const syncCode=(settings.syncCode||'').trim();if(!api||!syncCode)return null;try{const res=await fetch(api+'/load?syncCode='+encodeURIComponent(syncCode));if(!res.ok)throw new Error('HTTP '+res.status);const data=await res.json();if(data&&data.state){const merged=buildInitialState(data.state);merged.sync=merged.sync||{};merged.sync.lastCloudLoad=new Date().toISOString();merged.sync.cloudEnabled=true;return merged}return null}catch(err){console.error(err);return null}}
 function showTooltip(el,text){const tooltip=document.getElementById('wordTooltip');if(!tooltip)return;tooltip.textContent=text;const rect=el.getBoundingClientRect();tooltip.style.top=(rect.top-40)+'px';tooltip.style.left=rect.left+'px';tooltip.style.display='block';clearTimeout(showTooltip.timer);showTooltip.timer=setTimeout(()=>{tooltip.style.display='none'},2000)}
 showTooltip.timer=null;
-const LOOKUP_DICTIONARY_KEY='toeic_lookup_dictionary_v1';
-const WORD_LOOKUP_CACHE={};
-function readLookupDictionary(){try{const raw=localStorage.getItem(LOOKUP_DICTIONARY_KEY);if(!raw)return{};const parsed=JSON.parse(raw);return parsed&&typeof parsed==='object'?parsed:{}}catch{return{}}}
-function writeLookupDictionary(dict){try{localStorage.setItem(LOOKUP_DICTIONARY_KEY,JSON.stringify(dict||{}))}catch(e){console.warn('lookup dictionary save failed',e)}}
-function getLookupMeaning(word){const dict=readLookupDictionary();const entry=dict?.[word];const meaning=String(entry?.meaning||'').trim();if(meaning){WORD_LOOKUP_CACHE[word]=meaning;return meaning}return''}
-function saveLookupEntry(word,data){if(!data||typeof data!=='object')return;const meaning=String(data?.meaning||'').trim();if(!meaning)return;const dict=readLookupDictionary();dict[word]={word:String(data?.word||word).trim().toLowerCase()||word,meaning,pos:String(data?.pos||'').trim(),example:String(data?.example||'').trim(),example_zh:String(data?.example_zh||'').trim(),source:'ai'};writeLookupDictionary(dict);WORD_LOOKUP_CACHE[word]=meaning}
 async function fetchWithTimeout(url,options={},timeoutMs=5000){const controller=new AbortController();const timer=setTimeout(()=>controller.abort(),timeoutMs);try{return await fetch(url,{...options,signal:controller.signal})}finally{clearTimeout(timer)}}
 async function getWordMeaning(word){return lookupWordMeaning(word)}
-function bindClickableWords(){document.querySelectorAll('.click-word').forEach(el=>{if(el.dataset.lookupBound==='1')return;el.dataset.lookupBound='1';el.addEventListener('click',async()=>{const word=String(el.dataset.word||el.textContent||'').trim();if(!word)return;showTooltip(el,`${word}：翻譯中...`);const meaning=await lookupWordMeaning(word);showTooltip(el,`${word}：${meaning||'翻譯失敗'}`)})})}
+function bindClickableWords(){
+  document.querySelectorAll(".click-word").forEach(el=>{
+    if(el.dataset.lookupBound === "1") return;
+    el.dataset.lookupBound = "1";
+
+    el.addEventListener("click", async ()=>{
+      const word = String(el.dataset.word || el.textContent || "").trim();
+      if(!word) return;
+
+      showTooltip(el, `${word}：翻譯中...`);
+
+      const meaning = await lookupWordMeaning(word);
+
+      showTooltip(el, `${word}：${meaning}`);
+    });
+  });
+}
 let cloudSaveTimer=null,cloudSyncInFlight=false,cloudSyncRetryQueued=false,cloudSyncStatus='Synced';
 function getCloudSyncConfig(){const settings=readSettings();const api=(settings.apiBaseUrl||'').trim().replace(/\/+$/,'');const syncCode=(settings.syncCode||'').trim();if(!api||!syncCode)return null;return {api,syncCode}}
 function setCloudSyncStatus(status){cloudSyncStatus=status;const el=document.getElementById('cloudSyncStatus');if(el)el.textContent=status}
