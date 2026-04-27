@@ -102,31 +102,42 @@ ZH: ...`;
 async function handleLookupWord(request, env) {
   const body = await request.json().catch(() => null);
   const word = String(body?.word || '').trim().toLowerCase();
-  if (!word) return json({ meaning: '未收錄' });
-  if (!env.OPENAI_API_KEY) return json({ meaning: '未收錄' });
+  if (!word) return json({ error: 'word required' }, 400);
+  if (!env.OPENAI_API_KEY) return json({ error: 'OPENAI_API_KEY missing' }, 500);
 
   try {
-    const prompt = `Translate this English word to Traditional Chinese.
+    const prompt = `Please create a compact Traditional Chinese dictionary entry for this English word.
+
 Word: ${word}
 
+Return ONLY valid JSON:
+{
+  "word": "...",
+  "meaning": "...",
+  "pos": "...",
+  "example": "...",
+  "example_zh": "..."
+}
+
 Rules:
-- Return only the most common Traditional Chinese meaning
-- Maximum 8 Chinese characters
-- No explanation
-- No punctuation
-- If it is a common function word, return its normal meaning`;
-    const meaning = await callOpenAIText(env.OPENAI_API_KEY, prompt);
-    return json({ meaning: meaning || '未收錄' });
+- meaning must be Traditional Chinese
+- meaning must be short
+- pos should be like n., v., adj., adv., prep., conj.
+- example must be short and natural English
+- example_zh must naturally translate the example
+- Do not add explanations outside JSON`;
+    const entry = await callOpenAIDictionaryEntry(env.OPENAI_API_KEY, prompt, word);
+    return json(entry);
   } catch (error) {
     console.error('lookup-word failed', error);
-    return json({ meaning: '未收錄' });
+    return json({ error: 'lookup failed' }, 500);
   }
 }
 
 async function handleQuickTranslateCompat(request, env) {
   const res = await handleLookupWord(request, env);
   const data = await res.json().catch(() => null);
-  const meaning = String(data?.meaning || '').trim() || '未收錄';
+  const meaning = String(data?.meaning || '').trim() || '暫無資料';
   return json({ zh: meaning, meaning });
 }
 
@@ -224,6 +235,61 @@ function extractLineValue(content, key) {
   return String(match?.[1] || '').trim();
 }
 
+async function callOpenAIDictionaryEntry(apiKey, prompt, fallbackWord = '') {
+  const response = await fetch(OPENAI_URL, {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      Authorization: `Bearer ${apiKey}`
+    },
+    body: JSON.stringify({
+      model: 'gpt-4o-mini',
+      temperature: 0.2,
+      messages: [
+        {
+          role: 'system',
+          content: 'You generate compact dictionary entries. Return strict JSON only.'
+        },
+        {
+          role: 'user',
+          content: prompt
+        }
+      ]
+    })
+  });
+
+  if (!response.ok) {
+    const text = await response.text();
+    throw new Error(`OpenAI error ${response.status}: ${text}`);
+  }
+  const data = await response.json();
+  const content = String(data?.choices?.[0]?.message?.content || '').trim();
+  let parsed = null;
+  try {
+    parsed = JSON.parse(content);
+  } catch {
+    const candidate = content.match(/\{[\s\S]*\}/)?.[0] || '';
+    if (candidate) {
+      try {
+        parsed = JSON.parse(candidate);
+      } catch {
+        parsed = null;
+      }
+    }
+  }
+  if (!parsed || typeof parsed !== 'object') throw new Error('Invalid dictionary JSON');
+  const word = String(parsed.word || fallbackWord || '').trim().toLowerCase();
+  const meaning = String(parsed.meaning || '').trim();
+  if (!word || !meaning) throw new Error('Invalid dictionary payload');
+  return {
+    word,
+    meaning,
+    pos: String(parsed.pos || '').trim(),
+    example: String(parsed.example || '').trim(),
+    example_zh: String(parsed.example_zh || '').trim()
+  };
+}
+
 async function callOpenAIText(apiKey, prompt) {
   const response = await fetch(OPENAI_URL, {
     method: 'POST',
@@ -252,7 +318,7 @@ async function callOpenAIText(apiKey, prompt) {
     throw new Error(`OpenAI error ${response.status}: ${text}`);
   }
   const data = await response.json();
-  return String(data?.choices?.[0]?.message?.content || '').trim() || '未收錄';
+  return String(data?.choices?.[0]?.message?.content || '').trim() || '暫無資料';
 }
 
 function countEnglishWords(text) {
