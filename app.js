@@ -49,6 +49,20 @@ function renderClickableSentence(sentence){return String(sentence||'').split(/(\
 // ⭐ 本地字典（基本保底）
 const BASE_DICT = {
   during: "在…期間",
+  mattered: "重要；有關係",
+  division: "部門",
+  scheduling: "排班；排程",
+  explained: "說明了",
+  why: "為什麼",
+  for: "為了；給",
+  throughout: "整個期間",
+  quarter: "季度",
+  inventory: "庫存",
+  control: "控管",
+  service: "服務",
+  audit: "稽核",
+  preparation: "準備",
+  vendor: "供應商",
   yesterday: "昨天",
   today: "今天",
   tomorrow: "明天",
@@ -250,8 +264,8 @@ function writeLookupDictionary(dict){try{localStorage.setItem(LOOKUP_DICTIONARY_
 function getLookupMeaning(word){const dict=readLookupDictionary();const entry=dict?.[word];const meaning=String(entry?.meaning||'').trim();if(meaning){WORD_LOOKUP_CACHE[word]=meaning;return meaning}return''}
 function saveLookupEntry(word,data){if(!data||typeof data!=='object')return;const meaning=String(data?.meaning||'').trim();if(!meaning)return;const dict=readLookupDictionary();dict[word]={word:String(data?.word||word).trim().toLowerCase()||word,meaning,pos:String(data?.pos||'').trim(),example:String(data?.example||'').trim(),example_zh:String(data?.example_zh||'').trim(),source:'ai'};writeLookupDictionary(dict);WORD_LOOKUP_CACHE[word]=meaning}
 async function fetchWithTimeout(url,options={},timeoutMs=5000){const controller=new AbortController();const timer=setTimeout(()=>controller.abort(),timeoutMs);try{return await fetch(url,{...options,signal:controller.signal})}finally{clearTimeout(timer)}}
-async function getWordMeaning(word){const normalized=String(word||'').trim().toLowerCase();if(!normalized)return'暫無資料';if(WORD_LOOKUP_CACHE[normalized])return WORD_LOOKUP_CACHE[normalized];const lib=getLibraryWords();const found=lib.find(w=>String(w?.word||'').toLowerCase()===normalized);if(found&&found.meaning){const meaning=String(found.meaning).trim();if(meaning){WORD_LOOKUP_CACHE[normalized]=meaning;return meaning}}const localMeaning=getLookupMeaning(normalized);if(localMeaning)return localMeaning;const settings=readSettings();const api=(settings.apiBaseUrl||window.APP_CONFIG?.API_BASE_URL||'').trim().replace(/\/+$/,'');if(!api)return'暫無資料';try{const res=await fetchWithTimeout(api+'/lookup-word',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({word:normalized})},5000);if(!res.ok)throw new Error('HTTP '+res.status);let data=null;try{data=await res.json()}catch(parseErr){console.warn('lookup-word non-json response',parseErr);return'暫無資料'}const meaning=String(data?.meaning||'').trim();if(meaning){saveLookupEntry(normalized,data);return meaning}}catch(e){console.warn('word lookup failed',e)}return'暫無資料'}
-function bindClickableWords(){document.querySelectorAll('.click-word').forEach(el=>{el.addEventListener('click',async()=>{const word=el.dataset.word;showTooltip(el,'查詢中...');const meaning=await getWordMeaning(word);showTooltip(el,meaning)})})}
+async function getWordMeaning(word){return lookupWordMeaning(word)}
+function bindClickableWords(){document.querySelectorAll('.click-word').forEach(el=>{el.addEventListener('click',async()=>{const word=el.dataset.word;showTooltip(el,'查詢中...');const meaning=await lookupWordMeaning(word);showTooltip(el,meaning)})})}
 let cloudSaveTimer=null,cloudSyncInFlight=false,cloudSyncRetryQueued=false,cloudSyncStatus='Synced';
 function getCloudSyncConfig(){const settings=readSettings();const api=(settings.apiBaseUrl||'').trim().replace(/\/+$/,'');const syncCode=(settings.syncCode||'').trim();if(!api||!syncCode)return null;return {api,syncCode}}
 function setCloudSyncStatus(status){cloudSyncStatus=status;const el=document.getElementById('cloudSyncStatus');if(el)el.textContent=status}
