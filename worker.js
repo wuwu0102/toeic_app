@@ -1,3 +1,5 @@
+const OPENAI_URL = 'https://api.openai.com/v1/chat/completions';
+
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
@@ -19,6 +21,10 @@ export default {
     }
     if (url.pathname === '/lookup-word' && request.method === 'POST') {
       return handleLookupWord(request, env);
+    }
+
+    if (url.pathname === '/api/quick-translate' && request.method === 'POST') {
+      return handleQuickTranslate(request, env);
     }
 
     return json({ error: 'Not found' }, 404);
@@ -106,8 +112,49 @@ word: ${word}
   return json({ meaning });
 }
 
+async function handleQuickTranslate(request, env) {
+  const body = await request.json().catch(() => null);
+  const word = String(body?.word || '').trim();
+  if (!word) return json({ error: 'word required' }, 400);
+  if (!env.OPENAI_API_KEY) return json({ error: 'OPENAI_API_KEY missing' }, 500);
+
+  try {
+    const prompt = `Translate this English word to Traditional Chinese.
+
+Word: ${word}
+
+Rules:
+- Only return Chinese meaning
+- No explanation
+- No sentence
+- Keep it short`;
+    const aiRes = await fetch(OPENAI_URL, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        Authorization: `Bearer ${env.OPENAI_API_KEY}`
+      },
+      body: JSON.stringify({
+        model: 'gpt-4o-mini',
+        messages: [{ role: 'user', content: prompt }]
+      })
+    });
+
+    if (!aiRes.ok) {
+      const text = await aiRes.text();
+      return json({ error: `OpenAI error ${aiRes.status}: ${text}` }, 502);
+    }
+
+    const jsonData = await aiRes.json();
+    const text = String(jsonData?.choices?.[0]?.message?.content || '').trim();
+    return json({ zh: text });
+  } catch (error) {
+    return json({ error: String(error?.message || error || 'quick translate failed') }, 500);
+  }
+}
+
 async function callOpenAI(apiKey, prompt) {
-  const response = await fetch('https://api.openai.com/v1/chat/completions', {
+  const response = await fetch(OPENAI_URL, {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
@@ -160,7 +207,7 @@ async function callOpenAI(apiKey, prompt) {
 }
 
 async function callOpenAIExample(apiKey, prompt) {
-  const response = await fetch('https://api.openai.com/v1/chat/completions', {
+  const response = await fetch(OPENAI_URL, {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
@@ -201,7 +248,7 @@ function extractLineValue(content, key) {
 }
 
 async function callOpenAIText(apiKey, prompt) {
-  const response = await fetch('https://api.openai.com/v1/chat/completions', {
+  const response = await fetch(OPENAI_URL, {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
