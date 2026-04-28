@@ -44,93 +44,135 @@ function getExampleZh(w){if(!w)return'';const example=getWordExample(w);const zh
 function renderClickableSentence(sentence){return String(sentence||'').split(/(\s+|[.,!?])/).map(token=>/^[a-zA-Z]+$/.test(token)?`<span class="click-word" data-word="${token.toLowerCase()}">${token}</span>`:token).join('')}
 
 
-// ===== v7.9 FINAL Word System =====
-const AUTO_DICT_KEY = "toeic_auto_lookup_dict_v1";
+
+// ===== v7.9.5 FINAL Word System =====
+const AUTO_DICT_KEY = "toeic_auto_lookup_dict_v2";
+const BASIC_DICT = {
+  unless: "除非",
+  administrator: "管理人員",
+  confirmed: "確認",
+  soon: "很快",
+  project: "專案",
+  timeline: "時程",
+  adjusted: "調整",
+  boosted: "提升",
+  significantly: "顯著地",
+  crucial: "關鍵的",
+  division: "部門",
+  mattered: "重要；有關係",
+  during: "在…期間",
+  yesterday: "昨天",
+  client: "客戶",
+  sales: "業務",
+  team: "團隊",
+  accounting: "會計",
+  scheduling: "排班；排程",
+  meeting: "會議",
+  acquisition: "收購",
+  firm: "公司",
+  presence: "存在感；影響力",
+  workflow: "工作流程",
+  software: "軟體",
+  efficiency: "效率",
+  support: "支援",
+  desk: "服務台",
+  service: "服務",
+  record: "紀錄",
+  review: "審查",
+  revised: "修訂",
+  completed: "完成",
+  before: "在…之前",
+  after: "在…之後",
+  for: "為了；給",
+  why: "為什麼",
+  the: "這個；該",
+  a: "一個",
+  of: "的",
+  to: "到；對",
+  in: "在…裡",
+  on: "在…上",
+  with: "和；使用",
+  our: "我們的",
+  its: "它的"
+};
 
 function loadAutoDict(){
-  try{
-    return JSON.parse(localStorage.getItem(AUTO_DICT_KEY)) || {};
-  }catch{
-    return {};
-  }
+  try{return JSON.parse(localStorage.getItem(AUTO_DICT_KEY))||{}}catch{return {}}
 }
+function saveAutoDict(dict){localStorage.setItem(AUTO_DICT_KEY, JSON.stringify(dict||{}))}
 
-function saveAutoDict(dict){
-  localStorage.setItem(AUTO_DICT_KEY, JSON.stringify(dict));
-}
-
-// ⭐ 安全 fetch（避免卡死）
-async function safeFetch(url, options={}, timeout=8000){
+async function safeFetch(url, options={}, timeout=12000){
   const controller = new AbortController();
   const id = setTimeout(()=>controller.abort(), timeout);
-
-  try{
-    const res = await fetch(url,{...options, signal:controller.signal});
-    return res;
-  }catch{
-    return null;
-  }finally{
-    clearTimeout(id);
-  }
+  try{return await fetch(url,{...options, signal:controller.signal})}catch{return null}finally{clearTimeout(id)}
 }
 
 function normalizeLookupWord(word){
   const raw=String(word||'').trim().toLowerCase();
-  if(!raw)return'';
-  return raw
-    .replace(/['’]s\b/g,'')
-    .replace(/[^a-z]/g,'')
-    .trim()
+  if(!raw)return '';
+  return raw.replace(/['’]s\b/g,'').replace(/[^a-z]/g,'').trim();
+}
+
+function buildLookupCandidates(word){
+  const normalized=normalizeLookupWord(word);
+  if(!normalized)return [];
+  const list=[normalized];
+  if(normalized.endsWith('ing')&&normalized.length>4)list.push(normalized.slice(0,-3));
+  if(normalized.endsWith('ed')&&normalized.length>3)list.push(normalized.slice(0,-2));
+  if(normalized.endsWith('s')&&normalized.length>2)list.push(normalized.slice(0,-1));
+  return [...new Set(list.filter(Boolean))];
 }
 
 function getMeaningFromWordsLibrary(normalized){
-  if(!normalized)return'';
+  if(!normalized)return '';
   const list=Array.isArray(window.WORDS)?window.WORDS:[];
   const hit=list.find(item=>String(item?.word||'').trim().toLowerCase()===normalized);
-  return String(hit?.meaning||'').trim()
+  return String(hit?.meaning||'').trim();
 }
 
 async function lookupWordMeaning(word){
-  const normalized = normalizeLookupWord(word);
-  if(!normalized) return "";
+  const candidates=buildLookupCandidates(word);
+  if(!candidates.length)return '查不到翻譯';
 
-  const libraryMeaning = getMeaningFromWordsLibrary(normalized);
-  if(libraryMeaning) return libraryMeaning;
+  for(const c of candidates){
+    const libraryMeaning=getMeaningFromWordsLibrary(c);
+    if(libraryMeaning)return libraryMeaning;
+  }
 
-  const dict = loadAutoDict();
-  if(dict[normalized]) return dict[normalized];
+  for(const c of candidates){
+    const basicMeaning=String(BASIC_DICT[c]||'').trim();
+    if(basicMeaning)return basicMeaning;
+  }
+
+  const dict=loadAutoDict();
+  for(const c of candidates){
+    const cached=String(dict[c]||'').trim();
+    if(cached)return cached;
+  }
 
   const settings = readSettings();
   const api = (settings.apiBaseUrl || window.APP_CONFIG?.API_BASE_URL || "").trim().replace(/\/+$/, "");
-  if(!api) return "請先設定雲端API";
+  if(!api)return '查不到翻譯';
 
-  try{
-    const res = await safeFetch(api + "/lookup-word", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ word: normalized })
-    }, 12000);
-
-    if(!res || !res.ok) return "翻譯失敗";
-
-    const data = await res.json().catch(() => null);
-    const meaning = String(data?.meaning || "").trim();
-
-    if(!meaning || meaning === "翻譯失敗" || meaning === "暫無翻譯") {
-      return "翻譯失敗";
-    }
-
-    dict[normalized] = meaning;
-    saveAutoDict(dict);
-
-    return meaning;
-  }catch(e){
-    console.warn("lookup failed", e);
-    return "翻譯失敗";
+  for(const c of candidates){
+    try{
+      const res=await safeFetch(api+"/lookup-word",{
+        method:"POST",
+        headers:{"Content-Type":"application/json"},
+        body:JSON.stringify({word:c})
+      },12000);
+      if(!res||!res.ok)continue;
+      const data=await res.json().catch(()=>null);
+      const meaning=String(data?.meaning||'').trim();
+      if(!meaning||meaning==='查不到翻譯'||meaning==='翻譯失敗'||meaning==='暫無翻譯')continue;
+      dict[c]=meaning;
+      saveAutoDict(dict);
+      return meaning;
+    }catch(e){console.warn('lookup failed',e)}
   }
+  return '查不到翻譯';
 }
 
-// ⭐ Toast UI
 function showToast(msg){
   let el = document.getElementById("toast-msg");
 
@@ -158,11 +200,7 @@ function showToast(msg){
   },1500);
 }
 
-// ⭐ 啟用點擊查詢
-function enableWordClickMeaning(){
-  bindClickableWords();
-}
-
+function enableWordClickMeaning(){bindClickableWords()}
 
 function readSettings(){const raw=localStorage.getItem(SETTINGS_KEY)||localStorage.getItem(LEGACY_SETTINGS_KEY);const fb={apiBaseUrl:(window.APP_CONFIG&&window.APP_CONFIG.API_BASE_URL)||'',syncCode:''};if(!raw)return fb;try{const parsed={...fb,...JSON.parse(raw)};localStorage.setItem(SETTINGS_KEY,JSON.stringify(parsed));return parsed}catch{return fb}}
 function writeSettings(s){localStorage.setItem(SETTINGS_KEY,JSON.stringify(s))}
@@ -214,7 +252,6 @@ async function loadCloudStateIfPossible(){const settings=readSettings();const ap
 function showTooltip(el,text){const tooltip=document.getElementById('wordTooltip');if(!tooltip)return;tooltip.textContent=text;const rect=el.getBoundingClientRect();tooltip.style.top=(rect.top-40)+'px';tooltip.style.left=rect.left+'px';tooltip.style.display='block';clearTimeout(showTooltip.timer);showTooltip.timer=setTimeout(()=>{tooltip.style.display='none'},2000)}
 showTooltip.timer=null;
 async function fetchWithTimeout(url,options={},timeoutMs=5000){const controller=new AbortController();const timer=setTimeout(()=>controller.abort(),timeoutMs);try{return await fetch(url,{...options,signal:controller.signal})}finally{clearTimeout(timer)}}
-async function getWordMeaning(word){return lookupWordMeaning(word)}
 function bindClickableWords(){
   document.querySelectorAll(".click-word").forEach(el=>{
     if(el.dataset.lookupBound === "1") return;
@@ -286,7 +323,7 @@ function getTodayMasteredCount(){const s=state?.sessions?.[todayStr()];if(!s)ret
 function getTodayCompletedCount(session){if(!session)return 0;const done=new Set([...(session.completedCards||[]),...(session.completedQuiz||[])]);return Math.min(session.activeIds.length,done.size)}
 function pickFreePracticeIds(){const wrongIds=progressState.wrongWords.map(word=>Object.values(state.words).find(w=>w.word.toLowerCase()===word)?.id).filter(Boolean);if(wrongIds.length)return shuffle([...new Set(wrongIds)]).slice(0,Math.max(5,Math.min(DAILY_NEW,wrongIds.length)));const allIds=Object.values(state.words).map(w=>w.id);return shuffle(allIds).slice(0,DAILY_NEW)}
 function continueFreePractice(){const s=ensureTodaySession();for(const id of s.activeIds){const w=state.words[id];w.todayScore=0;w.todayWrong=0;w.todayCorrect=0}s.stage='quiz';s.mode='daily';s.quizMode='practice';s.cardIndex=s.activeIds.length;s.completedQuiz=[];s.recentQuizIds=[];s.wrongIds=[];s.stats.correct=0;s.stats.wrong=0;progressState.mode='daily';progressState.dailyProgress=getTodayMasteredCount();saveState(state,{autoSync:true});saveProgress();go('quiz')}
-function ensureTodaySession(){const t=todayStr();if(state.sessions[t]){state.sessions[t].mode='daily';state.sessions[t].quizMode='practice';state.sessions[t].recentQuizIds=Array.isArray(state.sessions[t].recentQuizIds)?state.sessions[t].recentQuizIds:[];return state.sessions[t]}const ids=createDailyCandidateIds();for(const id of ids){const w=state.words[id];w.todayScore=0;w.todayWrong=0;w.todayCorrect=0}const s={date:t,activeIds:ids,stage:'cards',mode:'daily',quizMode:'practice',cardIndex:0,completedCards:[],completedQuiz:[],wrongIds:[],recentQuizIds:[],stats:{green:0,yellow:0,red:0,correct:0,wrong:0}};state.sessions[t]=s;saveState(state,{autoSync:true});return s}
+function ensureTodaySession(){const t=todayStr();if(state.sessions[t])return state.sessions[t];const ids=createDailyCandidateIds();for(const id of ids){const w=state.words[id];w.todayScore=0;w.todayWrong=0;w.todayCorrect=0}const s={date:t,activeIds:ids,stage:'cards',mode:'daily',quizMode:'practice',cardIndex:0,completedCards:[],completedQuiz:[],wrongIds:[],recentQuizIds:[],stats:{green:0,yellow:0,red:0,correct:0,wrong:0}};state.sessions[t]=s;saveState(state,{autoSync:true});saveProgress();return s}
 function libraryDone(all){const unseen=all.filter(w=>!w.seen).length;const due=all.filter(w=>w.nextReview&&w.nextReview<=todayStr()).length;return unseen===0&&due===0}
 function getUnmasteredCount(session){return session.activeIds.filter(id=>(state.words[id].todayScore||0)<DAILY_MASTER_TARGET).length}
 function pickNextQuizId(session){
@@ -390,6 +427,7 @@ bindClickableWords();
 setTimeout(enableWordClickMeaning,0);
 if(typeof saveState==='function'){
 saveState(state,{autoSync:true});
+saveProgress();
 }
 }catch(e){
 console.warn('regen example failed',e);
@@ -438,7 +476,7 @@ function renderList(){setTitle('單字庫',false);setNav('list');const all=getSt
 function renderStats(){setTitle('學習統計',false);setNav('stats');const all=getStudyWords(),learned=all.filter(w=>w.seen).length,dueToday=all.filter(w=>w.nextReview&&w.nextReview<=todayStr()).length,historyRows=(state.history||[]).slice(0,7).map(h=>`<div class="kv"><span>${h.date}</span><span class="muted">${h.correct}/${h.total}</span></div>`).join('');document.getElementById('view').innerHTML=`<div class="grid"><div class="metric"><div class="ml">已學過</div><div class="mv">${learned}</div></div><div class="metric"><div class="ml">今日到期複習</div><div class="mv">${dueToday}</div></div><div class="metric"><div class="ml">最近完成</div><div class="mv">${(state.history||[]).length}</div></div><div class="metric"><div class="ml">正式字庫</div><div class="mv">${all.length}</div></div></div><div class="card"><div class="section">最近學習紀錄</div>${historyRows||'<div class="muted">還沒有完成的紀錄</div>'}</div>`}
 function renderSettings(){setTitle('設定',false);setNav('settings');const settings=readSettings(),cloudReady=(settings.apiBaseUrl||'').trim()?'已設定':'未設定',syncCode=getOrCreateSyncCode();document.getElementById('view').innerHTML=`<div class="card"><div class="section">版本資訊</div><div class="kv"><span>版次</span><span>${getAppVersion()}</span></div><div class="kv"><span>正式字庫</span><span>${getStudyWords().length}</span></div><div class="kv"><span>同步代碼</span><span class="mono">${syncCode}</span></div><div class="kv"><span>雲端 API</span><span>${cloudReady}</span></div><div class="kv"><span>最後雲端讀取</span><span class="muted">${state.sync&&state.sync.lastCloudLoad?state.sync.lastCloudLoad.slice(0,19).replace('T',' '):'尚未'}</span></div><div class="kv"><span>最後雲端保存</span><span class="muted">${state.sync&&state.sync.lastCloudSave?state.sync.lastCloudSave.slice(0,19).replace('T',' '):'尚未'}</span></div><div class="kv"><span>最後同步時間</span><span class="muted">${state.sync&&state.sync.lastSyncedAt?state.sync.lastSyncedAt.slice(0,19).replace('T',' '):'尚未'}</span></div></div><div class="card"><div class="section">雲端同步設定</div><div class="muted">換手機時，用同一個 Worker API 與同步代碼即可載回進度。</div><input id="apiInput" class="input" placeholder="貼上 Worker API 網址" value="${settings.apiBaseUrl||''}"><input id="syncCodeInput" class="input mono" placeholder="輸入或貼上同步代碼" value="${syncCode}"><div class="stack"><button class="btn primary" id="saveApiBtn" type="button">保存同步設定</button><button class="btn secondary" id="syncNowBtn" type="button">立刻同步到雲端</button><button class="btn secondary" id="loadCloudBtn" type="button">從雲端載入進度</button><button class="btn light" id="copyCodeBtn" type="button">複製同步代碼</button></div></div>`;document.getElementById('saveApiBtn').addEventListener('click',()=>{const api=document.getElementById('apiInput').value.trim(),code=document.getElementById('syncCodeInput').value.trim();if(!code){alert('請先輸入同步代碼');return}const s=readSettings();s.apiBaseUrl=api;s.syncCode=code;writeSettings(s);alert('同步設定已保存');render()});document.getElementById('syncNowBtn').addEventListener('click',async()=>{const code=document.getElementById('syncCodeInput').value.trim();if(!setSyncCode(code)){alert('請先輸入同步代碼');return}await saveToCloud(state,false)});document.getElementById('loadCloudBtn').addEventListener('click',async()=>{const code=document.getElementById('syncCodeInput').value.trim();if(!setSyncCode(code)){alert('請先輸入同步代碼');return}const cloud=await loadCloudStateIfPossible();if(cloud){state=cloud;saveLocalState(state);alert('已從雲端載入進度');render()}else{alert('讀取失敗，請確認 Worker 網址、同步代碼或雲端資料')}});document.getElementById('copyCodeBtn').addEventListener('click',async()=>{const code=document.getElementById('syncCodeInput').value.trim();try{await navigator.clipboard.writeText(code);alert('同步代碼已複製')}catch{alert('複製失敗，請手動複製')}})}
 function render(){setCloudSyncStatus(cloudSyncStatus);const route=state.currentRoute||'home';if(route==='home')return renderHome();if(route==='study')return renderStudy();if(route==='quiz')return renderQuiz();if(route==='summary')return renderSummary();if(route==='list')return renderList();if(route==='stats')return renderStats();if(route==='settings')return renderSettings();if(route==='word')return renderWordDetail();renderHome()}
-window.addEventListener('pagehide',flushAutoSync);window.addEventListener('beforeunload',flushAutoSync);window.speakWord=speakWord;
+window.addEventListener('visibilitychange',()=>{if(document.visibilityState==='hidden'){saveLocalState(state);saveProgress();if(typeof flushAutoSync==='function')flushAutoSync()}});window.addEventListener('pagehide',()=>{saveLocalState(state);saveProgress();if(typeof flushAutoSync==='function')flushAutoSync()});window.addEventListener('beforeunload',()=>{saveLocalState(state);saveProgress();if(typeof flushAutoSync==='function')flushAutoSync()});window.speakWord=speakWord;
 let state=loadLocalState();
 let progressState=loadProgress();
 function hydrateProgressState(){const all=getStudyWords();const learnedWords=all.filter(w=>w.seen).map(w=>w.word.toLowerCase());if(!progressState.learnedWords.length)progressState.learnedWords=learnedWords;progressState.correctCount=Math.max(progressState.correctCount,(state.history||[]).reduce((sum,h)=>sum+(Number(h.correct)||0),0));progressState.wrongCount=Math.max(progressState.wrongCount,(state.history||[]).reduce((sum,h)=>sum+(Number(h.wrong)||0),0));progressState.mode='daily';progressState.dailyProgress=getTodayMasteredCount();saveProgress()}

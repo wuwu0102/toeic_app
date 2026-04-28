@@ -1,13 +1,51 @@
 const OPENAI_URL = 'https://api.openai.com/v1/chat/completions';
 const LOCAL_LOOKUP = {
-  crucial: '關鍵的',
+  unless: '除非',
+  administrator: '管理人員',
+  confirmed: '確認',
+  soon: '很快',
+  project: '專案',
+  timeline: '時程',
+  adjusted: '調整',
   boosted: '提升',
   significantly: '顯著地',
+  crucial: '關鍵的',
+  division: '部門',
+  mattered: '重要；有關係',
+  during: '在…期間',
+  yesterday: '昨天',
+  client: '客戶',
+  sales: '業務',
+  team: '團隊',
+  accounting: '會計',
+  scheduling: '排班；排程',
+  meeting: '會議',
   acquisition: '收購',
   firm: '公司',
-  presence: '影響力；存在感',
+  presence: '存在感；影響力',
   workflow: '工作流程',
-  division: '部門'
+  software: '軟體',
+  efficiency: '效率',
+  support: '支援',
+  desk: '服務台',
+  service: '服務',
+  record: '紀錄',
+  review: '審查',
+  revised: '修訂',
+  completed: '完成',
+  before: '在…之前',
+  after: '在…之後',
+  for: '為了；給',
+  why: '為什麼',
+  the: '這個；該',
+  a: '一個',
+  of: '的',
+  to: '到；對',
+  in: '在…裡',
+  on: '在…上',
+  with: '和；使用',
+  our: '我們的',
+  its: '它的'
 };
 
 export default {
@@ -28,6 +66,12 @@ export default {
 
     if (url.pathname === '/generate-example' && request.method === 'POST') {
       return handleGenerateExample(request, env);
+    }
+    if (url.pathname === '/health' && request.method === 'GET') {
+      return json({ ok: true, lookup: true });
+    }
+    if (url.pathname === '/lookup-word-test' && request.method === 'GET') {
+      return handleLookupWordTest(url, env);
     }
     if (url.pathname === '/lookup-word' && request.method === 'POST') {
       return handleLookupWord(request, env);
@@ -112,15 +156,11 @@ ZH: ...`;
 async function handleLookupWord(request, env) {
   try {
     const body = await request.json().catch(() => null);
-    const word = String(body?.word || '')
-      .trim()
-      .toLowerCase()
-      .replace(/['’]s\b/g, '')
-      .replace(/[^a-z]/g, '');
+    const word = normalizeLookupWord(body?.word);
+    if (!word) return json({ meaning: '查不到翻譯' });
 
-    if (!word) return json({ meaning: '翻譯失敗' });
     if (LOCAL_LOOKUP[word]) return json({ meaning: LOCAL_LOOKUP[word] });
-    if (!env.OPENAI_API_KEY) return json({ meaning: '翻譯失敗' });
+    if (!env.OPENAI_API_KEY) return json({ meaning: '查不到翻譯' });
 
     const prompt = `Translate this English word to Traditional Chinese.
 
@@ -131,26 +171,43 @@ Rules:
 - No explanation
 - No punctuation
 - Maximum 8 Chinese characters
-- If the word is a verb form, translate the base meaning naturally
-- If the word is an adverb, translate as an adverb
+- If it is a verb form, translate the base meaning naturally
+- If it is an adverb, translate as an adverb
 
 Examples:
 boosted -> 提升
 significantly -> 顯著地
-mattered -> 重要；有關係
+crucial -> 關鍵的
+unless -> 除非
 division -> 部門`;
+
     const meaning = String(await callOpenAIText(env.OPENAI_API_KEY, prompt)).trim();
-    return json({ meaning: meaning || '翻譯失敗' });
+    return json({ meaning: meaning || '查不到翻譯' });
   } catch (error) {
     console.error('lookup-word failed', error);
-    return json({ meaning: '翻譯失敗' });
+    return json({ meaning: '查不到翻譯' });
   }
+}
+
+async function handleLookupWordTest(url, env) {
+  const word = normalizeLookupWord(url.searchParams.get('word'));
+  if (!word) return json({ word: '', meaning: '查不到翻譯' });
+  const meaningRes = await handleLookupWord(
+    new Request('https://local/lookup-word', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ word })
+    }),
+    env
+  );
+  const payload = await meaningRes.json().catch(() => ({ meaning: '查不到翻譯' }));
+  return json({ word, meaning: String(payload?.meaning || '查不到翻譯') });
 }
 
 async function handleQuickTranslateCompat(request, env) {
   const res = await handleLookupWord(request, env);
   const data = await res.json().catch(() => null);
-  const meaning = String(data?.meaning || '').trim() || '翻譯失敗';
+  const meaning = String(data?.meaning || '').trim() || '查不到翻譯';
   return json({ zh: meaning, meaning });
 }
 
@@ -332,6 +389,15 @@ async function callOpenAIText(apiKey, prompt) {
   }
   const data = await response.json();
   return String(data?.choices?.[0]?.message?.content || '').trim();
+}
+
+
+function normalizeLookupWord(input) {
+  return String(input || '')
+    .trim()
+    .toLowerCase()
+    .replace(/['’]s\b/g, '')
+    .replace(/[^a-z]/g, '');
 }
 
 function countEnglishWords(text) {
