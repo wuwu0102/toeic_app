@@ -20,15 +20,17 @@ function masteryColor(m){if(m<=1)return'red';if(m<=3)return'yellow';return'green
 function getLibraryWords(){return Array.isArray(window.WORDS)?window.WORDS:[]}
 function getAppVersion(){return (window.APP_CONFIG&&window.APP_CONFIG.APP_VERSION)||'v7.9'}
 function getAppName(){return (window.APP_CONFIG&&window.APP_CONFIG.APP_NAME)||'TOEIC v7.9 正式版'}
-function getStudyWords(){return Object.values(state.words)}
+const FUNCTION_WORDS=new Set(['the','a','an','to','of','for','with','in','on','at','by','if','because','while','during','before','after','unless']);
+function getStudyWords(){return Object.values(state.words).filter(isWordEntryValidForStudy)}
 function isWordEntryValidForStudy(w){
 const word=String(w?.word||'').trim().toLowerCase();
 const meaning=String(w?.meaning||'').trim();
 const example=String(w?.example||w?.example_en||'').trim();
 const exampleZh=String(w?.example_zh||'').trim();
 if(!word||!/^[a-z]+(?:[- ][a-z]+)*$/.test(word))return false;
+if(FUNCTION_WORDS.has(word))return false;
 if(w?.invalid)return false;
-if(!meaning||meaning==='資料待補')return false;
+if(!meaning||meaning==='資料待補'||meaning.toLowerCase()===word)return false;
 if(!example||!exampleZh)return false;
 if(/[A-Za-z]{2,}/.test(exampleZh))return false;
 return true
@@ -60,86 +62,8 @@ function renderClickableSentence(sentence){return String(sentence||'').split(/(\
 // ===== v7.9.5 FINAL Word System =====
 const AUTO_DICT_KEY = "toeic_auto_lookup_dict_v2";
 const BASIC_DICT = {
-  issued: '已簽發',
-  arranged: '已安排',
-  received: '已收到',
-  updated: '已更新',
-  submitted: '已提交',
-  prepared: '已準備',
-  reviewed: '已審查',
-  approved: '已核准',
-  approval: '核准',
-  expense: '費用',
-  additional: '額外的',
-  assignment: '任務',
-  applicant: '申請人',
-  application: '申請',
-  document: '文件',
-  report: '報告',
-  schedule: '時程',
-  delivery: '交付',
-  logistics: '物流',
-  warehouse: '倉庫',
-  inventory: '庫存',
-  shipping: '運輸',
-  shipment: '貨運',
-  contract: '合約',
-  invoice: '發票',
-  payment: '付款',
-  supplier: '供應商',
-  vendor: '供應商',
-  customer: '顧客',
-  manager: '經理',
-  while: '當…時',
-  because: '因為',
-  if: '如果',
-  an: '一個',
-  unless: "除非",
-  administrator: "管理人員",
-  confirmed: "確認",
-  soon: "很快",
-  project: "專案",
-  timeline: "時程",
-  adjusted: "調整",
-  boosted: "提升",
-  significantly: "顯著地",
-  crucial: "關鍵的",
-  division: "部門",
-  mattered: "重要；有關係",
-  during: "在…期間",
-  yesterday: "昨天",
-  client: "客戶",
-  sales: "業務",
-  team: "團隊",
-  accounting: "會計",
-  scheduling: "排班；排程",
-  meeting: "會議",
-  acquisition: "收購",
-  firm: "公司",
-  presence: "存在感；影響力",
-  workflow: "工作流程",
-  software: "軟體",
-  efficiency: "效率",
-  support: "支援",
-  desk: "服務台",
-  service: "服務",
-  record: "紀錄",
-  review: "審查",
-  revised: "修訂",
-  completed: "完成",
-  before: "在…之前",
-  after: "在…之後",
-  for: "為了；給",
-  why: "為什麼",
-  the: "這個；該",
-  a: "一個",
-  of: "的",
-  to: "到；對",
-  in: "在…裡",
-  on: "在…上",
-  with: "和；使用",
-  our: "我們的",
-  its: "它的"
+  the:'這個；該',a:'一個',an:'一個',to:'到；對；為了',of:'的',for:'為了；給',with:'和；使用',in:'在……裡',on:'在……上',at:'在',by:'由；透過',if:'如果',because:'因為',while:'當……期間',during:'在……期間',before:'在……之前',after:'在……之後',unless:'除非',
+  manager:'經理；主管',team:'團隊',client:'客戶',customer:'顧客',vendor:'供應商',supplier:'供應商',payment:'付款',invoice:'發票',contract:'合約',shipment:'出貨；貨件',shipping:'出貨',inventory:'庫存',warehouse:'倉庫',logistics:'物流',delivery:'配送；交付',schedule:'排程；時程',meeting:'會議',report:'報告',document:'文件',application:'申請',applicant:'應徵者',assignment:'任務',additional:'額外的',expense:'費用',approval:'核准',approved:'已核准',reviewed:'已審查',prepared:'已準備',submitted:'已提交',updated:'已更新',received:'已收到',arranged:'已安排',confirmed:'已確認',issued:'已發出',completed:'已完成'
 };
 
 function loadAutoDict(){
@@ -258,8 +182,9 @@ function normalizeWordEntry(w,index){
 const id=Number(w?.id)||index+1;
 const word=String(w?.word||'').trim().toLowerCase();
 const rawMeaning=String(w?.meaning||'').trim();
-const invalid=!rawMeaning||rawMeaning===word;
-if(invalid)console.warn('[vocab] missing or invalid meaning for word:',word||`#${id}`);
+const fakePattern=/^(admin[a-z0-9_-]*|agendasync|acquisitioncost|adaptationplan)$/i.test(word)||/[A-Z]/.test(String(w?.word||''))||/\d/.test(word);
+const invalid=Boolean(w?.invalid)||!word||!rawMeaning||rawMeaning.toLowerCase()===word||FUNCTION_WORDS.has(word)||fakePattern;
+if(invalid)console.warn('[vocab] invalid entry:',word||`#${id}`);
 return {
 id,word,
 pos:String(w?.pos||'n.').trim()||'n.',

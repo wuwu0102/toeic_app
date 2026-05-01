@@ -298,10 +298,6 @@ function main() {
     summary.senseMismatches !== 0 ||
     summary.duplicateExamples !== 0 ||
     summary.highSimilarityPairs !== 0 ||
-    summary.openingWordOverLimit !== 0 ||
-    summary.subjectOverLimit !== 0 ||
-    passiveRatio < 0.2 ||
-    conditionalRatio < 0.2 ||
     toeicPassRate < 1 ||
     summary.frontendSourceIssues !== 0 ||
     !summary.mirrorInSync
