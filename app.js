@@ -21,6 +21,11 @@ function getLibraryWords(){return Array.isArray(window.WORDS)?window.WORDS:[]}
 function getAppVersion(){return (window.APP_CONFIG&&window.APP_CONFIG.APP_VERSION)||'v7.9'}
 function getAppName(){return (window.APP_CONFIG&&window.APP_CONFIG.APP_NAME)||'TOEIC v7.9 正式版'}
 function getStudyWords(){return Object.values(state.words)}
+function isWordEntryValidForStudy(w){
+const meaning=String(w?.meaning||'').trim();
+if(!meaning||meaning==='資料待補')return false;
+return true
+}
 function escapeRegExp(s){return String(s||'').replace(/[.*+?^${}()|[\]\\]/g,'\\$&')}
 function getPrimaryMeaning(meaning){return String(meaning||'').split(/[；;、,，/]/).map(x=>x.trim()).find(Boolean)||'這個字'}
 function getExampleSubject(w){const meaning=getPrimaryMeaning(w?.meaning);return /常用字$/.test(meaning)?`單字「${w.word}」`:`「${meaning}」`}
@@ -214,7 +219,7 @@ const word=String(w?.word||'').trim().toLowerCase();
 return {
 id,word,
 pos:String(w?.pos||'n.').trim()||'n.',
-meaning:String(w?.meaning||'').trim()||word,
+meaning:(()=>{const raw=String(w?.meaning||'').trim();if(raw)return raw;console.warn('[vocab] missing meaning:',word);return '資料待補'})(),
 phonetic:String(w?.phonetic||'').trim(),
 example:String(w?.example||'').trim(),
 example_en:String(w?.example_en||'').trim(),
@@ -307,7 +312,7 @@ const abstractHits=['synergy','framework','paradigm','optimization','enhancement
 return abstractHits>=2
 }
 function createDailyCandidateIds(){
-const today=todayStr();const all=getStudyWords();
+const today=todayStr();const all=getStudyWords().filter(isWordEntryValidForStudy);
 const freshPool=[...all].filter(w=>!w.seen||safeNumber(w.repetition,0)===0).sort((a,b)=>safeNumber(a.repetition,0)-safeNumber(b.repetition,0));
 const reviewPool=[...all].filter(w=>w.seen||safeNumber(w.repetition,0)>0).sort((a,b)=>scoreReviewPriority(b,today)-scoreReviewPriority(a,today));
 const weakPool=[...all].sort((a,b)=>scoreReviewPriority(b,today)-scoreReviewPriority(a,today));
