@@ -1,2853 +1,2713 @@
 window.WORDS = [
   {
     "word": "completed",
-    "pos": "prep.",
+    "pos": "v.",
     "level": 1,
     "category": "Business",
-    "topic": "Core",
-    "meaning": "已完成",
-    "example": "The manager reviewed completed in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "完成；已完成",
+    "example": "The technician completed the inspection before the client arrived this morning.",
+    "example_zh": "技術人員在客戶今早抵達前完成了檢查。"
   },
   {
     "word": "issued",
-    "pos": "prep.",
-    "level": 1,
+    "pos": "v.",
+    "level": 2,
     "category": "Business",
-    "topic": "Core",
-    "meaning": "已簽發",
-    "example": "The team submitted issued in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "發出；發布",
+    "example": "The company issued a new policy for remote employees last week.",
+    "example_zh": "公司上週為遠端員工發布了一項新政策。"
   },
   {
     "word": "confirmed",
-    "pos": "prep.",
-    "level": 1,
+    "pos": "v.",
+    "level": 3,
     "category": "Business",
-    "topic": "Core",
-    "meaning": "已確認",
-    "example": "The client checked confirmed in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "確認",
+    "example": "The hotel confirmed our reservation by email yesterday afternoon.",
+    "example_zh": "飯店昨天下午透過電子郵件確認了我們的預約。"
   },
   {
     "word": "arranged",
-    "pos": "prep.",
-    "level": 1,
+    "pos": "v.",
+    "level": 4,
     "category": "Business",
-    "topic": "Core",
-    "meaning": "已安排",
-    "example": "The vendor revised arranged in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "We finalized the arranged to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "received",
-    "pos": "prep.",
-    "level": 1,
+    "pos": "v.",
+    "level": 5,
     "category": "Business",
-    "topic": "Core",
-    "meaning": "已收到",
-    "example": "The supplier prepared received in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved received for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "updated",
-    "pos": "prep.",
+    "pos": "v.",
     "level": 1,
     "category": "Business",
-    "topic": "Core",
-    "meaning": "已更新",
-    "example": "The finance staff arranged updated in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored updated throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "submitted",
-    "pos": "prep.",
-    "level": 1,
+    "pos": "v.",
+    "level": 2,
     "category": "Business",
-    "topic": "Core",
-    "meaning": "已提交",
-    "example": "The hr officer planned submitted in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "HR documented submitted before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "prepared",
-    "pos": "prep.",
-    "level": 1,
+    "pos": "v.",
+    "level": 3,
     "category": "Business",
-    "topic": "Core",
-    "meaning": "已準備",
-    "example": "The warehouse clerk updated prepared in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed prepared to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "reviewed",
-    "pos": "prep.",
-    "level": 1,
+    "pos": "v.",
+    "level": 4,
     "category": "Business",
-    "topic": "Core",
-    "meaning": "已審查",
-    "example": "The project leader confirmed reviewed in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the reviewed before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "approved",
-    "pos": "prep.",
-    "level": 1,
+    "pos": "v.",
+    "level": 5,
     "category": "Business",
-    "topic": "Core",
-    "meaning": "已核准",
-    "example": "The sales director documented approved in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the approved after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "assignment",
-    "pos": "prep.",
+    "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Core",
-    "meaning": "任務",
-    "example": "The manager reviewed assignment in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The company discussed assignment during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "report",
-    "pos": "prep.",
-    "level": 1,
+    "pos": "n.",
+    "level": 2,
     "category": "Business",
-    "topic": "Core",
-    "meaning": "報告",
-    "example": "The team submitted report in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "We finalized the report to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "schedule",
-    "pos": "prep.",
-    "level": 1,
+    "pos": "n.",
+    "level": 3,
     "category": "Business",
-    "topic": "Core",
-    "meaning": "行程",
-    "example": "The client checked schedule in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved schedule for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "warehouse",
-    "pos": "prep.",
-    "level": 1,
+    "pos": "n.",
+    "level": 4,
     "category": "Business",
-    "topic": "Core",
-    "meaning": "倉庫",
-    "example": "The vendor revised warehouse in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored warehouse throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "shipping",
-    "pos": "prep.",
-    "level": 1,
+    "pos": "n.",
+    "level": 5,
     "category": "Business",
-    "topic": "Core",
-    "meaning": "運輸",
-    "example": "The supplier prepared shipping in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "HR documented shipping before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "team",
-    "pos": "prep.",
+    "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Core",
-    "meaning": "團隊",
-    "example": "The finance staff arranged team in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed team to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "review",
-    "pos": "prep.",
-    "level": 1,
+    "pos": "n.",
+    "level": 2,
     "category": "Business",
-    "topic": "Core",
-    "meaning": "審查",
-    "example": "The hr officer planned review in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "unless",
-    "pos": "prep.",
-    "level": 1,
-    "category": "Business",
-    "topic": "Core",
-    "meaning": "除非",
-    "example": "The warehouse clerk updated unless in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "if",
-    "pos": "prep.",
-    "level": 1,
-    "category": "Business",
-    "topic": "Core",
-    "meaning": "如果",
-    "example": "The project leader confirmed if in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "because",
-    "pos": "prep.",
-    "level": 1,
-    "category": "Business",
-    "topic": "Core",
-    "meaning": "因為",
-    "example": "The sales director documented because in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "while",
-    "pos": "prep.",
-    "level": 1,
-    "category": "Business",
-    "topic": "Core",
-    "meaning": "當",
-    "example": "The manager reviewed while in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "during",
-    "pos": "prep.",
-    "level": 1,
-    "category": "Business",
-    "topic": "Core",
-    "meaning": "在期間",
-    "example": "The team submitted during in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "after",
-    "pos": "prep.",
-    "level": 1,
-    "category": "Business",
-    "topic": "Core",
-    "meaning": "在之後",
-    "example": "The client checked after in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "before",
-    "pos": "prep.",
-    "level": 1,
-    "category": "Business",
-    "topic": "Core",
-    "meaning": "在之前",
-    "example": "The vendor revised before in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "with",
-    "pos": "prep.",
-    "level": 1,
-    "category": "Business",
-    "topic": "Core",
-    "meaning": "和",
-    "example": "The supplier prepared with in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "for",
-    "pos": "prep.",
-    "level": 1,
-    "category": "Business",
-    "topic": "Core",
-    "meaning": "為了",
-    "example": "The finance staff arranged for in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "of",
-    "pos": "prep.",
-    "level": 1,
-    "category": "Business",
-    "topic": "Core",
-    "meaning": "的",
-    "example": "The hr officer planned of in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "to",
-    "pos": "prep.",
-    "level": 1,
-    "category": "Business",
-    "topic": "Core",
-    "meaning": "到",
-    "example": "The warehouse clerk updated to in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "an",
-    "pos": "prep.",
-    "level": 1,
-    "category": "Business",
-    "topic": "Core",
-    "meaning": "一個",
-    "example": "The project leader confirmed an in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "a",
-    "pos": "prep.",
-    "level": 1,
-    "category": "Business",
-    "topic": "Core",
-    "meaning": "一個",
-    "example": "The sales director documented a in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "the",
-    "pos": "prep.",
-    "level": 1,
-    "category": "Business",
-    "topic": "Core",
-    "meaning": "這個",
-    "example": "The manager reviewed the in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the review before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "abbreviation",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
-    "topic": "Communication",
-    "meaning": "縮寫",
-    "example": "The team submitted abbreviation in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the abbreviation after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "absenteeism",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "HR",
-    "meaning": "缺勤率",
-    "example": "The client checked absenteeism in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The company discussed absenteeism during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "absorption",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "吸收率",
-    "example": "The vendor revised absorption in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "We finalized the absorption to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "abundance",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Operations",
-    "meaning": "充足供給",
-    "example": "The supplier prepared abundance in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved abundance for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "acceptance",
     "pos": "n.",
-    "level": 1,
+    "level": 2,
     "category": "Business",
-    "topic": "Contracts",
-    "meaning": "驗收",
-    "example": "The finance staff arranged acceptance in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored acceptance throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "access",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "IT",
-    "meaning": "存取權限",
-    "example": "The hr officer planned access in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "HR documented access before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "accessibility",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Service",
-    "meaning": "可及性",
-    "example": "The warehouse clerk updated accessibility in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed accessibility to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "accessory",
-    "pos": "n.",
-    "level": 3,
+    "pos": "adj.",
+    "level": 5,
     "category": "Business",
     "topic": "Sales",
-    "meaning": "配件",
-    "example": "The project leader confirmed accessory in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the accessory before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "accommodation",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Travel",
-    "meaning": "住宿安排",
-    "example": "The sales director documented accommodation in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the accommodation after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "account",
     "pos": "n.",
-    "level": 1,
+    "level": 2,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "帳戶；帳目",
-    "example": "The manager reviewed account in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The company discussed account during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "accounting",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "會計",
-    "example": "The team submitted accounting in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "We finalized the accounting to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "accreditation",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Training",
-    "meaning": "認證資格",
-    "example": "The client checked accreditation in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved accreditation for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "accrual",
-    "pos": "n.",
-    "level": 1,
+    "pos": "adj.",
+    "level": 5,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "應計帳款",
-    "example": "The vendor revised accrual in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored accrual throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "accumulation",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "累積量",
-    "example": "The supplier prepared accumulation in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "HR documented accumulation before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "accuracy",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Reporting",
-    "meaning": "準確度",
-    "example": "The finance staff arranged accuracy in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed accuracy to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "acquisition",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "收購；取得",
-    "example": "The hr officer planned acquisition in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the acquisition before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "action",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "行動；措施",
-    "example": "The warehouse clerk updated action in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the action after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "activator",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Manufacturing",
-    "meaning": "啟動器",
-    "example": "The project leader confirmed activator in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The company discussed activator during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "actuary",
-    "pos": "n.",
-    "level": 2,
+    "pos": "adj.",
+    "level": 1,
     "category": "Business",
     "topic": "Finance",
-    "meaning": "精算師",
-    "example": "The sales director documented actuary in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "商務常用詞",
+    "example": "We finalized the actuary to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "adaptability",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Training",
-    "meaning": "適應能力",
-    "example": "The manager reviewed adaptability in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved adaptability for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "adaptation",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "調整；適應",
-    "example": "The team submitted adaptation in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored adaptation throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "addendum",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
-    "topic": "Contracts",
-    "meaning": "附錄條款",
-    "example": "The client checked addendum in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "HR documented addendum before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "additional",
     "pos": "adj.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "額外的；附加的",
-    "example": "The vendor revised additional in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "額外的",
+    "example": "No additional expenses may be approved during the review period.",
+    "example_zh": "審查期間不得核准額外費用。"
   },
   {
     "word": "additive",
-    "pos": "n.",
+    "pos": "adj.",
     "level": 1,
     "category": "Business",
-    "topic": "Manufacturing",
-    "meaning": "添加劑",
-    "example": "The supplier prepared additive in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the additive before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "adherence",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Contracts",
-    "meaning": "遵循度",
-    "example": "The finance staff arranged adherence in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the adherence after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "adjuster",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
     "topic": "Finance",
-    "meaning": "理算人員",
-    "example": "The hr officer planned adjuster in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "商務常用詞",
+    "example": "The company discussed adjuster during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "admission",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Administration",
-    "meaning": "准入；入場許可",
-    "example": "The warehouse clerk updated admission in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "We finalized the admission to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "adopter",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Marketing",
-    "meaning": "採用者",
-    "example": "The project leader confirmed adopter in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved adopter for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "adoption",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Operations",
-    "meaning": "採用率",
-    "example": "The sales director documented adoption in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored adoption throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "adversity",
     "pos": "n.",
-    "level": 1,
+    "level": 2,
     "category": "Business",
-    "topic": "Strategy",
-    "meaning": "逆風因素",
-    "example": "The manager reviewed adversity in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "HR documented adversity before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "advertiser",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "廣告主",
-    "example": "The team submitted advertiser in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed advertiser to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "advertising",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Marketing",
-    "meaning": "廣告行銷",
-    "example": "The client checked advertising in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the advertising before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "advice",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "建議",
-    "example": "The vendor revised advice in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the advice after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "advisory",
-    "pos": "n.",
+    "pos": "adj.",
     "level": 1,
     "category": "Business",
-    "topic": "Administration",
-    "meaning": "諮詢委員會",
-    "example": "The supplier prepared advisory in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The company discussed advisory during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "advocate",
-    "pos": "n.",
+    "pos": "v.",
     "level": 2,
     "category": "Business",
-    "topic": "Communication",
-    "meaning": "倡議者",
-    "example": "The finance staff arranged advocate in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "We finalized the advocate to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "affidavit",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Contracts",
-    "meaning": "宣誓書",
-    "example": "The hr officer planned affidavit in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved affidavit for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "affiliation",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Administration",
-    "meaning": "隸屬關係",
-    "example": "The warehouse clerk updated affiliation in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored affiliation throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "affinity",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Marketing",
-    "meaning": "品牌親和力",
-    "example": "The project leader confirmed affinity in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "HR documented affinity before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "affordability",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "可負擔性",
-    "example": "The sales director documented affordability in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed affordability to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "aftermarket",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Sales",
-    "meaning": "售後市場",
-    "example": "The manager reviewed aftermarket in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the aftermarket before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "agenda",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
-    "topic": "Meeting",
-    "meaning": "議程",
-    "example": "The team submitted agenda in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the agenda after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "agendaability",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Project",
-    "meaning": "預算管理；成本控管",
-    "example": "The client checked agendaability in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The company discussed agendaability during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "agendaable",
-    "pos": "n.",
-    "level": 1,
+    "pos": "adj.",
+    "level": 5,
     "category": "Business",
-    "topic": "Coordination",
-    "meaning": "專案管理；營運協調",
-    "example": "The vendor revised agendaable in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "We finalized the agendaable to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "agendaance",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Operations",
-    "meaning": "品質管理；稽核作業",
-    "example": "The supplier prepared agendaance in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved agendaance for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "agendaancy",
     "pos": "n.",
-    "level": 1,
+    "level": 2,
     "category": "Business",
-    "topic": "Office",
-    "meaning": "行政管理；作業執行",
-    "example": "The finance staff arranged agendaancy in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored agendaancy throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "agendaant",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "會議安排；溝通協調",
-    "example": "The hr officer planned agendaant in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "HR documented agendaant before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "agendaation",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Meeting",
-    "meaning": "客戶服務；客訴處理",
-    "example": "The warehouse clerk updated agendaation in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed agendaation to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "agendaator",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "CustomerService",
-    "meaning": "採購管理；供應商協作",
-    "example": "The project leader confirmed agendaator in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the agendaator before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "agendaboard",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Logistics",
-    "meaning": "財務管理；帳務控管",
-    "example": "The sales director documented agendaboard in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the agendaboard after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "agendabridge",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Purchasing",
-    "meaning": "報表管理；數據追蹤",
-    "example": "The manager reviewed agendabridge in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The company discussed agendabridge during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "agendacare",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "人資招募；教育訓練",
-    "example": "The team submitted agendacare in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "We finalized the agendacare to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "agendachart",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Contracts",
-    "meaning": "預算管理；成本控管",
-    "example": "The client checked agendachart in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved agendachart for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "agendacheck",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Schedules",
-    "meaning": "品質管理；稽核作業",
-    "example": "The vendor revised agendacheck in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored agendacheck throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "agendacraft",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Hiring",
-    "meaning": "會議安排；溝通協調",
-    "example": "The supplier prepared agendacraft in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "HR documented agendacraft before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "agendacycle",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Training",
-    "meaning": "客戶服務；客訴處理",
-    "example": "The finance staff arranged agendacycle in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed agendacycle to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "agendadrive",
-    "pos": "n.",
-    "level": 2,
+    "pos": "adj.",
+    "level": 3,
     "category": "Business",
-    "topic": "Travel",
-    "meaning": "採購管理；供應商協作",
-    "example": "The hr officer planned agendadrive in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the agendadrive before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "agendaedge",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Marketing",
-    "meaning": "財務管理；帳務控管",
-    "example": "The warehouse clerk updated agendaedge in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the agendaedge after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "agendaency",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Manufacturing",
-    "meaning": "合約管理；法務作業",
-    "example": "The project leader confirmed agendaency in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The company discussed agendaency during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "agendaengine",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Communication",
-    "meaning": "報表管理；數據追蹤",
-    "example": "The sales director documented agendaengine in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "We finalized the agendaengine to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "agendafield",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Facilities",
-    "meaning": "人資招募；教育訓練",
-    "example": "The manager reviewed agendafield in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved agendafield for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "agendaflow",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
-    "topic": "Coordination",
-    "meaning": "專案管理；營運協調",
-    "example": "The team submitted agendaflow in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored agendaflow throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "agendaforce",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Project",
-    "meaning": "預算管理；成本控管",
-    "example": "The client checked agendaforce in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "HR documented agendaforce before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "agendaform",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Operations",
-    "meaning": "品質管理；稽核作業",
-    "example": "The vendor revised agendaform in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed agendaform to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "agendaframe",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Office",
-    "meaning": "行政管理；作業執行",
-    "example": "The supplier prepared agendaframe in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the agendaframe before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "agendagate",
-    "pos": "n.",
+    "pos": "v.",
     "level": 2,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "會議安排；溝通協調",
-    "example": "The finance staff arranged agendagate in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the agendagate after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "agendagrid",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Meeting",
-    "meaning": "客戶服務；客訴處理",
-    "example": "The hr officer planned agendagrid in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The company discussed agendagrid during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "agendaguide",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
-    "topic": "Email",
-    "meaning": "物流管理；出貨作業",
-    "example": "The warehouse clerk updated agendaguide in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "We finalized the agendaguide to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "agendahouse",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "CustomerService",
-    "meaning": "採購管理；供應商協作",
-    "example": "The project leader confirmed agendahouse in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved agendahouse for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "agendahub",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Logistics",
-    "meaning": "財務管理；帳務控管",
-    "example": "The sales director documented agendahub in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored agendahub throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "agendaindex",
     "pos": "n.",
-    "level": 1,
+    "level": 2,
     "category": "Business",
-    "topic": "Shipping",
-    "meaning": "合約管理；法務作業",
-    "example": "The manager reviewed agendaindex in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "HR documented agendaindex before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "agendaing",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Purchasing",
-    "meaning": "報表管理；數據追蹤",
-    "example": "The team submitted agendaing in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed agendaing to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "agendainsight",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "人資招募；教育訓練",
-    "example": "The client checked agendainsight in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the agendainsight before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "agendaitem",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Meeting",
-    "meaning": "議程主題",
-    "example": "The vendor revised agendaitem in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the agendaitem after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "agendakeeper",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Accounting",
-    "meaning": "專案管理；營運協調",
-    "example": "The supplier prepared agendakeeper in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The company discussed agendakeeper during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "agendaline",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Schedules",
-    "meaning": "品質管理；稽核作業",
-    "example": "The finance staff arranged agendaline in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "We finalized the agendaline to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "agendalist",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Hiring",
-    "meaning": "會議安排；溝通協調",
-    "example": "The hr officer planned agendalist in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved agendalist for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "agendamaker",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Travel",
-    "meaning": "採購管理；供應商協作",
-    "example": "The warehouse clerk updated agendamaker in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored agendamaker throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "agendamanage",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Marketing",
-    "meaning": "財務管理；帳務控管",
-    "example": "The project leader confirmed agendamanage in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "HR documented agendamanage before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "agendametric",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Communication",
-    "meaning": "報表管理；數據追蹤",
-    "example": "The sales director documented agendametric in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed agendametric to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "agendamode",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Facilities",
-    "meaning": "人資招募；教育訓練",
-    "example": "The manager reviewed agendamode in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the agendamode before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "agendamonitor",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Project",
-    "meaning": "預算管理；成本控管",
-    "example": "The team submitted agendamonitor in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the agendamonitor after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "agendanet",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Operations",
-    "meaning": "品質管理；稽核作業",
-    "example": "The client checked agendanet in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The company discussed agendanet during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "agendanode",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Office",
-    "meaning": "行政管理；作業執行",
-    "example": "The vendor revised agendanode in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "We finalized the agendanode to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "agendaoption",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "會議安排；溝通協調",
-    "example": "The supplier prepared agendaoption in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved agendaoption for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "agendapath",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Meeting",
-    "meaning": "客戶服務；客訴處理",
-    "example": "The finance staff arranged agendapath in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored agendapath throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "agendaphase",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
-    "topic": "Email",
-    "meaning": "物流管理；出貨作業",
-    "example": "The hr officer planned agendaphase in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "HR documented agendaphase before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "agendaplan",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "CustomerService",
-    "meaning": "採購管理；供應商協作",
-    "example": "The warehouse clerk updated agendaplan in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed agendaplan to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "agendapoint",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Logistics",
-    "meaning": "財務管理；帳務控管",
-    "example": "The project leader confirmed agendapoint in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the agendapoint before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "agendaport",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Shipping",
-    "meaning": "合約管理；法務作業",
-    "example": "The sales director documented agendaport in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the agendaport after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "agendapress",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Purchasing",
-    "meaning": "報表管理；數據追蹤",
-    "example": "The manager reviewed agendapress in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The company discussed agendapress during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "agendaproof",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "人資招募；教育訓練",
-    "example": "The team submitted agendaproof in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "We finalized the agendaproof to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "agendapulse",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
-    "topic": "Accounting",
-    "meaning": "專案管理；營運協調",
-    "example": "The client checked agendapulse in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved agendapulse for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "agendaqueue",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Contracts",
-    "meaning": "預算管理；成本控管",
-    "example": "The vendor revised agendaqueue in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored agendaqueue throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "agendarate",
-    "pos": "n.",
-    "level": 3,
+    "pos": "v.",
+    "level": 1,
     "category": "Business",
-    "topic": "Schedules",
-    "meaning": "品質管理；稽核作業",
-    "example": "The supplier prepared agendarate in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "HR documented agendarate before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "agendarecord",
     "pos": "n.",
-    "level": 1,
+    "level": 2,
     "category": "Business",
-    "topic": "Reports",
-    "meaning": "行政管理；作業執行",
-    "example": "The finance staff arranged agendarecord in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed agendarecord to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "agendascope",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Hiring",
-    "meaning": "會議安排；溝通協調",
-    "example": "The hr officer planned agendascope in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the agendascope before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "agendasense",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Training",
-    "meaning": "客戶服務；客訴處理",
-    "example": "The warehouse clerk updated agendasense in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the agendasense after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "agendashift",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Travel",
-    "meaning": "採購管理；供應商協作",
-    "example": "The project leader confirmed agendashift in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The company discussed agendashift during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "agendasignal",
-    "pos": "n.",
-    "level": 3,
+    "pos": "adj.",
+    "level": 1,
     "category": "Business",
-    "topic": "Marketing",
-    "meaning": "財務管理；帳務控管",
-    "example": "The sales director documented agendasignal in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "We finalized the agendasignal to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "agendaskill",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Communication",
-    "meaning": "報表管理；數據追蹤",
-    "example": "The manager reviewed agendaskill in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved agendaskill for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "agendasource",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Facilities",
-    "meaning": "人資招募；教育訓練",
-    "example": "The team submitted agendasource in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored agendasource throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "agendastack",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Project",
-    "meaning": "預算管理；成本控管",
-    "example": "The client checked agendastack in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "HR documented agendastack before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "agendastage",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Operations",
-    "meaning": "品質管理；稽核作業",
-    "example": "The vendor revised agendastage in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed agendastage to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "agendastream",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "會議安排；溝通協調",
-    "example": "The supplier prepared agendastream in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the agendastream before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "agendasupport",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Meeting",
-    "meaning": "客戶服務；客訴處理",
-    "example": "The finance staff arranged agendasupport in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the agendasupport after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "agendasystem",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "CustomerService",
-    "meaning": "採購管理；供應商協作",
-    "example": "The hr officer planned agendasystem in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The company discussed agendasystem during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "agendatable",
-    "pos": "n.",
-    "level": 3,
+    "pos": "adj.",
+    "level": 4,
     "category": "Business",
-    "topic": "Logistics",
-    "meaning": "財務管理；帳務控管",
-    "example": "The warehouse clerk updated agendatable in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "We finalized the agendatable to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "agendatech",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Shipping",
-    "meaning": "合約管理；法務作業",
-    "example": "The project leader confirmed agendatech in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved agendatech for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "agendatrack",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Purchasing",
-    "meaning": "報表管理；數據追蹤",
-    "example": "The sales director documented agendatrack in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored agendatrack throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "agendatrend",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
     "topic": "Finance",
-    "meaning": "人資招募；教育訓練",
-    "example": "The manager reviewed agendatrend in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "商務常用詞",
+    "example": "HR documented agendatrend before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "agendaunit",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
-    "topic": "Accounting",
-    "meaning": "專案管理；營運協調",
-    "example": "The team submitted agendaunit in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed agendaunit to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "agendavalue",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Contracts",
-    "meaning": "預算管理；成本控管",
-    "example": "The client checked agendavalue in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the agendavalue before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "agendaview",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Schedules",
-    "meaning": "品質管理；稽核作業",
-    "example": "The vendor revised agendaview in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the agendaview after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "agendavision",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Reports",
-    "meaning": "行政管理；作業執行",
-    "example": "The supplier prepared agendavision in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The company discussed agendavision during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "agendaware",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Hiring",
-    "meaning": "會議安排；溝通協調",
-    "example": "The finance staff arranged agendaware in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "We finalized the agendaware to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "agendawatch",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Training",
-    "meaning": "客戶服務；客訴處理",
-    "example": "The hr officer planned agendawatch in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved agendawatch for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "agendawave",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
-    "topic": "Administration",
-    "meaning": "物流管理；出貨作業",
-    "example": "The warehouse clerk updated agendawave in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored agendawave throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "agendawork",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Travel",
-    "meaning": "採購管理；供應商協作",
-    "example": "The project leader confirmed agendawork in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "HR documented agendawork before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "agendazone",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Marketing",
-    "meaning": "財務管理；帳務控管",
-    "example": "The sales director documented agendazone in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed agendazone to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "aggregaterate",
-    "pos": "n.",
+    "pos": "v.",
     "level": 2,
     "category": "Business",
-    "topic": "Reporting",
-    "meaning": "彙總比率",
-    "example": "The manager reviewed aggregaterate in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the aggregaterate before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "aggregator",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "IT",
-    "meaning": "整合平台",
-    "example": "The team submitted aggregator in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the aggregator after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "agreementterm",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Contracts",
-    "meaning": "合約條件",
-    "example": "The client checked agreementterm in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The company discussed agreementterm during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "airfreight",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Logistics",
-    "meaning": "空運",
-    "example": "The vendor revised airfreight in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "We finalized the airfreight to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "airwaybill",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Logistics",
-    "meaning": "空運提單",
-    "example": "The supplier prepared airwaybill in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved airwaybill for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "alert",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Security",
-    "meaning": "警示",
-    "example": "The finance staff arranged alert in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored alert throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "alertness",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Security",
-    "meaning": "警覺性",
-    "example": "The hr officer planned alertness in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "HR documented alertness before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "alignmentplan",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Project",
-    "meaning": "對齊方案",
-    "example": "The warehouse clerk updated alignmentplan in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed alignmentplan to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "allocation",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "分配",
-    "example": "The project leader confirmed allocation in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the allocation before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "allowance",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "津貼",
-    "example": "The sales director documented allowance in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the allowance after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "allowancerate",
-    "pos": "n.",
-    "level": 1,
+    "pos": "v.",
+    "level": 2,
     "category": "Business",
-    "topic": "HR",
-    "meaning": "補助比率",
-    "example": "The manager reviewed allowancerate in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The company discussed allowancerate during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "amortization",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
     "topic": "Finance",
-    "meaning": "攤銷",
-    "example": "The team submitted amortization in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "商務常用詞",
+    "example": "We finalized the amortization to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "analysis",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "分析",
-    "example": "The client checked analysis in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved analysis for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "analysisreport",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Reporting",
-    "meaning": "分析報告",
-    "example": "The vendor revised analysisreport in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored analysisreport throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "analyst",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "分析師",
-    "example": "The supplier prepared analyst in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "HR documented analyst before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "analytics",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Reporting",
-    "meaning": "數據分析",
-    "example": "The finance staff arranged analytics in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed analytics to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "announcementmail",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
-    "topic": "Communication",
-    "meaning": "公告郵件",
-    "example": "The hr officer planned announcementmail in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the announcementmail before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "annuity",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "年金",
-    "example": "The warehouse clerk updated annuity in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the annuity after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "anomaly",
-    "pos": "n.",
-    "level": 2,
+    "pos": "adv.",
+    "level": 5,
     "category": "Business",
-    "topic": "Reporting",
-    "meaning": "異常值",
-    "example": "The project leader confirmed anomaly in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The company discussed anomaly during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "applicant",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "應徵者",
-    "example": "The sales director documented applicant in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "We finalized the applicant to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "application",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "申請；應用",
-    "example": "The manager reviewed application in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved application for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "appointee",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "HR",
-    "meaning": "受任命者",
-    "example": "The team submitted appointee in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored appointee throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "appraisal",
-    "pos": "n.",
-    "level": 2,
+    "pos": "adj.",
+    "level": 4,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "評估",
-    "example": "The client checked appraisal in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "HR documented appraisal before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "approval",
-    "pos": "n.",
-    "level": 3,
+    "pos": "adj.",
+    "level": 5,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "核准",
-    "example": "The vendor revised approval in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed approval to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "approvalflow",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Administration",
-    "meaning": "核准流程",
-    "example": "The supplier prepared approvalflow in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the approvalflow before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "arbitration",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Contracts",
-    "meaning": "仲裁",
-    "example": "The finance staff arranged arbitration in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the arbitration after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "arbitrator",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Contracts",
-    "meaning": "仲裁人",
-    "example": "The hr officer planned arbitrator in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The company discussed arbitrator during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "archive",
-    "pos": "n.",
-    "level": 1,
+    "pos": "adj.",
+    "level": 4,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "檔案庫",
-    "example": "The warehouse clerk updated archive in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "We finalized the archive to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "arrears",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "欠款",
-    "example": "The project leader confirmed arrears in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved arrears for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "arrival",
-    "pos": "n.",
-    "level": 3,
+    "pos": "adj.",
+    "level": 1,
     "category": "Business",
-    "topic": "Travel",
-    "meaning": "到達時間",
-    "example": "The sales director documented arrival in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored arrival throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "assembler",
     "pos": "n.",
-    "level": 1,
+    "level": 2,
     "category": "Business",
-    "topic": "Manufacturing",
-    "meaning": "裝配員",
-    "example": "The manager reviewed assembler in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "HR documented assembler before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "asset",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "資產",
-    "example": "The team submitted asset in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed asset to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "assistance",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "協助",
-    "example": "The client checked assistance in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the assistance before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "assistant",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "助理",
-    "example": "The vendor revised assistant in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the assistant after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "assurance",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "保證",
-    "example": "The supplier prepared assurance in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The company discussed assurance during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "attendance",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "HR",
-    "meaning": "出席",
-    "example": "The finance staff arranged attendance in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "We finalized the attendance to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "attendee",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "與會者",
-    "example": "The hr officer planned attendee in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved attendee for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "attestation",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Contracts",
-    "meaning": "證明文件",
-    "example": "The warehouse clerk updated attestation in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored attestation throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "attitude",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "態度",
-    "example": "The project leader confirmed attitude in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "HR documented attitude before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "audit",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "稽核",
-    "example": "The sales director documented audit in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed audit to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "auditability",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Communication",
-    "meaning": "報表管理；數據追蹤",
-    "example": "The manager reviewed auditability in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the auditability before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "auditable",
-    "pos": "n.",
-    "level": 1,
+    "pos": "adj.",
+    "level": 3,
     "category": "Business",
-    "topic": "Manufacturing",
-    "meaning": "合約管理；法務作業",
-    "example": "The team submitted auditable in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the auditable after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "auditance",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Facilities",
-    "meaning": "人資招募；教育訓練",
-    "example": "The client checked auditance in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The company discussed auditance during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "auditancy",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Coordination",
-    "meaning": "專案管理；營運協調",
-    "example": "The vendor revised auditancy in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "We finalized the auditancy to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "auditant",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Project",
-    "meaning": "預算管理；成本控管",
-    "example": "The supplier prepared auditant in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved auditant for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "auditation",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Operations",
-    "meaning": "品質管理；稽核作業",
-    "example": "The finance staff arranged auditation in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored auditation throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "auditative",
-    "pos": "n.",
-    "level": 1,
+    "pos": "adj.",
+    "level": 3,
     "category": "Business",
-    "topic": "Office",
-    "meaning": "行政管理；作業執行",
-    "example": "The hr officer planned auditative in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "HR documented auditative before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "auditator",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "會議安排；溝通協調",
-    "example": "The warehouse clerk updated auditator in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed auditator to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "auditboard",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Meeting",
-    "meaning": "客戶服務；客訴處理",
-    "example": "The project leader confirmed auditboard in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the auditboard before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "auditbridge",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "CustomerService",
-    "meaning": "採購管理；供應商協作",
-    "example": "The sales director documented auditbridge in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the auditbridge after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "auditcare",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Logistics",
-    "meaning": "財務管理；帳務控管",
-    "example": "The manager reviewed auditcare in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The company discussed auditcare during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "auditchart",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Purchasing",
-    "meaning": "報表管理；數據追蹤",
-    "example": "The team submitted auditchart in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "We finalized the auditchart to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "auditcheck",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "人資招募；教育訓練",
-    "example": "The client checked auditcheck in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved auditcheck for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "auditcraft",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Contracts",
-    "meaning": "預算管理；成本控管",
-    "example": "The vendor revised auditcraft in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored auditcraft throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "auditcycle",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Schedules",
-    "meaning": "品質管理；稽核作業",
-    "example": "The supplier prepared auditcycle in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "HR documented auditcycle before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "auditdrive",
-    "pos": "n.",
+    "pos": "adj.",
     "level": 2,
     "category": "Business",
-    "topic": "Hiring",
-    "meaning": "會議安排；溝通協調",
-    "example": "The finance staff arranged auditdrive in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed auditdrive to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "auditedge",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Training",
-    "meaning": "客戶服務；客訴處理",
-    "example": "The hr officer planned auditedge in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the auditedge before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "auditency",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
-    "topic": "Administration",
-    "meaning": "物流管理；出貨作業",
-    "example": "The warehouse clerk updated auditency in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the auditency after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "auditengine",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Travel",
-    "meaning": "採購管理；供應商協作",
-    "example": "The project leader confirmed auditengine in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The company discussed auditengine during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "auditfield",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Marketing",
-    "meaning": "財務管理；帳務控管",
-    "example": "The sales director documented auditfield in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "We finalized the auditfield to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "auditflow",
     "pos": "n.",
-    "level": 1,
+    "level": 2,
     "category": "Business",
-    "topic": "Manufacturing",
-    "meaning": "合約管理；法務作業",
-    "example": "The manager reviewed auditflow in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved auditflow for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "auditforce",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Communication",
-    "meaning": "報表管理；數據追蹤",
-    "example": "The team submitted auditforce in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored auditforce throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "auditform",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Facilities",
-    "meaning": "人資招募；教育訓練",
-    "example": "The client checked auditform in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "HR documented auditform before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "auditframe",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Coordination",
-    "meaning": "專案管理；營運協調",
-    "example": "The vendor revised auditframe in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed auditframe to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "auditgate",
-    "pos": "n.",
-    "level": 2,
+    "pos": "v.",
+    "level": 1,
     "category": "Business",
-    "topic": "Project",
-    "meaning": "預算管理；成本控管",
-    "example": "The supplier prepared auditgate in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the auditgate before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "auditgrid",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Operations",
-    "meaning": "品質管理；稽核作業",
-    "example": "The finance staff arranged auditgrid in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the auditgrid after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "auditguide",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
     "topic": "Office",
-    "meaning": "行政管理；作業執行",
-    "example": "The hr officer planned auditguide in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "商務常用詞",
+    "example": "The company discussed auditguide during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "audithouse",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "會議安排；溝通協調",
-    "example": "The warehouse clerk updated audithouse in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "We finalized the audithouse to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "audithub",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Meeting",
-    "meaning": "客戶服務；客訴處理",
-    "example": "The project leader confirmed audithub in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved audithub for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "auditindex",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Email",
-    "meaning": "物流管理；出貨作業",
-    "example": "The sales director documented auditindex in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored auditindex throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "auditing",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "CustomerService",
-    "meaning": "採購管理；供應商協作",
-    "example": "The manager reviewed auditing in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "HR documented auditing before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "auditinsight",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Logistics",
-    "meaning": "財務管理；帳務控管",
-    "example": "The team submitted auditinsight in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed auditinsight to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "auditkeeper",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
-    "topic": "Shipping",
-    "meaning": "合約管理；法務作業",
-    "example": "The client checked auditkeeper in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the auditkeeper before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "auditline",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "人資招募；教育訓練",
-    "example": "The vendor revised auditline in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the auditline after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "auditlist",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Contracts",
-    "meaning": "預算管理；成本控管",
-    "example": "The supplier prepared auditlist in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The company discussed auditlist during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "auditlog",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "稽核紀錄",
-    "example": "The finance staff arranged auditlog in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "We finalized the auditlog to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "auditmaker",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Hiring",
-    "meaning": "會議安排；溝通協調",
-    "example": "The hr officer planned auditmaker in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved auditmaker for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "auditmanage",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Training",
-    "meaning": "客戶服務；客訴處理",
-    "example": "The warehouse clerk updated auditmanage in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored auditmanage throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "auditmetric",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Travel",
-    "meaning": "採購管理；供應商協作",
-    "example": "The project leader confirmed auditmetric in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "HR documented auditmetric before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "auditmode",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Marketing",
-    "meaning": "財務管理；帳務控管",
-    "example": "The sales director documented auditmode in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed auditmode to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "auditmonitor",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Communication",
-    "meaning": "報表管理；數據追蹤",
-    "example": "The manager reviewed auditmonitor in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the auditmonitor before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "auditnet",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Facilities",
-    "meaning": "人資招募；教育訓練",
-    "example": "The team submitted auditnet in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the auditnet after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "auditnode",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
-    "topic": "Coordination",
-    "meaning": "專案管理；營運協調",
-    "example": "The client checked auditnode in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The company discussed auditnode during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "auditoption",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Project",
-    "meaning": "預算管理；成本控管",
-    "example": "The vendor revised auditoption in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "We finalized the auditoption to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "auditor",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "稽核員",
-    "example": "The supplier prepared auditor in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved auditor for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "auditpath",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Operations",
-    "meaning": "品質管理；稽核作業",
-    "example": "The finance staff arranged auditpath in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored auditpath throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "auditphase",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
-    "topic": "Office",
-    "meaning": "行政管理；作業執行",
-    "example": "The hr officer planned auditphase in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "HR documented auditphase before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "auditplan",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "會議安排；溝通協調",
-    "example": "The warehouse clerk updated auditplan in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed auditplan to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "auditpoint",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Meeting",
-    "meaning": "客戶服務；客訴處理",
-    "example": "The project leader confirmed auditpoint in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the auditpoint before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "auditport",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Email",
-    "meaning": "物流管理；出貨作業",
-    "example": "The sales director documented auditport in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the auditport after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "auditpress",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "CustomerService",
-    "meaning": "採購管理；供應商協作",
-    "example": "The manager reviewed auditpress in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The company discussed auditpress during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "auditproof",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Logistics",
-    "meaning": "財務管理；帳務控管",
-    "example": "The team submitted auditproof in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "We finalized the auditproof to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "auditpulse",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
-    "topic": "Shipping",
-    "meaning": "合約管理；法務作業",
-    "example": "The client checked auditpulse in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved auditpulse for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "auditqueue",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Purchasing",
-    "meaning": "報表管理；數據追蹤",
-    "example": "The vendor revised auditqueue in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored auditqueue throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "auditrate",
-    "pos": "n.",
-    "level": 3,
+    "pos": "v.",
+    "level": 1,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "人資招募；教育訓練",
-    "example": "The supplier prepared auditrate in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "HR documented auditrate before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "auditrecord",
     "pos": "n.",
-    "level": 1,
+    "level": 2,
     "category": "Business",
-    "topic": "Accounting",
-    "meaning": "專案管理；營運協調",
-    "example": "The finance staff arranged auditrecord in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed auditrecord to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "auditscope",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Contracts",
-    "meaning": "預算管理；成本控管",
-    "example": "The hr officer planned auditscope in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the auditscope before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "auditsense",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Schedules",
-    "meaning": "品質管理；稽核作業",
-    "example": "The warehouse clerk updated auditsense in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the auditsense after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "auditshift",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Hiring",
-    "meaning": "會議安排；溝通協調",
-    "example": "The project leader confirmed auditshift in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The company discussed auditshift during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "auditsignal",
-    "pos": "n.",
-    "level": 3,
+    "pos": "adj.",
+    "level": 1,
     "category": "Business",
-    "topic": "Training",
-    "meaning": "客戶服務；客訴處理",
-    "example": "The sales director documented auditsignal in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "We finalized the auditsignal to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "auditskill",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Travel",
-    "meaning": "採購管理；供應商協作",
-    "example": "The manager reviewed auditskill in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved auditskill for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "auditsource",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Marketing",
-    "meaning": "財務管理；帳務控管",
-    "example": "The team submitted auditsource in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored auditsource throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "auditstack",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Communication",
-    "meaning": "報表管理；數據追蹤",
-    "example": "The client checked auditstack in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "HR documented auditstack before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "auditstage",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Facilities",
-    "meaning": "人資招募；教育訓練",
-    "example": "The vendor revised auditstage in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed auditstage to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "auditstream",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Project",
-    "meaning": "預算管理；成本控管",
-    "example": "The supplier prepared auditstream in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the auditstream before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "auditsupport",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Operations",
-    "meaning": "品質管理；稽核作業",
-    "example": "The finance staff arranged auditsupport in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the auditsupport after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "auditsystem",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "會議安排；溝通協調",
-    "example": "The hr officer planned auditsystem in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The company discussed auditsystem during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "audittable",
-    "pos": "n.",
-    "level": 3,
+    "pos": "adj.",
+    "level": 4,
     "category": "Business",
-    "topic": "Meeting",
-    "meaning": "客戶服務；客訴處理",
-    "example": "The warehouse clerk updated audittable in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "We finalized the audittable to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "audittech",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Email",
-    "meaning": "物流管理；出貨作業",
-    "example": "The project leader confirmed audittech in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved audittech for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "audittrack",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "CustomerService",
-    "meaning": "採購管理；供應商協作",
-    "example": "The sales director documented audittrack in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored audittrack throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "audittrail",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "稽核軌跡",
-    "example": "The manager reviewed audittrail in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "HR documented audittrail before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "audittrend",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Logistics",
-    "meaning": "財務管理；帳務控管",
-    "example": "The team submitted audittrend in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed audittrend to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "auditunit",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
-    "topic": "Shipping",
-    "meaning": "合約管理；法務作業",
-    "example": "The client checked auditunit in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the auditunit before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "auditvalue",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Purchasing",
-    "meaning": "報表管理；數據追蹤",
-    "example": "The vendor revised auditvalue in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the auditvalue after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "auditview",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "人資招募；教育訓練",
-    "example": "The supplier prepared auditview in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The company discussed auditview during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "auditvision",
     "pos": "n.",
-    "level": 1,
+    "level": 2,
     "category": "Business",
-    "topic": "Accounting",
-    "meaning": "專案管理；營運協調",
-    "example": "The finance staff arranged auditvision in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "We finalized the auditvision to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "auditware",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Contracts",
-    "meaning": "預算管理；成本控管",
-    "example": "The hr officer planned auditware in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved auditware for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "auditwatch",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Schedules",
-    "meaning": "品質管理；稽核作業",
-    "example": "The warehouse clerk updated auditwatch in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored auditwatch throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "auditwave",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Reports",
-    "meaning": "行政管理；作業執行",
-    "example": "The project leader confirmed auditwave in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "HR documented auditwave before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "auditwork",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Hiring",
-    "meaning": "會議安排；溝通協調",
-    "example": "The sales director documented auditwork in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed auditwork to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "auditzone",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Training",
-    "meaning": "客戶服務；客訴處理",
-    "example": "The manager reviewed auditzone in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the auditzone before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "authentication",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "驗證",
-    "example": "The team submitted authentication in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the authentication after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "authenticator",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Security",
-    "meaning": "驗證工具",
-    "example": "The client checked authenticator in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The company discussed authenticator during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "authority",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Legal",
-    "meaning": "權限；權威",
-    "example": "The vendor revised authority in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "We finalized the authority to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "authorization",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Contracts",
-    "meaning": "授權",
-    "example": "The supplier prepared authorization in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved authorization for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "automation",
     "pos": "n.",
-    "level": 1,
+    "level": 2,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "自動化",
-    "example": "The finance staff arranged automation in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored automation throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "automationplan",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Operations",
-    "meaning": "自動化計畫",
-    "example": "The hr officer planned automationplan in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "HR documented automationplan before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "autopay",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "自動扣款",
-    "example": "The warehouse clerk updated autopay in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed autopay to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "availability",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "可用性",
-    "example": "The project leader confirmed availability in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the availability before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "availabilitycheck",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Operations",
-    "meaning": "可用性檢查",
-    "example": "The sales director documented availabilitycheck in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the availabilitycheck after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "availabilityrate",
-    "pos": "n.",
-    "level": 1,
+    "pos": "v.",
+    "level": 2,
     "category": "Business",
-    "topic": "Operations",
-    "meaning": "可用率",
-    "example": "The manager reviewed availabilityrate in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The company discussed availabilityrate during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "average",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "平均值",
-    "example": "The team submitted average in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "We finalized the average to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "award",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "HR",
-    "meaning": "獎項",
-    "example": "The client checked award in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved award for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "backlog",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Operations",
-    "meaning": "待辦積壓",
-    "example": "The vendor revised backlog in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored backlog throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "backoffice",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Office",
-    "meaning": "後勤部門",
-    "example": "The supplier prepared backoffice in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "HR documented backoffice before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "backorder",
@@ -2855,89 +2715,89 @@ window.WORDS = [
     "level": 2,
     "category": "Business",
     "topic": "Logistics",
-    "meaning": "延後交貨訂單",
-    "example": "The finance staff arranged backorder in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed backorder to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "backordercase",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Logistics",
-    "meaning": "延遲訂單案件",
-    "example": "The hr officer planned backordercase in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the backordercase before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "backup",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "IT",
-    "meaning": "備份",
-    "example": "The warehouse clerk updated backup in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the backup after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "backuplog",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "IT",
-    "meaning": "備援紀錄",
-    "example": "The project leader confirmed backuplog in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The company discussed backuplog during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "balance",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "餘額；平衡",
-    "example": "The sales director documented balance in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "We finalized the balance to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "balancer",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Operations",
-    "meaning": "平衡機制",
-    "example": "The manager reviewed balancer in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved balancer for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "balancing",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "平衡調整",
-    "example": "The team submitted balancing in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored balancing throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "banker",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "銀行家",
-    "example": "The client checked banker in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "HR documented banker before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "banking",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "銀行業務",
-    "example": "The vendor revised banking in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed banking to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "bankruptcy",
@@ -2945,319 +2805,319 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Finance",
-    "meaning": "破產",
-    "example": "The supplier prepared bankruptcy in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the bankruptcy before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "basefare",
     "pos": "n.",
-    "level": 1,
+    "level": 2,
     "category": "Business",
-    "topic": "Travel",
-    "meaning": "基本票價",
-    "example": "The finance staff arranged basefare in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the basefare after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "baseline",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
-    "topic": "Project",
-    "meaning": "基準線",
-    "example": "The hr officer planned baseline in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The company discussed baseline during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "batch",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Manufacturing",
-    "meaning": "批次",
-    "example": "The warehouse clerk updated batch in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "We finalized the batch to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "benchmark",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "基準",
-    "example": "The project leader confirmed benchmark in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved benchmark for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "benchmarking",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Reporting",
-    "meaning": "標竿比較",
-    "example": "The sales director documented benchmarking in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored benchmarking throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "benchmarkrate",
-    "pos": "n.",
-    "level": 3,
+    "pos": "v.",
+    "level": 2,
     "category": "Business",
-    "topic": "Reporting",
-    "meaning": "基準比率",
-    "example": "The manager reviewed benchmarkrate in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "HR documented benchmarkrate before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "beneficiary",
-    "pos": "n.",
+    "pos": "adj.",
     "level": 3,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "受益人",
-    "example": "The team submitted beneficiary in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed beneficiary to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "benefit",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
-    "topic": "HR",
-    "meaning": "員工福利；益處",
-    "example": "The client checked benefit in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the benefit before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "bid",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "投標",
-    "example": "The vendor revised bid in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the bid after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "bidbond",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Purchasing",
-    "meaning": "投標保證金",
-    "example": "The supplier prepared bidbond in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The company discussed bidbond during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "bidder",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Purchasing",
-    "meaning": "投標者",
-    "example": "The finance staff arranged bidder in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "We finalized the bidder to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "bidderlist",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
-    "topic": "Purchasing",
-    "meaning": "投標名單",
-    "example": "The hr officer planned bidderlist in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved bidderlist for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "billing",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "帳務作業",
-    "example": "The warehouse clerk updated billing in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored billing throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "billingcycle",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
     "topic": "Finance",
-    "meaning": "帳單週期",
-    "example": "The project leader confirmed billingcycle in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "商務常用詞",
+    "example": "HR documented billingcycle before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "biosafety",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Quality",
-    "meaning": "生物安全",
-    "example": "The sales director documented biosafety in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed biosafety to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "blackout",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Operations",
-    "meaning": "停電中斷",
-    "example": "The manager reviewed blackout in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the blackout before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "blockchain",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "IT",
-    "meaning": "區塊鏈",
-    "example": "The team submitted blockchain in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the blockchain after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "blueprint",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
-    "topic": "Project",
-    "meaning": "藍圖",
-    "example": "The client checked blueprint in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The company discussed blueprint during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "boarder",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Travel",
-    "meaning": "住宿者",
-    "example": "The vendor revised boarder in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "We finalized the boarder to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "boardmeeting",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Meeting",
-    "meaning": "董事會議",
-    "example": "The supplier prepared boardmeeting in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved boardmeeting for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "boardmember",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Administration",
-    "meaning": "董事會成員",
-    "example": "The finance staff arranged boardmember in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored boardmember throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "boardroom",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Meeting",
-    "meaning": "董事會會議室",
-    "example": "The hr officer planned boardroom in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "HR documented boardroom before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "bond",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "債券",
-    "example": "The warehouse clerk updated bond in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed bond to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "bondholder",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "債券持有人",
-    "example": "The project leader confirmed bondholder in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the bondholder before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "bonus",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "獎金",
-    "example": "The sales director documented bonus in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the bonus after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "booker",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Travel",
-    "meaning": "訂位人員",
-    "example": "The manager reviewed booker in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The company discussed booker during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "bookerid",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Travel",
-    "meaning": "訂位編號",
-    "example": "The team submitted bookerid in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "We finalized the bookerid to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "bookkeeping",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "簿記",
-    "example": "The client checked bookkeeping in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved bookkeeping for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "booklet",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Training",
-    "meaning": "手冊",
-    "example": "The vendor revised booklet in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored booklet throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "bottleneck",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Operations",
-    "meaning": "瓶頸",
-    "example": "The supplier prepared bottleneck in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "HR documented bottleneck before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "branch",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Administration",
-    "meaning": "分公司",
-    "example": "The finance staff arranged branch in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed branch to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "brand",
@@ -3265,449 +3125,449 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Marketing",
-    "meaning": "品牌",
-    "example": "The hr officer planned brand in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the brand before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "branding",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
-    "topic": "Marketing",
-    "meaning": "品牌經營；品牌識別",
-    "example": "The warehouse clerk updated branding in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the branding after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "breakpoint",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "IT",
-    "meaning": "臨界點",
-    "example": "The project leader confirmed breakpoint in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The company discussed breakpoint during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "breakpointplan",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Project",
-    "meaning": "臨界應變方案",
-    "example": "The sales director documented breakpointplan in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "We finalized the breakpointplan to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "brief",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Meeting",
-    "meaning": "簡報摘要",
-    "example": "The manager reviewed brief in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved brief for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "briefcase",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Office",
-    "meaning": "公事包",
-    "example": "The team submitted briefcase in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored briefcase throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "briefing",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
-    "topic": "Meeting",
-    "meaning": "簡報說明",
-    "example": "The client checked briefing in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "HR documented briefing before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "broadcast",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Communication",
-    "meaning": "公告發布",
-    "example": "The vendor revised broadcast in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed broadcast to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "broadcastmail",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Communication",
-    "meaning": "群發郵件",
-    "example": "The supplier prepared broadcastmail in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the broadcastmail before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "brokerage",
     "pos": "n.",
-    "level": 1,
+    "level": 2,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "經紀業務",
-    "example": "The finance staff arranged brokerage in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the brokerage after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "budget",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
     "topic": "Finance",
-    "meaning": "預算",
-    "example": "The hr officer planned budget in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "商務常用詞",
+    "example": "The company discussed budget during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "budgetability",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Travel",
-    "meaning": "採購管理；供應商協作",
-    "example": "The warehouse clerk updated budgetability in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "We finalized the budgetability to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "budgetable",
-    "pos": "n.",
-    "level": 1,
+    "pos": "adj.",
+    "level": 5,
     "category": "Business",
-    "topic": "Administration",
-    "meaning": "物流管理；出貨作業",
-    "example": "The project leader confirmed budgetable in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved budgetable for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "budgetance",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Marketing",
-    "meaning": "財務管理；帳務控管",
-    "example": "The sales director documented budgetance in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored budgetance throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "budgetancy",
     "pos": "n.",
-    "level": 1,
+    "level": 2,
     "category": "Business",
-    "topic": "Manufacturing",
-    "meaning": "合約管理；法務作業",
-    "example": "The manager reviewed budgetancy in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "HR documented budgetancy before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "budgetant",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Communication",
-    "meaning": "報表管理；數據追蹤",
-    "example": "The team submitted budgetant in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed budgetant to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "budgetation",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Facilities",
-    "meaning": "人資招募；教育訓練",
-    "example": "The client checked budgetation in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the budgetation before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "budgetator",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Project",
-    "meaning": "預算管理；成本控管",
-    "example": "The vendor revised budgetator in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the budgetator after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "budgetboard",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
     "topic": "Operations",
-    "meaning": "品質管理；稽核作業",
-    "example": "The supplier prepared budgetboard in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "商務常用詞",
+    "example": "The company discussed budgetboard during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "budgetbridge",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "會議安排；溝通協調",
-    "example": "The finance staff arranged budgetbridge in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "We finalized the budgetbridge to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "budgetcare",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Meeting",
-    "meaning": "客戶服務；客訴處理",
-    "example": "The hr officer planned budgetcare in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved budgetcare for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "budgetchart",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "CustomerService",
-    "meaning": "採購管理；供應商協作",
-    "example": "The warehouse clerk updated budgetchart in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored budgetchart throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "budgetcheck",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
     "topic": "Logistics",
-    "meaning": "財務管理；帳務控管",
-    "example": "The project leader confirmed budgetcheck in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "商務常用詞",
+    "example": "HR documented budgetcheck before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "budgetcraft",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Purchasing",
-    "meaning": "報表管理；數據追蹤",
-    "example": "The sales director documented budgetcraft in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed budgetcraft to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "budgetcycle",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
     "topic": "Finance",
-    "meaning": "人資招募；教育訓練",
-    "example": "The manager reviewed budgetcycle in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the budgetcycle before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "budgetdrive",
-    "pos": "n.",
-    "level": 2,
+    "pos": "adj.",
+    "level": 3,
     "category": "Business",
-    "topic": "Contracts",
-    "meaning": "預算管理；成本控管",
-    "example": "The team submitted budgetdrive in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the budgetdrive after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "budgetedge",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Schedules",
-    "meaning": "品質管理；稽核作業",
-    "example": "The client checked budgetedge in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The company discussed budgetedge during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "budgetency",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Reports",
-    "meaning": "行政管理；作業執行",
-    "example": "The vendor revised budgetency in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "We finalized the budgetency to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "budgetengine",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Hiring",
-    "meaning": "會議安排；溝通協調",
-    "example": "The supplier prepared budgetengine in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved budgetengine for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "budgetfield",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Training",
-    "meaning": "客戶服務；客訴處理",
-    "example": "The finance staff arranged budgetfield in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored budgetfield throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "budgetflow",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
-    "topic": "Administration",
-    "meaning": "物流管理；出貨作業",
-    "example": "The hr officer planned budgetflow in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "HR documented budgetflow before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "budgetforce",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Travel",
-    "meaning": "採購管理；供應商協作",
-    "example": "The warehouse clerk updated budgetforce in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed budgetforce to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "budgetform",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Marketing",
-    "meaning": "財務管理；帳務控管",
-    "example": "The project leader confirmed budgetform in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the budgetform before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "budgetframe",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Manufacturing",
-    "meaning": "合約管理；法務作業",
-    "example": "The sales director documented budgetframe in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the budgetframe after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "budgetgate",
-    "pos": "n.",
+    "pos": "v.",
     "level": 2,
     "category": "Business",
-    "topic": "Communication",
-    "meaning": "報表管理；數據追蹤",
-    "example": "The manager reviewed budgetgate in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The company discussed budgetgate during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "budgetgrid",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Facilities",
-    "meaning": "人資招募；教育訓練",
-    "example": "The team submitted budgetgrid in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "We finalized the budgetgrid to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "budgetguide",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
-    "topic": "Coordination",
-    "meaning": "專案管理；營運協調",
-    "example": "The client checked budgetguide in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved budgetguide for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "budgethouse",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Project",
-    "meaning": "預算管理；成本控管",
-    "example": "The vendor revised budgethouse in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored budgethouse throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "budgethub",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Operations",
-    "meaning": "品質管理；稽核作業",
-    "example": "The supplier prepared budgethub in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "HR documented budgethub before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "budgetindex",
     "pos": "n.",
-    "level": 1,
+    "level": 2,
     "category": "Business",
-    "topic": "Office",
-    "meaning": "行政管理；作業執行",
-    "example": "The finance staff arranged budgetindex in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed budgetindex to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "budgeting",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "預算編列",
-    "example": "The hr officer planned budgeting in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the budgeting before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "budgetinsight",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "會議安排；溝通協調",
-    "example": "The warehouse clerk updated budgetinsight in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the budgetinsight after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "budgetkeeper",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Meeting",
-    "meaning": "客戶服務；客訴處理",
-    "example": "The project leader confirmed budgetkeeper in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The company discussed budgetkeeper during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "budgetline",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "預算科目",
-    "example": "The sales director documented budgetline in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "We finalized the budgetline to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "budgetlist",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Logistics",
-    "meaning": "財務管理；帳務控管",
-    "example": "The manager reviewed budgetlist in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved budgetlist for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "budgetmaker",
@@ -3715,399 +3575,399 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Finance",
-    "meaning": "人資招募；教育訓練",
-    "example": "The team submitted budgetmaker in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored budgetmaker throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "budgetmanage",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
-    "topic": "Accounting",
-    "meaning": "專案管理；營運協調",
-    "example": "The client checked budgetmanage in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "HR documented budgetmanage before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "budgetmetric",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Schedules",
-    "meaning": "品質管理；稽核作業",
-    "example": "The vendor revised budgetmetric in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed budgetmetric to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "budgetmode",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Reports",
-    "meaning": "行政管理；作業執行",
-    "example": "The supplier prepared budgetmode in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the budgetmode before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "budgetmonitor",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Training",
-    "meaning": "客戶服務；客訴處理",
-    "example": "The finance staff arranged budgetmonitor in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the budgetmonitor after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "budgetnet",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
-    "topic": "Administration",
-    "meaning": "物流管理；出貨作業",
-    "example": "The hr officer planned budgetnet in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The company discussed budgetnet during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "budgetnode",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Travel",
-    "meaning": "採購管理；供應商協作",
-    "example": "The warehouse clerk updated budgetnode in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "We finalized the budgetnode to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "budgetoption",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Marketing",
-    "meaning": "財務管理；帳務控管",
-    "example": "The project leader confirmed budgetoption in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved budgetoption for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "budgetpath",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Manufacturing",
-    "meaning": "合約管理；法務作業",
-    "example": "The sales director documented budgetpath in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored budgetpath throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "budgetphase",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Communication",
-    "meaning": "報表管理；數據追蹤",
-    "example": "The manager reviewed budgetphase in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "HR documented budgetphase before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "budgetplan",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "預算規劃",
-    "example": "The team submitted budgetplan in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed budgetplan to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "budgetpoint",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Facilities",
-    "meaning": "人資招募；教育訓練",
-    "example": "The client checked budgetpoint in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the budgetpoint before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "budgetport",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Coordination",
-    "meaning": "專案管理；營運協調",
-    "example": "The vendor revised budgetport in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the budgetport after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "budgetpress",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Project",
-    "meaning": "預算管理；成本控管",
-    "example": "The supplier prepared budgetpress in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The company discussed budgetpress during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "budgetproof",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Operations",
-    "meaning": "品質管理；稽核作業",
-    "example": "The finance staff arranged budgetproof in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "We finalized the budgetproof to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "budgetpulse",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
-    "topic": "Office",
-    "meaning": "行政管理；作業執行",
-    "example": "The hr officer planned budgetpulse in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved budgetpulse for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "budgetqueue",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "會議安排；溝通協調",
-    "example": "The warehouse clerk updated budgetqueue in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored budgetqueue throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "budgetrate",
-    "pos": "n.",
-    "level": 3,
+    "pos": "v.",
+    "level": 5,
     "category": "Business",
-    "topic": "Meeting",
-    "meaning": "客戶服務；客訴處理",
-    "example": "The project leader confirmed budgetrate in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "HR documented budgetrate before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "budgetrecord",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Email",
-    "meaning": "物流管理；出貨作業",
-    "example": "The sales director documented budgetrecord in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed budgetrecord to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "budgetreview",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "預算審查",
-    "example": "The manager reviewed budgetreview in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the budgetreview before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "budgetscope",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "CustomerService",
-    "meaning": "採購管理；供應商協作",
-    "example": "The team submitted budgetscope in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the budgetscope after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "budgetsense",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Logistics",
-    "meaning": "財務管理；帳務控管",
-    "example": "The client checked budgetsense in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The company discussed budgetsense during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "budgetshift",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Purchasing",
-    "meaning": "報表管理；數據追蹤",
-    "example": "The vendor revised budgetshift in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "We finalized the budgetshift to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "budgetsignal",
-    "pos": "n.",
-    "level": 3,
+    "pos": "adj.",
+    "level": 1,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "人資招募；教育訓練",
-    "example": "The supplier prepared budgetsignal in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved budgetsignal for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "budgetskill",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Contracts",
-    "meaning": "預算管理；成本控管",
-    "example": "The finance staff arranged budgetskill in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored budgetskill throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "budgetsource",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Schedules",
-    "meaning": "品質管理；稽核作業",
-    "example": "The hr officer planned budgetsource in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "HR documented budgetsource before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "budgetstack",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Hiring",
-    "meaning": "會議安排；溝通協調",
-    "example": "The warehouse clerk updated budgetstack in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed budgetstack to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "budgetstage",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Training",
-    "meaning": "客戶服務；客訴處理",
-    "example": "The project leader confirmed budgetstage in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the budgetstage before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "budgetstream",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Travel",
-    "meaning": "採購管理；供應商協作",
-    "example": "The sales director documented budgetstream in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the budgetstream after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "budgetsupport",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Marketing",
-    "meaning": "財務管理；帳務控管",
-    "example": "The manager reviewed budgetsupport in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The company discussed budgetsupport during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "budgetsystem",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Communication",
-    "meaning": "報表管理；數據追蹤",
-    "example": "The team submitted budgetsystem in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "We finalized the budgetsystem to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "budgettable",
-    "pos": "n.",
-    "level": 3,
+    "pos": "adj.",
+    "level": 4,
     "category": "Business",
-    "topic": "Facilities",
-    "meaning": "人資招募；教育訓練",
-    "example": "The client checked budgettable in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved budgettable for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "budgettech",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Coordination",
-    "meaning": "專案管理；營運協調",
-    "example": "The vendor revised budgettech in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored budgettech throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "budgettrack",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Project",
-    "meaning": "預算管理；成本控管",
-    "example": "The supplier prepared budgettrack in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "HR documented budgettrack before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "budgettrend",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Operations",
-    "meaning": "品質管理；稽核作業",
-    "example": "The finance staff arranged budgettrend in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed budgettrend to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "budgetunit",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
-    "topic": "Office",
-    "meaning": "行政管理；作業執行",
-    "example": "The hr officer planned budgetunit in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the budgetunit before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "budgetvalue",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "會議安排；溝通協調",
-    "example": "The warehouse clerk updated budgetvalue in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the budgetvalue after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "budgetview",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Meeting",
-    "meaning": "客戶服務；客訴處理",
-    "example": "The project leader confirmed budgetview in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The company discussed budgetview during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "budgetvision",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Email",
-    "meaning": "物流管理；出貨作業",
-    "example": "The sales director documented budgetvision in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "We finalized the budgetvision to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "budgetware",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "CustomerService",
-    "meaning": "採購管理；供應商協作",
-    "example": "The manager reviewed budgetware in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved budgetware for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "budgetwatch",
@@ -4115,229 +3975,229 @@ window.WORDS = [
     "level": 3,
     "category": "Business",
     "topic": "Logistics",
-    "meaning": "財務管理；帳務控管",
-    "example": "The team submitted budgetwatch in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored budgetwatch throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "budgetwave",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
-    "topic": "Shipping",
-    "meaning": "合約管理；法務作業",
-    "example": "The client checked budgetwave in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "HR documented budgetwave before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "budgetwork",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Purchasing",
-    "meaning": "報表管理；數據追蹤",
-    "example": "The vendor revised budgetwork in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed budgetwork to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "budgetzone",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "人資招募；教育訓練",
-    "example": "The supplier prepared budgetzone in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the budgetzone before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "buffer",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Operations",
-    "meaning": "緩衝",
-    "example": "The finance staff arranged buffer in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the buffer after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "bufferstock",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
-    "topic": "Logistics",
-    "meaning": "緩衝庫存",
-    "example": "The hr officer planned bufferstock in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The company discussed bufferstock during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "bulletinmail",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Communication",
-    "meaning": "公告郵件",
-    "example": "The warehouse clerk updated bulletinmail in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "We finalized the bulletinmail to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "burden",
-    "pos": "n.",
-    "level": 3,
+    "pos": "v.",
+    "level": 5,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "負擔成本",
-    "example": "The project leader confirmed burden in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved burden for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "burnrate",
-    "pos": "n.",
-    "level": 3,
+    "pos": "v.",
+    "level": 1,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "燒錢速度",
-    "example": "The sales director documented burnrate in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored burnrate throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "businesscase",
     "pos": "n.",
-    "level": 1,
+    "level": 2,
     "category": "Business",
-    "topic": "Strategy",
-    "meaning": "商業論證",
-    "example": "The manager reviewed businesscase in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "HR documented businesscase before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "businessunit",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Administration",
-    "meaning": "事業單位",
-    "example": "The team submitted businessunit in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed businessunit to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "buyer",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "買方",
-    "example": "The client checked buyer in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the buyer before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "buyerprofile",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Purchasing",
-    "meaning": "採購輪廓",
-    "example": "The vendor revised buyerprofile in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the buyerprofile after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "calculation",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "作業流程；處理程序",
-    "example": "The supplier prepared calculation in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The company discussed calculation during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "calibration",
     "pos": "n.",
-    "level": 1,
+    "level": 2,
     "category": "Business",
-    "topic": "Manufacturing",
-    "meaning": "校準",
-    "example": "The finance staff arranged calibration in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "We finalized the calibration to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "callrecord",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Service",
-    "meaning": "通話紀錄",
-    "example": "The hr officer planned callrecord in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved callrecord for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "campaign",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Marketing",
-    "meaning": "行銷活動",
-    "example": "The warehouse clerk updated campaign in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored campaign throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "cancelation",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Service",
-    "meaning": "取消作業",
-    "example": "The project leader confirmed cancelation in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "HR documented cancelation before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "candidate",
-    "pos": "n.",
+    "pos": "v.",
     "level": 1,
     "category": "Business",
-    "topic": "HR",
-    "meaning": "求職候選人；候選者",
-    "example": "The sales director documented candidate in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed candidate to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "capability",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Training",
-    "meaning": "能力",
-    "example": "The manager reviewed capability in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the capability before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "capacity",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Operations",
-    "meaning": "產能；容量",
-    "example": "The team submitted capacity in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the capacity after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "capacityplan",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
-    "topic": "Manufacturing",
-    "meaning": "產能規劃",
-    "example": "The client checked capacityplan in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The company discussed capacityplan during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "capital",
-    "pos": "n.",
-    "level": 3,
+    "pos": "adj.",
+    "level": 5,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "資本",
-    "example": "The vendor revised capital in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "We finalized the capital to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "capitalization",
@@ -4345,1099 +4205,1099 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Finance",
-    "meaning": "資本化",
-    "example": "The supplier prepared capitalization in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved capitalization for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "caretaker",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Administration",
-    "meaning": "管理員",
-    "example": "The finance staff arranged caretaker in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored caretaker throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "cargo",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Logistics",
-    "meaning": "貨物",
-    "example": "The hr officer planned cargo in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "HR documented cargo before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "carpool",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Travel",
-    "meaning": "共乘安排",
-    "example": "The warehouse clerk updated carpool in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed carpool to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "cashflow",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "現金流",
-    "example": "The project leader confirmed cashflow in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the cashflow before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "catalog",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "目錄",
-    "example": "The sales director documented catalog in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the catalog after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "catalogue",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Marketing",
-    "meaning": "產品型錄",
-    "example": "The manager reviewed catalogue in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The company discussed catalogue during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "category",
-    "pos": "n.",
-    "level": 2,
+    "pos": "adj.",
+    "level": 3,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "類別",
-    "example": "The team submitted category in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "We finalized the category to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "certification",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "認證",
-    "example": "The client checked certification in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved certification for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "certificationmark",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Quality",
-    "meaning": "認證標章",
-    "example": "The vendor revised certificationmark in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored certificationmark throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "chain",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Logistics",
-    "meaning": "供應鏈",
-    "example": "The supplier prepared chain in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "HR documented chain before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "chair",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Meeting",
-    "meaning": "主席職位",
-    "example": "The finance staff arranged chair in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed chair to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "chairmanship",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Meeting",
-    "meaning": "主席職位",
-    "example": "The hr officer planned chairmanship in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the chairmanship before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "channel",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "通路",
-    "example": "The warehouse clerk updated channel in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the channel after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "checklist",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "檢查清單",
-    "example": "The project leader confirmed checklist in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The company discussed checklist during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "checkpointlog",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Quality",
-    "meaning": "檢查點紀錄",
-    "example": "The sales director documented checkpointlog in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "We finalized the checkpointlog to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "circulation",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "作業流程；處理程序",
-    "example": "The manager reviewed circulation in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved circulation for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "claim",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "索賠；主張",
-    "example": "The team submitted claim in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored claim throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "claimant",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Service",
-    "meaning": "索賠人",
-    "example": "The client checked claimant in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "HR documented claimant before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "clarification",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "作業流程；處理程序",
-    "example": "The vendor revised clarification in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed clarification to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "classification",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "作業流程；處理程序",
-    "example": "The supplier prepared classification in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the classification before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "clause",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Contracts",
-    "meaning": "條款",
-    "example": "The finance staff arranged clause in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the clause after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "cleanup",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
     "topic": "Operations",
-    "meaning": "清理作業",
-    "example": "The hr officer planned cleanup in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "商務常用詞",
+    "example": "The company discussed cleanup during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "clearance",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
-    "topic": "Logistics",
-    "meaning": "清關；核准",
-    "example": "The warehouse clerk updated clearance in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "We finalized the clearance to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "clearancecode",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Logistics",
-    "meaning": "通關代碼",
-    "example": "The project leader confirmed clearancecode in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved clearancecode for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "clearing",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "結算作業",
-    "example": "The sales director documented clearing in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored clearing throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "client",
     "pos": "n.",
-    "level": 1,
+    "level": 2,
     "category": "Business",
-    "topic": "Marketing",
-    "meaning": "客戶",
-    "example": "The manager reviewed client in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "HR documented client before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "clientability",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Contracts",
-    "meaning": "預算管理；成本控管",
-    "example": "The team submitted clientability in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed clientability to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "clientable",
-    "pos": "n.",
-    "level": 1,
+    "pos": "adj.",
+    "level": 4,
     "category": "Business",
-    "topic": "Accounting",
-    "meaning": "專案管理；營運協調",
-    "example": "The client checked clientable in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the clientable before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "clientaccount",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Sales",
-    "meaning": "客戶帳戶",
-    "example": "The vendor revised clientaccount in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the clientaccount after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "clientance",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Schedules",
-    "meaning": "品質管理；稽核作業",
-    "example": "The supplier prepared clientance in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The company discussed clientance during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "clientancy",
     "pos": "n.",
-    "level": 1,
+    "level": 2,
     "category": "Business",
-    "topic": "Reports",
-    "meaning": "行政管理；作業執行",
-    "example": "The finance staff arranged clientancy in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "We finalized the clientancy to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "clientant",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Hiring",
-    "meaning": "會議安排；溝通協調",
-    "example": "The hr officer planned clientant in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved clientant for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "clientation",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Training",
-    "meaning": "客戶服務；客訴處理",
-    "example": "The warehouse clerk updated clientation in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored clientation throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "clientator",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Travel",
-    "meaning": "採購管理；供應商協作",
-    "example": "The project leader confirmed clientator in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "HR documented clientator before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "clientboard",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Marketing",
-    "meaning": "財務管理；帳務控管",
-    "example": "The sales director documented clientboard in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed clientboard to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "clientbridge",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Communication",
-    "meaning": "報表管理；數據追蹤",
-    "example": "The manager reviewed clientbridge in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the clientbridge before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "clientcare",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Facilities",
-    "meaning": "人資招募；教育訓練",
-    "example": "The team submitted clientcare in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the clientcare after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "clientchart",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Project",
-    "meaning": "預算管理；成本控管",
-    "example": "The client checked clientchart in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The company discussed clientchart during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "clientcheck",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Operations",
-    "meaning": "品質管理；稽核作業",
-    "example": "The vendor revised clientcheck in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "We finalized the clientcheck to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "clientcraft",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "會議安排；溝通協調",
-    "example": "The supplier prepared clientcraft in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved clientcraft for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "clientcycle",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Meeting",
-    "meaning": "客戶服務；客訴處理",
-    "example": "The finance staff arranged clientcycle in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored clientcycle throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "clientdrive",
-    "pos": "n.",
-    "level": 2,
+    "pos": "adj.",
+    "level": 3,
     "category": "Business",
-    "topic": "CustomerService",
-    "meaning": "採購管理；供應商協作",
-    "example": "The hr officer planned clientdrive in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "HR documented clientdrive before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "clientedge",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Logistics",
-    "meaning": "財務管理；帳務控管",
-    "example": "The warehouse clerk updated clientedge in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed clientedge to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "clientele",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Sales",
-    "meaning": "客戶群",
-    "example": "The project leader confirmed clientele in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the clientele before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "clientency",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Shipping",
-    "meaning": "合約管理；法務作業",
-    "example": "The sales director documented clientency in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the clientency after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "clientengine",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Purchasing",
-    "meaning": "報表管理；數據追蹤",
-    "example": "The manager reviewed clientengine in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The company discussed clientengine during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "clientfield",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "人資招募；教育訓練",
-    "example": "The team submitted clientfield in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "We finalized the clientfield to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "clientflow",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
-    "topic": "Accounting",
-    "meaning": "專案管理；營運協調",
-    "example": "The client checked clientflow in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved clientflow for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "clientforce",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Contracts",
-    "meaning": "預算管理；成本控管",
-    "example": "The vendor revised clientforce in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored clientforce throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "clientform",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Schedules",
-    "meaning": "品質管理；稽核作業",
-    "example": "The supplier prepared clientform in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "HR documented clientform before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "clientframe",
     "pos": "n.",
-    "level": 1,
+    "level": 2,
     "category": "Business",
-    "topic": "Reports",
-    "meaning": "行政管理；作業執行",
-    "example": "The finance staff arranged clientframe in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed clientframe to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "clientgate",
-    "pos": "n.",
-    "level": 2,
+    "pos": "v.",
+    "level": 3,
     "category": "Business",
-    "topic": "Hiring",
-    "meaning": "會議安排；溝通協調",
-    "example": "The hr officer planned clientgate in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the clientgate before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "clientgrid",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Training",
-    "meaning": "客戶服務；客訴處理",
-    "example": "The warehouse clerk updated clientgrid in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the clientgrid after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "clientguide",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Administration",
-    "meaning": "物流管理；出貨作業",
-    "example": "The project leader confirmed clientguide in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The company discussed clientguide during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "clienthouse",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Travel",
-    "meaning": "採購管理；供應商協作",
-    "example": "The sales director documented clienthouse in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "We finalized the clienthouse to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "clienthub",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Marketing",
-    "meaning": "財務管理；帳務控管",
-    "example": "The manager reviewed clienthub in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved clienthub for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "clientindex",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
-    "topic": "Manufacturing",
-    "meaning": "合約管理；法務作業",
-    "example": "The team submitted clientindex in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored clientindex throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "clienting",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Communication",
-    "meaning": "報表管理；數據追蹤",
-    "example": "The client checked clienting in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "HR documented clienting before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "clientinsight",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Facilities",
-    "meaning": "人資招募；教育訓練",
-    "example": "The vendor revised clientinsight in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed clientinsight to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "clientkeeper",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Coordination",
-    "meaning": "專案管理；營運協調",
-    "example": "The supplier prepared clientkeeper in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the clientkeeper before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "clientline",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Operations",
-    "meaning": "品質管理；稽核作業",
-    "example": "The finance staff arranged clientline in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the clientline after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "clientlist",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "會議安排；溝通協調",
-    "example": "The hr officer planned clientlist in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The company discussed clientlist during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "clientmaker",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "CustomerService",
-    "meaning": "採購管理；供應商協作",
-    "example": "The warehouse clerk updated clientmaker in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "We finalized the clientmaker to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "clientmanage",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Logistics",
-    "meaning": "財務管理；帳務控管",
-    "example": "The project leader confirmed clientmanage in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved clientmanage for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "clientmetric",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Purchasing",
-    "meaning": "報表管理；數據追蹤",
-    "example": "The sales director documented clientmetric in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored clientmetric throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "clientmode",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "人資招募；教育訓練",
-    "example": "The manager reviewed clientmode in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "HR documented clientmode before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "clientmonitor",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Contracts",
-    "meaning": "預算管理；成本控管",
-    "example": "The team submitted clientmonitor in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed clientmonitor to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "clientnet",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Schedules",
-    "meaning": "品質管理；稽核作業",
-    "example": "The client checked clientnet in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the clientnet before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "clientnode",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Reports",
-    "meaning": "行政管理；作業執行",
-    "example": "The vendor revised clientnode in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the clientnode after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "clientoption",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Hiring",
-    "meaning": "會議安排；溝通協調",
-    "example": "The supplier prepared clientoption in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The company discussed clientoption during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "clientpath",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Training",
-    "meaning": "客戶服務；客訴處理",
-    "example": "The finance staff arranged clientpath in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "We finalized the clientpath to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "clientphase",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
-    "topic": "Administration",
-    "meaning": "物流管理；出貨作業",
-    "example": "The hr officer planned clientphase in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved clientphase for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "clientplan",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Travel",
-    "meaning": "採購管理；供應商協作",
-    "example": "The warehouse clerk updated clientplan in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored clientplan throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "clientpoint",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
     "topic": "Marketing",
-    "meaning": "財務管理；帳務控管",
-    "example": "The project leader confirmed clientpoint in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "商務常用詞",
+    "example": "HR documented clientpoint before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "clientport",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Manufacturing",
-    "meaning": "合約管理；法務作業",
-    "example": "The sales director documented clientport in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed clientport to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "clientpress",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Communication",
-    "meaning": "報表管理；數據追蹤",
-    "example": "The manager reviewed clientpress in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the clientpress before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "clientproof",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Facilities",
-    "meaning": "人資招募；教育訓練",
-    "example": "The team submitted clientproof in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the clientproof after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "clientpulse",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
-    "topic": "Coordination",
-    "meaning": "專案管理；營運協調",
-    "example": "The client checked clientpulse in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The company discussed clientpulse during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "clientqueue",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Project",
-    "meaning": "預算管理；成本控管",
-    "example": "The vendor revised clientqueue in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "We finalized the clientqueue to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "clientrate",
-    "pos": "n.",
-    "level": 3,
+    "pos": "v.",
+    "level": 1,
     "category": "Business",
-    "topic": "Operations",
-    "meaning": "品質管理；稽核作業",
-    "example": "The supplier prepared clientrate in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved clientrate for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "clientrecord",
     "pos": "n.",
-    "level": 1,
+    "level": 2,
     "category": "Business",
-    "topic": "Office",
-    "meaning": "行政管理；作業執行",
-    "example": "The finance staff arranged clientrecord in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored clientrecord throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "clientscope",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "會議安排；溝通協調",
-    "example": "The hr officer planned clientscope in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "HR documented clientscope before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "clientsense",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Meeting",
-    "meaning": "客戶服務；客訴處理",
-    "example": "The warehouse clerk updated clientsense in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed clientsense to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "clientshift",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "CustomerService",
-    "meaning": "採購管理；供應商協作",
-    "example": "The project leader confirmed clientshift in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the clientshift before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "clientsignal",
-    "pos": "n.",
-    "level": 3,
+    "pos": "adj.",
+    "level": 1,
     "category": "Business",
-    "topic": "Logistics",
-    "meaning": "財務管理；帳務控管",
-    "example": "The sales director documented clientsignal in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the clientsignal after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "clientskill",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Purchasing",
-    "meaning": "報表管理；數據追蹤",
-    "example": "The manager reviewed clientskill in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The company discussed clientskill during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "clientsource",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "人資招募；教育訓練",
-    "example": "The team submitted clientsource in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "We finalized the clientsource to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "clientstack",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Contracts",
-    "meaning": "預算管理；成本控管",
-    "example": "The client checked clientstack in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved clientstack for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "clientstage",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Schedules",
-    "meaning": "品質管理；稽核作業",
-    "example": "The vendor revised clientstage in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored clientstage throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "clientstream",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Hiring",
-    "meaning": "會議安排；溝通協調",
-    "example": "The supplier prepared clientstream in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "HR documented clientstream before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "clientsupport",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Training",
-    "meaning": "客戶服務；客訴處理",
-    "example": "The finance staff arranged clientsupport in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed clientsupport to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "clientsystem",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Travel",
-    "meaning": "採購管理；供應商協作",
-    "example": "The hr officer planned clientsystem in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the clientsystem before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "clienttable",
-    "pos": "n.",
-    "level": 3,
+    "pos": "adj.",
+    "level": 4,
     "category": "Business",
-    "topic": "Marketing",
-    "meaning": "財務管理；帳務控管",
-    "example": "The warehouse clerk updated clienttable in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the clienttable after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "clienttech",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Manufacturing",
-    "meaning": "合約管理；法務作業",
-    "example": "The project leader confirmed clienttech in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The company discussed clienttech during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "clienttrack",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Communication",
-    "meaning": "報表管理；數據追蹤",
-    "example": "The sales director documented clienttrack in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "We finalized the clienttrack to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "clienttrend",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Facilities",
-    "meaning": "人資招募；教育訓練",
-    "example": "The manager reviewed clienttrend in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved clienttrend for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "clientunit",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
-    "topic": "Coordination",
-    "meaning": "專案管理；營運協調",
-    "example": "The team submitted clientunit in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored clientunit throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "clientvalue",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Project",
-    "meaning": "預算管理；成本控管",
-    "example": "The client checked clientvalue in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "HR documented clientvalue before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "clientview",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
     "topic": "Operations",
-    "meaning": "品質管理；稽核作業",
-    "example": "The vendor revised clientview in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed clientview to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "clientvision",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Office",
-    "meaning": "行政管理；作業執行",
-    "example": "The supplier prepared clientvision in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the clientvision before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "clientware",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "會議安排；溝通協調",
-    "example": "The finance staff arranged clientware in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the clientware after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "clientwatch",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Meeting",
-    "meaning": "客戶服務；客訴處理",
-    "example": "The hr officer planned clientwatch in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The company discussed clientwatch during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "clientwave",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
-    "topic": "Email",
-    "meaning": "物流管理；出貨作業",
-    "example": "The warehouse clerk updated clientwave in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "We finalized the clientwave to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "clientwork",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "CustomerService",
-    "meaning": "採購管理；供應商協作",
-    "example": "The project leader confirmed clientwork in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved clientwork for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "clientzone",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Logistics",
-    "meaning": "財務管理；帳務控管",
-    "example": "The sales director documented clientzone in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored clientzone throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "clocking",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "HR",
-    "meaning": "打卡紀錄",
-    "example": "The manager reviewed clocking in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "HR documented clocking before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "closing",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "結帳作業",
-    "example": "The team submitted closing in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed closing to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "coaching",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
-    "topic": "Training",
-    "meaning": "教練式培訓",
-    "example": "The client checked coaching in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the coaching before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "coauthor",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Communication",
-    "meaning": "共同作者",
-    "example": "The vendor revised coauthor in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the coauthor after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "cod",
@@ -5445,3449 +5305,3449 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Logistics",
-    "meaning": "貨到付款",
-    "example": "The supplier prepared cod in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "商務常用詞",
+    "example": "The company discussed cod during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "codebook",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "IT",
-    "meaning": "代碼手冊",
-    "example": "The finance staff arranged codebook in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "We finalized the codebook to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "cofounder",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Strategy",
-    "meaning": "共同創辦人",
-    "example": "The hr officer planned cofounder in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved cofounder for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "cohesion",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "HR",
-    "meaning": "凝聚力",
-    "example": "The warehouse clerk updated cohesion in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored cohesion throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "coinsurance",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "共同保險",
-    "example": "The project leader confirmed coinsurance in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "HR documented coinsurance before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "coldchain",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Logistics",
-    "meaning": "冷鏈",
-    "example": "The sales director documented coldchain in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed coldchain to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "collaboration",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "協作",
-    "example": "The manager reviewed collaboration in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the collaboration before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "collaborationtool",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Communication",
-    "meaning": "協作工具",
-    "example": "The team submitted collaborationtool in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the collaborationtool after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "collateral",
-    "pos": "n.",
-    "level": 3,
+    "pos": "adj.",
+    "level": 4,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "擔保品",
-    "example": "The client checked collateral in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The company discussed collateral during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "collection",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "作業流程；處理程序",
-    "example": "The vendor revised collection in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "We finalized the collection to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "collective",
-    "pos": "n.",
+    "pos": "adj.",
     "level": 1,
     "category": "Business",
-    "topic": "HR",
-    "meaning": "集體協議",
-    "example": "The supplier prepared collective in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved collective for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "colorcode",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Manufacturing",
-    "meaning": "色碼標示",
-    "example": "The finance staff arranged colorcode in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored colorcode throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "comarketing",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Marketing",
-    "meaning": "聯合行銷",
-    "example": "The hr officer planned comarketing in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "HR documented comarketing before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "comeback",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Sales",
-    "meaning": "回升",
-    "example": "The warehouse clerk updated comeback in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed comeback to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "commentary",
-    "pos": "n.",
-    "level": 3,
+    "pos": "adj.",
+    "level": 5,
     "category": "Business",
-    "topic": "Reporting",
-    "meaning": "評論意見",
-    "example": "The project leader confirmed commentary in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the commentary before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "commission",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Sales",
-    "meaning": "佣金",
-    "example": "The sales director documented commission in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the commission after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "commissionrate",
-    "pos": "n.",
-    "level": 1,
+    "pos": "v.",
+    "level": 2,
     "category": "Business",
-    "topic": "Sales",
-    "meaning": "佣金比率",
-    "example": "The manager reviewed commissionrate in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The company discussed commissionrate during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "committee",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "委員會",
-    "example": "The team submitted committee in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "We finalized the committee to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "commodity",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Purchasing",
-    "meaning": "商品原料",
-    "example": "The client checked commodity in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved commodity for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "communication",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "溝通",
-    "example": "The vendor revised communication in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored communication throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "communicationplan",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Project",
-    "meaning": "溝通計畫",
-    "example": "The supplier prepared communicationplan in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "HR documented communicationplan before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "compensation",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "HR",
-    "meaning": "薪酬；補償",
-    "example": "The finance staff arranged compensation in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed compensation to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "competitor",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "競爭者",
-    "example": "The hr officer planned competitor in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the competitor before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "complaint",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "客訴；申訴",
-    "example": "The warehouse clerk updated complaint in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the complaint after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "compliance",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Legal",
-    "meaning": "合規",
-    "example": "The project leader confirmed compliance in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The company discussed compliance during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "compliancecheck",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Contracts",
-    "meaning": "合規檢查",
-    "example": "The sales director documented compliancecheck in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "We finalized the compliancecheck to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "complianceofficer",
     "pos": "n.",
-    "level": 1,
+    "level": 2,
     "category": "Business",
-    "topic": "Contracts",
-    "meaning": "合規主管",
-    "example": "The manager reviewed complianceofficer in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved complianceofficer for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "component",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "組件",
-    "example": "The team submitted component in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored component throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "componentlist",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Manufacturing",
-    "meaning": "零件清單",
-    "example": "The client checked componentlist in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "HR documented componentlist before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "composition",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "作業流程；處理程序",
-    "example": "The vendor revised composition in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed composition to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "computation",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "作業流程；處理程序",
-    "example": "The supplier prepared computation in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the computation before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "concentration",
     "pos": "n.",
-    "level": 1,
+    "level": 2,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "作業流程；處理程序",
-    "example": "The finance staff arranged concentration in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the concentration after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "concession",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Sales",
-    "meaning": "讓利條件",
-    "example": "The hr officer planned concession in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The company discussed concession during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "concurrency",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "IT",
-    "meaning": "並行作業量",
-    "example": "The warehouse clerk updated concurrency in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "We finalized the concurrency to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "condition",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "作業流程；處理程序",
-    "example": "The project leader confirmed condition in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved condition for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "conference",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "會議",
-    "example": "The sales director documented conference in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored conference throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "confidentiality",
     "pos": "n.",
-    "level": 1,
+    "level": 2,
     "category": "Business",
-    "topic": "Contracts",
-    "meaning": "保密性",
-    "example": "The manager reviewed confidentiality in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "HR documented confidentiality before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "configuration",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
     "topic": "Finance",
-    "meaning": "作業流程；處理程序",
-    "example": "The team submitted configuration in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed configuration to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "confirmation",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "確認",
-    "example": "The client checked confirmation in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the confirmation before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "confirmationmail",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Communication",
-    "meaning": "確認郵件",
-    "example": "The vendor revised confirmationmail in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the confirmationmail after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "conflict",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "衝突",
-    "example": "The supplier prepared conflict in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The company discussed conflict during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "conformance",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Quality",
-    "meaning": "符合性",
-    "example": "The finance staff arranged conformance in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "We finalized the conformance to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "congestion",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "作業流程；處理程序",
-    "example": "The hr officer planned congestion in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved congestion for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "connection",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "作業流程；處理程序",
-    "example": "The warehouse clerk updated connection in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored connection throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "consensus",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "共識",
-    "example": "The project leader confirmed consensus in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "HR documented consensus before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "conservation",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "作業流程；處理程序",
-    "example": "The sales director documented conservation in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed conservation to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "consideration",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "作業流程；處理程序",
-    "example": "The manager reviewed consideration in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the consideration before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "consolidation",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "作業流程；處理程序",
-    "example": "The team submitted consolidation in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the consolidation after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "consortium",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Strategy",
-    "meaning": "聯盟",
-    "example": "The client checked consortium in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The company discussed consortium during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "constraint",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Project",
-    "meaning": "限制條件",
-    "example": "The vendor revised constraint in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "We finalized the constraint to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "construction",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "作業流程；處理程序",
-    "example": "The supplier prepared construction in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved construction for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "consul",
     "pos": "n.",
-    "level": 1,
+    "level": 2,
     "category": "Business",
-    "topic": "Travel",
-    "meaning": "領事",
-    "example": "The finance staff arranged consul in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored consul throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "consultation",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Service",
-    "meaning": "諮詢會談",
-    "example": "The hr officer planned consultation in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "HR documented consultation before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "consumption",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "作業流程；處理程序",
-    "example": "The warehouse clerk updated consumption in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed consumption to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "contactless",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "感應支付",
-    "example": "The project leader confirmed contactless in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the contactless before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "contactpoint",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Communication",
-    "meaning": "聯絡窗口",
-    "example": "The sales director documented contactpoint in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the contactpoint after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "contamination",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Quality",
-    "meaning": "污染",
-    "example": "The manager reviewed contamination in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The company discussed contamination during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "contingencyfund",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "備用基金",
-    "example": "The team submitted contingencyfund in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "We finalized the contingencyfund to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "contingencyplan",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
-    "topic": "Project",
-    "meaning": "應變計畫",
-    "example": "The client checked contingencyplan in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved contingencyplan for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "continuity",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "特性；性質",
-    "example": "The vendor revised continuity in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored continuity throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "contract",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Contracts",
-    "meaning": "合約",
-    "example": "The supplier prepared contract in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "HR documented contract before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "contractability",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Purchasing",
-    "meaning": "報表管理；數據追蹤",
-    "example": "The finance staff arranged contractability in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed contractability to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "contractable",
-    "pos": "n.",
-    "level": 1,
+    "pos": "adj.",
+    "level": 3,
     "category": "Business",
-    "topic": "Shipping",
-    "meaning": "合約管理；法務作業",
-    "example": "The hr officer planned contractable in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the contractable before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "contractance",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "人資招募；教育訓練",
-    "example": "The warehouse clerk updated contractance in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the contractance after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "contractancy",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Accounting",
-    "meaning": "專案管理；營運協調",
-    "example": "The project leader confirmed contractancy in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The company discussed contractancy during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "contractant",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Contracts",
-    "meaning": "預算管理；成本控管",
-    "example": "The sales director documented contractant in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "We finalized the contractant to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "contractation",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Schedules",
-    "meaning": "品質管理；稽核作業",
-    "example": "The manager reviewed contractation in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved contractation for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "contractator",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Hiring",
-    "meaning": "會議安排；溝通協調",
-    "example": "The team submitted contractator in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored contractator throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "contractboard",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Training",
-    "meaning": "客戶服務；客訴處理",
-    "example": "The client checked contractboard in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "HR documented contractboard before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "contractbridge",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Travel",
-    "meaning": "採購管理；供應商協作",
-    "example": "The vendor revised contractbridge in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed contractbridge to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "contractcare",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Marketing",
-    "meaning": "財務管理；帳務控管",
-    "example": "The supplier prepared contractcare in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the contractcare before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "contractchart",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Communication",
-    "meaning": "報表管理；數據追蹤",
-    "example": "The finance staff arranged contractchart in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the contractchart after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "contractcheck",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Facilities",
-    "meaning": "人資招募；教育訓練",
-    "example": "The hr officer planned contractcheck in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The company discussed contractcheck during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "contractcraft",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Project",
-    "meaning": "預算管理；成本控管",
-    "example": "The warehouse clerk updated contractcraft in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "We finalized the contractcraft to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "contractcycle",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Operations",
-    "meaning": "品質管理；稽核作業",
-    "example": "The project leader confirmed contractcycle in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved contractcycle for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "contractdrive",
-    "pos": "n.",
-    "level": 2,
+    "pos": "adj.",
+    "level": 1,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "會議安排；溝通協調",
-    "example": "The sales director documented contractdrive in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored contractdrive throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "contractedge",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Meeting",
-    "meaning": "客戶服務；客訴處理",
-    "example": "The manager reviewed contractedge in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "HR documented contractedge before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "contractency",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
-    "topic": "Email",
-    "meaning": "物流管理；出貨作業",
-    "example": "The team submitted contractency in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed contractency to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "contractengine",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "CustomerService",
-    "meaning": "採購管理；供應商協作",
-    "example": "The client checked contractengine in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the contractengine before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "contractfield",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Logistics",
-    "meaning": "財務管理；帳務控管",
-    "example": "The vendor revised contractfield in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the contractfield after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "contractflow",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Shipping",
-    "meaning": "合約管理；法務作業",
-    "example": "The supplier prepared contractflow in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The company discussed contractflow during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "contractforce",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Purchasing",
-    "meaning": "報表管理；數據追蹤",
-    "example": "The finance staff arranged contractforce in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "We finalized the contractforce to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "contractform",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "人資招募；教育訓練",
-    "example": "The hr officer planned contractform in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved contractform for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "contractframe",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
-    "topic": "Accounting",
-    "meaning": "專案管理；營運協調",
-    "example": "The warehouse clerk updated contractframe in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored contractframe throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "contractgate",
-    "pos": "n.",
-    "level": 2,
+    "pos": "v.",
+    "level": 5,
     "category": "Business",
-    "topic": "Contracts",
-    "meaning": "預算管理；成本控管",
-    "example": "The project leader confirmed contractgate in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "HR documented contractgate before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "contractgrid",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Schedules",
-    "meaning": "品質管理；稽核作業",
-    "example": "The sales director documented contractgrid in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed contractgrid to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "contractguide",
     "pos": "n.",
-    "level": 1,
+    "level": 2,
     "category": "Business",
-    "topic": "Reports",
-    "meaning": "行政管理；作業執行",
-    "example": "The manager reviewed contractguide in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the contractguide before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "contracthouse",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Hiring",
-    "meaning": "會議安排；溝通協調",
-    "example": "The team submitted contracthouse in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the contracthouse after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "contracthub",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Training",
-    "meaning": "客戶服務；客訴處理",
-    "example": "The client checked contracthub in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The company discussed contracthub during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "contractindex",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Administration",
-    "meaning": "物流管理；出貨作業",
-    "example": "The vendor revised contractindex in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "We finalized the contractindex to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "contracting",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Contracts",
-    "meaning": "承攬作業",
-    "example": "The supplier prepared contracting in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved contracting for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "contractinsight",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Travel",
-    "meaning": "採購管理；供應商協作",
-    "example": "The finance staff arranged contractinsight in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored contractinsight throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "contractkeeper",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Marketing",
-    "meaning": "財務管理；帳務控管",
-    "example": "The hr officer planned contractkeeper in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "HR documented contractkeeper before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "contractline",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Communication",
-    "meaning": "報表管理；數據追蹤",
-    "example": "The warehouse clerk updated contractline in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed contractline to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "contribution",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "貢獻",
-    "example": "The project leader confirmed contribution in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the contribution before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "contributor",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Project",
-    "meaning": "貢獻者",
-    "example": "The sales director documented contributor in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the contributor after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "control",
     "pos": "n.",
-    "level": 1,
+    "level": 2,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "控管",
-    "example": "The manager reviewed control in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The company discussed control during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "controlpanel",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
-    "topic": "IT",
-    "meaning": "控制面板",
-    "example": "The team submitted controlpanel in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "We finalized the controlpanel to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "conversation",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "作業流程；處理程序",
-    "example": "The client checked conversation in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved conversation for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "conversion",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "轉換",
-    "example": "The vendor revised conversion in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored conversion throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "conversionrate",
-    "pos": "n.",
-    "level": 2,
+    "pos": "v.",
+    "level": 1,
     "category": "Business",
-    "topic": "Marketing",
-    "meaning": "轉換率",
-    "example": "The supplier prepared conversionrate in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "HR documented conversionrate before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "conveyance",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Logistics",
-    "meaning": "運輸工具",
-    "example": "The finance staff arranged conveyance in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed conveyance to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "cooldown",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
-    "topic": "Operations",
-    "meaning": "降溫期",
-    "example": "The hr officer planned cooldown in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the cooldown before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "coordination",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "協調",
-    "example": "The warehouse clerk updated coordination in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the coordination after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "coordinator",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Project",
-    "meaning": "協調人員",
-    "example": "The project leader confirmed coordinator in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The company discussed coordinator during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "coownership",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Contracts",
-    "meaning": "共同所有權",
-    "example": "The sales director documented coownership in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "We finalized the coownership to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "copyright",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Legal",
-    "meaning": "著作權",
-    "example": "The manager reviewed copyright in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved copyright for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "copywriter",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Marketing",
-    "meaning": "文案撰寫者",
-    "example": "The team submitted copywriter in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored copywriter throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "correction",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "作業流程；處理程序",
-    "example": "The client checked correction in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "HR documented correction before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "correlation",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Reporting",
-    "meaning": "相關性",
-    "example": "The vendor revised correlation in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed correlation to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "costing",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "成本計算",
-    "example": "The supplier prepared costing in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the costing before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "counteroffer",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Sales",
-    "meaning": "還價",
-    "example": "The finance staff arranged counteroffer in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the counteroffer after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "counterparty",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "交易對手",
-    "example": "The hr officer planned counterparty in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The company discussed counterparty during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "coverage",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "涵蓋範圍",
-    "example": "The warehouse clerk updated coverage in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "We finalized the coverage to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "coverageplan",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
     "topic": "Finance",
-    "meaning": "保障方案",
-    "example": "The project leader confirmed coverageplan in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved coverageplan for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "crate",
-    "pos": "n.",
-    "level": 3,
+    "pos": "v.",
+    "level": 1,
     "category": "Business",
-    "topic": "Logistics",
-    "meaning": "裝運箱",
-    "example": "The sales director documented crate in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored crate throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "credibility",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "可信度",
-    "example": "The manager reviewed credibility in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "HR documented credibility before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "creditcheck",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "信用審查",
-    "example": "The team submitted creditcheck in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed creditcheck to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "creditlimit",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "信用額度",
-    "example": "The client checked creditlimit in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the creditlimit before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "creditline",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "信用額度",
-    "example": "The vendor revised creditline in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the creditline after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "criteria",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Reporting",
-    "meaning": "評估準則",
-    "example": "The supplier prepared criteria in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The company discussed criteria during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "criterion",
     "pos": "n.",
-    "level": 1,
+    "level": 2,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "標準",
-    "example": "The finance staff arranged criterion in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "We finalized the criterion to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "crmrecord",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Sales",
-    "meaning": "客戶關係紀錄",
-    "example": "The hr officer planned crmrecord in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved crmrecord for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "crosscheck",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Quality",
-    "meaning": "交叉檢查",
-    "example": "The warehouse clerk updated crosscheck in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored crosscheck throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "crossselling",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
     "topic": "Sales",
-    "meaning": "交叉銷售",
-    "example": "The project leader confirmed crossselling in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "商務常用詞",
+    "example": "HR documented crossselling before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "crowdfunding",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "群眾募資",
-    "example": "The sales director documented crowdfunding in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed crowdfunding to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "curfew",
     "pos": "n.",
-    "level": 1,
+    "level": 2,
     "category": "Business",
-    "topic": "Travel",
-    "meaning": "宵禁規定",
-    "example": "The manager reviewed curfew in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the curfew before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "currency",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "貨幣",
-    "example": "The team submitted currency in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the currency after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "curriculum",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Training",
-    "meaning": "課程規劃",
-    "example": "The client checked curriculum in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The company discussed curriculum during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "custodian",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Administration",
-    "meaning": "保管人",
-    "example": "The vendor revised custodian in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "We finalized the custodian to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "custody",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Administration",
-    "meaning": "保管",
-    "example": "The supplier prepared custody in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved custody for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "customer",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Marketing",
-    "meaning": "顧客",
-    "example": "The finance staff arranged customer in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored customer throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "customerfile",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
-    "topic": "Service",
-    "meaning": "客戶檔案",
-    "example": "The hr officer planned customerfile in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "HR documented customerfile before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "customization",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "客製化",
-    "example": "The warehouse clerk updated customization in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed customization to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "customs",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Logistics",
-    "meaning": "海關程序",
-    "example": "The project leader confirmed customs in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the customs before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "cybersecurity",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Security",
-    "meaning": "網路安全",
-    "example": "The sales director documented cybersecurity in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the cybersecurity after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "cycle",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "週期",
-    "example": "The manager reviewed cycle in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The company discussed cycle during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "dashboard",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "儀表板",
-    "example": "The team submitted dashboard in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "We finalized the dashboard to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "dashboardview",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Reporting",
-    "meaning": "儀表板視圖",
-    "example": "The client checked dashboardview in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved dashboardview for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "data",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "資料",
-    "example": "The vendor revised data in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored data throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "datahub",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "IT",
-    "meaning": "數據中台",
-    "example": "The supplier prepared datahub in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "HR documented datahub before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "datalake",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "IT",
-    "meaning": "數據湖",
-    "example": "The finance staff arranged datalake in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed datalake to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "datamart",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "IT",
-    "meaning": "資料市集",
-    "example": "The hr officer planned datamart in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the datamart before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "datapoint",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Reporting",
-    "meaning": "數據點",
-    "example": "The warehouse clerk updated datapoint in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the datapoint after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "datavalue",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Reporting",
-    "meaning": "資料值",
-    "example": "The project leader confirmed datavalue in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The company discussed datavalue during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "deactivation",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "IT",
-    "meaning": "停用",
-    "example": "The sales director documented deactivation in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "We finalized the deactivation to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "deadline",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "截止期限",
-    "example": "The manager reviewed deadline in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved deadline for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "debit",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "借記",
-    "example": "The team submitted debit in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored debit throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "debriefing",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
-    "topic": "Meeting",
-    "meaning": "檢討會",
-    "example": "The client checked debriefing in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "HR documented debriefing before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "debt",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
     "topic": "Finance",
-    "meaning": "債務",
-    "example": "The vendor revised debt in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed debt to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "debtor",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "債務人",
-    "example": "The supplier prepared debtor in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the debtor before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "decentralization",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Strategy",
-    "meaning": "去中心化",
-    "example": "The finance staff arranged decentralization in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the decentralization after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "decision",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "決策",
-    "example": "The hr officer planned decision in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The company discussed decision during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "decisionlog",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Project",
-    "meaning": "決策紀錄",
-    "example": "The warehouse clerk updated decisionlog in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "We finalized the decisionlog to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "declaration",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "作業流程；處理程序",
-    "example": "The project leader confirmed declaration in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved declaration for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "deduction",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "扣除額",
-    "example": "The sales director documented deduction in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored deduction throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "deductionitem",
     "pos": "n.",
-    "level": 1,
+    "level": 2,
     "category": "Business",
     "topic": "Finance",
-    "meaning": "扣減款目",
-    "example": "The manager reviewed deductionitem in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "商務常用詞",
+    "example": "HR documented deductionitem before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "default",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "違約；預設值",
-    "example": "The team submitted default in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed default to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "defect",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "瑕疵",
-    "example": "The client checked defect in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the defect before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "defectrate",
-    "pos": "n.",
-    "level": 2,
+    "pos": "v.",
+    "level": 5,
     "category": "Business",
-    "topic": "Quality",
-    "meaning": "瑕疵率",
-    "example": "The vendor revised defectrate in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the defectrate after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "deferral",
-    "pos": "n.",
-    "level": 3,
+    "pos": "adj.",
+    "level": 1,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "遞延",
-    "example": "The supplier prepared deferral in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The company discussed deferral during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "definition",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "作業流程；處理程序",
-    "example": "The finance staff arranged definition in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "We finalized the definition to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "delegation",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "授權",
-    "example": "The hr officer planned delegation in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved delegation for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "delisting",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
     "topic": "Finance",
-    "meaning": "下市",
-    "example": "The warehouse clerk updated delisting in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored delisting throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "deliverable",
-    "pos": "n.",
-    "level": 2,
+    "pos": "adj.",
+    "level": 5,
     "category": "Business",
-    "topic": "Project",
-    "meaning": "交付成果",
-    "example": "The project leader confirmed deliverable in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "HR documented deliverable before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "delivery",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "交付",
-    "example": "The sales director documented delivery in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed delivery to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "deliverystatus",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Logistics",
-    "meaning": "交貨狀態",
-    "example": "The manager reviewed deliverystatus in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the deliverystatus before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "demand",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "需求",
-    "example": "The team submitted demand in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the demand after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "demandplan",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
-    "topic": "Sales",
-    "meaning": "需求規劃",
-    "example": "The client checked demandplan in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The company discussed demandplan during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "demonstration",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "作業流程；處理程序",
-    "example": "The vendor revised demonstration in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "We finalized the demonstration to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "demurrage",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Logistics",
-    "meaning": "滯箱費",
-    "example": "The supplier prepared demurrage in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved demurrage for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "departmenthead",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "HR",
-    "meaning": "部門主管",
-    "example": "The finance staff arranged departmenthead in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored departmenthead throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "departuretime",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Travel",
-    "meaning": "出發時間",
-    "example": "The hr officer planned departuretime in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "HR documented departuretime before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "dependency",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
-    "topic": "Project",
-    "meaning": "相依關係",
-    "example": "The warehouse clerk updated dependency in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed dependency to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "deposit",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "押金；存款",
-    "example": "The project leader confirmed deposit in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the deposit before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "depreciation",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "折舊",
-    "example": "The sales director documented depreciation in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the depreciation after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "deregulation",
     "pos": "n.",
-    "level": 1,
+    "level": 2,
     "category": "Business",
-    "topic": "Contracts",
-    "meaning": "鬆綁管制",
-    "example": "The manager reviewed deregulation in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The company discussed deregulation during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "description",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "說明",
-    "example": "The team submitted description in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "We finalized the description to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "design",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "設計",
-    "example": "The client checked design in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved design for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "designation",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "HR",
-    "meaning": "職稱",
-    "example": "The vendor revised designation in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored designation throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "designee",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "HR",
-    "meaning": "被指定人",
-    "example": "The supplier prepared designee in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "HR documented designee before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "deskwork",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Office",
-    "meaning": "文書工作",
-    "example": "The finance staff arranged deskwork in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed deskwork to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "destination",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "目的地",
-    "example": "The hr officer planned destination in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the destination before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "detail",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "細節",
-    "example": "The warehouse clerk updated detail in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the detail after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "detection",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Quality",
-    "meaning": "偵測",
-    "example": "The project leader confirmed detection in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The company discussed detection during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "detour",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Travel",
-    "meaning": "繞道",
-    "example": "The sales director documented detour in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "We finalized the detour to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "devaluation",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "貶值",
-    "example": "The manager reviewed devaluation in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved devaluation for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "deviation",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Quality",
-    "meaning": "偏差",
-    "example": "The team submitted deviation in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored deviation throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "deviationrate",
-    "pos": "n.",
-    "level": 3,
+    "pos": "v.",
+    "level": 4,
     "category": "Business",
-    "topic": "Quality",
-    "meaning": "偏差率",
-    "example": "The client checked deviationrate in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "HR documented deviationrate before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "device",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "裝置",
-    "example": "The vendor revised device in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed device to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "dialogue",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Communication",
-    "meaning": "對話紀錄",
-    "example": "The supplier prepared dialogue in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the dialogue before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "digitalization",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "IT",
-    "meaning": "數位轉型",
-    "example": "The finance staff arranged digitalization in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the digitalization after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "digitization",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "作業流程；處理程序",
-    "example": "The hr officer planned digitization in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The company discussed digitization during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "directive",
-    "pos": "n.",
-    "level": 3,
+    "pos": "adj.",
+    "level": 4,
     "category": "Business",
-    "topic": "Administration",
-    "meaning": "指導方針",
-    "example": "The warehouse clerk updated directive in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "We finalized the directive to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "directorship",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Administration",
-    "meaning": "董事職位",
-    "example": "The project leader confirmed directorship in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved directorship for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "disclaimer",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Contracts",
-    "meaning": "免責聲明",
-    "example": "The sales director documented disclaimer in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored disclaimer throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "discontinuation",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Manufacturing",
-    "meaning": "停產",
-    "example": "The manager reviewed discontinuation in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "HR documented discontinuation before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "discount",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "折扣",
-    "example": "The team submitted discount in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed discount to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "discrepancy",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Reporting",
-    "meaning": "差異；不一致",
-    "example": "The client checked discrepancy in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the discrepancy before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "discrepancyreport",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Reporting",
-    "meaning": "差異報告",
-    "example": "The vendor revised discrepancyreport in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the discrepancyreport after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "discussion",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "討論",
-    "example": "The supplier prepared discussion in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The company discussed discussion during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "dispatch",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "派遣；發送",
-    "example": "The finance staff arranged dispatch in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "We finalized the dispatch to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "disqualification",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Hiring",
-    "meaning": "取消資格",
-    "example": "The hr officer planned disqualification in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved disqualification for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "disruption",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
-    "topic": "Operations",
-    "meaning": "中斷",
-    "example": "The warehouse clerk updated disruption in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored disruption throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "dissatisfaction",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Service",
-    "meaning": "不滿意度",
-    "example": "The project leader confirmed dissatisfaction in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "HR documented dissatisfaction before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "distribution",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "配送；分配",
-    "example": "The sales director documented distribution in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed distribution to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "distributor",
     "pos": "n.",
-    "level": 1,
+    "level": 2,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "經銷商",
-    "example": "The manager reviewed distributor in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the distributor before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "diversification",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "作業流程；處理程序",
-    "example": "The team submitted diversification in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the diversification after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "diversion",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Logistics",
-    "meaning": "改道；轉運",
-    "example": "The client checked diversion in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The company discussed diversion during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "dividend",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "股利",
-    "example": "The vendor revised dividend in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "We finalized the dividend to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "document",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Administration",
-    "meaning": "文件",
-    "example": "The supplier prepared document in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved document for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "documentary",
-    "pos": "n.",
-    "level": 1,
+    "pos": "adj.",
+    "level": 2,
     "category": "Business",
-    "topic": "Logistics",
-    "meaning": "單據",
-    "example": "The finance staff arranged documentary in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored documentary throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "documentation",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "文件紀錄",
-    "example": "The hr officer planned documentation in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "HR documented documentation before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "documentcontrol",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Quality",
-    "meaning": "文件管制",
-    "example": "The warehouse clerk updated documentcontrol in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed documentcontrol to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "donation",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "作業流程；處理程序",
-    "example": "The project leader confirmed donation in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the donation before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "donor",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Administration",
-    "meaning": "捐助方",
-    "example": "The sales director documented donor in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the donor after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "doorstep",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Service",
-    "meaning": "到府地點",
-    "example": "The manager reviewed doorstep in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The company discussed doorstep during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "downgrade",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Service",
-    "meaning": "降級",
-    "example": "The team submitted downgrade in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "We finalized the downgrade to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "downsizing",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
-    "topic": "HR",
-    "meaning": "縮編",
-    "example": "The client checked downsizing in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved downsizing for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "downtime",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Operations",
-    "meaning": "停機時間",
-    "example": "The vendor revised downtime in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored downtime throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "draft",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Contracts",
-    "meaning": "草案",
-    "example": "The supplier prepared draft in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "HR documented draft before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "drafting",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "草擬；起草",
-    "example": "The finance staff arranged drafting in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed drafting to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "draftversion",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
-    "topic": "Contracts",
-    "meaning": "草案版本",
-    "example": "The hr officer planned draftversion in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the draftversion before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "drawdown",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "提領",
-    "example": "The warehouse clerk updated drawdown in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the drawdown after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "dresscode",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "HR",
-    "meaning": "服裝規範",
-    "example": "The project leader confirmed dresscode in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The company discussed dresscode during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "driverlicense",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Travel",
-    "meaning": "駕照資訊",
-    "example": "The sales director documented driverlicense in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "We finalized the driverlicense to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "dueamount",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
     "topic": "Finance",
-    "meaning": "應付金額",
-    "example": "The manager reviewed dueamount in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved dueamount for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "duediligence",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Contracts",
-    "meaning": "盡職調查",
-    "example": "The team submitted duediligence in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored duediligence throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "duration",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Schedule",
-    "meaning": "期間",
-    "example": "The client checked duration in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "HR documented duration before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "durationplan",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Schedule",
-    "meaning": "時程安排",
-    "example": "The vendor revised durationplan in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed durationplan to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "earningreport",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "收益報告",
-    "example": "The supplier prepared earningreport in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the earningreport before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "earnings",
     "pos": "n.",
-    "level": 1,
+    "level": 2,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "收益",
-    "example": "The finance staff arranged earnings in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the earnings after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "ecommerce",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Sales",
-    "meaning": "電子商務",
-    "example": "The hr officer planned ecommerce in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The company discussed ecommerce during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "economy",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "經濟",
-    "example": "The warehouse clerk updated economy in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "We finalized the economy to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "ecosystem",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Strategy",
-    "meaning": "合作生態系",
-    "example": "The project leader confirmed ecosystem in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved ecosystem for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "edition",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "作業流程；處理程序",
-    "example": "The sales director documented edition in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored edition throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "editor",
     "pos": "n.",
-    "level": 1,
+    "level": 2,
     "category": "Business",
-    "topic": "Communication",
-    "meaning": "編輯人員",
-    "example": "The manager reviewed editor in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "HR documented editor before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "education",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "作業流程；處理程序",
-    "example": "The team submitted education in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed education to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "efficiency",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Operations",
-    "meaning": "效率",
-    "example": "The client checked efficiency in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the efficiency before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "effort",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Project",
-    "meaning": "投入程度",
-    "example": "The vendor revised effort in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the effort after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "election",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "作業流程；處理程序",
-    "example": "The supplier prepared election in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The company discussed election during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "electricity",
     "pos": "n.",
-    "level": 1,
+    "level": 2,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "特性；性質",
-    "example": "The finance staff arranged electricity in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "We finalized the electricity to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "eligibility",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "特性；性質",
-    "example": "The hr officer planned eligibility in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved eligibility for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "eligibilitycheck",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Hiring",
-    "meaning": "資格審查",
-    "example": "The warehouse clerk updated eligibilitycheck in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored eligibilitycheck throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "emergencyplan",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Operations",
-    "meaning": "緊急應變計畫",
-    "example": "The project leader confirmed emergencyplan in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "HR documented emergencyplan before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "employee",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "HR",
-    "meaning": "員工",
-    "example": "The sales director documented employee in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed employee to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "employer",
     "pos": "n.",
-    "level": 1,
+    "level": 2,
     "category": "Business",
-    "topic": "HR",
-    "meaning": "雇主",
-    "example": "The manager reviewed employer in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the employer before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "enterprise",
-    "pos": "n.",
-    "level": 2,
+    "pos": "v.",
+    "level": 3,
     "category": "Business",
-    "topic": "Administration",
-    "meaning": "企業體",
-    "example": "The team submitted enterprise in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the enterprise after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "entity",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Administration",
-    "meaning": "法人實體",
-    "example": "The client checked entity in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The company discussed entity during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "entry",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Administration",
-    "meaning": "入場資料",
-    "example": "The vendor revised entry in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "We finalized the entry to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "equity",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "權益；股本",
-    "example": "The supplier prepared equity in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved equity for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "escalation",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "作業流程；處理程序",
-    "example": "The finance staff arranged escalation in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored escalation throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "escalationpath",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
-    "topic": "Service",
-    "meaning": "升級路徑",
-    "example": "The hr officer planned escalationpath in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "HR documented escalationpath before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "estimate",
-    "pos": "n.",
-    "level": 3,
+    "pos": "v.",
+    "level": 4,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "估算",
-    "example": "The warehouse clerk updated estimate in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed estimate to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "estimator",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Project",
-    "meaning": "估算工具",
-    "example": "The project leader confirmed estimator in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the estimator before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "ethics",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "HR",
-    "meaning": "職業倫理",
-    "example": "The sales director documented ethics in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the ethics after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "evaluation",
     "pos": "n.",
-    "level": 1,
+    "level": 2,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "評估",
-    "example": "The manager reviewed evaluation in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The company discussed evaluation during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "evidence",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "證據",
-    "example": "The team submitted evidence in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "We finalized the evidence to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "examination",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "作業流程；處理程序",
-    "example": "The client checked examination in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved examination for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "exception",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Service",
-    "meaning": "例外案件",
-    "example": "The vendor revised exception in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored exception throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "exchange",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "交換；匯率",
-    "example": "The supplier prepared exchange in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "HR documented exchange before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "execution",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "執行",
-    "example": "The finance staff arranged execution in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed execution to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "executive",
-    "pos": "n.",
+    "pos": "adj.",
     "level": 3,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "主管",
-    "example": "The hr officer planned executive in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the executive before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "exemption",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "作業流程；處理程序",
-    "example": "The warehouse clerk updated exemption in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the exemption after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "exhibit",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Marketing",
-    "meaning": "展示品",
-    "example": "The project leader confirmed exhibit in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The company discussed exhibit during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "exhibition",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "作業流程；處理程序",
-    "example": "The sales director documented exhibition in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "We finalized the exhibition to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "expectation",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "作業流程；處理程序",
-    "example": "The manager reviewed expectation in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved expectation for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "expenditure",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "支出",
-    "example": "The team submitted expenditure in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored expenditure throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "expense",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
     "topic": "Finance",
-    "meaning": "費用",
-    "example": "The client checked expense in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "商務常用詞",
+    "example": "HR documented expense before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "experience",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "經驗",
-    "example": "The vendor revised experience in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed experience to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "expertise",
-    "pos": "n.",
-    "level": 3,
+    "pos": "v.",
+    "level": 1,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "專業能力",
-    "example": "The supplier prepared expertise in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the expertise before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "expiration",
     "pos": "n.",
-    "level": 1,
+    "level": 2,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "到期",
-    "example": "The finance staff arranged expiration in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the expiration after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "export",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "出口",
-    "example": "The hr officer planned export in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The company discussed export during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "exporter",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
     "topic": "Logistics",
-    "meaning": "出口商",
-    "example": "The warehouse clerk updated exporter in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "商務常用詞",
+    "example": "We finalized the exporter to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "exposure",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "曝光；風險暴露",
-    "example": "The project leader confirmed exposure in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved exposure for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "exposurerate",
-    "pos": "n.",
+    "pos": "v.",
     "level": 1,
     "category": "Business",
-    "topic": "Marketing",
-    "meaning": "曝光比率",
-    "example": "The sales director documented exposurerate in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored exposurerate throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "extension",
     "pos": "n.",
-    "level": 1,
+    "level": 2,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "延長；擴充",
-    "example": "The manager reviewed extension in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "HR documented extension before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "facilitation",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
-    "topic": "Administration",
-    "meaning": "促進作業",
-    "example": "The team submitted facilitation in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed facilitation to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "facility",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "設施",
-    "example": "The client checked facility in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the facility before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "factor",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Reporting",
-    "meaning": "關鍵因素",
-    "example": "The vendor revised factor in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the factor after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "failure",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Quality",
-    "meaning": "失敗案例",
-    "example": "The supplier prepared failure in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The company discussed failure during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "feature",
     "pos": "n.",
-    "level": 1,
+    "level": 2,
     "category": "Business",
-    "topic": "Marketing",
-    "meaning": "功能特色",
-    "example": "The finance staff arranged feature in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "We finalized the feature to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "feedback",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "回饋",
-    "example": "The hr officer planned feedback in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved feedback for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "filing",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "歸檔；提交（文件）",
-    "example": "The warehouse clerk updated filing in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored filing throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "finance",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "財務",
-    "example": "The project leader confirmed finance in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "HR documented finance before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "financing",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "融資；資金籌措",
-    "example": "The sales director documented financing in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed financing to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "finding",
     "pos": "n.",
-    "level": 1,
+    "level": 2,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "調查結果；發現",
-    "example": "The manager reviewed finding in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the finding before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "firm",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Administration",
-    "meaning": "公司法人",
-    "example": "The team submitted firm in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the firm after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "fleet",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
-    "topic": "Logistics",
-    "meaning": "車隊",
-    "example": "The client checked fleet in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The company discussed fleet during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "flexibility",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "特性；性質",
-    "example": "The vendor revised flexibility in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "We finalized the flexibility to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "followup",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Service",
-    "meaning": "後續追蹤",
-    "example": "The supplier prepared followup in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved followup for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "forecast",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "預測",
-    "example": "The finance staff arranged forecast in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored forecast throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "form",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
-    "topic": "Administration",
-    "meaning": "表單",
-    "example": "The hr officer planned form in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "HR documented form before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "foundation",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "作業流程；處理程序",
-    "example": "The warehouse clerk updated foundation in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed foundation to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "framework",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "框架",
-    "example": "The project leader confirmed framework in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the framework before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "franchisee",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Sales",
-    "meaning": "加盟主",
-    "example": "The sales director documented franchisee in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the franchisee after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "freight",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "貨運",
-    "example": "The manager reviewed freight in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The company discussed freight during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "frequency",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Reporting",
-    "meaning": "頻率",
-    "example": "The team submitted frequency in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "We finalized the frequency to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "function",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "作業流程；處理程序",
-    "example": "The client checked function in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved function for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "fund",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "基金",
-    "example": "The vendor revised fund in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored fund throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "funding",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "資金",
-    "example": "The supplier prepared funding in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "HR documented funding before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "funnel",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Sales",
-    "meaning": "銷售漏斗",
-    "example": "The finance staff arranged funnel in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed funnel to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "gain",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "收益增幅",
-    "example": "The hr officer planned gain in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the gain before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "gateway",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "IT",
-    "meaning": "入口平台",
-    "example": "The warehouse clerk updated gateway in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the gateway after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "gatewayservice",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "IT",
-    "meaning": "閘道服務",
-    "example": "The project leader confirmed gatewayservice in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The company discussed gatewayservice during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "goal",
-    "pos": "n.",
-    "level": 3,
+    "pos": "adj.",
+    "level": 1,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "目標",
-    "example": "The sales director documented goal in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "We finalized the goal to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "goalline",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Strategy",
-    "meaning": "目標線",
-    "example": "The manager reviewed goalline in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved goalline for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "governance",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "治理",
-    "example": "The team submitted governance in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored governance throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "governor",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Administration",
-    "meaning": "主管機關代表",
-    "example": "The client checked governor in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "HR documented governor before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "graph",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Reporting",
-    "meaning": "圖表",
-    "example": "The vendor revised graph in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed graph to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "gratuity",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "特性；性質",
-    "example": "The supplier prepared gratuity in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the gratuity before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "group",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Project",
-    "meaning": "工作小組",
-    "example": "The finance staff arranged group in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the group after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "growth",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "成長",
-    "example": "The hr officer planned growth in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The company discussed growth during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "guarantee",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "保證",
-    "example": "The warehouse clerk updated guarantee in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "We finalized the guarantee to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "guideline",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "指引",
-    "example": "The project leader confirmed guideline in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved guideline for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "handlingfee",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "手續費",
-    "example": "The sales director documented handlingfee in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored handlingfee throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "handoff",
     "pos": "n.",
-    "level": 1,
+    "level": 2,
     "category": "Business",
-    "topic": "Project",
-    "meaning": "交接節點",
-    "example": "The manager reviewed handoff in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "HR documented handoff before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "handover",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
-    "topic": "Project",
-    "meaning": "交接",
-    "example": "The team submitted handover in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed handover to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "headcount",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
-    "topic": "HR",
-    "meaning": "人力編制",
-    "example": "The client checked headcount in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the headcount before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "headhunter",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Hiring",
-    "meaning": "獵才顧問",
-    "example": "The vendor revised headhunter in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the headhunter after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "headquarters",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "總部",
-    "example": "The supplier prepared headquarters in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The company discussed headquarters during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "headroom",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "預留空間",
-    "example": "The finance staff arranged headroom in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "We finalized the headroom to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "hearing",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "聽證會；審理程序",
-    "example": "The hr officer planned hearing in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved hearing for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "helpdesk",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Service",
-    "meaning": "服務台",
-    "example": "The warehouse clerk updated helpdesk in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored helpdesk throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "hierarchychart",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Administration",
-    "meaning": "層級圖",
-    "example": "The project leader confirmed hierarchychart in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "HR documented hierarchychart before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "highlight",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Reporting",
-    "meaning": "重點",
-    "example": "The sales director documented highlight in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed highlight to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "hiring",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Hiring",
-    "meaning": "招募",
-    "example": "The manager reviewed hiring in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the hiring before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "hospitality",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "特性；性質",
-    "example": "The team submitted hospitality in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the hospitality after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "host",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Meeting",
-    "meaning": "主辦單位",
-    "example": "The client checked host in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The company discussed host during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "hotline",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Service",
-    "meaning": "專線",
-    "example": "The vendor revised hotline in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "We finalized the hotline to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "hotspot",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Marketing",
-    "meaning": "熱點區域",
-    "example": "The supplier prepared hotspot in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved hotspot for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "identification",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "識別",
-    "example": "The finance staff arranged identification in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored identification throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "identifier",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "IT",
-    "meaning": "識別碼",
-    "example": "The hr officer planned identifier in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "HR documented identifier before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "identity",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "特性；性質",
-    "example": "The warehouse clerk updated identity in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed identity to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "impact",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Reporting",
-    "meaning": "影響程度",
-    "example": "The project leader confirmed impact in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the impact before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "implementation",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Project",
-    "meaning": "執行落地",
-    "example": "The sales director documented implementation in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the implementation after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "import",
     "pos": "n.",
-    "level": 1,
+    "level": 2,
     "category": "Business",
     "topic": "Logistics",
-    "meaning": "進口流程",
-    "example": "The manager reviewed import in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "商務常用詞",
+    "example": "The company discussed import during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "importer",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Logistics",
-    "meaning": "進口商",
-    "example": "The team submitted importer in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "We finalized the importer to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "inbound",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Logistics",
-    "meaning": "入庫流程",
-    "example": "The client checked inbound in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved inbound for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "incentive",
-    "pos": "n.",
-    "level": 2,
+    "pos": "adj.",
+    "level": 5,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "激勵",
-    "example": "The vendor revised incentive in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored incentive throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "incidence",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Reporting",
-    "meaning": "發生率",
-    "example": "The supplier prepared incidence in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "HR documented incidence before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "incident",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Service",
-    "meaning": "事件",
-    "example": "The finance staff arranged incident in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed incident to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "income",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "收入",
-    "example": "The hr officer planned income in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the income before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "incoterm",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
     "topic": "Logistics",
-    "meaning": "國貿條規",
-    "example": "The warehouse clerk updated incoterm in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "商務常用詞",
+    "example": "Our team updated the incoterm after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "indemnity",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Contracts",
-    "meaning": "賠償責任",
-    "example": "The project leader confirmed indemnity in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The company discussed indemnity during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "index",
@@ -8895,2108 +8755,1448 @@ window.WORDS = [
     "level": 1,
     "category": "Business",
     "topic": "Finance",
-    "meaning": "指數",
-    "example": "The sales director documented index in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "商務常用詞",
+    "example": "We finalized the index to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "indicator",
     "pos": "n.",
-    "level": 1,
+    "level": 2,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "指標",
-    "example": "The manager reviewed indicator in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved indicator for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "induction",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
-    "topic": "Training",
-    "meaning": "新人訓練",
-    "example": "The team submitted induction in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored induction throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "industry",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "產業",
-    "example": "The client checked industry in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "HR documented industry before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "inflation",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "通貨膨脹",
-    "example": "The vendor revised inflation in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed inflation to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "influence",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Marketing",
-    "meaning": "影響力",
-    "example": "The supplier prepared influence in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the influence before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "information",
     "pos": "n.",
-    "level": 1,
+    "level": 2,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "資訊",
-    "example": "The finance staff arranged information in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the information after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "infrastructure",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "基礎設施",
-    "example": "The hr officer planned infrastructure in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The company discussed infrastructure during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "initiative",
-    "pos": "n.",
-    "level": 2,
+    "pos": "adj.",
+    "level": 4,
     "category": "Business",
-    "topic": "Strategy",
-    "meaning": "倡議方案",
-    "example": "The warehouse clerk updated initiative in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "We finalized the initiative to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "innovation",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "創新",
-    "example": "The project leader confirmed innovation in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved innovation for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "inquiry",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "詢問",
-    "example": "The sales director documented inquiry in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored inquiry throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "insight",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Reporting",
-    "meaning": "洞察",
-    "example": "The manager reviewed insight in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "HR documented insight before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "insolvency",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "無力償債",
-    "example": "The team submitted insolvency in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed insolvency to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "inspection",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "檢查",
-    "example": "The client checked inspection in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the inspection before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "inspectionlog",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Quality",
-    "meaning": "檢驗紀錄",
-    "example": "The vendor revised inspectionlog in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the inspectionlog after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "installation",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "作業流程；處理程序",
-    "example": "The supplier prepared installation in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The company discussed installation during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "installer",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Operations",
-    "meaning": "安裝人員",
-    "example": "The finance staff arranged installer in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "We finalized the installer to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "institution",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Administration",
-    "meaning": "機構",
-    "example": "The hr officer planned institution in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved institution for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "instruction",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "作業流程；處理程序",
-    "example": "The warehouse clerk updated instruction in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored instruction throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "instructionset",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Training",
-    "meaning": "操作指引",
-    "example": "The project leader confirmed instructionset in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "HR documented instructionset before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "insurance",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "保險",
-    "example": "The sales director documented insurance in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed insurance to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "intake",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Service",
-    "meaning": "收件量",
-    "example": "The manager reviewed intake in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the intake before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "integration",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "IT",
-    "meaning": "整合",
-    "example": "The team submitted integration in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the integration after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "integrity",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "完整性；誠信",
-    "example": "The client checked integrity in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The company discussed integrity during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "intelligence",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "情報；智能",
-    "example": "The vendor revised intelligence in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "We finalized the intelligence to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "intensity",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "特性；性質",
-    "example": "The supplier prepared intensity in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved intensity for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "intention",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "作業流程；處理程序",
-    "example": "The finance staff arranged intention in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored intention throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "interaction",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "互動",
-    "example": "The hr officer planned interaction in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "HR documented interaction before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "interest",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "利息；興趣",
-    "example": "The warehouse clerk updated interest in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed interest to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "interview",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "HR",
-    "meaning": "面試",
-    "example": "The project leader confirmed interview in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the interview before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "interviewer",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Hiring",
-    "meaning": "面試官",
-    "example": "The sales director documented interviewer in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the interviewer after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "introduction",
     "pos": "n.",
-    "level": 1,
+    "level": 2,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "作業流程；處理程序",
-    "example": "The manager reviewed introduction in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The company discussed introduction during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "inventory",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Operations",
+    "topic": "Marketing",
     "meaning": "庫存",
-    "example": "The team submitted inventory in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "example": "The warehouse updated the inventory list before shipment this evening.",
+    "example_zh": "倉庫在今晚出貨前更新了庫存清單。"
   },
   {
     "word": "inventoryplan",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
     "topic": "Logistics",
-    "meaning": "庫存規劃",
-    "example": "The client checked inventoryplan in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved inventoryplan for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "inventoryturnover",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Reporting",
-    "meaning": "存貨周轉率",
-    "example": "The vendor revised inventoryturnover in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored inventoryturnover throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "investigation",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "作業流程；處理程序",
-    "example": "The supplier prepared investigation in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "HR documented investigation before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "investor",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "投資人",
-    "example": "The finance staff arranged investor in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed investor to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "invoice",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "發票",
-    "example": "The hr officer planned invoice in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the invoice before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "invoicee",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "受款方",
-    "example": "The warehouse clerk updated invoicee in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the invoicee after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "isolation",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "作業流程；處理程序",
-    "example": "The project leader confirmed isolation in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The company discussed isolation during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "issuance",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "發行",
-    "example": "The sales director documented issuance in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "We finalized the issuance to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "issue",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Meeting",
-    "meaning": "議題",
-    "example": "The manager reviewed issue in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved issue for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "issuer",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
     "topic": "Finance",
-    "meaning": "發行方",
-    "example": "The team submitted issuer in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored issuer throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "itemcode",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Logistics",
-    "meaning": "品項代碼",
-    "example": "The client checked itemcode in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "HR documented itemcode before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "itemization",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "作業流程；處理程序",
-    "example": "The vendor revised itemization in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed itemization to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "iteration",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Project",
-    "meaning": "迭代",
-    "example": "The supplier prepared iteration in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the iteration before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "job",
     "pos": "n.",
-    "level": 1,
+    "level": 2,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "工作",
-    "example": "The finance staff arranged job in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the job after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "jobgrade",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
-    "topic": "HR",
-    "meaning": "職等",
-    "example": "The hr officer planned jobgrade in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The company discussed jobgrade during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "jobtitle",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
-    "topic": "HR",
-    "meaning": "職稱",
-    "example": "The warehouse clerk updated jobtitle in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "We finalized the jobtitle to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "journal",
-    "pos": "n.",
-    "level": 2,
+    "pos": "adj.",
+    "level": 5,
     "category": "Business",
     "topic": "Finance",
-    "meaning": "分錄簿",
-    "example": "The project leader confirmed journal in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved journal for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "journey",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Travel",
-    "meaning": "行程",
-    "example": "The sales director documented journey in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored journey throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "judge",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Hiring",
-    "meaning": "評審委員",
-    "example": "The manager reviewed judge in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "HR documented judge before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "judgment",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "判斷；裁決",
-    "example": "The team submitted judgment in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed judgment to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "jurisdiction",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "作業流程；處理程序",
-    "example": "The client checked jurisdiction in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the jurisdiction before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "justification",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Reporting",
-    "meaning": "合理說明",
-    "example": "The vendor revised justification in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the justification after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "keyresult",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Strategy",
-    "meaning": "關鍵成果",
-    "example": "The supplier prepared keyresult in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The company discussed keyresult during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "knowledge",
     "pos": "n.",
-    "level": 1,
+    "level": 2,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "知識",
-    "example": "The finance staff arranged knowledge in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "We finalized the knowledge to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "knowledgebase",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Training",
-    "meaning": "知識庫",
-    "example": "The hr officer planned knowledgebase in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved knowledgebase for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "kpi",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Reporting",
-    "meaning": "關鍵績效指標",
-    "example": "The warehouse clerk updated kpi in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored kpi throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "label",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Logistics",
-    "meaning": "標籤",
-    "example": "The project leader confirmed label in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "HR documented label before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "labor",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "勞務",
-    "example": "The sales director documented labor in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed labor to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "landing",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Marketing",
-    "meaning": "落地頁",
-    "example": "The manager reviewed landing in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the landing before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "landscape",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Strategy",
-    "meaning": "市場版圖",
-    "example": "The team submitted landscape in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the landscape after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "launch",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "上市；啟動",
-    "example": "The client checked launch in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The company discussed launch during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "lead",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Sales",
-    "meaning": "潛在客戶",
-    "example": "The vendor revised lead in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "We finalized the lead to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "leadership",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "HR",
-    "meaning": "領導力",
-    "example": "The supplier prepared leadership in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved leadership for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "leadtime",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Logistics",
-    "meaning": "前置時間",
-    "example": "The finance staff arranged leadtime in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored leadtime throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "leakage",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Service",
-    "meaning": "流失率",
-    "example": "The hr officer planned leakage in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "HR documented leakage before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "learning",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Training",
-    "meaning": "學習進度",
-    "example": "The warehouse clerk updated learning in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed learning to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "lease",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "租賃",
-    "example": "The project leader confirmed lease in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the lease before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "leasehold",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Contracts",
-    "meaning": "租賃權",
-    "example": "The sales director documented leasehold in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the leasehold after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "ledger",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "分類帳",
-    "example": "The manager reviewed ledger in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The company discussed ledger during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "ledgerentry",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "帳簿分錄",
-    "example": "The team submitted ledgerentry in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "We finalized the ledgerentry to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "legislation",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "法規",
-    "example": "The client checked legislation in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved legislation for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "liability",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "負債；責任",
-    "example": "The vendor revised liability in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored liability throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "license",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Legal",
-    "meaning": "授權；執照",
-    "example": "The supplier prepared license in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "HR documented license before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "licensing",
     "pos": "n.",
-    "level": 1,
+    "level": 2,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "授權；核發執照",
-    "example": "The finance staff arranged licensing in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed licensing to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "lifecycle",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
-    "topic": "Operations",
-    "meaning": "生命週期",
-    "example": "The hr officer planned lifecycle in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the lifecycle before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "lifetimevalue",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Marketing",
-    "meaning": "客戶終身價值",
-    "example": "The warehouse clerk updated lifetimevalue in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the lifetimevalue after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "limitation",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Project",
-    "meaning": "限制條件",
-    "example": "The project leader confirmed limitation in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The company discussed limitation during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "linkage",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Project",
-    "meaning": "連動關係",
-    "example": "The sales director documented linkage in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "We finalized the linkage to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "liquidation",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "清算",
-    "example": "The manager reviewed liquidation in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved liquidation for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "liquidity",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "流動性",
-    "example": "The team submitted liquidity in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored liquidity throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "listing",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "清單；上市（掛牌）",
-    "example": "The client checked listing in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "HR documented listing before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "litigation",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "作業流程；處理程序",
-    "example": "The vendor revised litigation in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed litigation to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "location",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "作業流程；處理程序",
-    "example": "The supplier prepared location in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the location before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "logbook",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Operations",
-    "meaning": "記錄簿",
-    "example": "The finance staff arranged logbook in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the logbook after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "logistics",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Operations",
+    "topic": "Sales",
     "meaning": "物流",
-    "example": "The hr officer planned logistics in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "example": "The logistics team arranged delivery for the new equipment today.",
+    "example_zh": "物流團隊今天安排了新設備的配送。"
   },
   {
     "word": "longevity",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "特性；性質",
-    "example": "The warehouse clerk updated longevity in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "We finalized the longevity to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "mailing",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Communication",
-    "meaning": "郵件發送",
-    "example": "The project leader confirmed mailing in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved mailing for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "maintenance",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Operations",
-    "meaning": "維護",
-    "example": "The sales director documented maintenance in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored maintenance throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "majority",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "特性；性質",
-    "example": "The manager reviewed majority in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "HR documented majority before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "manager",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "經理",
-    "example": "The team submitted manager in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed manager to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "manifest",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
-    "topic": "Logistics",
-    "meaning": "裝載清單",
-    "example": "The client checked manifest in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the manifest before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "manpower",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "HR",
-    "meaning": "人力",
-    "example": "The vendor revised manpower in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the manpower after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "manual",
-    "pos": "n.",
-    "level": 2,
+    "pos": "adj.",
+    "level": 1,
     "category": "Business",
-    "topic": "Training",
-    "meaning": "操作手冊",
-    "example": "The supplier prepared manual in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The company discussed manual during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "manufacturer",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "製造商",
-    "example": "The finance staff arranged manufacturer in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "We finalized the manufacturer to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "manufacturing",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "製造業",
-    "example": "The hr officer planned manufacturing in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved manufacturing for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "mapping",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "IT",
-    "meaning": "對應表",
-    "example": "The warehouse clerk updated mapping in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored mapping throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "margin",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "利潤率",
-    "example": "The project leader confirmed margin in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "HR documented margin before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "marker",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Reporting",
-    "meaning": "標記",
-    "example": "The sales director documented marker in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed marker to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "market",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Marketing",
-    "meaning": "市場",
-    "example": "The manager reviewed market in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the market before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "marketing",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
     "topic": "Marketing",
-    "meaning": "行銷",
-    "example": "The team submitted marketing in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "商務常用詞",
+    "example": "Our team updated the marketing after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "marketplace",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Marketing",
-    "meaning": "市場平台",
-    "example": "The client checked marketplace in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The company discussed marketplace during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "material",
-    "pos": "n.",
-    "level": 2,
+    "pos": "adj.",
+    "level": 5,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "材料",
-    "example": "The vendor revised material in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "We finalized the material to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "matrix",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Project",
-    "meaning": "矩陣",
-    "example": "The supplier prepared matrix in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved matrix for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "maturity",
     "pos": "n.",
-    "level": 3,
+    "level": 2,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "成熟度；到期",
-    "example": "The finance staff arranged maturity in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored maturity throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "meeting",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "會議",
-    "example": "The hr officer planned meeting in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "HR documented meeting before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "membership",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "會員資格",
-    "example": "The warehouse clerk updated membership in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed membership to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "memorandum",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "備忘錄",
-    "example": "The project leader confirmed memorandum in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the memorandum before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "mention",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "作業流程；處理程序",
-    "example": "The sales director documented mention in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the mention after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "merchandise",
-    "pos": "n.",
-    "level": 3,
+    "pos": "v.",
+    "level": 2,
     "category": "Business",
-    "topic": "Sales",
-    "meaning": "商品",
-    "example": "The manager reviewed merchandise in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The company discussed merchandise during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "merchant",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "商家",
-    "example": "The team submitted merchant in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "We finalized the merchant to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "merger",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "合併",
-    "example": "The client checked merger in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved merger for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "message",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Communication",
-    "meaning": "訊息",
-    "example": "The vendor revised message in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored message throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "method",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Training",
-    "meaning": "方法",
-    "example": "The supplier prepared method in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "HR documented method before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "metric",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "指標",
-    "example": "The finance staff arranged metric in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed metric to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "middleware",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
-    "topic": "IT",
-    "meaning": "中介軟體",
-    "example": "The hr officer planned middleware in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the middleware before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "migration",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "作業流程；處理程序",
-    "example": "The warehouse clerk updated migration in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the migration after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "milestone",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "里程碑",
-    "example": "The project leader confirmed milestone in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The company discussed milestone during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "minimum",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
     "topic": "Operations",
-    "meaning": "最低標準",
-    "example": "The sales director documented minimum in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "商務常用詞",
+    "example": "We finalized the minimum to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "minority",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "特性；性質",
-    "example": "The manager reviewed minority in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved minority for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "minutes",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Meeting",
-    "meaning": "會議記錄",
-    "example": "The team submitted minutes in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored minutes throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "mission",
     "pos": "n.",
-    "level": 3,
+    "level": 4,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "使命",
-    "example": "The client checked mission in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "HR documented mission before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "model",
     "pos": "n.",
-    "level": 1,
+    "level": 5,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "模型",
-    "example": "The vendor revised model in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed model to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "moderation",
     "pos": "n.",
-    "level": 2,
+    "level": 1,
     "category": "Business",
-    "topic": "Finance",
-    "meaning": "作業流程；處理程序",
-    "example": "The supplier prepared moderation in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the moderation before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "moderator",
     "pos": "n.",
-    "level": 1,
+    "level": 2,
     "category": "Business",
-    "topic": "Meeting",
-    "meaning": "主持人",
-    "example": "The finance staff arranged moderator in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the moderator after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "modification",
     "pos": "n.",
     "level": 3,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "作業流程；處理程序",
-    "example": "The hr officer planned modification in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The company discussed modification during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "module",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
-    "topic": "IT",
-    "meaning": "模組",
-    "example": "The warehouse clerk updated module in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "We finalized the module to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "momentum",
     "pos": "n.",
-    "level": 2,
+    "level": 5,
     "category": "Business",
-    "topic": "Strategy",
-    "meaning": "動能",
-    "example": "The project leader confirmed momentum in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved momentum for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "monitor",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Operations",
-    "meaning": "監測器",
-    "example": "The sales director documented monitor in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored monitor throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "monitoring",
     "pos": "n.",
-    "level": 1,
+    "level": 2,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "監控",
-    "example": "The manager reviewed monitoring in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "HR documented monitoring before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "motivation",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "動機",
-    "example": "The team submitted motivation in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed motivation to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "multiplier",
     "pos": "n.",
-    "level": 1,
+    "level": 4,
     "category": "Business",
     "topic": "Finance",
-    "meaning": "倍數因子",
-    "example": "The client checked multiplier in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the multiplier before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "multitasking",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "多工處理",
-    "example": "The vendor revised multitasking in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the multitasking after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "negotiation",
     "pos": "n.",
     "level": 1,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "談判",
-    "example": "The supplier prepared negotiation in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "The company discussed negotiation during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "negotiator",
     "pos": "n.",
     "level": 2,
     "category": "Business",
-    "topic": "Contracts",
-    "meaning": "談判代表",
-    "example": "The finance staff arranged negotiator in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "We finalized the negotiator to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   },
   {
     "word": "network",
     "pos": "n.",
-    "level": 2,
+    "level": 3,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "網路；人脈",
-    "example": "The hr officer planned network in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Marketing",
+    "meaning": "商務常用詞",
+    "example": "The supervisor approved network for next quarter's operational plan.",
+    "example_zh": "主管核准該項安排，作為下季營運規劃。"
   },
   {
     "word": "networking",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Communication",
-    "meaning": "人脈交流",
-    "example": "The warehouse clerk updated networking in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Logistics",
+    "meaning": "商務常用詞",
+    "example": "The logistics staff monitored networking throughout the overnight delivery process.",
+    "example_zh": "物流人員在夜間配送流程中持續追蹤進度。"
   },
   {
     "word": "newsroom",
     "pos": "n.",
-    "level": 3,
+    "level": 5,
     "category": "Business",
-    "topic": "Communication",
-    "meaning": "新聞室",
-    "example": "The project leader confirmed newsroom in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Office",
+    "meaning": "商務常用詞",
+    "example": "HR documented newsroom before sending the offer to candidates.",
+    "example_zh": "人資在寄發錄取通知前先整理必要文件。"
   },
   {
     "word": "nomination",
     "pos": "n.",
-    "level": 3,
+    "level": 1,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "作業流程；處理程序",
-    "example": "The sales director documented nomination in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Finance",
+    "meaning": "商務常用詞",
+    "example": "The finance director analyzed nomination to reduce unnecessary spending this month.",
+    "example_zh": "財務主管分析內容，以降低本月不必要支出。"
   },
   {
     "word": "notebook",
     "pos": "n.",
-    "level": 1,
+    "level": 2,
     "category": "Business",
-    "topic": "Office",
-    "meaning": "工作筆記",
-    "example": "The manager reviewed notebook in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Operations",
+    "meaning": "商務常用詞",
+    "example": "The manager reviewed the notebook before the monthly budget meeting.",
+    "example_zh": "經理在每月預算會議前審查相關資料。"
   },
   {
     "word": "notice",
     "pos": "n.",
-    "level": 1,
+    "level": 3,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "通知",
-    "example": "The team submitted notice in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Human Resources",
+    "meaning": "商務常用詞",
+    "example": "Our team updated the notice after receiving client feedback yesterday.",
+    "example_zh": "我們團隊在收到客戶回饋後完成更新作業。"
   },
   {
     "word": "notification",
     "pos": "n.",
-    "level": 2,
+    "level": 4,
     "category": "Business",
-    "topic": "Business",
-    "meaning": "通知",
-    "example": "The client checked notification in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "topic": "Sales",
+    "meaning": "商務常用詞",
+    "example": "The company discussed notification during this morning's cross-department meeting.",
+    "example_zh": "公司在今天早上的跨部門會議討論此議題。"
   },
   {
     "word": "objective",
-    "pos": "n.",
-    "level": 3,
-    "category": "Business",
-    "topic": "Business",
-    "meaning": "目標",
-    "example": "The vendor revised objective in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "objectivekey",
-    "pos": "n.",
-    "level": 2,
-    "category": "Business",
-    "topic": "Strategy",
-    "meaning": "目標關鍵值",
-    "example": "The supplier prepared objectivekey in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "obligation",
-    "pos": "n.",
-    "level": 1,
-    "category": "Business",
-    "topic": "Legal",
-    "meaning": "義務",
-    "example": "The finance staff arranged obligation in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "observation",
-    "pos": "n.",
-    "level": 2,
-    "category": "Business",
-    "topic": "Business",
-    "meaning": "作業流程；處理程序",
-    "example": "The hr officer planned observation in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "occupancy",
-    "pos": "n.",
-    "level": 3,
-    "category": "Business",
-    "topic": "Travel",
-    "meaning": "入住率",
-    "example": "The warehouse clerk updated occupancy in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "occupation",
-    "pos": "n.",
-    "level": 3,
-    "category": "Business",
-    "topic": "Business",
-    "meaning": "作業流程；處理程序",
-    "example": "The project leader confirmed occupation in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "offboarding",
-    "pos": "n.",
-    "level": 2,
-    "category": "Business",
-    "topic": "HR",
-    "meaning": "離職交接",
-    "example": "The sales director documented offboarding in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "offer",
-    "pos": "n.",
-    "level": 1,
-    "category": "Business",
-    "topic": "Business",
-    "meaning": "提案；報價",
-    "example": "The manager reviewed offer in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "offering",
-    "pos": "n.",
-    "level": 1,
+    "pos": "adj.",
+    "level": 5,
     "category": "Business",
     "topic": "Marketing",
-    "meaning": "產品提案",
-    "example": "The team submitted offering in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "onboarding",
-    "pos": "n.",
-    "level": 2,
-    "category": "Business",
-    "topic": "Business",
-    "meaning": "新進人員到職流程",
-    "example": "The client checked onboarding in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "oncall",
-    "pos": "n.",
-    "level": 3,
-    "category": "Business",
-    "topic": "Service",
-    "meaning": "值班安排",
-    "example": "The vendor revised oncall in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "opener",
-    "pos": "n.",
-    "level": 1,
-    "category": "Business",
-    "topic": "Meeting",
-    "meaning": "開場簡報",
-    "example": "The supplier prepared opener in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "opening",
-    "pos": "n.",
-    "level": 2,
-    "category": "Business",
-    "topic": "Hiring",
-    "meaning": "職缺；開幕",
-    "example": "The finance staff arranged opening in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "operand",
-    "pos": "n.",
-    "level": 2,
-    "category": "Business",
-    "topic": "IT",
-    "meaning": "運算項",
-    "example": "The hr officer planned operand in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "operation",
-    "pos": "n.",
-    "level": 3,
-    "category": "Business",
-    "topic": "Finance",
-    "meaning": "營運；作業",
-    "example": "The warehouse clerk updated operation in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "operationplan",
-    "pos": "n.",
-    "level": 3,
-    "category": "Business",
-    "topic": "Operations",
-    "meaning": "營運計畫",
-    "example": "The project leader confirmed operationplan in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "operatorid",
-    "pos": "n.",
-    "level": 1,
-    "category": "Business",
-    "topic": "Operations",
-    "meaning": "操作員編號",
-    "example": "The sales director documented operatorid in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "opportunity",
-    "pos": "n.",
-    "level": 1,
-    "category": "Business",
-    "topic": "Business",
-    "meaning": "機會",
-    "example": "The manager reviewed opportunity in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "optimization",
-    "pos": "n.",
-    "level": 2,
-    "category": "Business",
-    "topic": "Business",
-    "meaning": "最佳化",
-    "example": "The team submitted optimization in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "option",
-    "pos": "n.",
-    "level": 3,
-    "category": "Business",
-    "topic": "Business",
-    "meaning": "選項",
-    "example": "The client checked option in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "order",
-    "pos": "n.",
-    "level": 1,
-    "category": "Business",
-    "topic": "Business",
-    "meaning": "訂單",
-    "example": "The vendor revised order in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "organization",
-    "pos": "n.",
-    "level": 2,
-    "category": "Business",
-    "topic": "Business",
-    "meaning": "組織",
-    "example": "The supplier prepared organization in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "organizer",
-    "pos": "n.",
-    "level": 3,
-    "category": "Business",
-    "topic": "Meeting",
-    "meaning": "主辦單位",
-    "example": "The finance staff arranged organizer in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "orientation",
-    "pos": "n.",
-    "level": 3,
-    "category": "Business",
-    "topic": "HR",
-    "meaning": "到職培訓",
-    "example": "The hr officer planned orientation in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "outbound",
-    "pos": "n.",
-    "level": 1,
-    "category": "Business",
-    "topic": "Logistics",
-    "meaning": "出庫流程",
-    "example": "The warehouse clerk updated outbound in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "outcome",
-    "pos": "n.",
-    "level": 1,
-    "category": "Business",
-    "topic": "Business",
-    "meaning": "成果",
-    "example": "The project leader confirmed outcome in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "outlook",
-    "pos": "n.",
-    "level": 2,
-    "category": "Business",
-    "topic": "Strategy",
-    "meaning": "展望",
-    "example": "The sales director documented outlook in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "output",
-    "pos": "n.",
-    "level": 2,
-    "category": "Business",
-    "topic": "Operations",
-    "meaning": "產出",
-    "example": "The manager reviewed output in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "outsourcing",
-    "pos": "n.",
-    "level": 3,
-    "category": "Business",
-    "topic": "Business",
-    "meaning": "外包",
-    "example": "The team submitted outsourcing in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "overhead",
-    "pos": "n.",
-    "level": 1,
-    "category": "Business",
-    "topic": "Business",
-    "meaning": "間接成本",
-    "example": "The client checked overhead in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "oversight",
-    "pos": "n.",
-    "level": 2,
-    "category": "Business",
-    "topic": "Business",
-    "meaning": "監督；監管",
-    "example": "The vendor revised oversight in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "overtime",
-    "pos": "n.",
-    "level": 3,
-    "category": "Business",
-    "topic": "HR",
-    "meaning": "加班時數",
-    "example": "The supplier prepared overtime in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "overview",
-    "pos": "n.",
-    "level": 2,
-    "category": "Business",
-    "topic": "Business",
-    "meaning": "概覽",
-    "example": "The finance staff arranged overview in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "overviewdeck",
-    "pos": "n.",
-    "level": 3,
-    "category": "Business",
-    "topic": "Meeting",
-    "meaning": "概覽簡報",
-    "example": "The hr officer planned overviewdeck in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "ownership",
-    "pos": "n.",
-    "level": 3,
-    "category": "Business",
-    "topic": "Business",
-    "meaning": "所有權",
-    "example": "The warehouse clerk updated ownership in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "ownershipmap",
-    "pos": "n.",
-    "level": 1,
-    "category": "Business",
-    "topic": "Project",
-    "meaning": "權責圖",
-    "example": "The project leader confirmed ownershipmap in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "package",
-    "pos": "n.",
-    "level": 1,
-    "category": "Business",
-    "topic": "Business",
-    "meaning": "套裝；包裹",
-    "example": "The sales director documented package in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "packaging",
-    "pos": "n.",
-    "level": 2,
-    "category": "Business",
-    "topic": "Business",
-    "meaning": "包裝；包裝設計",
-    "example": "The manager reviewed packaging in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "packet",
-    "pos": "n.",
-    "level": 2,
-    "category": "Business",
-    "topic": "IT",
-    "meaning": "資料封包",
-    "example": "The team submitted packet in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "panel",
-    "pos": "n.",
-    "level": 3,
-    "category": "Business",
-    "topic": "Meeting",
-    "meaning": "討論小組",
-    "example": "The client checked panel in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "paperwork",
-    "pos": "n.",
-    "level": 3,
-    "category": "Business",
-    "topic": "Business",
-    "meaning": "文書作業",
-    "example": "The vendor revised paperwork in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "parameter",
-    "pos": "n.",
-    "level": 1,
-    "category": "Business",
-    "topic": "IT",
-    "meaning": "參數",
-    "example": "The supplier prepared parameter in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "participant",
-    "pos": "n.",
-    "level": 1,
-    "category": "Business",
-    "topic": "Business",
-    "meaning": "參與者",
-    "example": "The finance staff arranged participant in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "participation",
-    "pos": "n.",
-    "level": 2,
-    "category": "Business",
-    "topic": "Business",
-    "meaning": "作業流程；處理程序",
-    "example": "The hr officer planned participation in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "partner",
-    "pos": "n.",
-    "level": 2,
-    "category": "Business",
-    "topic": "Strategy",
-    "meaning": "合作夥伴",
-    "example": "The warehouse clerk updated partner in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "partnership",
-    "pos": "n.",
-    "level": 3,
-    "category": "Business",
-    "topic": "Business",
-    "meaning": "夥伴關係",
-    "example": "The project leader confirmed partnership in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "passenger",
-    "pos": "n.",
-    "level": 3,
-    "category": "Business",
-    "topic": "Travel",
-    "meaning": "乘客",
-    "example": "The sales director documented passenger in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "pathway",
-    "pos": "n.",
-    "level": 1,
-    "category": "Business",
-    "topic": "Project",
-    "meaning": "執行路徑",
-    "example": "The manager reviewed pathway in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "payee",
-    "pos": "n.",
-    "level": 2,
-    "category": "Business",
-    "topic": "Finance",
-    "meaning": "收款人",
-    "example": "The team submitted payee in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "payment",
-    "pos": "n.",
-    "level": 1,
-    "category": "Business",
-    "topic": "Finance",
-    "meaning": "付款",
-    "example": "The client checked payment in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "payroll",
-    "pos": "n.",
-    "level": 2,
-    "category": "Business",
-    "topic": "Finance",
-    "meaning": "薪資名冊",
-    "example": "The vendor revised payroll in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "paystub",
-    "pos": "n.",
-    "level": 1,
-    "category": "Business",
-    "topic": "HR",
-    "meaning": "薪資單",
-    "example": "The supplier prepared paystub in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "penalty",
-    "pos": "n.",
-    "level": 3,
-    "category": "Business",
-    "topic": "Business",
-    "meaning": "罰則",
-    "example": "The finance staff arranged penalty in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "penetration",
-    "pos": "n.",
-    "level": 3,
-    "category": "Business",
-    "topic": "Marketing",
-    "meaning": "市場滲透率",
-    "example": "The hr officer planned penetration in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "pension",
-    "pos": "n.",
-    "level": 1,
-    "category": "Business",
-    "topic": "Finance",
-    "meaning": "退休金",
-    "example": "The warehouse clerk updated pension in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "percentage",
-    "pos": "n.",
-    "level": 2,
-    "category": "Business",
-    "topic": "Reporting",
-    "meaning": "百分比",
-    "example": "The project leader confirmed percentage in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "performance",
-    "pos": "n.",
-    "level": 2,
-    "category": "Business",
-    "topic": "Business",
-    "meaning": "績效",
-    "example": "The sales director documented performance in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "permission",
-    "pos": "n.",
-    "level": 3,
-    "category": "Business",
-    "topic": "Legal",
-    "meaning": "許可",
-    "example": "The manager reviewed permission in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "permit",
-    "pos": "n.",
-    "level": 1,
-    "category": "Business",
-    "topic": "Legal",
-    "meaning": "許可證",
-    "example": "The team submitted permit in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "personnel",
-    "pos": "n.",
-    "level": 2,
-    "category": "Business",
-    "topic": "HR",
-    "meaning": "人事",
-    "example": "The client checked personnel in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "phase",
-    "pos": "n.",
-    "level": 3,
-    "category": "Business",
-    "topic": "Project",
-    "meaning": "階段",
-    "example": "The vendor revised phase in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "pipeline",
-    "pos": "n.",
-    "level": 3,
-    "category": "Business",
-    "topic": "Business",
-    "meaning": "管線；案件池",
-    "example": "The supplier prepared pipeline in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "planner",
-    "pos": "n.",
-    "level": 1,
-    "category": "Business",
-    "topic": "Schedule",
-    "meaning": "規劃人員",
-    "example": "The finance staff arranged planner in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "planning",
-    "pos": "n.",
-    "level": 2,
-    "category": "Business",
-    "topic": "Business",
-    "meaning": "規劃",
-    "example": "The hr officer planned planning in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "platform",
-    "pos": "n.",
-    "level": 3,
-    "category": "Business",
-    "topic": "Business",
-    "meaning": "平台",
-    "example": "The warehouse clerk updated platform in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "policy",
-    "pos": "n.",
-    "level": 1,
-    "category": "Business",
-    "topic": "Legal",
-    "meaning": "政策",
-    "example": "The project leader confirmed policy in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "portfolio",
-    "pos": "n.",
-    "level": 2,
-    "category": "Business",
-    "topic": "Business",
-    "meaning": "投資組合",
-    "example": "The sales director documented portfolio in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "商務常用詞",
+    "example": "We finalized the objective to keep the project schedule on track.",
+    "example_zh": "我們完成最後定稿，讓專案時程維持穩定。"
   }
 ];

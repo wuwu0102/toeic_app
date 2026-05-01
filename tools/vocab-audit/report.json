@@ -1,7 +1,12 @@
 {
-  "total": 1100,
-  "verified_total": 1100,
-  "invalid_count": 0,
-  "repeated_template_count": 0,
+  "total_words": 1020,
+  "passed_count": 1020,
+  "error_count": 0,
+  "removed_fake_words": 0,
+  "replaced_words": 0,
+  "rewritten_examples": 0,
+  "fixed_zh_translations": 0,
+  "lookup_words_added": 0,
+  "manual_review_items": [],
   "invalid": []
 }
