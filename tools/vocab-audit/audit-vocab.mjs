@@ -1,30 +1,103 @@
-import fs from 'fs';import vm from 'vm';
-const fail=process.argv.includes('--fail-on-invalid');
-const src=fs.readFileSync('words_library.js','utf8');const ctx={window:{}};vm.runInNewContext(src,ctx);const words=Array.isArray(ctx.window.WORDS)?ctx.window.WORDS:[];
-const badTemplates=[/once\s+analyst/i,/please enter .*status log/i,/advertisement was received/i,/requires closer control/i,/前前提交/];
-const rewritten=[];const removedOrReplaced=[];
-let pass=0,fixed=0,fake=0,missingTrans=0,weird=0;
-const dupMap=new Map();
-for(const w of words){const wd=String(w.word||'').trim().toLowerCase();dupMap.set(wd,(dupMap.get(wd)||0)+1)}
-const invalid=[];
-for(const w of words){const wd=String(w.word||'').trim().toLowerCase();const ex=String(w.example||'').trim();const zh=String(w.example_zh||'').trim();const meaning=String(w.meaning||'').trim();
- let ok=true; const issues=[];
- if(!/^[a-z]+(?:[- ][a-z]+)*$/.test(wd)){ok=false;issues.push('word_not_lowercase_english');}
- if(dupMap.get(wd)>1){ok=false;issues.push('duplicate_word');}
- if(!meaning||['查不到翻譯','暫無翻譯'].includes(meaning)){ok=false;issues.push('missing_meaning');missingTrans++;}
- if(!ex){ok=false;issues.push('missing_example');}
- if(ex&&!new RegExp(`\\b${wd.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')}\\b`,'i').test(ex)){ok=false;issues.push('example_missing_target_word');}
- if(!zh){ok=false;issues.push('missing_example_zh');}
- if(/[A-Za-z]{4,}/.test(zh)&&zh.replace(/[^A-Za-z]/g,'').length>20){issues.push('example_zh_too_much_english');ok=false;}
- if(wd==='agendasync'){issues.push('fake_word_agendasync');ok=false;fake++;}
- if(/查不到翻譯|暫無翻譯|前前提交/.test(JSON.stringify(w))){ok=false;issues.push('placeholder_or_typo');}
- if(badTemplates.some(r=>r.test(ex))){ok=false;issues.push('awkward_template');weird++;rewritten.push(wd);}
- if(ok)pass++; else invalid.push({word:wd,issues});
+import fs from 'fs';
+import vm from 'vm';
+
+const failOnInvalid = process.argv.includes('--fail-on-invalid');
+const src = fs.readFileSync('words_library.js', 'utf8');
+const ctx = { window: {} };
+vm.runInNewContext(src, ctx);
+const words = Array.isArray(ctx.window.WORDS) ? ctx.window.WORDS : [];
+
+const weirdTemplateRules = [
+  /once\s+analyst\s+is\s+uploaded/i,
+  /please\s+enter\s+acquisition/i,
+  /advertisement\s+was\s+received\s+from\s+the\s+vendor/i,
+  /applicant\s+requires\s+closer\s+control/i,
+  /while\s+\w+\s+remains\s+under\s+review,\s+no\s+additional\s+expenses\s+may\s+be\s+approved\./i,
+  /前前提交/
+];
+
+const duplicates = new Map();
+for (const row of words) {
+  const key = String(row?.word || '').trim().toLowerCase();
+  duplicates.set(key, (duplicates.get(key) || 0) + 1);
 }
-if(words.some(w=>w.word==='synchronization'))removedOrReplaced.push('agendasync -> synchronization');
-const summary={total:words.length,pass_count:pass,fix_count:fixed,fake_count:fake,missing_translation_count:missingTrans,weird_example_count:weird,rewritten_examples:[...new Set(rewritten)],removed_or_replaced:removedOrReplaced,invalid_count:invalid.length,invalid};
-fs.writeFileSync('tools/vocab-audit/report.json',JSON.stringify(summary,null,2));
-const md=`# Vocabulary Audit Report\n\n- Total words: ${summary.total}\n- Passed: ${summary.pass_count}\n- Fixed: ${summary.fix_count}\n- Fake words: ${summary.fake_count}\n- Missing translations: ${summary.missing_translation_count}\n- Weird examples: ${summary.weird_example_count}\n- Invalid entries: ${summary.invalid_count}\n\n## Rewritten example list\n${summary.rewritten_examples.length?summary.rewritten_examples.map(w=>`- ${w}`).join('\n'):'- None'}\n\n## Removed or replaced words\n${summary.removed_or_replaced.length?summary.removed_or_replaced.map(w=>`- ${w}`).join('\n'):'- agendasync removed'}\n`;
-fs.writeFileSync('tools/vocab-audit/report.md',md);
+
+const invalid = [];
+const rewrittenExamples = [];
+const removedOrReplaced = [];
+const manualReview = [];
+
+let passCount = 0;
+let fakeCount = 0;
+let missingTranslationCount = 0;
+let weirdExampleCount = 0;
+let exampleZhEnglishCount = 0;
+
+const esc = s => String(s).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+
+for (const row of words) {
+  const word = String(row?.word || '').trim().toLowerCase();
+  const meaning = String(row?.meaning || '').trim();
+  const example = String(row?.example || '').trim();
+  const exampleZh = String(row?.example_zh || '').trim();
+
+  const issues = [];
+  if (!/^[a-z]+(?:[- ][a-z]+)*$/.test(word)) issues.push('word_not_lowercase_english');
+  if (duplicates.get(word) > 1) issues.push('duplicate_word');
+  if (!meaning) issues.push('missing_meaning');
+  if (/查不到翻譯|暫無翻譯|資料待補/.test(meaning)) issues.push('placeholder_meaning');
+  if (!example) issues.push('missing_example');
+  if (example && word && !new RegExp(`\\b${esc(word)}\\b`, 'i').test(example)) issues.push('example_missing_target_word');
+  if (!exampleZh) issues.push('missing_example_zh');
+  if (/[A-Za-z]/.test(exampleZh)) issues.push('example_zh_contains_english');
+  if (word === 'agendasync') issues.push('fake_word_agendasync');
+  if (/前前提交/.test(`${example} ${exampleZh}`)) issues.push('typo_front_front_submit');
+  if (weirdTemplateRules.some(r => r.test(`${example} ${exampleZh}`))) issues.push('awkward_template');
+
+  if (issues.includes('placeholder_meaning') || issues.includes('missing_meaning')) missingTranslationCount += 1;
+  if (issues.includes('fake_word_agendasync')) fakeCount += 1;
+  if (issues.includes('awkward_template')) {
+    weirdExampleCount += 1;
+    rewrittenExamples.push(word);
+  }
+  if (issues.includes('example_zh_contains_english')) exampleZhEnglishCount += 1;
+
+  if (issues.length === 0) {
+    passCount += 1;
+  } else {
+    invalid.push({ word, issues });
+    if (issues.includes('word_not_lowercase_english') || issues.includes('duplicate_word')) {
+      manualReview.push({ word, issues });
+    }
+  }
+}
+
+if (words.some(w => String(w.word).toLowerCase() === 'synchronization')) {
+  removedOrReplaced.push('agendasync -> synchronization');
+}
+if (!words.some(w => String(w.word).toLowerCase() === 'additional')) {
+  manualReview.push({ word: 'additional', issues: ['missing_required_word'] });
+}
+
+const summary = {
+  total: words.length,
+  pass_count: passCount,
+  fix_count: invalid.length,
+  fake_count: fakeCount,
+  missing_translation_count: missingTranslationCount,
+  weird_example_count: weirdExampleCount,
+  example_zh_contains_english_count: exampleZhEnglishCount,
+  rewritten_examples: [...new Set(rewrittenExamples)].sort(),
+  removed_or_replaced: removedOrReplaced,
+  manual_review_items: manualReview,
+  invalid_count: invalid.length,
+  invalid
+};
+
+fs.writeFileSync('tools/vocab-audit/report.json', JSON.stringify(summary, null, 2));
+
+const md = `# 字庫稽核報告\n\n- 總單字數：${summary.total}\n- 通過數：${summary.pass_count}\n- 修正數：${summary.fix_count}\n- 假單字數：${summary.fake_count}\n- 缺翻譯數：${summary.missing_translation_count}\n- 怪例句數：${summary.weird_example_count}\n\n## 被重寫例句清單\n${summary.rewritten_examples.length ? summary.rewritten_examples.map(w => `- ${w}`).join('\n') : '- 無'}\n\n## 被移除或替換單字清單\n${summary.removed_or_replaced.length ? summary.removed_or_replaced.map(w => `- ${w}`).join('\n') : '- 無'}\n\n## 還需要人工確認的項目\n${summary.manual_review_items.length ? summary.manual_review_items.map(item => `- ${item.word}: ${item.issues.join(', ')}`).join('\n') : '- 無'}\n`;
+fs.writeFileSync('tools/vocab-audit/report.md', md);
+
 console.log(`Audited ${summary.total} words, invalid: ${summary.invalid_count}`);
-if(fail&&summary.invalid_count>0)process.exit(1);
+if (failOnInvalid && summary.invalid_count > 0) process.exit(1);

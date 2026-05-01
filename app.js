@@ -22,8 +22,14 @@ function getAppVersion(){return (window.APP_CONFIG&&window.APP_CONFIG.APP_VERSIO
 function getAppName(){return (window.APP_CONFIG&&window.APP_CONFIG.APP_NAME)||'TOEIC v7.9 正式版'}
 function getStudyWords(){return Object.values(state.words)}
 function isWordEntryValidForStudy(w){
+const word=String(w?.word||'').trim().toLowerCase();
 const meaning=String(w?.meaning||'').trim();
+const example=String(w?.example||w?.example_en||'').trim();
+const exampleZh=String(w?.example_zh||'').trim();
+if(!word||!/^[a-z]+(?:[- ][a-z]+)*$/.test(word))return false;
 if(!meaning||meaning==='資料待補')return false;
+if(!example||!exampleZh)return false;
+if(/[A-Za-z]{2,}/.test(exampleZh))return false;
 return true
 }
 function escapeRegExp(s){return String(s||'').replace(/[.*+?^${}()|[\]\\]/g,'\\$&')}
@@ -219,7 +225,7 @@ const word=String(w?.word||'').trim().toLowerCase();
 return {
 id,word,
 pos:String(w?.pos||'n.').trim()||'n.',
-meaning:(()=>{const raw=String(w?.meaning||'').trim();if(raw)return raw;console.warn('[vocab] missing meaning:',word);return '資料待補'})(),
+meaning:(()=>{const raw=String(w?.meaning||'').trim();if(raw&&raw!==word)return raw;console.warn('[vocab] missing or invalid meaning for word:',word||`#${id}`);return '資料待補'})(),
 phonetic:String(w?.phonetic||'').trim(),
 example:String(w?.example||'').trim(),
 example_en:String(w?.example_en||'').trim(),

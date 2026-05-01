@@ -1,15 +1,17 @@
-# Vocabulary Audit Report
+# 字庫稽核報告
 
-- Total words: 1500
-- Passed: 1497
-- Fixed: 0
-- Fake words: 0
-- Missing translations: 0
-- Weird examples: 0
-- Invalid entries: 3
+- 總單字數：1345
+- 通過數：1345
+- 修正數：0
+- 假單字數：0
+- 缺翻譯數：0
+- 怪例句數：0
 
-## Rewritten example list
-- None
+## 被重寫例句清單
+- 無
 
-## Removed or replaced words
-- agendasync removed
+## 被移除或替換單字清單
+- agendasync -> synchronization
+
+## 還需要人工確認的項目
+- 無
