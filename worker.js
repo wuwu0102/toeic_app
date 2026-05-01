@@ -77,6 +77,9 @@ const LOCAL_LOOKUP = {
   to: '到；對',
   in: '在…裡',
   on: '在…上',
+
+  at: '在',
+  by: '由；藉由',
   with: '和；使用',
   our: '我們的',
   its: '它的'
