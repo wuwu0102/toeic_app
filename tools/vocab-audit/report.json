@@ -1,32 +1,16 @@
 {
-  "total": 1500,
-  "pass_count": 1497,
+  "total": 1345,
+  "pass_count": 1345,
   "fix_count": 0,
   "fake_count": 0,
   "missing_translation_count": 0,
   "weird_example_count": 0,
+  "example_zh_contains_english_count": 0,
   "rewritten_examples": [],
-  "removed_or_replaced": [],
-  "invalid_count": 3,
-  "invalid": [
-    {
-      "word": "remittance",
-      "issues": [
-        "duplicate_word",
-        "example_missing_target_word"
-      ]
-    },
-    {
-      "word": "settlement",
-      "issues": [
-        "example_missing_target_word"
-      ]
-    },
-    {
-      "word": "remittance",
-      "issues": [
-        "duplicate_word"
-      ]
-    }
-  ]
+  "removed_or_replaced": [
+    "agendasync -> synchronization"
+  ],
+  "manual_review_items": [],
+  "invalid_count": 0,
+  "invalid": []
 }
