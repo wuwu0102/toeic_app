@@ -1,16 +1,7 @@
 {
-  "total": 1345,
-  "pass_count": 1345,
-  "fix_count": 0,
-  "fake_count": 0,
-  "missing_translation_count": 0,
-  "weird_example_count": 0,
-  "example_zh_contains_english_count": 0,
-  "rewritten_examples": [],
-  "removed_or_replaced": [
-    "agendasync -> synchronization"
-  ],
-  "manual_review_items": [],
+  "total": 1100,
+  "verified_total": 1100,
   "invalid_count": 0,
+  "repeated_template_count": 0,
   "invalid": []
 }
