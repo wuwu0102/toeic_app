@@ -176,8 +176,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "縮寫",
-    "example": "The team submitted abbreviation in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Please define each abbreviation in your report before the meeting.",
+    "example_zh": "請在開會前先在報告中註明每個縮寫的意思。"
   },
   {
     "word": "absenteeism",
@@ -186,8 +186,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "缺勤率",
-    "example": "The client checked absenteeism in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "HR monitors absenteeism monthly to keep staffing levels stable.",
+    "example_zh": "人資每月都會追蹤缺勤率，以維持人力配置穩定。"
   },
   {
     "word": "absorption",
@@ -196,8 +196,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "吸收率",
-    "example": "The vendor revised absorption in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The finance report shows slow absorption of rising material costs.",
+    "example_zh": "財務報告顯示，增加的原料成本吸收速度偏慢。"
   },
   {
     "word": "abundance",
@@ -206,8 +206,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "充足供給",
-    "example": "The supplier prepared abundance in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The store had an abundance of office chairs after the supplier discount.",
+    "example_zh": "供應商折扣後，門市的辦公椅庫存相當充足。"
   },
   {
     "word": "acceptance",
@@ -216,8 +216,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "驗收",
-    "example": "The finance staff arranged acceptance in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Final payment will be released after customer acceptance of the system.",
+    "example_zh": "客戶完成系統驗收後，才會撥付尾款。"
   },
   {
     "word": "access",
