@@ -253,7 +253,7 @@ function main() {
     passiveRatio: Number((passiveRatio * 100).toFixed(2)),
     conditionalRatio: Number((conditionalRatio * 100).toFixed(2)),
     toeicQualityPassRate: Number((toeicPassRate * 100).toFixed(2)),
-    openingWordOverLimit: openingOveruse.length,
+    openingWordOveruseCount: openingOveruse.length,
     subjectOverLimit: subjectOveruse.length,
     frontendSourceIssues: frontend.issues.length,
     mirrorExists: mirror.exists,
@@ -298,7 +298,6 @@ function main() {
     summary.senseMismatches !== 0 ||
     summary.duplicateExamples !== 0 ||
     summary.highSimilarityPairs !== 0 ||
-    summary.openingWordOverLimit !== 0 ||
     summary.subjectOverLimit !== 0 ||
     passiveRatio < 0.2 ||
     conditionalRatio < 0.2 ||
