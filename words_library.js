@@ -1,313 +1,173 @@
 window.WORDS = [
   {
     "word": "completed",
-    "pos": "prep.",
+    "pos": "v./adj.",
     "level": 1,
     "category": "Business",
     "topic": "Core",
-    "meaning": "已完成",
-    "example": "The manager reviewed completed in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "已完成的；完成了",
+    "example": "The technician completed the inspection before the client arrived.",
+    "example_zh": "技術人員在客戶抵達前完成了檢查。"
   },
   {
     "word": "issued",
-    "pos": "prep.",
+    "pos": "v.",
     "level": 1,
     "category": "Business",
     "topic": "Core",
-    "meaning": "已簽發",
-    "example": "The team submitted issued in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "發出；簽發",
+    "example": "The company issued a new policy for remote employees.",
+    "example_zh": "公司為遠端員工發布了一項新政策。"
   },
   {
     "word": "confirmed",
-    "pos": "prep.",
+    "pos": "v.",
     "level": 1,
     "category": "Business",
     "topic": "Core",
-    "meaning": "已確認",
-    "example": "The client checked confirmed in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "確認",
+    "example": "The hotel confirmed our reservation by email yesterday.",
+    "example_zh": "飯店昨天透過電子郵件確認了我們的預約。"
   },
   {
     "word": "arranged",
-    "pos": "prep.",
+    "pos": "v.",
     "level": 1,
     "category": "Business",
     "topic": "Core",
-    "meaning": "已安排",
-    "example": "The vendor revised arranged in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "安排",
+    "example": "The logistics team arranged delivery for the new equipment.",
+    "example_zh": "物流團隊安排了新設備的配送。"
   },
   {
     "word": "received",
-    "pos": "prep.",
+    "pos": "v.",
     "level": 1,
     "category": "Business",
     "topic": "Core",
-    "meaning": "已收到",
-    "example": "The supplier prepared received in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "收到",
+    "example": "The office received the invoice before the payment deadline.",
+    "example_zh": "辦公室在付款截止日前收到了發票。"
   },
   {
     "word": "updated",
-    "pos": "prep.",
+    "pos": "v.",
     "level": 1,
     "category": "Business",
     "topic": "Core",
-    "meaning": "已更新",
-    "example": "The finance staff arranged updated in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "更新",
+    "example": "The warehouse updated the inventory list before shipment.",
+    "example_zh": "倉庫在出貨前更新了庫存清單。"
   },
   {
     "word": "submitted",
-    "pos": "prep.",
+    "pos": "v.",
     "level": 1,
     "category": "Business",
     "topic": "Core",
-    "meaning": "已提交",
-    "example": "The hr officer planned submitted in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "提交",
+    "example": "The applicant submitted her resume before the deadline.",
+    "example_zh": "這位應徵者在截止日前提交了履歷。"
   },
   {
     "word": "prepared",
-    "pos": "prep.",
+    "pos": "v.",
     "level": 1,
     "category": "Business",
     "topic": "Core",
-    "meaning": "已準備",
-    "example": "The warehouse clerk updated prepared in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "準備",
+    "example": "The analyst prepared a short report for the meeting.",
+    "example_zh": "分析師為會議準備了一份簡短報告。"
   },
   {
     "word": "reviewed",
-    "pos": "prep.",
+    "pos": "v.",
     "level": 1,
     "category": "Business",
     "topic": "Core",
-    "meaning": "已審查",
-    "example": "The project leader confirmed reviewed in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "審查；檢閱",
+    "example": "The accounting team reviewed the account before issuing payment.",
+    "example_zh": "會計團隊在付款前審查了該帳戶。"
   },
   {
     "word": "approved",
-    "pos": "prep.",
+    "pos": "v.",
     "level": 1,
     "category": "Business",
     "topic": "Core",
-    "meaning": "已核准",
-    "example": "The sales director documented approved in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "核准",
+    "example": "The manager approved the expense report this morning.",
+    "example_zh": "經理今天早上核准了費用報告。"
   },
   {
     "word": "assignment",
-    "pos": "prep.",
+    "pos": "n.",
     "level": 1,
     "category": "Business",
     "topic": "Core",
-    "meaning": "任務",
-    "example": "The manager reviewed assignment in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "任務；指派工作",
+    "example": "The manager gave each employee a different assignment.",
+    "example_zh": "經理給每位員工不同的任務。"
   },
   {
     "word": "report",
-    "pos": "prep.",
+    "pos": "n./v.",
     "level": 1,
     "category": "Business",
     "topic": "Core",
-    "meaning": "報告",
-    "example": "The team submitted report in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "報告；回報",
+    "example": "The analyst prepared a report for the management team.",
+    "example_zh": "分析師為管理團隊準備了一份報告。"
   },
   {
     "word": "schedule",
-    "pos": "prep.",
+    "pos": "n./v.",
     "level": 1,
     "category": "Business",
     "topic": "Core",
-    "meaning": "行程",
-    "example": "The client checked schedule in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "時程；安排",
+    "example": "The assistant updated the meeting schedule this afternoon.",
+    "example_zh": "助理今天下午更新了會議時程。"
   },
   {
     "word": "warehouse",
-    "pos": "prep.",
+    "pos": "n.",
     "level": 1,
     "category": "Business",
     "topic": "Core",
     "meaning": "倉庫",
-    "example": "The vendor revised warehouse in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "example": "The warehouse received the shipment early this morning.",
+    "example_zh": "倉庫今天一早收到了這批貨。"
   },
   {
     "word": "shipping",
-    "pos": "prep.",
+    "pos": "n.",
     "level": 1,
     "category": "Business",
     "topic": "Core",
-    "meaning": "運輸",
-    "example": "The supplier prepared shipping in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "出貨；運送",
+    "example": "The shipping department checked the package before delivery.",
+    "example_zh": "出貨部門在配送前檢查了包裹。"
   },
   {
     "word": "team",
-    "pos": "prep.",
+    "pos": "n.",
     "level": 1,
     "category": "Business",
     "topic": "Core",
     "meaning": "團隊",
-    "example": "The finance staff arranged team in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "example": "The marketing team launched a new campaign yesterday.",
+    "example_zh": "行銷團隊昨天推出了一項新活動。"
   },
   {
     "word": "review",
-    "pos": "prep.",
+    "pos": "n./v.",
     "level": 1,
     "category": "Business",
     "topic": "Core",
-    "meaning": "審查",
-    "example": "The hr officer planned review in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "unless",
-    "pos": "prep.",
-    "level": 1,
-    "category": "Business",
-    "topic": "Core",
-    "meaning": "除非",
-    "example": "The warehouse clerk updated unless in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "if",
-    "pos": "prep.",
-    "level": 1,
-    "category": "Business",
-    "topic": "Core",
-    "meaning": "如果",
-    "example": "The project leader confirmed if in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "because",
-    "pos": "prep.",
-    "level": 1,
-    "category": "Business",
-    "topic": "Core",
-    "meaning": "因為",
-    "example": "The sales director documented because in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "while",
-    "pos": "prep.",
-    "level": 1,
-    "category": "Business",
-    "topic": "Core",
-    "meaning": "當",
-    "example": "The manager reviewed while in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "during",
-    "pos": "prep.",
-    "level": 1,
-    "category": "Business",
-    "topic": "Core",
-    "meaning": "在期間",
-    "example": "The team submitted during in the budget plan after lunch.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "after",
-    "pos": "prep.",
-    "level": 1,
-    "category": "Business",
-    "topic": "Core",
-    "meaning": "在之後",
-    "example": "The client checked after in the inventory list during the audit.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "before",
-    "pos": "prep.",
-    "level": 1,
-    "category": "Business",
-    "topic": "Core",
-    "meaning": "在之前",
-    "example": "The vendor revised before in the contract before final approval.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "with",
-    "pos": "prep.",
-    "level": 1,
-    "category": "Business",
-    "topic": "Core",
-    "meaning": "和",
-    "example": "The supplier prepared with in the delivery record after customer feedback.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "for",
-    "pos": "prep.",
-    "level": 1,
-    "category": "Business",
-    "topic": "Core",
-    "meaning": "為了",
-    "example": "The finance staff arranged for in the meeting report before shipment departure.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "of",
-    "pos": "prep.",
-    "level": 1,
-    "category": "Business",
-    "topic": "Core",
-    "meaning": "的",
-    "example": "The hr officer planned of in the schedule during budget review.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "to",
-    "pos": "prep.",
-    "level": 1,
-    "category": "Business",
-    "topic": "Core",
-    "meaning": "到",
-    "example": "The warehouse clerk updated to in the logistics form before vendor payment.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "an",
-    "pos": "prep.",
-    "level": 1,
-    "category": "Business",
-    "topic": "Core",
-    "meaning": "一個",
-    "example": "The project leader confirmed an in the application file after the weekly meeting.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "a",
-    "pos": "prep.",
-    "level": 1,
-    "category": "Business",
-    "topic": "Core",
-    "meaning": "一個",
-    "example": "The sales director documented a in the shipment before contract signing.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
-  },
-  {
-    "word": "the",
-    "pos": "prep.",
-    "level": 1,
-    "category": "Business",
-    "topic": "Core",
-    "meaning": "這個",
-    "example": "The manager reviewed the in the invoice before Monday.",
-    "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。"
+    "meaning": "審查；檢閱",
+    "example": "The supervisor completed the review before the meeting.",
+    "example_zh": "主管在會議前完成了審查。"
   },
   {
     "word": "abbreviation",
