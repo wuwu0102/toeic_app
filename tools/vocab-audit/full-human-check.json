@@ -1,0 +1,528 @@
+{
+  "generated_at": "2026-05-01T23:59:41.502Z",
+  "total": 1100,
+  "pass_count": 1069,
+  "suspicious_count": 0,
+  "obvious_error_count": 31,
+  "error_rate": 2.82,
+  "suspicious_rate": 0,
+  "merge_recommendation": "不建議 merge",
+  "issues": [
+    {
+      "level": "obvious",
+      "word": "completed",
+      "pos": "prep.",
+      "score": 16,
+      "fatal": [
+        "pos 明顯錯誤（prep.）",
+        "example 命中明顯錯誤搭配 pattern"
+      ],
+      "reasons": [
+        "pos 可疑",
+        "example_zh 偏模板化",
+        "example_zh 命中特定禁句"
+      ],
+      "example": "The manager reviewed completed in the invoice before Monday.",
+      "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。",
+      "suggestion": "優先修正致命欄位（詞性/例句/中譯）"
+    },
+    {
+      "level": "obvious",
+      "word": "issued",
+      "pos": "prep.",
+      "score": 16,
+      "fatal": [
+        "pos 明顯錯誤（prep.）",
+        "example 命中明顯錯誤搭配 pattern"
+      ],
+      "reasons": [
+        "pos 可疑",
+        "example_zh 偏模板化",
+        "example_zh 命中特定禁句"
+      ],
+      "example": "The team submitted issued in the budget plan after lunch.",
+      "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。",
+      "suggestion": "優先修正致命欄位（詞性/例句/中譯）"
+    },
+    {
+      "level": "obvious",
+      "word": "confirmed",
+      "pos": "prep.",
+      "score": 16,
+      "fatal": [
+        "pos 明顯錯誤（prep.）",
+        "example 命中明顯錯誤搭配 pattern"
+      ],
+      "reasons": [
+        "pos 可疑",
+        "example_zh 偏模板化",
+        "example_zh 命中特定禁句"
+      ],
+      "example": "The client checked confirmed in the inventory list during the audit.",
+      "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。",
+      "suggestion": "優先修正致命欄位（詞性/例句/中譯）"
+    },
+    {
+      "level": "obvious",
+      "word": "arranged",
+      "pos": "prep.",
+      "score": 17,
+      "fatal": [
+        "pos 明顯錯誤（prep.）"
+      ],
+      "reasons": [
+        "pos 可疑",
+        "example_zh 偏模板化",
+        "example_zh 命中特定禁句"
+      ],
+      "example": "The vendor revised arranged in the contract before final approval.",
+      "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。",
+      "suggestion": "優先修正致命欄位（詞性/例句/中譯）"
+    },
+    {
+      "level": "obvious",
+      "word": "received",
+      "pos": "prep.",
+      "score": 17,
+      "fatal": [
+        "pos 明顯錯誤（prep.）"
+      ],
+      "reasons": [
+        "pos 可疑",
+        "example_zh 偏模板化",
+        "example_zh 命中特定禁句"
+      ],
+      "example": "The supplier prepared received in the delivery record after customer feedback.",
+      "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。",
+      "suggestion": "優先修正致命欄位（詞性/例句/中譯）"
+    },
+    {
+      "level": "obvious",
+      "word": "updated",
+      "pos": "prep.",
+      "score": 17,
+      "fatal": [
+        "pos 明顯錯誤（prep.）"
+      ],
+      "reasons": [
+        "pos 可疑",
+        "example_zh 偏模板化",
+        "example_zh 命中特定禁句"
+      ],
+      "example": "The finance staff arranged updated in the meeting report before shipment departure.",
+      "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。",
+      "suggestion": "優先修正致命欄位（詞性/例句/中譯）"
+    },
+    {
+      "level": "obvious",
+      "word": "submitted",
+      "pos": "prep.",
+      "score": 17,
+      "fatal": [
+        "pos 明顯錯誤（prep.）"
+      ],
+      "reasons": [
+        "pos 可疑",
+        "example_zh 偏模板化",
+        "example_zh 命中特定禁句"
+      ],
+      "example": "The hr officer planned submitted in the schedule during budget review.",
+      "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。",
+      "suggestion": "優先修正致命欄位（詞性/例句/中譯）"
+    },
+    {
+      "level": "obvious",
+      "word": "prepared",
+      "pos": "prep.",
+      "score": 17,
+      "fatal": [
+        "pos 明顯錯誤（prep.）"
+      ],
+      "reasons": [
+        "pos 可疑",
+        "example_zh 偏模板化",
+        "example_zh 命中特定禁句"
+      ],
+      "example": "The warehouse clerk updated prepared in the logistics form before vendor payment.",
+      "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。",
+      "suggestion": "優先修正致命欄位（詞性/例句/中譯）"
+    },
+    {
+      "level": "obvious",
+      "word": "reviewed",
+      "pos": "prep.",
+      "score": 17,
+      "fatal": [
+        "pos 明顯錯誤（prep.）"
+      ],
+      "reasons": [
+        "pos 可疑",
+        "example_zh 偏模板化",
+        "example_zh 命中特定禁句"
+      ],
+      "example": "The project leader confirmed reviewed in the application file after the weekly meeting.",
+      "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。",
+      "suggestion": "優先修正致命欄位（詞性/例句/中譯）"
+    },
+    {
+      "level": "obvious",
+      "word": "approved",
+      "pos": "prep.",
+      "score": 17,
+      "fatal": [
+        "pos 明顯錯誤（prep.）"
+      ],
+      "reasons": [
+        "pos 可疑",
+        "example_zh 偏模板化",
+        "example_zh 命中特定禁句"
+      ],
+      "example": "The sales director documented approved in the shipment before contract signing.",
+      "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。",
+      "suggestion": "優先修正致命欄位（詞性/例句/中譯）"
+    },
+    {
+      "level": "obvious",
+      "word": "assignment",
+      "pos": "prep.",
+      "score": 17,
+      "fatal": [
+        "pos 明顯錯誤（prep.）"
+      ],
+      "reasons": [
+        "pos 可疑",
+        "example_zh 偏模板化",
+        "example_zh 命中特定禁句"
+      ],
+      "example": "The manager reviewed assignment in the invoice before Monday.",
+      "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。",
+      "suggestion": "優先修正致命欄位（詞性/例句/中譯）"
+    },
+    {
+      "level": "obvious",
+      "word": "report",
+      "pos": "prep.",
+      "score": 17,
+      "fatal": [
+        "pos 明顯錯誤（prep.）"
+      ],
+      "reasons": [
+        "pos 可疑",
+        "example_zh 偏模板化",
+        "example_zh 命中特定禁句"
+      ],
+      "example": "The team submitted report in the budget plan after lunch.",
+      "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。",
+      "suggestion": "優先修正致命欄位（詞性/例句/中譯）"
+    },
+    {
+      "level": "obvious",
+      "word": "schedule",
+      "pos": "prep.",
+      "score": 17,
+      "fatal": [
+        "pos 明顯錯誤（prep.）"
+      ],
+      "reasons": [
+        "pos 可疑",
+        "example_zh 偏模板化",
+        "example_zh 命中特定禁句"
+      ],
+      "example": "The client checked schedule in the inventory list during the audit.",
+      "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。",
+      "suggestion": "優先修正致命欄位（詞性/例句/中譯）"
+    },
+    {
+      "level": "obvious",
+      "word": "warehouse",
+      "pos": "prep.",
+      "score": 17,
+      "fatal": [
+        "pos 明顯錯誤（prep.）"
+      ],
+      "reasons": [
+        "pos 可疑",
+        "example_zh 偏模板化",
+        "example_zh 命中特定禁句"
+      ],
+      "example": "The vendor revised warehouse in the contract before final approval.",
+      "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。",
+      "suggestion": "優先修正致命欄位（詞性/例句/中譯）"
+    },
+    {
+      "level": "obvious",
+      "word": "shipping",
+      "pos": "prep.",
+      "score": 17,
+      "fatal": [
+        "pos 明顯錯誤（prep.）"
+      ],
+      "reasons": [
+        "pos 可疑",
+        "example_zh 偏模板化",
+        "example_zh 命中特定禁句"
+      ],
+      "example": "The supplier prepared shipping in the delivery record after customer feedback.",
+      "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。",
+      "suggestion": "優先修正致命欄位（詞性/例句/中譯）"
+    },
+    {
+      "level": "obvious",
+      "word": "team",
+      "pos": "prep.",
+      "score": 17,
+      "fatal": [
+        "pos 明顯錯誤（prep.）"
+      ],
+      "reasons": [
+        "pos 可疑",
+        "example_zh 偏模板化",
+        "example_zh 命中特定禁句"
+      ],
+      "example": "The finance staff arranged team in the meeting report before shipment departure.",
+      "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。",
+      "suggestion": "優先修正致命欄位（詞性/例句/中譯）"
+    },
+    {
+      "level": "obvious",
+      "word": "review",
+      "pos": "prep.",
+      "score": 17,
+      "fatal": [
+        "pos 明顯錯誤（prep.）"
+      ],
+      "reasons": [
+        "pos 可疑",
+        "example_zh 偏模板化",
+        "example_zh 命中特定禁句"
+      ],
+      "example": "The hr officer planned review in the schedule during budget review.",
+      "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。",
+      "suggestion": "優先修正致命欄位（詞性/例句/中譯）"
+    },
+    {
+      "level": "obvious",
+      "word": "unless",
+      "pos": "prep.",
+      "score": 17,
+      "fatal": [
+        "word 為功能字"
+      ],
+      "reasons": [
+        "example_zh 偏模板化",
+        "example_zh 命中特定禁句"
+      ],
+      "example": "The warehouse clerk updated unless in the logistics form before vendor payment.",
+      "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。",
+      "suggestion": "優先修正致命欄位（詞性/例句/中譯）"
+    },
+    {
+      "level": "obvious",
+      "word": "if",
+      "pos": "prep.",
+      "score": 17,
+      "fatal": [
+        "word 為功能字"
+      ],
+      "reasons": [
+        "example_zh 偏模板化",
+        "example_zh 命中特定禁句"
+      ],
+      "example": "The project leader confirmed if in the application file after the weekly meeting.",
+      "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。",
+      "suggestion": "優先修正致命欄位（詞性/例句/中譯）"
+    },
+    {
+      "level": "obvious",
+      "word": "because",
+      "pos": "prep.",
+      "score": 17,
+      "fatal": [
+        "word 為功能字"
+      ],
+      "reasons": [
+        "example_zh 偏模板化",
+        "example_zh 命中特定禁句"
+      ],
+      "example": "The sales director documented because in the shipment before contract signing.",
+      "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。",
+      "suggestion": "優先修正致命欄位（詞性/例句/中譯）"
+    },
+    {
+      "level": "obvious",
+      "word": "while",
+      "pos": "prep.",
+      "score": 17,
+      "fatal": [
+        "word 為功能字"
+      ],
+      "reasons": [
+        "example_zh 偏模板化",
+        "example_zh 命中特定禁句"
+      ],
+      "example": "The manager reviewed while in the invoice before Monday.",
+      "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。",
+      "suggestion": "優先修正致命欄位（詞性/例句/中譯）"
+    },
+    {
+      "level": "obvious",
+      "word": "during",
+      "pos": "prep.",
+      "score": 17,
+      "fatal": [
+        "word 為功能字"
+      ],
+      "reasons": [
+        "example_zh 偏模板化",
+        "example_zh 命中特定禁句"
+      ],
+      "example": "The team submitted during in the budget plan after lunch.",
+      "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。",
+      "suggestion": "優先修正致命欄位（詞性/例句/中譯）"
+    },
+    {
+      "level": "obvious",
+      "word": "after",
+      "pos": "prep.",
+      "score": 17,
+      "fatal": [
+        "word 為功能字"
+      ],
+      "reasons": [
+        "example_zh 偏模板化",
+        "example_zh 命中特定禁句"
+      ],
+      "example": "The client checked after in the inventory list during the audit.",
+      "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。",
+      "suggestion": "優先修正致命欄位（詞性/例句/中譯）"
+    },
+    {
+      "level": "obvious",
+      "word": "before",
+      "pos": "prep.",
+      "score": 17,
+      "fatal": [
+        "word 為功能字"
+      ],
+      "reasons": [
+        "example_zh 偏模板化",
+        "example_zh 命中特定禁句"
+      ],
+      "example": "The vendor revised before in the contract before final approval.",
+      "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。",
+      "suggestion": "優先修正致命欄位（詞性/例句/中譯）"
+    },
+    {
+      "level": "obvious",
+      "word": "with",
+      "pos": "prep.",
+      "score": 17,
+      "fatal": [
+        "word 為功能字"
+      ],
+      "reasons": [
+        "example_zh 偏模板化",
+        "example_zh 命中特定禁句"
+      ],
+      "example": "The supplier prepared with in the delivery record after customer feedback.",
+      "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。",
+      "suggestion": "優先修正致命欄位（詞性/例句/中譯）"
+    },
+    {
+      "level": "obvious",
+      "word": "for",
+      "pos": "prep.",
+      "score": 17,
+      "fatal": [
+        "word 為功能字"
+      ],
+      "reasons": [
+        "example_zh 偏模板化",
+        "example_zh 命中特定禁句"
+      ],
+      "example": "The finance staff arranged for in the meeting report before shipment departure.",
+      "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。",
+      "suggestion": "優先修正致命欄位（詞性/例句/中譯）"
+    },
+    {
+      "level": "obvious",
+      "word": "of",
+      "pos": "prep.",
+      "score": 17,
+      "fatal": [
+        "word 為功能字"
+      ],
+      "reasons": [
+        "example_zh 偏模板化",
+        "example_zh 命中特定禁句"
+      ],
+      "example": "The hr officer planned of in the schedule during budget review.",
+      "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。",
+      "suggestion": "優先修正致命欄位（詞性/例句/中譯）"
+    },
+    {
+      "level": "obvious",
+      "word": "to",
+      "pos": "prep.",
+      "score": 17,
+      "fatal": [
+        "word 為功能字"
+      ],
+      "reasons": [
+        "example_zh 偏模板化",
+        "example_zh 命中特定禁句"
+      ],
+      "example": "The warehouse clerk updated to in the logistics form before vendor payment.",
+      "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。",
+      "suggestion": "優先修正致命欄位（詞性/例句/中譯）"
+    },
+    {
+      "level": "obvious",
+      "word": "an",
+      "pos": "prep.",
+      "score": 17,
+      "fatal": [
+        "word 為功能字"
+      ],
+      "reasons": [
+        "example_zh 偏模板化",
+        "example_zh 命中特定禁句"
+      ],
+      "example": "The project leader confirmed an in the application file after the weekly meeting.",
+      "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。",
+      "suggestion": "優先修正致命欄位（詞性/例句/中譯）"
+    },
+    {
+      "level": "obvious",
+      "word": "a",
+      "pos": "prep.",
+      "score": 17,
+      "fatal": [
+        "word 為功能字"
+      ],
+      "reasons": [
+        "example_zh 偏模板化",
+        "example_zh 命中特定禁句"
+      ],
+      "example": "The sales director documented a in the shipment before contract signing.",
+      "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。",
+      "suggestion": "優先修正致命欄位（詞性/例句/中譯）"
+    },
+    {
+      "level": "obvious",
+      "word": "the",
+      "pos": "prep.",
+      "score": 17,
+      "fatal": [
+        "word 為功能字"
+      ],
+      "reasons": [
+        "example_zh 偏模板化",
+        "example_zh 命中特定禁句"
+      ],
+      "example": "The manager reviewed the in the invoice before Monday.",
+      "example_zh": "團隊在工作流程中處理了這項內容，並完成必要確認。",
+      "suggestion": "優先修正致命欄位（詞性/例句/中譯）"
+    }
+  ]
+}
