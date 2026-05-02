@@ -226,8 +226,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "存取權限",
-    "example": "The hr officer planned access in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Only authorized staff have access to the payroll system.",
+    "example_zh": "只有經授權的員工可以存取薪資系統。"
   },
   {
     "word": "accessibility",
@@ -236,8 +236,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Service",
     "meaning": "可及性",
-    "example": "The warehouse clerk updated accessibility in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The new customer portal improves accessibility for overseas clients.",
+    "example_zh": "新的客戶入口網站提升了海外客戶的可及性。"
   },
   {
     "word": "accessory",
@@ -246,8 +246,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Sales",
     "meaning": "配件",
-    "example": "The project leader confirmed accessory in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The store offers a free phone accessory with each annual contract.",
+    "example_zh": "門市針對每份年度合約提供一個免費手機配件。"
   },
   {
     "word": "accommodation",
