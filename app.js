@@ -156,67 +156,94 @@ async function safeFetch(url, options={}, timeout=12000){
 function normalizeLookupWord(word){
   const raw=String(word||'').trim().toLowerCase();
   if(!raw)return '';
-  return raw.replace(/['’]s\b/g,'').replace(/[^a-z]/g,'').trim();
+  return raw
+    .replace(/^[^a-z]+|[^a-z]+$/g,'')
+    .replace(/[“”"'`]/g,'')
+    .replace(/['’]s\b/g,'')
+    .replace(/[^a-z-]/g,'')
+    .replace(/-+/g,'-')
+    .trim();
 }
 
-function buildLookupCandidates(word){
-  const normalized=normalizeLookupWord(word);
+function toLikelyBaseForm(word){
+  const raw=String(word||'').trim().toLowerCase();
+  if(!raw)return '';
+  const irregular={defined:'define',defines:'define',defining:'define',revised:'revise',revising:'revise',requested:'request',requesting:'request',approved:'approve',approving:'approve',submitted:'submit',submitting:'submit',reports:'report',meetings:'meeting'};
+  if(irregular[raw])return irregular[raw];
+  if(raw.endsWith('ies')&&raw.length>4)return raw.slice(0,-3)+'y';
+  if(raw.endsWith('ing')&&raw.length>5){
+    const stem=raw.slice(0,-3);
+    if(stem.endsWith(stem.slice(-1).repeat(2)))return stem.slice(0,-1);
+    if(stem.endsWith('v'))return stem+'e';
+    return stem;
+  }
+  if(raw.endsWith('ed')&&raw.length>4){
+    const stem=raw.slice(0,-2);
+    if(stem.endsWith(stem.slice(-1).repeat(2)))return stem.slice(0,-1);
+    if(stem.endsWith('v'))return stem+'e';
+    return stem;
+  }
+  if(raw.endsWith('es')&&raw.length>3)return raw.slice(0,-2);
+  if(raw.endsWith('s')&&raw.length>2)return raw.slice(0,-1);
+  return raw;
+}
+
+function buildLookupCandidates(token){
+  const normalized=normalizeLookupWord(token);
   if(!normalized)return [];
-  const list=[normalized];
-  if(normalized.endsWith('ing')&&normalized.length>4)list.push(normalized.slice(0,-3));
-  if(normalized.endsWith('ed')&&normalized.length>3)list.push(normalized.slice(0,-2));
-  if(normalized.endsWith('s')&&normalized.length>2)list.push(normalized.slice(0,-1));
-  return [...new Set(list.filter(Boolean))];
+  const compact=normalized.replace(/-/g,'');
+  const base=toLikelyBaseForm(compact);
+  return [...new Set([normalized,compact,base,toLikelyBaseForm(normalized)].filter(Boolean))];
 }
 
 function getMeaningFromWordsLibrary(normalized){
   if(!normalized)return '';
   const list=Array.isArray(window.WORDS)?window.WORDS:[];
-  const hit=list.find(item=>String(item?.word||'').trim().toLowerCase()===normalized);
-  return String(hit?.meaning||'').trim();
+  const hit=list.find(item=>{
+    const word=String(item?.word||'').trim().toLowerCase();
+    return word===normalized || word.replace(/-/g,'')===normalized;
+  });
+  return String(hit?.meaning||hit?.translation||hit?.zh||'').trim();
 }
 
-async function lookupWordMeaning(word){
-  const candidates=buildLookupCandidates(word);
-  if(!candidates.length)return '查不到翻譯';
+function parseMeaningFromPublicResponse(data){
+  const direct=String(data?.responseData?.translatedText||'').trim();
+  if(direct&&direct.toLowerCase()!=='null')return direct;
+  const matches=Array.isArray(data?.matches)?data.matches:[];
+  const candidate=matches.find(m=>String(m?.translation||'').trim());
+  return String(candidate?.translation||'').trim();
+}
 
-  for(const c of candidates){
-    const libraryMeaning=getMeaningFromWordsLibrary(c);
-    if(libraryMeaning)return libraryMeaning;
-  }
-
-  for(const c of candidates){
-    const basicMeaning=String(BASIC_DICT[c]||'').trim();
-    if(basicMeaning)return basicMeaning;
-  }
-
+async function lookupWordMeaning(token){
+  const candidates=buildLookupCandidates(token);
+  if(!candidates.length)return '目前無法連線查詢，請稍後再試';
   const dict=loadAutoDict();
-  for(const c of candidates){
-    const cached=String(dict[c]||'').trim();
-    if(cached)return cached;
-  }
 
-  const settings = readSettings();
-  const api = (settings.apiBaseUrl || window.APP_CONFIG?.API_BASE_URL || "").trim().replace(/\/+$/, "");
-  if(!api)return '查不到翻譯';
+  for(const c of candidates){const cached=String(dict[c]||'').trim();if(cached)return cached;}
+  for(const c of candidates){const localMeaning=getMeaningFromWordsLibrary(c);if(localMeaning){dict[c]=localMeaning;saveAutoDict(dict);return localMeaning;}}
+  for(const c of candidates){const basicMeaning=String(BASIC_DICT[c]||'').trim();if(basicMeaning){dict[c]=basicMeaning;saveAutoDict(dict);return basicMeaning;}}
 
+  const settings=readSettings();
+  const api=(settings.apiBaseUrl||window.APP_CONFIG?.API_BASE_URL||"").trim().replace(/\/+$/,'');
   for(const c of candidates){
     try{
-      const res=await safeFetch(api+"/lookup-word",{
-        method:"POST",
-        headers:{"Content-Type":"application/json"},
-        body:JSON.stringify({word:c})
-      },12000);
-      if(!res||!res.ok)continue;
-      const data=await res.json().catch(()=>null);
-      const meaning=String(data?.meaning||'').trim();
-      if(!meaning||meaning==='查不到翻譯'||meaning==='翻譯失敗'||meaning==='暫無翻譯')continue;
-      dict[c]=meaning;
-      saveAutoDict(dict);
-      return meaning;
+      if(api){
+        const res=await safeFetch(api+"/lookup-word",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({word:c})},7000);
+        if(res&&res.ok){
+          const data=await res.json().catch(()=>null);
+          const meaning=String(data?.meaning||data?.translation||'').trim();
+          if(meaning&&!["查不到翻譯","翻譯失敗","暫無翻譯"].includes(meaning)){dict[c]=meaning;saveAutoDict(dict);return meaning;}
+        }
+      }
+      const publicUrl=`https://api.mymemory.translated.net/get?q=${encodeURIComponent(c)}&langpair=en|zh-TW`;
+      const publicRes=await safeFetch(publicUrl,{method:'GET'},7000);
+      if(!publicRes||!publicRes.ok)continue;
+      const publicData=await publicRes.json().catch(()=>null);
+      const translated=parseMeaningFromPublicResponse(publicData);
+      if(translated){dict[c]=translated;saveAutoDict(dict);return translated;}
     }catch(e){console.warn('lookup failed',e)}
   }
-  return '查不到翻譯';
+  return '目前無法連線查詢，請稍後再試';
 }
 
 function showToast(msg){
@@ -311,7 +338,7 @@ function bindClickableWords(){
       const word = String(el.dataset.word || el.textContent || "").trim();
       if(!word) return;
 
-      showTooltip(el, `${word}：翻譯中...`);
+      showTooltip(el, `${word}：查詢中...`);
 
       const meaning = await lookupWordMeaning(word);
 
