@@ -6,8 +6,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Core",
     "meaning": "已完成的；完成了",
-    "example": "The technician completed the inspection before the client arrived.",
-    "example_zh": "技術人員在客戶抵達前完成了檢查。"
+    "example": "Her completed recommendation helped the team reduce costs.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第1筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "issued",
@@ -16,8 +16,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Core",
     "meaning": "發出；簽發",
-    "example": "The company issued a new policy for remote employees.",
-    "example_zh": "公司為遠端員工發布了一項新政策。"
+    "example": "We need to issued the schedule to avoid delivery delays.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "confirmed",
@@ -26,8 +26,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Core",
     "meaning": "確認",
-    "example": "The hotel confirmed our reservation by email yesterday.",
-    "example_zh": "飯店昨天透過電子郵件確認了我們的預約。"
+    "example": "We need to confirmed the schedule to avoid delivery delays.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "arranged",
@@ -36,8 +36,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Core",
     "meaning": "安排",
-    "example": "The logistics team arranged delivery for the new equipment.",
-    "example_zh": "物流團隊安排了新設備的配送。"
+    "example": "The team will arranged the contract details before final approval.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "received",
@@ -46,8 +46,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Core",
     "meaning": "收到",
-    "example": "The office received the invoice before the payment deadline.",
-    "example_zh": "辦公室在付款截止日前收到了發票。"
+    "example": "Please received the customer request in today's follow-up email.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "updated",
@@ -56,8 +56,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Core",
     "meaning": "更新",
-    "example": "The warehouse updated the inventory list before shipment.",
-    "example_zh": "倉庫在出貨前更新了庫存清單。"
+    "example": "We need to updated the schedule to avoid delivery delays.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第6筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "submitted",
@@ -66,8 +66,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Core",
     "meaning": "提交",
-    "example": "The applicant submitted her resume before the deadline.",
-    "example_zh": "這位應徵者在截止日前提交了履歷。"
+    "example": "We need to submitted the schedule to avoid delivery delays.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "prepared",
@@ -76,8 +76,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Core",
     "meaning": "準備",
-    "example": "The analyst prepared a short report for the meeting.",
-    "example_zh": "分析師為會議準備了一份簡短報告。"
+    "example": "Please prepared the customer request in today's follow-up email.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "reviewed",
@@ -86,8 +86,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Core",
     "meaning": "審查；檢閱",
-    "example": "The accounting team reviewed the account before issuing payment.",
-    "example_zh": "會計團隊在付款前審查了該帳戶。"
+    "example": "We need to reviewed the schedule to avoid delivery delays.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "approved",
@@ -96,8 +96,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Core",
     "meaning": "核准",
-    "example": "The manager approved the expense report this morning.",
-    "example_zh": "經理今天早上核准了費用報告。"
+    "example": "We need to approved the schedule to avoid delivery delays.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "assignment",
@@ -106,8 +106,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Core",
     "meaning": "任務；指派工作",
-    "example": "The manager gave each employee a different assignment.",
-    "example_zh": "經理給每位員工不同的任務。"
+    "example": "Our department discussed assignment during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第11筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "report",
@@ -116,8 +116,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Core",
     "meaning": "報告；回報",
-    "example": "The analyst prepared a report for the management team.",
-    "example_zh": "分析師為管理團隊準備了一份報告。"
+    "example": "The team will report the contract details before final approval.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "schedule",
@@ -126,8 +126,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Core",
     "meaning": "時程；安排",
-    "example": "The assistant updated the meeting schedule this afternoon.",
-    "example_zh": "助理今天下午更新了會議時程。"
+    "example": "We need to schedule the schedule to avoid delivery delays.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "warehouse",
@@ -136,8 +136,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Core",
     "meaning": "倉庫",
-    "example": "The warehouse received the shipment early this morning.",
-    "example_zh": "倉庫今天一早收到了這批貨。"
+    "example": "The client asked for more details about warehouse in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "shipping",
@@ -146,8 +146,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Core",
     "meaning": "出貨；運送",
-    "example": "The shipping department checked the package before delivery.",
-    "example_zh": "出貨部門在配送前檢查了包裹。"
+    "example": "The manager requested an update on shipping before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "team",
@@ -156,8 +156,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Core",
     "meaning": "團隊",
-    "example": "The marketing team launched a new campaign yesterday.",
-    "example_zh": "行銷團隊昨天推出了一項新活動。"
+    "example": "Our department discussed team during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第16筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "review",
@@ -166,8 +166,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Core",
     "meaning": "審查；檢閱",
-    "example": "The supervisor completed the review before the meeting.",
-    "example_zh": "主管在會議前完成了審查。"
+    "example": "The team will review the contract details before final approval.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "abbreviation",
@@ -176,8 +176,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "縮寫",
-    "example": "Please define each abbreviation in your report before the meeting.",
-    "example_zh": "請在開會前先在報告中註明每個縮寫的意思。"
+    "example": "Please avoid using an abbreviation in formal legal documents.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "absenteeism",
@@ -186,8 +186,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "缺勤率",
-    "example": "HR monitors absenteeism monthly to keep staffing levels stable.",
-    "example_zh": "人資每月都會追蹤缺勤率，以維持人力配置穩定。"
+    "example": "The manager requested an update on absenteeism before Friday afternoon.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "absorption",
@@ -196,8 +196,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "吸收率",
-    "example": "The finance report shows slow absorption of rising material costs.",
-    "example_zh": "財務報告顯示，增加的原料成本吸收速度偏慢。"
+    "example": "The client asked for more details about absorption in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "abundance",
@@ -206,8 +206,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "充足供給",
-    "example": "The store had an abundance of office chairs after the supplier discount.",
-    "example_zh": "供應商折扣後，門市的辦公椅庫存相當充足。"
+    "example": "Our department discussed abundance during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第21筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "acceptance",
@@ -216,8 +216,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "驗收",
-    "example": "Final payment will be released after customer acceptance of the system.",
-    "example_zh": "客戶完成系統驗收後，才會撥付尾款。"
+    "example": "The client asked for more details about acceptance in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "access",
@@ -226,8 +226,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "存取權限",
-    "example": "Only authorized staff have access to the payroll system.",
-    "example_zh": "只有經授權的員工可以存取薪資系統。"
+    "example": "The project report highlighted access as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "accessibility",
@@ -236,8 +236,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Service",
     "meaning": "可及性",
-    "example": "The new customer portal improves accessibility for overseas clients.",
-    "example_zh": "新的客戶入口網站提升了海外客戶的可及性。"
+    "example": "The manager requested an update on accessibility before Friday afternoon.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "accessory",
@@ -246,8 +246,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Sales",
     "meaning": "配件",
-    "example": "The store offers a free phone accessory with each annual contract.",
-    "example_zh": "門市針對每份年度合約提供一個免費手機配件。"
+    "example": "The manager requested an update on accessory before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "accommodation",
@@ -256,8 +256,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Travel",
     "meaning": "住宿安排",
-    "example": "The sales director documented accommodation in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The hotel provides accommodation for business travelers near the convention center.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第26筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "account",
@@ -266,8 +266,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "帳戶；帳目",
-    "example": "The manager reviewed account in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Please check the account balance before authorizing the transfer.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "accounting",
@@ -276,8 +276,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "會計",
-    "example": "The team submitted accounting in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "She works in accounting and prepares monthly financial statements.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "accreditation",
@@ -286,8 +286,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Training",
     "meaning": "認證資格",
-    "example": "The client checked accreditation in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The training center received accreditation from the national board.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "accrual",
@@ -296,8 +296,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "應計帳款",
-    "example": "The vendor revised accrual in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The auditor reviewed each accrual at the end of the quarter.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "accumulation",
@@ -306,8 +306,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "累積量",
-    "example": "The supplier prepared accumulation in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed accumulation during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第31筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "accuracy",
@@ -316,8 +316,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "準確度",
-    "example": "The finance staff arranged accuracy in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Accuracy is essential when entering data into the payroll system.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "acquisition",
@@ -326,8 +326,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "收購；取得",
-    "example": "The hr officer planned acquisition in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The acquisition expanded the company's market share in Asia.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "action",
@@ -336,8 +336,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "行動；措施",
-    "example": "The warehouse clerk updated action in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on action before Friday afternoon.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "activator",
@@ -346,8 +346,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Manufacturing",
     "meaning": "啟動器",
-    "example": "The project leader confirmed activator in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed activator during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "actuary",
@@ -356,8 +356,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "精算師",
-    "example": "The sales director documented actuary in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The company hired an actuary to review the pension plan.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第36筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "adaptability",
@@ -366,8 +366,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Training",
     "meaning": "適應能力",
-    "example": "The manager reviewed adaptability in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted adaptability as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "adaptation",
@@ -376,8 +376,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "調整；適應",
-    "example": "The team submitted adaptation in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about adaptation in the proposal.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "addendum",
@@ -386,8 +386,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "附錄條款",
-    "example": "The client checked addendum in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on addendum before Friday afternoon.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "additional",
@@ -396,8 +396,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "額外的；附加的",
-    "example": "The vendor revised additional in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Her additional recommendation helped the team reduce costs.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "additive",
@@ -406,8 +406,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Manufacturing",
     "meaning": "添加劑",
-    "example": "The supplier prepared additive in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted additive as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第41筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "adherence",
@@ -416,8 +416,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "遵循度",
-    "example": "The finance staff arranged adherence in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed adherence during the monthly planning meeting.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "adjuster",
@@ -426,8 +426,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "理算人員",
-    "example": "The hr officer planned adjuster in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted adjuster as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "admission",
@@ -436,8 +436,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "准入；入場許可",
-    "example": "The warehouse clerk updated admission in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed admission during the monthly planning meeting.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "adopter",
@@ -446,8 +446,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "採用者",
-    "example": "The project leader confirmed adopter in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed adopter during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "adoption",
@@ -456,8 +456,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "採用率",
-    "example": "The sales director documented adoption in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted adoption as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第46筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "adversity",
@@ -466,8 +466,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Strategy",
     "meaning": "逆風因素",
-    "example": "The manager reviewed adversity in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about adversity in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "advertiser",
@@ -476,8 +476,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "廣告主",
-    "example": "The team submitted advertiser in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about advertiser in the proposal.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "advertising",
@@ -486,8 +486,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "廣告行銷",
-    "example": "The client checked advertising in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted advertising as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "advice",
@@ -496,8 +496,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "建議",
-    "example": "The vendor revised advice in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted advice as a key issue this quarter.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "advisory",
@@ -506,8 +506,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "諮詢委員會",
-    "example": "The supplier prepared advisory in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed advisory during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第51筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "advocate",
@@ -516,8 +516,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "倡議者",
-    "example": "The finance staff arranged advocate in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about advocate in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "affidavit",
@@ -526,8 +526,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "宣誓書",
-    "example": "The hr officer planned affidavit in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted affidavit as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "affiliation",
@@ -536,8 +536,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "隸屬關係",
-    "example": "The warehouse clerk updated affiliation in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted affiliation as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "affinity",
@@ -546,8 +546,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "品牌親和力",
-    "example": "The project leader confirmed affinity in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted affinity as a key issue this quarter.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "affordability",
@@ -556,8 +556,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "可負擔性",
-    "example": "The sales director documented affordability in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on affordability before Friday afternoon.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第56筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "aftermarket",
@@ -566,8 +566,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Sales",
     "meaning": "售後市場",
-    "example": "The manager reviewed aftermarket in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted aftermarket as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "agenda",
@@ -576,788 +576,788 @@ window.WORDS = [
     "category": "Business",
     "topic": "Meeting",
     "meaning": "議程",
-    "example": "The team submitted agenda in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The chairperson finalized the agenda before the board meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
-    "word": "agendaability",
+    "word": "audit",
     "pos": "n.",
     "level": 2,
     "category": "Business",
     "topic": "Project",
     "meaning": "預算管理；成本控管",
-    "example": "The client checked agendaability in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about audit in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
-    "word": "agendaable",
+    "word": "benchmark",
     "pos": "n.",
     "level": 1,
     "category": "Business",
     "topic": "Coordination",
     "meaning": "專案管理；營運協調",
-    "example": "The vendor revised agendaable in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed benchmark during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
-    "word": "agendaance",
+    "word": "briefing",
     "pos": "n.",
     "level": 3,
     "category": "Business",
     "topic": "Operations",
     "meaning": "品質管理；稽核作業",
-    "example": "The supplier prepared agendaance in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted briefing as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第61筆）進行了完整討論，並確認後續執行安排。"
   },
   {
-    "word": "agendaancy",
+    "word": "compliance",
     "pos": "n.",
     "level": 1,
     "category": "Business",
     "topic": "Office",
     "meaning": "行政管理；作業執行",
-    "example": "The finance staff arranged agendaancy in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about compliance in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
-    "word": "agendaant",
+    "word": "consensus",
     "pos": "n.",
     "level": 2,
     "category": "Business",
     "topic": "Business",
     "meaning": "會議安排；溝通協調",
-    "example": "The hr officer planned agendaant in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about consensus in the proposal.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
-    "word": "agendaation",
+    "word": "deadline",
     "pos": "n.",
     "level": 3,
     "category": "Business",
     "topic": "Meeting",
     "meaning": "客戶服務；客訴處理",
-    "example": "The warehouse clerk updated agendaation in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted deadline as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
-    "word": "agendaator",
+    "word": "forecast",
     "pos": "n.",
     "level": 2,
     "category": "Business",
     "topic": "CustomerService",
     "meaning": "採購管理；供應商協作",
-    "example": "The project leader confirmed agendaator in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about forecast in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
-    "word": "agendaboard",
+    "word": "guideline",
     "pos": "n.",
     "level": 3,
     "category": "Business",
     "topic": "Logistics",
     "meaning": "財務管理；帳務控管",
-    "example": "The sales director documented agendaboard in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted guideline as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第66筆）進行了完整討論，並確認後續執行安排。"
   },
   {
-    "word": "agendabridge",
+    "word": "handover",
     "pos": "n.",
     "level": 2,
     "category": "Business",
     "topic": "Purchasing",
     "meaning": "報表管理；數據追蹤",
-    "example": "The manager reviewed agendabridge in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about handover in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
-    "word": "agendacare",
+    "word": "initiative",
     "pos": "n.",
     "level": 3,
     "category": "Business",
     "topic": "Finance",
     "meaning": "人資招募；教育訓練",
-    "example": "The team submitted agendacare in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted initiative as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
-    "word": "agendachart",
+    "word": "inventory",
     "pos": "n.",
     "level": 2,
     "category": "Business",
     "topic": "Contracts",
     "meaning": "預算管理；成本控管",
-    "example": "The client checked agendachart in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted inventory as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
-    "word": "agendacheck",
+    "word": "invoice",
     "pos": "n.",
     "level": 3,
     "category": "Business",
     "topic": "Schedules",
     "meaning": "品質管理；稽核作業",
-    "example": "The vendor revised agendacheck in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed invoice during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
-    "word": "agendacraft",
+    "word": "logistics",
     "pos": "n.",
     "level": 2,
     "category": "Business",
     "topic": "Hiring",
     "meaning": "會議安排；溝通協調",
-    "example": "The supplier prepared agendacraft in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about logistics in the proposal.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第71筆）進行了完整討論，並確認後續執行安排。"
   },
   {
-    "word": "agendacycle",
+    "word": "milestone",
     "pos": "n.",
     "level": 3,
     "category": "Business",
     "topic": "Training",
     "meaning": "客戶服務；客訴處理",
-    "example": "The finance staff arranged agendacycle in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted milestone as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
-    "word": "agendadrive",
+    "word": "negotiation",
     "pos": "n.",
     "level": 2,
     "category": "Business",
     "topic": "Travel",
     "meaning": "採購管理；供應商協作",
-    "example": "The hr officer planned agendadrive in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed negotiation during the monthly planning meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
-    "word": "agendaedge",
+    "word": "objective",
     "pos": "n.",
     "level": 3,
     "category": "Business",
     "topic": "Marketing",
     "meaning": "財務管理；帳務控管",
-    "example": "The warehouse clerk updated agendaedge in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed objective during the monthly planning meeting.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
-    "word": "agendaency",
+    "word": "onboarding",
     "pos": "n.",
     "level": 1,
     "category": "Business",
     "topic": "Manufacturing",
     "meaning": "合約管理；法務作業",
-    "example": "The project leader confirmed agendaency in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about onboarding in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
-    "word": "agendaengine",
+    "word": "outsourcing",
     "pos": "n.",
     "level": 2,
     "category": "Business",
     "topic": "Communication",
     "meaning": "報表管理；數據追蹤",
-    "example": "The sales director documented agendaengine in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on outsourcing before Friday afternoon.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第76筆）進行了完整討論，並確認後續執行安排。"
   },
   {
-    "word": "agendafield",
+    "word": "oversight",
     "pos": "n.",
     "level": 3,
     "category": "Business",
     "topic": "Facilities",
     "meaning": "人資招募；教育訓練",
-    "example": "The manager reviewed agendafield in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed oversight during the monthly planning meeting.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
-    "word": "agendaflow",
+    "word": "partnership",
     "pos": "n.",
     "level": 1,
     "category": "Business",
     "topic": "Coordination",
     "meaning": "專案管理；營運協調",
-    "example": "The team submitted agendaflow in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted partnership as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
-    "word": "agendaforce",
+    "word": "strategy",
     "pos": "n.",
     "level": 2,
     "category": "Business",
     "topic": "Project",
     "meaning": "預算管理；成本控管",
-    "example": "The client checked agendaforce in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about agendaforce in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
-    "word": "agendaform",
+    "word": "procurement",
     "pos": "n.",
     "level": 3,
     "category": "Business",
     "topic": "Operations",
     "meaning": "品質管理；稽核作業",
-    "example": "The vendor revised agendaform in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted procurement as a key issue this quarter.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
-    "word": "agendaframe",
+    "word": "productivity",
     "pos": "n.",
     "level": 1,
     "category": "Business",
     "topic": "Office",
     "meaning": "行政管理；作業執行",
-    "example": "The supplier prepared agendaframe in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on productivity before Friday afternoon.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第81筆）進行了完整討論，並確認後續執行安排。"
   },
   {
-    "word": "agendagate",
+    "word": "quarterly",
     "pos": "n.",
     "level": 2,
     "category": "Business",
     "topic": "Business",
     "meaning": "會議安排；溝通協調",
-    "example": "The finance staff arranged agendagate in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed quarterly during the monthly planning meeting.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
-    "word": "agendagrid",
+    "word": "reimbursement",
     "pos": "n.",
     "level": 3,
     "category": "Business",
     "topic": "Meeting",
     "meaning": "客戶服務；客訴處理",
-    "example": "The hr officer planned agendagrid in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted reimbursement as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
-    "word": "agendaguide",
+    "word": "planning",
     "pos": "n.",
     "level": 1,
     "category": "Business",
     "topic": "Email",
     "meaning": "物流管理；出貨作業",
-    "example": "The warehouse clerk updated agendaguide in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted agendaguide as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
-    "word": "agendahouse",
+    "word": "brief",
     "pos": "n.",
     "level": 2,
     "category": "Business",
     "topic": "CustomerService",
     "meaning": "採購管理；供應商協作",
-    "example": "The project leader confirmed agendahouse in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted agendahouse as a key issue this quarter.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
-    "word": "agendahub",
+    "word": "roadmap",
     "pos": "n.",
     "level": 3,
     "category": "Business",
     "topic": "Logistics",
     "meaning": "財務管理；帳務控管",
-    "example": "The sales director documented agendahub in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted roadmap as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第86筆）進行了完整討論，並確認後續執行安排。"
   },
   {
-    "word": "agendaindex",
+    "word": "safeguard",
     "pos": "n.",
     "level": 1,
     "category": "Business",
     "topic": "Shipping",
     "meaning": "合約管理；法務作業",
-    "example": "The manager reviewed agendaindex in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted safeguard as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
-    "word": "agendaing",
+    "word": "summary",
     "pos": "n.",
     "level": 2,
     "category": "Business",
     "topic": "Purchasing",
     "meaning": "報表管理；數據追蹤",
-    "example": "The team submitted agendaing in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on agendaing before Friday afternoon.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
-    "word": "agendainsight",
+    "word": "checklist",
     "pos": "n.",
     "level": 3,
     "category": "Business",
     "topic": "Finance",
     "meaning": "人資招募；教育訓練",
-    "example": "The client checked agendainsight in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted agendainsight as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
-    "word": "agendaitem",
+    "word": "framework",
     "pos": "n.",
     "level": 1,
     "category": "Business",
     "topic": "Meeting",
     "meaning": "議程主題",
-    "example": "The vendor revised agendaitem in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about agendaitem in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
-    "word": "agendakeeper",
+    "word": "training",
     "pos": "n.",
     "level": 1,
     "category": "Business",
     "topic": "Accounting",
     "meaning": "專案管理；營運協調",
-    "example": "The supplier prepared agendakeeper in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on agendakeeper before Friday afternoon.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第91筆）進行了完整討論，並確認後續執行安排。"
   },
   {
-    "word": "agendaline",
+    "word": "policy",
     "pos": "n.",
     "level": 3,
     "category": "Business",
     "topic": "Schedules",
     "meaning": "品質管理；稽核作業",
-    "example": "The finance staff arranged agendaline in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted agendaline as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
-    "word": "agendalist",
+    "word": "timeline",
     "pos": "n.",
     "level": 2,
     "category": "Business",
     "topic": "Hiring",
     "meaning": "會議安排；溝通協調",
-    "example": "The hr officer planned agendalist in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on agendalist before Friday afternoon.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
-    "word": "agendamaker",
+    "word": "resource",
     "pos": "n.",
     "level": 2,
     "category": "Business",
     "topic": "Travel",
     "meaning": "採購管理；供應商協作",
-    "example": "The warehouse clerk updated agendamaker in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted agendamaker as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
-    "word": "agendamanage",
+    "word": "budget",
     "pos": "n.",
     "level": 3,
     "category": "Business",
     "topic": "Marketing",
     "meaning": "財務管理；帳務控管",
-    "example": "The project leader confirmed agendamanage in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed agendamanage during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
-    "word": "agendametric",
+    "word": "proposal",
     "pos": "n.",
     "level": 2,
     "category": "Business",
     "topic": "Communication",
     "meaning": "報表管理；數據追蹤",
-    "example": "The sales director documented agendametric in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted agendametric as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第96筆）進行了完整討論，並確認後續執行安排。"
   },
   {
-    "word": "agendamode",
+    "word": "stakeholder",
     "pos": "n.",
     "level": 3,
     "category": "Business",
     "topic": "Facilities",
     "meaning": "人資招募；教育訓練",
-    "example": "The manager reviewed agendamode in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on stakeholder before Friday afternoon.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
-    "word": "agendamonitor",
+    "word": "priority",
     "pos": "n.",
     "level": 2,
     "category": "Business",
     "topic": "Project",
     "meaning": "預算管理；成本控管",
-    "example": "The team submitted agendamonitor in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on agendamonitor before Friday afternoon.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
-    "word": "agendanet",
+    "word": "feedback",
     "pos": "n.",
     "level": 3,
     "category": "Business",
     "topic": "Operations",
     "meaning": "品質管理；稽核作業",
-    "example": "The client checked agendanet in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed agendanet during the monthly planning meeting.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
-    "word": "agendanode",
+    "word": "turnover",
     "pos": "n.",
     "level": 1,
     "category": "Business",
     "topic": "Office",
     "meaning": "行政管理；作業執行",
-    "example": "The vendor revised agendanode in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed turnover during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
-    "word": "agendaoption",
+    "word": "standard",
     "pos": "n.",
     "level": 2,
     "category": "Business",
     "topic": "Business",
     "meaning": "會議安排；溝通協調",
-    "example": "The supplier prepared agendaoption in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed agendaoption during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第101筆）進行了完整討論，並確認後續執行安排。"
   },
   {
-    "word": "agendapath",
+    "word": "utilization",
     "pos": "n.",
     "level": 3,
     "category": "Business",
     "topic": "Meeting",
     "meaning": "客戶服務；客訴處理",
-    "example": "The finance staff arranged agendapath in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on utilization before Friday afternoon.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
-    "word": "agendaphase",
+    "word": "procedure",
     "pos": "n.",
     "level": 1,
     "category": "Business",
     "topic": "Email",
     "meaning": "物流管理；出貨作業",
-    "example": "The hr officer planned agendaphase in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about agendaphase in the proposal.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
-    "word": "agendaplan",
+    "word": "record",
     "pos": "n.",
     "level": 2,
     "category": "Business",
     "topic": "CustomerService",
     "meaning": "採購管理；供應商協作",
-    "example": "The warehouse clerk updated agendaplan in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed agendaplan during the monthly planning meeting.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
-    "word": "agendapoint",
+    "word": "workload",
     "pos": "n.",
     "level": 3,
     "category": "Business",
     "topic": "Logistics",
     "meaning": "財務管理；帳務控管",
-    "example": "The project leader confirmed agendapoint in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about workload in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
-    "word": "agendaport",
+    "word": "allocation",
     "pos": "n.",
     "level": 1,
     "category": "Business",
     "topic": "Shipping",
     "meaning": "合約管理；法務作業",
-    "example": "The sales director documented agendaport in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted allocation as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第106筆）進行了完整討論，並確認後續執行安排。"
   },
   {
-    "word": "agendapress",
+    "word": "target",
     "pos": "n.",
     "level": 2,
     "category": "Business",
     "topic": "Purchasing",
     "meaning": "報表管理；數據追蹤",
-    "example": "The manager reviewed agendapress in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about agendapress in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
-    "word": "agendaproof",
+    "word": "service",
     "pos": "n.",
     "level": 3,
     "category": "Business",
     "topic": "Finance",
     "meaning": "人資招募；教育訓練",
-    "example": "The team submitted agendaproof in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted agendaproof as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
-    "word": "agendapulse",
+    "word": "amendment",
     "pos": "n.",
     "level": 1,
     "category": "Business",
     "topic": "Accounting",
     "meaning": "專案管理；營運協調",
-    "example": "The client checked agendapulse in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed amendment during the monthly planning meeting.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
-    "word": "agendaqueue",
+    "word": "quality",
     "pos": "n.",
     "level": 2,
     "category": "Business",
     "topic": "Contracts",
     "meaning": "預算管理；成本控管",
-    "example": "The vendor revised agendaqueue in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed agendaqueue during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
-    "word": "agendarate",
+    "word": "safety",
     "pos": "n.",
     "level": 3,
     "category": "Business",
     "topic": "Schedules",
     "meaning": "品質管理；稽核作業",
-    "example": "The supplier prepared agendarate in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted agendarate as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第111筆）進行了完整討論，並確認後續執行安排。"
   },
   {
-    "word": "agendarecord",
+    "word": "finance",
     "pos": "n.",
     "level": 1,
     "category": "Business",
     "topic": "Reports",
     "meaning": "行政管理；作業執行",
-    "example": "The finance staff arranged agendarecord in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed agendarecord during the monthly planning meeting.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
-    "word": "agendascope",
+    "word": "coordination",
     "pos": "n.",
     "level": 2,
     "category": "Business",
     "topic": "Hiring",
     "meaning": "會議安排；溝通協調",
-    "example": "The hr officer planned agendascope in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about coordination in the proposal.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
-    "word": "agendasense",
+    "word": "operation",
     "pos": "n.",
     "level": 3,
     "category": "Business",
     "topic": "Training",
     "meaning": "客戶服務；客訴處理",
-    "example": "The warehouse clerk updated agendasense in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on agendasense before Friday afternoon.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
-    "word": "agendashift",
+    "word": "deliverable",
     "pos": "n.",
     "level": 2,
     "category": "Business",
     "topic": "Travel",
     "meaning": "採購管理；供應商協作",
-    "example": "The project leader confirmed agendashift in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about deliverable in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
-    "word": "agendasignal",
+    "word": "monitoring",
     "pos": "n.",
     "level": 3,
     "category": "Business",
     "topic": "Marketing",
     "meaning": "財務管理；帳務控管",
-    "example": "The sales director documented agendasignal in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted agendasignal as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第116筆）進行了完整討論，並確認後續執行安排。"
   },
   {
-    "word": "agendaskill",
+    "word": "reporting",
     "pos": "n.",
     "level": 2,
     "category": "Business",
     "topic": "Communication",
     "meaning": "報表管理；數據追蹤",
-    "example": "The manager reviewed agendaskill in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed agendaskill during the monthly planning meeting.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
-    "word": "agendasource",
+    "word": "compliance",
     "pos": "n.",
     "level": 3,
     "category": "Business",
     "topic": "Facilities",
     "meaning": "人資招募；教育訓練",
-    "example": "The team submitted agendasource in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about agendasource in the proposal.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
-    "word": "agendastack",
+    "word": "efficiency",
     "pos": "n.",
     "level": 2,
     "category": "Business",
     "topic": "Project",
     "meaning": "預算管理；成本控管",
-    "example": "The client checked agendastack in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed efficiency during the monthly planning meeting.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
-    "word": "agendastage",
+    "word": "approval",
     "pos": "n.",
     "level": 3,
     "category": "Business",
     "topic": "Operations",
     "meaning": "品質管理；稽核作業",
-    "example": "The vendor revised agendastage in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on agendastage before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
-    "word": "agendastream",
+    "word": "facilitate",
     "pos": "n.",
     "level": 2,
     "category": "Business",
     "topic": "Business",
     "meaning": "會議安排；溝通協調",
-    "example": "The supplier prepared agendastream in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted facilitate as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第121筆）進行了完整討論，並確認後續執行安排。"
   },
   {
-    "word": "agendasupport",
+    "word": "coordination",
     "pos": "n.",
     "level": 3,
     "category": "Business",
     "topic": "Meeting",
     "meaning": "客戶服務；客訴處理",
-    "example": "The finance staff arranged agendasupport in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about agendasupport in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
-    "word": "agendasystem",
+    "word": "implementation",
     "pos": "n.",
     "level": 2,
     "category": "Business",
     "topic": "CustomerService",
     "meaning": "採購管理；供應商協作",
-    "example": "The hr officer planned agendasystem in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on implementation before Friday afternoon.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
-    "word": "agendatable",
+    "word": "inspection",
     "pos": "n.",
     "level": 3,
     "category": "Business",
     "topic": "Logistics",
     "meaning": "財務管理；帳務控管",
-    "example": "The warehouse clerk updated agendatable in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on agendatable before Friday afternoon.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
-    "word": "agendatech",
+    "word": "staffing",
     "pos": "n.",
     "level": 1,
     "category": "Business",
     "topic": "Shipping",
     "meaning": "合約管理；法務作業",
-    "example": "The project leader confirmed agendatech in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on agendatech before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
-    "word": "agendatrack",
+    "word": "justification",
     "pos": "n.",
     "level": 2,
     "category": "Business",
     "topic": "Purchasing",
     "meaning": "報表管理；數據追蹤",
-    "example": "The sales director documented agendatrack in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on justification before Friday afternoon.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第126筆）進行了完整討論，並確認後續執行安排。"
   },
   {
-    "word": "agendatrend",
+    "word": "planning",
     "pos": "n.",
     "level": 3,
     "category": "Business",
     "topic": "Finance",
     "meaning": "人資招募；教育訓練",
-    "example": "The manager reviewed agendatrend in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed agendatrend during the monthly planning meeting.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
-    "word": "agendaunit",
+    "word": "leadership",
     "pos": "n.",
     "level": 1,
     "category": "Business",
     "topic": "Accounting",
     "meaning": "專案管理；營運協調",
-    "example": "The team submitted agendaunit in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed leadership during the monthly planning meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
-    "word": "agendavalue",
+    "word": "support",
     "pos": "n.",
     "level": 2,
     "category": "Business",
     "topic": "Contracts",
     "meaning": "預算管理；成本控管",
-    "example": "The client checked agendavalue in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed agendavalue during the monthly planning meeting.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
-    "word": "agendaview",
+    "word": "maintenance",
     "pos": "n.",
     "level": 3,
     "category": "Business",
     "topic": "Schedules",
     "meaning": "品質管理；稽核作業",
-    "example": "The vendor revised agendaview in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about maintenance in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
-    "word": "agendavision",
+    "word": "analysis",
     "pos": "n.",
     "level": 1,
     "category": "Business",
     "topic": "Reports",
     "meaning": "行政管理；作業執行",
-    "example": "The supplier prepared agendavision in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted agendavision as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第131筆）進行了完整討論，並確認後續執行安排。"
   },
   {
-    "word": "agendaware",
+    "word": "review",
     "pos": "n.",
     "level": 2,
     "category": "Business",
     "topic": "Hiring",
     "meaning": "會議安排；溝通協調",
-    "example": "The finance staff arranged agendaware in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed agendaware during the monthly planning meeting.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
-    "word": "agendawatch",
+    "word": "control",
     "pos": "n.",
     "level": 3,
     "category": "Business",
     "topic": "Training",
     "meaning": "客戶服務；客訴處理",
-    "example": "The hr officer planned agendawatch in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about agendawatch in the proposal.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
-    "word": "agendawave",
+    "word": "notification",
     "pos": "n.",
     "level": 1,
     "category": "Business",
     "topic": "Administration",
     "meaning": "物流管理；出貨作業",
-    "example": "The warehouse clerk updated agendawave in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about notification in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
-    "word": "agendawork",
+    "word": "process",
     "pos": "n.",
     "level": 2,
     "category": "Business",
     "topic": "Travel",
     "meaning": "採購管理；供應商協作",
-    "example": "The project leader confirmed agendawork in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed agendawork during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
-    "word": "agendazone",
+    "word": "optimization",
     "pos": "n.",
     "level": 3,
     "category": "Business",
     "topic": "Marketing",
     "meaning": "財務管理；帳務控管",
-    "example": "The sales director documented agendazone in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed optimization during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第136筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "aggregaterate",
@@ -1366,8 +1366,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "彙總比率",
-    "example": "The manager reviewed aggregaterate in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about aggregaterate in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "aggregator",
@@ -1376,8 +1376,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "整合平台",
-    "example": "The team submitted aggregator in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed aggregator during the monthly planning meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "agreementterm",
@@ -1386,8 +1386,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "合約條件",
-    "example": "The client checked agreementterm in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on agreementterm before Friday afternoon.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "airfreight",
@@ -1396,8 +1396,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "空運",
-    "example": "The vendor revised airfreight in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed airfreight during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "airwaybill",
@@ -1406,8 +1406,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "空運提單",
-    "example": "The supplier prepared airwaybill in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted airwaybill as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第141筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "alert",
@@ -1416,8 +1416,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Security",
     "meaning": "警示",
-    "example": "The finance staff arranged alert in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted alert as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "alertness",
@@ -1426,8 +1426,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Security",
     "meaning": "警覺性",
-    "example": "The hr officer planned alertness in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about alertness in the proposal.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "alignmentplan",
@@ -1436,8 +1436,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "對齊方案",
-    "example": "The warehouse clerk updated alignmentplan in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted alignmentplan as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "allocation",
@@ -1446,8 +1446,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "分配",
-    "example": "The project leader confirmed allocation in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted allocation as a key issue this quarter.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "allowance",
@@ -1456,8 +1456,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "津貼",
-    "example": "The sales director documented allowance in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted allowance as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第146筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "allowancerate",
@@ -1466,8 +1466,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "補助比率",
-    "example": "The manager reviewed allowancerate in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted allowancerate as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "amortization",
@@ -1476,8 +1476,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "攤銷",
-    "example": "The team submitted amortization in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about amortization in the proposal.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "analysis",
@@ -1486,8 +1486,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "分析",
-    "example": "The client checked analysis in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted analysis as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "analysisreport",
@@ -1496,8 +1496,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "分析報告",
-    "example": "The vendor revised analysisreport in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted analysisreport as a key issue this quarter.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "analyst",
@@ -1506,8 +1506,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "分析師",
-    "example": "The supplier prepared analyst in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on analyst before Friday afternoon.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第151筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "analytics",
@@ -1516,8 +1516,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "數據分析",
-    "example": "The finance staff arranged analytics in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on analytics before Friday afternoon.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "announcementmail",
@@ -1526,8 +1526,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "公告郵件",
-    "example": "The hr officer planned announcementmail in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on announcementmail before Friday afternoon.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "annuity",
@@ -1536,8 +1536,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "年金",
-    "example": "The warehouse clerk updated annuity in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on annuity before Friday afternoon.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "anomaly",
@@ -1546,8 +1546,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "異常值",
-    "example": "The project leader confirmed anomaly in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about anomaly in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "applicant",
@@ -1556,8 +1556,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "應徵者",
-    "example": "The sales director documented applicant in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on applicant before Friday afternoon.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第156筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "application",
@@ -1566,8 +1566,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "申請；應用",
-    "example": "The manager reviewed application in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted application as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "appointee",
@@ -1576,8 +1576,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "受任命者",
-    "example": "The team submitted appointee in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed appointee during the monthly planning meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "appraisal",
@@ -1586,8 +1586,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "評估",
-    "example": "The client checked appraisal in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed appraisal during the monthly planning meeting.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "approval",
@@ -1596,8 +1596,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "核准",
-    "example": "The vendor revised approval in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about approval in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "approvalflow",
@@ -1606,8 +1606,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "核准流程",
-    "example": "The supplier prepared approvalflow in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed approvalflow during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第161筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "arbitration",
@@ -1616,8 +1616,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "仲裁",
-    "example": "The finance staff arranged arbitration in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about arbitration in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "arbitrator",
@@ -1626,8 +1626,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "仲裁人",
-    "example": "The hr officer planned arbitrator in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted arbitrator as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "archive",
@@ -1636,8 +1636,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "檔案庫",
-    "example": "The warehouse clerk updated archive in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on archive before Friday afternoon.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "arrears",
@@ -1646,8 +1646,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "欠款",
-    "example": "The project leader confirmed arrears in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on arrears before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "arrival",
@@ -1656,8 +1656,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Travel",
     "meaning": "到達時間",
-    "example": "The sales director documented arrival in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed arrival during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第166筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "assembler",
@@ -1666,8 +1666,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Manufacturing",
     "meaning": "裝配員",
-    "example": "The manager reviewed assembler in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted assembler as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "asset",
@@ -1676,8 +1676,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "資產",
-    "example": "The team submitted asset in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted asset as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "assistance",
@@ -1686,8 +1686,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "協助",
-    "example": "The client checked assistance in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted assistance as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "assistant",
@@ -1696,8 +1696,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "助理",
-    "example": "The vendor revised assistant in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on assistant before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "assurance",
@@ -1706,8 +1706,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "保證",
-    "example": "The supplier prepared assurance in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed assurance during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第171筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "attendance",
@@ -1716,8 +1716,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "出席",
-    "example": "The finance staff arranged attendance in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed attendance during the monthly planning meeting.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "attendee",
@@ -1726,8 +1726,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "與會者",
-    "example": "The hr officer planned attendee in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on attendee before Friday afternoon.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "attestation",
@@ -1736,8 +1736,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "證明文件",
-    "example": "The warehouse clerk updated attestation in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted attestation as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "attitude",
@@ -1746,8 +1746,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "態度",
-    "example": "The project leader confirmed attitude in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on attitude before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "audit",
@@ -1756,8 +1756,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "稽核",
-    "example": "The sales director documented audit in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about audit in the proposal.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第176筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "auditability",
@@ -1766,8 +1766,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "報表管理；數據追蹤",
-    "example": "The manager reviewed auditability in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about auditability in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "auditable",
@@ -1776,8 +1776,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Manufacturing",
     "meaning": "合約管理；法務作業",
-    "example": "The team submitted auditable in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed auditable during the monthly planning meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "auditance",
@@ -1786,8 +1786,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Facilities",
     "meaning": "人資招募；教育訓練",
-    "example": "The client checked auditance in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on auditance before Friday afternoon.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "auditancy",
@@ -1796,8 +1796,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Coordination",
     "meaning": "專案管理；營運協調",
-    "example": "The vendor revised auditancy in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on auditancy before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "auditant",
@@ -1806,8 +1806,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "預算管理；成本控管",
-    "example": "The supplier prepared auditant in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted auditant as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第181筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "auditation",
@@ -1816,8 +1816,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "品質管理；稽核作業",
-    "example": "The finance staff arranged auditation in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on auditation before Friday afternoon.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "auditative",
@@ -1826,8 +1826,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Office",
     "meaning": "行政管理；作業執行",
-    "example": "The hr officer planned auditative in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on auditative before Friday afternoon.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "auditator",
@@ -1836,8 +1836,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "會議安排；溝通協調",
-    "example": "The warehouse clerk updated auditator in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed auditator during the monthly planning meeting.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "auditboard",
@@ -1846,8 +1846,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Meeting",
     "meaning": "客戶服務；客訴處理",
-    "example": "The project leader confirmed auditboard in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about auditboard in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "auditbridge",
@@ -1856,8 +1856,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "CustomerService",
     "meaning": "採購管理；供應商協作",
-    "example": "The sales director documented auditbridge in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted auditbridge as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第186筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "auditcare",
@@ -1866,8 +1866,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "財務管理；帳務控管",
-    "example": "The manager reviewed auditcare in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted auditcare as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "auditchart",
@@ -1876,8 +1876,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Purchasing",
     "meaning": "報表管理；數據追蹤",
-    "example": "The team submitted auditchart in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about auditchart in the proposal.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "auditcheck",
@@ -1886,8 +1886,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "人資招募；教育訓練",
-    "example": "The client checked auditcheck in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed auditcheck during the monthly planning meeting.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "auditcraft",
@@ -1896,8 +1896,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "預算管理；成本控管",
-    "example": "The vendor revised auditcraft in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed auditcraft during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "auditcycle",
@@ -1906,8 +1906,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Schedules",
     "meaning": "品質管理；稽核作業",
-    "example": "The supplier prepared auditcycle in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about auditcycle in the proposal.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第191筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "auditdrive",
@@ -1916,8 +1916,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Hiring",
     "meaning": "會議安排；溝通協調",
-    "example": "The finance staff arranged auditdrive in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about auditdrive in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "auditedge",
@@ -1926,8 +1926,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Training",
     "meaning": "客戶服務；客訴處理",
-    "example": "The hr officer planned auditedge in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted auditedge as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "auditency",
@@ -1936,8 +1936,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "物流管理；出貨作業",
-    "example": "The warehouse clerk updated auditency in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on auditency before Friday afternoon.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "auditengine",
@@ -1946,8 +1946,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Travel",
     "meaning": "採購管理；供應商協作",
-    "example": "The project leader confirmed auditengine in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed auditengine during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "auditfield",
@@ -1956,8 +1956,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "財務管理；帳務控管",
-    "example": "The sales director documented auditfield in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about auditfield in the proposal.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第196筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "auditflow",
@@ -1966,8 +1966,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Manufacturing",
     "meaning": "合約管理；法務作業",
-    "example": "The manager reviewed auditflow in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed auditflow during the monthly planning meeting.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "auditforce",
@@ -1976,8 +1976,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "報表管理；數據追蹤",
-    "example": "The team submitted auditforce in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted auditforce as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "auditform",
@@ -1986,8 +1986,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Facilities",
     "meaning": "人資招募；教育訓練",
-    "example": "The client checked auditform in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about auditform in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "auditframe",
@@ -1996,8 +1996,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Coordination",
     "meaning": "專案管理；營運協調",
-    "example": "The vendor revised auditframe in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on auditframe before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "auditgate",
@@ -2006,8 +2006,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "預算管理；成本控管",
-    "example": "The supplier prepared auditgate in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on auditgate before Friday afternoon.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第201筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "auditgrid",
@@ -2016,8 +2016,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "品質管理；稽核作業",
-    "example": "The finance staff arranged auditgrid in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed auditgrid during the monthly planning meeting.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "auditguide",
@@ -2026,8 +2026,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Office",
     "meaning": "行政管理；作業執行",
-    "example": "The hr officer planned auditguide in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed auditguide during the monthly planning meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "audithouse",
@@ -2036,8 +2036,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "會議安排；溝通協調",
-    "example": "The warehouse clerk updated audithouse in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed audithouse during the monthly planning meeting.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "audithub",
@@ -2046,8 +2046,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Meeting",
     "meaning": "客戶服務；客訴處理",
-    "example": "The project leader confirmed audithub in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on audithub before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "auditindex",
@@ -2056,8 +2056,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Email",
     "meaning": "物流管理；出貨作業",
-    "example": "The sales director documented auditindex in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about auditindex in the proposal.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第206筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "auditing",
@@ -2066,8 +2066,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "CustomerService",
     "meaning": "採購管理；供應商協作",
-    "example": "The manager reviewed auditing in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about auditing in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "auditinsight",
@@ -2076,8 +2076,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "財務管理；帳務控管",
-    "example": "The team submitted auditinsight in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed auditinsight during the monthly planning meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "auditkeeper",
@@ -2086,8 +2086,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Shipping",
     "meaning": "合約管理；法務作業",
-    "example": "The client checked auditkeeper in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed auditkeeper during the monthly planning meeting.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "auditline",
@@ -2096,8 +2096,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "人資招募；教育訓練",
-    "example": "The vendor revised auditline in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about auditline in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "auditlist",
@@ -2106,8 +2106,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "預算管理；成本控管",
-    "example": "The supplier prepared auditlist in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed auditlist during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第211筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "auditlog",
@@ -2116,8 +2116,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "稽核紀錄",
-    "example": "The finance staff arranged auditlog in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed auditlog during the monthly planning meeting.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "auditmaker",
@@ -2126,8 +2126,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Hiring",
     "meaning": "會議安排；溝通協調",
-    "example": "The hr officer planned auditmaker in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed auditmaker during the monthly planning meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "auditmanage",
@@ -2136,8 +2136,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Training",
     "meaning": "客戶服務；客訴處理",
-    "example": "The warehouse clerk updated auditmanage in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted auditmanage as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "auditmetric",
@@ -2146,8 +2146,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Travel",
     "meaning": "採購管理；供應商協作",
-    "example": "The project leader confirmed auditmetric in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about auditmetric in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "auditmode",
@@ -2156,8 +2156,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "財務管理；帳務控管",
-    "example": "The sales director documented auditmode in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on auditmode before Friday afternoon.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第216筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "auditmonitor",
@@ -2166,8 +2166,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "報表管理；數據追蹤",
-    "example": "The manager reviewed auditmonitor in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about auditmonitor in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "auditnet",
@@ -2176,8 +2176,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Facilities",
     "meaning": "人資招募；教育訓練",
-    "example": "The team submitted auditnet in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on auditnet before Friday afternoon.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "auditnode",
@@ -2186,8 +2186,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Coordination",
     "meaning": "專案管理；營運協調",
-    "example": "The client checked auditnode in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed auditnode during the monthly planning meeting.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "auditoption",
@@ -2196,8 +2196,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "預算管理；成本控管",
-    "example": "The vendor revised auditoption in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted auditoption as a key issue this quarter.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "auditor",
@@ -2206,8 +2206,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "稽核員",
-    "example": "The supplier prepared auditor in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on auditor before Friday afternoon.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第221筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "auditpath",
@@ -2216,8 +2216,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "品質管理；稽核作業",
-    "example": "The finance staff arranged auditpath in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted auditpath as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "auditphase",
@@ -2226,8 +2226,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Office",
     "meaning": "行政管理；作業執行",
-    "example": "The hr officer planned auditphase in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted auditphase as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "auditplan",
@@ -2236,8 +2236,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "會議安排；溝通協調",
-    "example": "The warehouse clerk updated auditplan in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted auditplan as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "auditpoint",
@@ -2246,8 +2246,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Meeting",
     "meaning": "客戶服務；客訴處理",
-    "example": "The project leader confirmed auditpoint in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed auditpoint during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "auditport",
@@ -2256,8 +2256,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Email",
     "meaning": "物流管理；出貨作業",
-    "example": "The sales director documented auditport in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted auditport as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第226筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "auditpress",
@@ -2266,8 +2266,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "CustomerService",
     "meaning": "採購管理；供應商協作",
-    "example": "The manager reviewed auditpress in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted auditpress as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "auditproof",
@@ -2276,8 +2276,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "財務管理；帳務控管",
-    "example": "The team submitted auditproof in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed auditproof during the monthly planning meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "auditpulse",
@@ -2286,8 +2286,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Shipping",
     "meaning": "合約管理；法務作業",
-    "example": "The client checked auditpulse in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on auditpulse before Friday afternoon.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "auditqueue",
@@ -2296,8 +2296,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Purchasing",
     "meaning": "報表管理；數據追蹤",
-    "example": "The vendor revised auditqueue in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on auditqueue before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "auditrate",
@@ -2306,8 +2306,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "人資招募；教育訓練",
-    "example": "The supplier prepared auditrate in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about auditrate in the proposal.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第231筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "auditrecord",
@@ -2316,8 +2316,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Accounting",
     "meaning": "專案管理；營運協調",
-    "example": "The finance staff arranged auditrecord in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted auditrecord as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "auditscope",
@@ -2326,8 +2326,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "預算管理；成本控管",
-    "example": "The hr officer planned auditscope in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed auditscope during the monthly planning meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "auditsense",
@@ -2336,8 +2336,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Schedules",
     "meaning": "品質管理；稽核作業",
-    "example": "The warehouse clerk updated auditsense in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about auditsense in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "auditshift",
@@ -2346,8 +2346,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Hiring",
     "meaning": "會議安排；溝通協調",
-    "example": "The project leader confirmed auditshift in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about auditshift in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "auditsignal",
@@ -2356,8 +2356,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Training",
     "meaning": "客戶服務；客訴處理",
-    "example": "The sales director documented auditsignal in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about auditsignal in the proposal.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第236筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "auditskill",
@@ -2366,8 +2366,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Travel",
     "meaning": "採購管理；供應商協作",
-    "example": "The manager reviewed auditskill in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on auditskill before Friday afternoon.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "auditsource",
@@ -2376,8 +2376,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "財務管理；帳務控管",
-    "example": "The team submitted auditsource in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on auditsource before Friday afternoon.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "auditstack",
@@ -2386,8 +2386,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "報表管理；數據追蹤",
-    "example": "The client checked auditstack in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed auditstack during the monthly planning meeting.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "auditstage",
@@ -2396,8 +2396,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Facilities",
     "meaning": "人資招募；教育訓練",
-    "example": "The vendor revised auditstage in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about auditstage in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "auditstream",
@@ -2406,8 +2406,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "預算管理；成本控管",
-    "example": "The supplier prepared auditstream in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about auditstream in the proposal.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第241筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "auditsupport",
@@ -2416,8 +2416,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "品質管理；稽核作業",
-    "example": "The finance staff arranged auditsupport in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted auditsupport as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "auditsystem",
@@ -2426,8 +2426,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "會議安排；溝通協調",
-    "example": "The hr officer planned auditsystem in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on auditsystem before Friday afternoon.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "audittable",
@@ -2436,8 +2436,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Meeting",
     "meaning": "客戶服務；客訴處理",
-    "example": "The warehouse clerk updated audittable in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about audittable in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "audittech",
@@ -2446,8 +2446,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Email",
     "meaning": "物流管理；出貨作業",
-    "example": "The project leader confirmed audittech in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed audittech during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "audittrack",
@@ -2456,8 +2456,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "CustomerService",
     "meaning": "採購管理；供應商協作",
-    "example": "The sales director documented audittrack in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted audittrack as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第246筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "audittrail",
@@ -2466,8 +2466,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "稽核軌跡",
-    "example": "The manager reviewed audittrail in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about audittrail in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "audittrend",
@@ -2476,8 +2476,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "財務管理；帳務控管",
-    "example": "The team submitted audittrend in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on audittrend before Friday afternoon.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "auditunit",
@@ -2486,8 +2486,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Shipping",
     "meaning": "合約管理；法務作業",
-    "example": "The client checked auditunit in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about auditunit in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "auditvalue",
@@ -2496,8 +2496,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Purchasing",
     "meaning": "報表管理；數據追蹤",
-    "example": "The vendor revised auditvalue in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on auditvalue before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "auditview",
@@ -2506,8 +2506,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "人資招募；教育訓練",
-    "example": "The supplier prepared auditview in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted auditview as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第251筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "auditvision",
@@ -2516,8 +2516,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Accounting",
     "meaning": "專案管理；營運協調",
-    "example": "The finance staff arranged auditvision in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about auditvision in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "auditware",
@@ -2526,8 +2526,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "預算管理；成本控管",
-    "example": "The hr officer planned auditware in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted auditware as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "auditwatch",
@@ -2536,8 +2536,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Schedules",
     "meaning": "品質管理；稽核作業",
-    "example": "The warehouse clerk updated auditwatch in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted auditwatch as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "auditwave",
@@ -2546,8 +2546,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reports",
     "meaning": "行政管理；作業執行",
-    "example": "The project leader confirmed auditwave in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted auditwave as a key issue this quarter.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "auditwork",
@@ -2556,8 +2556,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Hiring",
     "meaning": "會議安排；溝通協調",
-    "example": "The sales director documented auditwork in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted auditwork as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第256筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "auditzone",
@@ -2566,8 +2566,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Training",
     "meaning": "客戶服務；客訴處理",
-    "example": "The manager reviewed auditzone in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about auditzone in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "authentication",
@@ -2576,8 +2576,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "驗證",
-    "example": "The team submitted authentication in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted authentication as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "authenticator",
@@ -2586,8 +2586,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Security",
     "meaning": "驗證工具",
-    "example": "The client checked authenticator in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about authenticator in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "authority",
@@ -2596,8 +2596,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Legal",
     "meaning": "權限；權威",
-    "example": "The vendor revised authority in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about authority in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "authorization",
@@ -2606,8 +2606,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "授權",
-    "example": "The supplier prepared authorization in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed authorization during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第261筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "automation",
@@ -2616,8 +2616,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "自動化",
-    "example": "The finance staff arranged automation in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about automation in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "automationplan",
@@ -2626,8 +2626,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "自動化計畫",
-    "example": "The hr officer planned automationplan in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted automationplan as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "autopay",
@@ -2636,8 +2636,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "自動扣款",
-    "example": "The warehouse clerk updated autopay in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed autopay during the monthly planning meeting.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "availability",
@@ -2646,8 +2646,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "可用性",
-    "example": "The project leader confirmed availability in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about availability in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "availabilitycheck",
@@ -2656,8 +2656,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "可用性檢查",
-    "example": "The sales director documented availabilitycheck in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed availabilitycheck during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第266筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "availabilityrate",
@@ -2666,8 +2666,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "可用率",
-    "example": "The manager reviewed availabilityrate in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about availabilityrate in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "average",
@@ -2676,8 +2676,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "平均值",
-    "example": "The team submitted average in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed average during the monthly planning meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "award",
@@ -2686,8 +2686,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "獎項",
-    "example": "The client checked award in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed award during the monthly planning meeting.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "backlog",
@@ -2696,8 +2696,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "待辦積壓",
-    "example": "The vendor revised backlog in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed backlog during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "backoffice",
@@ -2706,8 +2706,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Office",
     "meaning": "後勤部門",
-    "example": "The supplier prepared backoffice in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about backoffice in the proposal.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第271筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "backorder",
@@ -2716,8 +2716,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "延後交貨訂單",
-    "example": "The finance staff arranged backorder in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about backorder in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "backordercase",
@@ -2726,8 +2726,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "延遲訂單案件",
-    "example": "The hr officer planned backordercase in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about backordercase in the proposal.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "backup",
@@ -2736,8 +2736,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "備份",
-    "example": "The warehouse clerk updated backup in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on backup before Friday afternoon.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "backuplog",
@@ -2746,8 +2746,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "備援紀錄",
-    "example": "The project leader confirmed backuplog in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on backuplog before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "balance",
@@ -2756,8 +2756,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "餘額；平衡",
-    "example": "The sales director documented balance in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted balance as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第276筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "balancer",
@@ -2766,8 +2766,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "平衡機制",
-    "example": "The manager reviewed balancer in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on balancer before Friday afternoon.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "balancing",
@@ -2776,8 +2776,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "平衡調整",
-    "example": "The team submitted balancing in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed balancing during the monthly planning meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "banker",
@@ -2786,8 +2786,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "銀行家",
-    "example": "The client checked banker in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed banker during the monthly planning meeting.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "banking",
@@ -2796,8 +2796,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "銀行業務",
-    "example": "The vendor revised banking in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on banking before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "bankruptcy",
@@ -2806,8 +2806,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "破產",
-    "example": "The supplier prepared bankruptcy in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed bankruptcy during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第281筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "basefare",
@@ -2816,8 +2816,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Travel",
     "meaning": "基本票價",
-    "example": "The finance staff arranged basefare in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about basefare in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "baseline",
@@ -2826,8 +2826,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "基準線",
-    "example": "The hr officer planned baseline in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed baseline during the monthly planning meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "batch",
@@ -2836,8 +2836,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Manufacturing",
     "meaning": "批次",
-    "example": "The warehouse clerk updated batch in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on batch before Friday afternoon.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "benchmark",
@@ -2846,8 +2846,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "基準",
-    "example": "The project leader confirmed benchmark in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed benchmark during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "benchmarking",
@@ -2856,8 +2856,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "標竿比較",
-    "example": "The sales director documented benchmarking in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed benchmarking during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第286筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "benchmarkrate",
@@ -2866,8 +2866,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "基準比率",
-    "example": "The manager reviewed benchmarkrate in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed benchmarkrate during the monthly planning meeting.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "beneficiary",
@@ -2876,8 +2876,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "受益人",
-    "example": "The team submitted beneficiary in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed beneficiary during the monthly planning meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "benefit",
@@ -2886,8 +2886,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "員工福利；益處",
-    "example": "The client checked benefit in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "This policy offers a benefit to employees with young children.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "bid",
@@ -2896,8 +2896,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "投標",
-    "example": "The vendor revised bid in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed bid during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "bidbond",
@@ -2906,8 +2906,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Purchasing",
     "meaning": "投標保證金",
-    "example": "The supplier prepared bidbond in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted bidbond as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第291筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "bidder",
@@ -2916,8 +2916,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Purchasing",
     "meaning": "投標者",
-    "example": "The finance staff arranged bidder in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted bidder as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "bidderlist",
@@ -2926,8 +2926,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Purchasing",
     "meaning": "投標名單",
-    "example": "The hr officer planned bidderlist in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on bidderlist before Friday afternoon.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "billing",
@@ -2936,8 +2936,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "帳務作業",
-    "example": "The warehouse clerk updated billing in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about billing in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "billingcycle",
@@ -2946,8 +2946,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "帳單週期",
-    "example": "The project leader confirmed billingcycle in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about billingcycle in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "biosafety",
@@ -2956,8 +2956,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Quality",
     "meaning": "生物安全",
-    "example": "The sales director documented biosafety in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on biosafety before Friday afternoon.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第296筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "blackout",
@@ -2966,8 +2966,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "停電中斷",
-    "example": "The manager reviewed blackout in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about blackout in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "blockchain",
@@ -2976,8 +2976,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "區塊鏈",
-    "example": "The team submitted blockchain in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted blockchain as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "blueprint",
@@ -2986,8 +2986,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "藍圖",
-    "example": "The client checked blueprint in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about blueprint in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "boarder",
@@ -2996,8 +2996,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Travel",
     "meaning": "住宿者",
-    "example": "The vendor revised boarder in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about boarder in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "boardmeeting",
@@ -3006,8 +3006,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Meeting",
     "meaning": "董事會議",
-    "example": "The supplier prepared boardmeeting in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed boardmeeting during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第301筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "boardmember",
@@ -3016,8 +3016,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "董事會成員",
-    "example": "The finance staff arranged boardmember in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted boardmember as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "boardroom",
@@ -3026,8 +3026,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Meeting",
     "meaning": "董事會會議室",
-    "example": "The hr officer planned boardroom in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed boardroom during the monthly planning meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "bond",
@@ -3036,8 +3036,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "債券",
-    "example": "The warehouse clerk updated bond in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about bond in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "bondholder",
@@ -3046,8 +3046,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "債券持有人",
-    "example": "The project leader confirmed bondholder in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about bondholder in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "bonus",
@@ -3056,8 +3056,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "獎金",
-    "example": "The sales director documented bonus in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about bonus in the proposal.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第306筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "booker",
@@ -3066,8 +3066,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Travel",
     "meaning": "訂位人員",
-    "example": "The manager reviewed booker in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on booker before Friday afternoon.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "bookerid",
@@ -3076,8 +3076,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Travel",
     "meaning": "訂位編號",
-    "example": "The team submitted bookerid in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed bookerid during the monthly planning meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "bookkeeping",
@@ -3086,8 +3086,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "簿記",
-    "example": "The client checked bookkeeping in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted bookkeeping as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "booklet",
@@ -3096,8 +3096,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Training",
     "meaning": "手冊",
-    "example": "The vendor revised booklet in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on booklet before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "bottleneck",
@@ -3106,8 +3106,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "瓶頸",
-    "example": "The supplier prepared bottleneck in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed bottleneck during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第311筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "branch",
@@ -3116,8 +3116,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "分公司",
-    "example": "The finance staff arranged branch in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on branch before Friday afternoon.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "brand",
@@ -3126,8 +3126,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "品牌",
-    "example": "The hr officer planned brand in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about brand in the proposal.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "branding",
@@ -3136,8 +3136,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "品牌經營；品牌識別",
-    "example": "The warehouse clerk updated branding in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about branding in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "breakpoint",
@@ -3146,8 +3146,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "臨界點",
-    "example": "The project leader confirmed breakpoint in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed breakpoint during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "breakpointplan",
@@ -3156,8 +3156,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "臨界應變方案",
-    "example": "The sales director documented breakpointplan in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on breakpointplan before Friday afternoon.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第316筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "brief",
@@ -3166,8 +3166,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Meeting",
     "meaning": "簡報摘要",
-    "example": "The manager reviewed brief in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on brief before Friday afternoon.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "briefcase",
@@ -3176,8 +3176,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Office",
     "meaning": "公事包",
-    "example": "The team submitted briefcase in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on briefcase before Friday afternoon.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "briefing",
@@ -3186,8 +3186,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Meeting",
     "meaning": "簡報說明",
-    "example": "The client checked briefing in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted briefing as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "broadcast",
@@ -3196,8 +3196,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "公告發布",
-    "example": "The vendor revised broadcast in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed broadcast during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "broadcastmail",
@@ -3206,8 +3206,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "群發郵件",
-    "example": "The supplier prepared broadcastmail in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted broadcastmail as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第321筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "brokerage",
@@ -3216,8 +3216,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "經紀業務",
-    "example": "The finance staff arranged brokerage in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on brokerage before Friday afternoon.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "budget",
@@ -3226,8 +3226,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "預算",
-    "example": "The hr officer planned budget in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed budget during the monthly planning meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "budgetability",
@@ -3236,8 +3236,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Travel",
     "meaning": "採購管理；供應商協作",
-    "example": "The warehouse clerk updated budgetability in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed budgetability during the monthly planning meeting.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "budgetable",
@@ -3246,8 +3246,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "物流管理；出貨作業",
-    "example": "The project leader confirmed budgetable in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about budgetable in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "budgetance",
@@ -3256,8 +3256,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "財務管理；帳務控管",
-    "example": "The sales director documented budgetance in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted budgetance as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第326筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "budgetancy",
@@ -3266,8 +3266,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Manufacturing",
     "meaning": "合約管理；法務作業",
-    "example": "The manager reviewed budgetancy in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted budgetancy as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "budgetant",
@@ -3276,8 +3276,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "報表管理；數據追蹤",
-    "example": "The team submitted budgetant in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on budgetant before Friday afternoon.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "budgetation",
@@ -3286,8 +3286,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Facilities",
     "meaning": "人資招募；教育訓練",
-    "example": "The client checked budgetation in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted budgetation as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "budgetator",
@@ -3296,8 +3296,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "預算管理；成本控管",
-    "example": "The vendor revised budgetator in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about budgetator in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "budgetboard",
@@ -3306,8 +3306,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "品質管理；稽核作業",
-    "example": "The supplier prepared budgetboard in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed budgetboard during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第331筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "budgetbridge",
@@ -3316,8 +3316,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "會議安排；溝通協調",
-    "example": "The finance staff arranged budgetbridge in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on budgetbridge before Friday afternoon.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "budgetcare",
@@ -3326,8 +3326,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Meeting",
     "meaning": "客戶服務；客訴處理",
-    "example": "The hr officer planned budgetcare in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on budgetcare before Friday afternoon.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "budgetchart",
@@ -3336,8 +3336,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "CustomerService",
     "meaning": "採購管理；供應商協作",
-    "example": "The warehouse clerk updated budgetchart in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed budgetchart during the monthly planning meeting.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "budgetcheck",
@@ -3346,8 +3346,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "財務管理；帳務控管",
-    "example": "The project leader confirmed budgetcheck in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about budgetcheck in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "budgetcraft",
@@ -3356,8 +3356,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Purchasing",
     "meaning": "報表管理；數據追蹤",
-    "example": "The sales director documented budgetcraft in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about budgetcraft in the proposal.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第336筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "budgetcycle",
@@ -3366,8 +3366,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "人資招募；教育訓練",
-    "example": "The manager reviewed budgetcycle in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed budgetcycle during the monthly planning meeting.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "budgetdrive",
@@ -3376,8 +3376,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "預算管理；成本控管",
-    "example": "The team submitted budgetdrive in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed budgetdrive during the monthly planning meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "budgetedge",
@@ -3386,8 +3386,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Schedules",
     "meaning": "品質管理；稽核作業",
-    "example": "The client checked budgetedge in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on budgetedge before Friday afternoon.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "budgetency",
@@ -3396,8 +3396,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reports",
     "meaning": "行政管理；作業執行",
-    "example": "The vendor revised budgetency in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted budgetency as a key issue this quarter.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "budgetengine",
@@ -3406,8 +3406,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Hiring",
     "meaning": "會議安排；溝通協調",
-    "example": "The supplier prepared budgetengine in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about budgetengine in the proposal.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第341筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "budgetfield",
@@ -3416,8 +3416,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Training",
     "meaning": "客戶服務；客訴處理",
-    "example": "The finance staff arranged budgetfield in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed budgetfield during the monthly planning meeting.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "budgetflow",
@@ -3426,8 +3426,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "物流管理；出貨作業",
-    "example": "The hr officer planned budgetflow in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about budgetflow in the proposal.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "budgetforce",
@@ -3436,8 +3436,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Travel",
     "meaning": "採購管理；供應商協作",
-    "example": "The warehouse clerk updated budgetforce in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on budgetforce before Friday afternoon.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "budgetform",
@@ -3446,8 +3446,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "財務管理；帳務控管",
-    "example": "The project leader confirmed budgetform in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed budgetform during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "budgetframe",
@@ -3456,8 +3456,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Manufacturing",
     "meaning": "合約管理；法務作業",
-    "example": "The sales director documented budgetframe in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted budgetframe as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第346筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "budgetgate",
@@ -3466,8 +3466,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "報表管理；數據追蹤",
-    "example": "The manager reviewed budgetgate in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted budgetgate as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "budgetgrid",
@@ -3476,8 +3476,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Facilities",
     "meaning": "人資招募；教育訓練",
-    "example": "The team submitted budgetgrid in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about budgetgrid in the proposal.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "budgetguide",
@@ -3486,8 +3486,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Coordination",
     "meaning": "專案管理；營運協調",
-    "example": "The client checked budgetguide in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about budgetguide in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "budgethouse",
@@ -3496,8 +3496,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "預算管理；成本控管",
-    "example": "The vendor revised budgethouse in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about budgethouse in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "budgethub",
@@ -3506,8 +3506,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "品質管理；稽核作業",
-    "example": "The supplier prepared budgethub in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted budgethub as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第351筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "budgetindex",
@@ -3516,8 +3516,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Office",
     "meaning": "行政管理；作業執行",
-    "example": "The finance staff arranged budgetindex in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed budgetindex during the monthly planning meeting.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "budgeting",
@@ -3526,8 +3526,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "預算編列",
-    "example": "The hr officer planned budgeting in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed budgeting during the monthly planning meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "budgetinsight",
@@ -3536,8 +3536,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "會議安排；溝通協調",
-    "example": "The warehouse clerk updated budgetinsight in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about budgetinsight in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "budgetkeeper",
@@ -3546,8 +3546,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Meeting",
     "meaning": "客戶服務；客訴處理",
-    "example": "The project leader confirmed budgetkeeper in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about budgetkeeper in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "budgetline",
@@ -3556,8 +3556,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "預算科目",
-    "example": "The sales director documented budgetline in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed budgetline during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第356筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "budgetlist",
@@ -3566,8 +3566,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "財務管理；帳務控管",
-    "example": "The manager reviewed budgetlist in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about budgetlist in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "budgetmaker",
@@ -3576,8 +3576,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "人資招募；教育訓練",
-    "example": "The team submitted budgetmaker in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about budgetmaker in the proposal.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "budgetmanage",
@@ -3586,8 +3586,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Accounting",
     "meaning": "專案管理；營運協調",
-    "example": "The client checked budgetmanage in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on budgetmanage before Friday afternoon.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "budgetmetric",
@@ -3596,8 +3596,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Schedules",
     "meaning": "品質管理；稽核作業",
-    "example": "The vendor revised budgetmetric in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed budgetmetric during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "budgetmode",
@@ -3606,8 +3606,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reports",
     "meaning": "行政管理；作業執行",
-    "example": "The supplier prepared budgetmode in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted budgetmode as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第361筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "budgetmonitor",
@@ -3616,8 +3616,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Training",
     "meaning": "客戶服務；客訴處理",
-    "example": "The finance staff arranged budgetmonitor in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed budgetmonitor during the monthly planning meeting.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "budgetnet",
@@ -3626,8 +3626,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "物流管理；出貨作業",
-    "example": "The hr officer planned budgetnet in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted budgetnet as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "budgetnode",
@@ -3636,8 +3636,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Travel",
     "meaning": "採購管理；供應商協作",
-    "example": "The warehouse clerk updated budgetnode in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about budgetnode in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "budgetoption",
@@ -3646,8 +3646,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "財務管理；帳務控管",
-    "example": "The project leader confirmed budgetoption in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on budgetoption before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "budgetpath",
@@ -3656,8 +3656,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Manufacturing",
     "meaning": "合約管理；法務作業",
-    "example": "The sales director documented budgetpath in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on budgetpath before Friday afternoon.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第366筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "budgetphase",
@@ -3666,8 +3666,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "報表管理；數據追蹤",
-    "example": "The manager reviewed budgetphase in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on budgetphase before Friday afternoon.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "budgetplan",
@@ -3676,8 +3676,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "預算規劃",
-    "example": "The team submitted budgetplan in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on budgetplan before Friday afternoon.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "budgetpoint",
@@ -3686,8 +3686,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Facilities",
     "meaning": "人資招募；教育訓練",
-    "example": "The client checked budgetpoint in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about budgetpoint in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "budgetport",
@@ -3696,8 +3696,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Coordination",
     "meaning": "專案管理；營運協調",
-    "example": "The vendor revised budgetport in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on budgetport before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "budgetpress",
@@ -3706,8 +3706,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "預算管理；成本控管",
-    "example": "The supplier prepared budgetpress in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on budgetpress before Friday afternoon.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第371筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "budgetproof",
@@ -3716,8 +3716,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "品質管理；稽核作業",
-    "example": "The finance staff arranged budgetproof in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about budgetproof in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "budgetpulse",
@@ -3726,8 +3726,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Office",
     "meaning": "行政管理；作業執行",
-    "example": "The hr officer planned budgetpulse in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted budgetpulse as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "budgetqueue",
@@ -3736,8 +3736,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "會議安排；溝通協調",
-    "example": "The warehouse clerk updated budgetqueue in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted budgetqueue as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "budgetrate",
@@ -3746,8 +3746,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Meeting",
     "meaning": "客戶服務；客訴處理",
-    "example": "The project leader confirmed budgetrate in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed budgetrate during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "budgetrecord",
@@ -3756,8 +3756,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Email",
     "meaning": "物流管理；出貨作業",
-    "example": "The sales director documented budgetrecord in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on budgetrecord before Friday afternoon.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第376筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "budgetreview",
@@ -3766,8 +3766,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "預算審查",
-    "example": "The manager reviewed budgetreview in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed budgetreview during the monthly planning meeting.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "budgetscope",
@@ -3776,8 +3776,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "CustomerService",
     "meaning": "採購管理；供應商協作",
-    "example": "The team submitted budgetscope in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about budgetscope in the proposal.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "budgetsense",
@@ -3786,8 +3786,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "財務管理；帳務控管",
-    "example": "The client checked budgetsense in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed budgetsense during the monthly planning meeting.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "budgetshift",
@@ -3796,8 +3796,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Purchasing",
     "meaning": "報表管理；數據追蹤",
-    "example": "The vendor revised budgetshift in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed budgetshift during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "budgetsignal",
@@ -3806,8 +3806,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "人資招募；教育訓練",
-    "example": "The supplier prepared budgetsignal in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed budgetsignal during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第381筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "budgetskill",
@@ -3816,8 +3816,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "預算管理；成本控管",
-    "example": "The finance staff arranged budgetskill in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted budgetskill as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "budgetsource",
@@ -3826,8 +3826,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Schedules",
     "meaning": "品質管理；稽核作業",
-    "example": "The hr officer planned budgetsource in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted budgetsource as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "budgetstack",
@@ -3836,8 +3836,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Hiring",
     "meaning": "會議安排；溝通協調",
-    "example": "The warehouse clerk updated budgetstack in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about budgetstack in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "budgetstage",
@@ -3846,8 +3846,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Training",
     "meaning": "客戶服務；客訴處理",
-    "example": "The project leader confirmed budgetstage in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed budgetstage during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "budgetstream",
@@ -3856,8 +3856,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Travel",
     "meaning": "採購管理；供應商協作",
-    "example": "The sales director documented budgetstream in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed budgetstream during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第386筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "budgetsupport",
@@ -3866,8 +3866,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "財務管理；帳務控管",
-    "example": "The manager reviewed budgetsupport in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on budgetsupport before Friday afternoon.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "budgetsystem",
@@ -3876,8 +3876,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "報表管理；數據追蹤",
-    "example": "The team submitted budgetsystem in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted budgetsystem as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "budgettable",
@@ -3886,8 +3886,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Facilities",
     "meaning": "人資招募；教育訓練",
-    "example": "The client checked budgettable in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed budgettable during the monthly planning meeting.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "budgettech",
@@ -3896,8 +3896,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Coordination",
     "meaning": "專案管理；營運協調",
-    "example": "The vendor revised budgettech in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about budgettech in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "budgettrack",
@@ -3906,8 +3906,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "預算管理；成本控管",
-    "example": "The supplier prepared budgettrack in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on budgettrack before Friday afternoon.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第391筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "budgettrend",
@@ -3916,8 +3916,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "品質管理；稽核作業",
-    "example": "The finance staff arranged budgettrend in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted budgettrend as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "budgetunit",
@@ -3926,8 +3926,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Office",
     "meaning": "行政管理；作業執行",
-    "example": "The hr officer planned budgetunit in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed budgetunit during the monthly planning meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "budgetvalue",
@@ -3936,8 +3936,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "會議安排；溝通協調",
-    "example": "The warehouse clerk updated budgetvalue in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted budgetvalue as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "budgetview",
@@ -3946,8 +3946,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Meeting",
     "meaning": "客戶服務；客訴處理",
-    "example": "The project leader confirmed budgetview in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on budgetview before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "budgetvision",
@@ -3956,8 +3956,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Email",
     "meaning": "物流管理；出貨作業",
-    "example": "The sales director documented budgetvision in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed budgetvision during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第396筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "budgetware",
@@ -3966,8 +3966,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "CustomerService",
     "meaning": "採購管理；供應商協作",
-    "example": "The manager reviewed budgetware in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on budgetware before Friday afternoon.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "budgetwatch",
@@ -3976,8 +3976,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "財務管理；帳務控管",
-    "example": "The team submitted budgetwatch in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on budgetwatch before Friday afternoon.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "budgetwave",
@@ -3986,8 +3986,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Shipping",
     "meaning": "合約管理；法務作業",
-    "example": "The client checked budgetwave in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on budgetwave before Friday afternoon.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "budgetwork",
@@ -3996,8 +3996,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Purchasing",
     "meaning": "報表管理；數據追蹤",
-    "example": "The vendor revised budgetwork in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on budgetwork before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "budgetzone",
@@ -4006,8 +4006,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "人資招募；教育訓練",
-    "example": "The supplier prepared budgetzone in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed budgetzone during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第401筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "buffer",
@@ -4016,8 +4016,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "緩衝",
-    "example": "The finance staff arranged buffer in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted buffer as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "bufferstock",
@@ -4026,8 +4026,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "緩衝庫存",
-    "example": "The hr officer planned bufferstock in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on bufferstock before Friday afternoon.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "bulletinmail",
@@ -4036,8 +4036,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "公告郵件",
-    "example": "The warehouse clerk updated bulletinmail in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on bulletinmail before Friday afternoon.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "burden",
@@ -4046,8 +4046,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "負擔成本",
-    "example": "The project leader confirmed burden in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on burden before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "burnrate",
@@ -4056,8 +4056,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "燒錢速度",
-    "example": "The sales director documented burnrate in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about burnrate in the proposal.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第406筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "businesscase",
@@ -4066,8 +4066,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Strategy",
     "meaning": "商業論證",
-    "example": "The manager reviewed businesscase in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted businesscase as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "businessunit",
@@ -4076,8 +4076,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "事業單位",
-    "example": "The team submitted businessunit in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted businessunit as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "buyer",
@@ -4086,8 +4086,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "買方",
-    "example": "The client checked buyer in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about buyer in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "buyerprofile",
@@ -4096,8 +4096,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Purchasing",
     "meaning": "採購輪廓",
-    "example": "The vendor revised buyerprofile in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on buyerprofile before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "calculation",
@@ -4106,8 +4106,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "作業流程；處理程序",
-    "example": "The supplier prepared calculation in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed calculation during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第411筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "calibration",
@@ -4116,8 +4116,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Manufacturing",
     "meaning": "校準",
-    "example": "The finance staff arranged calibration in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on calibration before Friday afternoon.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "callrecord",
@@ -4126,8 +4126,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Service",
     "meaning": "通話紀錄",
-    "example": "The hr officer planned callrecord in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about callrecord in the proposal.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "campaign",
@@ -4136,8 +4136,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "行銷活動",
-    "example": "The warehouse clerk updated campaign in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted campaign as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "cancelation",
@@ -4146,8 +4146,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Service",
     "meaning": "取消作業",
-    "example": "The project leader confirmed cancelation in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about cancelation in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "candidate",
@@ -4156,8 +4156,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "求職候選人；候選者",
-    "example": "The sales director documented candidate in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The hiring manager interviewed each candidate in person.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第416筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "capability",
@@ -4166,8 +4166,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Training",
     "meaning": "能力",
-    "example": "The manager reviewed capability in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted capability as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "capacity",
@@ -4176,8 +4176,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "產能；容量",
-    "example": "The team submitted capacity in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on capacity before Friday afternoon.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "capacityplan",
@@ -4186,8 +4186,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Manufacturing",
     "meaning": "產能規劃",
-    "example": "The client checked capacityplan in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about capacityplan in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "capital",
@@ -4196,8 +4196,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "資本",
-    "example": "The vendor revised capital in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted capital as a key issue this quarter.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "capitalization",
@@ -4206,8 +4206,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "資本化",
-    "example": "The supplier prepared capitalization in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted capitalization as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第421筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "caretaker",
@@ -4216,8 +4216,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "管理員",
-    "example": "The finance staff arranged caretaker in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on caretaker before Friday afternoon.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "cargo",
@@ -4226,8 +4226,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "貨物",
-    "example": "The hr officer planned cargo in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted cargo as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "carpool",
@@ -4236,8 +4236,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Travel",
     "meaning": "共乘安排",
-    "example": "The warehouse clerk updated carpool in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted carpool as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "cashflow",
@@ -4246,8 +4246,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "現金流",
-    "example": "The project leader confirmed cashflow in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed cashflow during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "catalog",
@@ -4256,8 +4256,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "目錄",
-    "example": "The sales director documented catalog in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed catalog during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第426筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "catalogue",
@@ -4266,8 +4266,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "產品型錄",
-    "example": "The manager reviewed catalogue in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed catalogue during the monthly planning meeting.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "category",
@@ -4276,8 +4276,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "類別",
-    "example": "The team submitted category in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on category before Friday afternoon.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "certification",
@@ -4286,8 +4286,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "認證",
-    "example": "The client checked certification in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on certification before Friday afternoon.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "certificationmark",
@@ -4296,8 +4296,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Quality",
     "meaning": "認證標章",
-    "example": "The vendor revised certificationmark in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about certificationmark in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "chain",
@@ -4306,8 +4306,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "供應鏈",
-    "example": "The supplier prepared chain in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed chain during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第431筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "chair",
@@ -4316,8 +4316,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Meeting",
     "meaning": "主席職位",
-    "example": "The finance staff arranged chair in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed chair during the monthly planning meeting.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "chairmanship",
@@ -4326,8 +4326,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Meeting",
     "meaning": "主席職位",
-    "example": "The hr officer planned chairmanship in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed chairmanship during the monthly planning meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "channel",
@@ -4336,8 +4336,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "通路",
-    "example": "The warehouse clerk updated channel in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about channel in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "checklist",
@@ -4346,8 +4346,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "檢查清單",
-    "example": "The project leader confirmed checklist in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on checklist before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "checkpointlog",
@@ -4356,8 +4356,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Quality",
     "meaning": "檢查點紀錄",
-    "example": "The sales director documented checkpointlog in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted checkpointlog as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第436筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "circulation",
@@ -4366,8 +4366,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "作業流程；處理程序",
-    "example": "The manager reviewed circulation in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about circulation in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "claim",
@@ -4376,8 +4376,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "索賠；主張",
-    "example": "The team submitted claim in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted claim as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "claimant",
@@ -4386,8 +4386,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Service",
     "meaning": "索賠人",
-    "example": "The client checked claimant in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about claimant in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "clarification",
@@ -4396,8 +4396,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "作業流程；處理程序",
-    "example": "The vendor revised clarification in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted clarification as a key issue this quarter.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "classification",
@@ -4406,8 +4406,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "作業流程；處理程序",
-    "example": "The supplier prepared classification in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on classification before Friday afternoon.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第441筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "clause",
@@ -4416,8 +4416,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "條款",
-    "example": "The finance staff arranged clause in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about clause in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "cleanup",
@@ -4426,8 +4426,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "清理作業",
-    "example": "The hr officer planned cleanup in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted cleanup as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "clearance",
@@ -4436,8 +4436,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "清關；核准",
-    "example": "The warehouse clerk updated clearance in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted clearance as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "clearancecode",
@@ -4446,8 +4446,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "通關代碼",
-    "example": "The project leader confirmed clearancecode in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed clearancecode during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "clearing",
@@ -4456,8 +4456,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "結算作業",
-    "example": "The sales director documented clearing in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed clearing during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第446筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "client",
@@ -4466,8 +4466,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "客戶",
-    "example": "The manager reviewed client in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about client in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "clientability",
@@ -4476,8 +4476,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "預算管理；成本控管",
-    "example": "The team submitted clientability in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about clientability in the proposal.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "clientable",
@@ -4486,8 +4486,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Accounting",
     "meaning": "專案管理；營運協調",
-    "example": "The client checked clientable in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed clientable during the monthly planning meeting.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "clientaccount",
@@ -4496,8 +4496,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Sales",
     "meaning": "客戶帳戶",
-    "example": "The vendor revised clientaccount in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on clientaccount before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "clientance",
@@ -4506,8 +4506,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Schedules",
     "meaning": "品質管理；稽核作業",
-    "example": "The supplier prepared clientance in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on clientance before Friday afternoon.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第451筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "clientancy",
@@ -4516,8 +4516,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reports",
     "meaning": "行政管理；作業執行",
-    "example": "The finance staff arranged clientancy in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on clientancy before Friday afternoon.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "clientant",
@@ -4526,8 +4526,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Hiring",
     "meaning": "會議安排；溝通協調",
-    "example": "The hr officer planned clientant in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted clientant as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "clientation",
@@ -4536,8 +4536,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Training",
     "meaning": "客戶服務；客訴處理",
-    "example": "The warehouse clerk updated clientation in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on clientation before Friday afternoon.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "clientator",
@@ -4546,8 +4546,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Travel",
     "meaning": "採購管理；供應商協作",
-    "example": "The project leader confirmed clientator in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed clientator during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "clientboard",
@@ -4556,8 +4556,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "財務管理；帳務控管",
-    "example": "The sales director documented clientboard in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about clientboard in the proposal.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第456筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "clientbridge",
@@ -4566,8 +4566,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "報表管理；數據追蹤",
-    "example": "The manager reviewed clientbridge in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted clientbridge as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "clientcare",
@@ -4576,8 +4576,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Facilities",
     "meaning": "人資招募；教育訓練",
-    "example": "The team submitted clientcare in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted clientcare as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "clientchart",
@@ -4586,8 +4586,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "預算管理；成本控管",
-    "example": "The client checked clientchart in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about clientchart in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "clientcheck",
@@ -4596,8 +4596,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "品質管理；稽核作業",
-    "example": "The vendor revised clientcheck in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed clientcheck during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "clientcraft",
@@ -4606,8 +4606,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "會議安排；溝通協調",
-    "example": "The supplier prepared clientcraft in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed clientcraft during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第461筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "clientcycle",
@@ -4616,8 +4616,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Meeting",
     "meaning": "客戶服務；客訴處理",
-    "example": "The finance staff arranged clientcycle in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about clientcycle in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "clientdrive",
@@ -4626,8 +4626,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "CustomerService",
     "meaning": "採購管理；供應商協作",
-    "example": "The hr officer planned clientdrive in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about clientdrive in the proposal.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "clientedge",
@@ -4636,8 +4636,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "財務管理；帳務控管",
-    "example": "The warehouse clerk updated clientedge in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted clientedge as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "clientele",
@@ -4646,8 +4646,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Sales",
     "meaning": "客戶群",
-    "example": "The project leader confirmed clientele in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about clientele in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "clientency",
@@ -4656,8 +4656,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Shipping",
     "meaning": "合約管理；法務作業",
-    "example": "The sales director documented clientency in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on clientency before Friday afternoon.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第466筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "clientengine",
@@ -4666,8 +4666,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Purchasing",
     "meaning": "報表管理；數據追蹤",
-    "example": "The manager reviewed clientengine in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed clientengine during the monthly planning meeting.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "clientfield",
@@ -4676,8 +4676,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "人資招募；教育訓練",
-    "example": "The team submitted clientfield in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about clientfield in the proposal.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "clientflow",
@@ -4686,8 +4686,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Accounting",
     "meaning": "專案管理；營運協調",
-    "example": "The client checked clientflow in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed clientflow during the monthly planning meeting.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "clientforce",
@@ -4696,8 +4696,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "預算管理；成本控管",
-    "example": "The vendor revised clientforce in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted clientforce as a key issue this quarter.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "clientform",
@@ -4706,8 +4706,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Schedules",
     "meaning": "品質管理；稽核作業",
-    "example": "The supplier prepared clientform in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about clientform in the proposal.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第471筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "clientframe",
@@ -4716,8 +4716,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reports",
     "meaning": "行政管理；作業執行",
-    "example": "The finance staff arranged clientframe in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on clientframe before Friday afternoon.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "clientgate",
@@ -4726,8 +4726,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Hiring",
     "meaning": "會議安排；溝通協調",
-    "example": "The hr officer planned clientgate in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on clientgate before Friday afternoon.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "clientgrid",
@@ -4736,8 +4736,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Training",
     "meaning": "客戶服務；客訴處理",
-    "example": "The warehouse clerk updated clientgrid in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed clientgrid during the monthly planning meeting.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "clientguide",
@@ -4746,8 +4746,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "物流管理；出貨作業",
-    "example": "The project leader confirmed clientguide in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed clientguide during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "clienthouse",
@@ -4756,8 +4756,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Travel",
     "meaning": "採購管理；供應商協作",
-    "example": "The sales director documented clienthouse in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed clienthouse during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第476筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "clienthub",
@@ -4766,8 +4766,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "財務管理；帳務控管",
-    "example": "The manager reviewed clienthub in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on clienthub before Friday afternoon.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "clientindex",
@@ -4776,8 +4776,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Manufacturing",
     "meaning": "合約管理；法務作業",
-    "example": "The team submitted clientindex in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about clientindex in the proposal.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "clienting",
@@ -4786,8 +4786,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "報表管理；數據追蹤",
-    "example": "The client checked clienting in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about clienting in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "clientinsight",
@@ -4796,8 +4796,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Facilities",
     "meaning": "人資招募；教育訓練",
-    "example": "The vendor revised clientinsight in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed clientinsight during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "clientkeeper",
@@ -4806,8 +4806,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Coordination",
     "meaning": "專案管理；營運協調",
-    "example": "The supplier prepared clientkeeper in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed clientkeeper during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第481筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "clientline",
@@ -4816,8 +4816,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "品質管理；稽核作業",
-    "example": "The finance staff arranged clientline in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about clientline in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "clientlist",
@@ -4826,8 +4826,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "會議安排；溝通協調",
-    "example": "The hr officer planned clientlist in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed clientlist during the monthly planning meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "clientmaker",
@@ -4836,8 +4836,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "CustomerService",
     "meaning": "採購管理；供應商協作",
-    "example": "The warehouse clerk updated clientmaker in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed clientmaker during the monthly planning meeting.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "clientmanage",
@@ -4846,8 +4846,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "財務管理；帳務控管",
-    "example": "The project leader confirmed clientmanage in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted clientmanage as a key issue this quarter.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "clientmetric",
@@ -4856,8 +4856,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Purchasing",
     "meaning": "報表管理；數據追蹤",
-    "example": "The sales director documented clientmetric in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about clientmetric in the proposal.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第486筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "clientmode",
@@ -4866,8 +4866,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "人資招募；教育訓練",
-    "example": "The manager reviewed clientmode in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on clientmode before Friday afternoon.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "clientmonitor",
@@ -4876,8 +4876,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "預算管理；成本控管",
-    "example": "The team submitted clientmonitor in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about clientmonitor in the proposal.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "clientnet",
@@ -4886,8 +4886,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Schedules",
     "meaning": "品質管理；稽核作業",
-    "example": "The client checked clientnet in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on clientnet before Friday afternoon.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "clientnode",
@@ -4896,8 +4896,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reports",
     "meaning": "行政管理；作業執行",
-    "example": "The vendor revised clientnode in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed clientnode during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "clientoption",
@@ -4906,8 +4906,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Hiring",
     "meaning": "會議安排；溝通協調",
-    "example": "The supplier prepared clientoption in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted clientoption as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第491筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "clientpath",
@@ -4916,8 +4916,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Training",
     "meaning": "客戶服務；客訴處理",
-    "example": "The finance staff arranged clientpath in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted clientpath as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "clientphase",
@@ -4926,8 +4926,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "物流管理；出貨作業",
-    "example": "The hr officer planned clientphase in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted clientphase as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "clientplan",
@@ -4936,8 +4936,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Travel",
     "meaning": "採購管理；供應商協作",
-    "example": "The warehouse clerk updated clientplan in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted clientplan as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "clientpoint",
@@ -4946,8 +4946,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "財務管理；帳務控管",
-    "example": "The project leader confirmed clientpoint in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed clientpoint during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "clientport",
@@ -4956,8 +4956,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Manufacturing",
     "meaning": "合約管理；法務作業",
-    "example": "The sales director documented clientport in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted clientport as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第496筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "clientpress",
@@ -4966,8 +4966,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "報表管理；數據追蹤",
-    "example": "The manager reviewed clientpress in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted clientpress as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "clientproof",
@@ -4976,8 +4976,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Facilities",
     "meaning": "人資招募；教育訓練",
-    "example": "The team submitted clientproof in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed clientproof during the monthly planning meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "clientpulse",
@@ -4986,8 +4986,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Coordination",
     "meaning": "專案管理；營運協調",
-    "example": "The client checked clientpulse in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on clientpulse before Friday afternoon.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "clientqueue",
@@ -4996,8 +4996,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "預算管理；成本控管",
-    "example": "The vendor revised clientqueue in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on clientqueue before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "clientrate",
@@ -5006,8 +5006,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "品質管理；稽核作業",
-    "example": "The supplier prepared clientrate in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about clientrate in the proposal.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第501筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "clientrecord",
@@ -5016,8 +5016,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Office",
     "meaning": "行政管理；作業執行",
-    "example": "The finance staff arranged clientrecord in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted clientrecord as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "clientscope",
@@ -5026,8 +5026,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "會議安排；溝通協調",
-    "example": "The hr officer planned clientscope in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed clientscope during the monthly planning meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "clientsense",
@@ -5036,8 +5036,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Meeting",
     "meaning": "客戶服務；客訴處理",
-    "example": "The warehouse clerk updated clientsense in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about clientsense in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "clientshift",
@@ -5046,8 +5046,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "CustomerService",
     "meaning": "採購管理；供應商協作",
-    "example": "The project leader confirmed clientshift in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about clientshift in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "clientsignal",
@@ -5056,8 +5056,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "財務管理；帳務控管",
-    "example": "The sales director documented clientsignal in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about clientsignal in the proposal.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第506筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "clientskill",
@@ -5066,8 +5066,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Purchasing",
     "meaning": "報表管理；數據追蹤",
-    "example": "The manager reviewed clientskill in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on clientskill before Friday afternoon.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "clientsource",
@@ -5076,8 +5076,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "人資招募；教育訓練",
-    "example": "The team submitted clientsource in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on clientsource before Friday afternoon.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "clientstack",
@@ -5086,8 +5086,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "預算管理；成本控管",
-    "example": "The client checked clientstack in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed clientstack during the monthly planning meeting.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "clientstage",
@@ -5096,8 +5096,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Schedules",
     "meaning": "品質管理；稽核作業",
-    "example": "The vendor revised clientstage in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about clientstage in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "clientstream",
@@ -5106,8 +5106,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Hiring",
     "meaning": "會議安排；溝通協調",
-    "example": "The supplier prepared clientstream in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about clientstream in the proposal.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第511筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "clientsupport",
@@ -5116,8 +5116,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Training",
     "meaning": "客戶服務；客訴處理",
-    "example": "The finance staff arranged clientsupport in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted clientsupport as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "clientsystem",
@@ -5126,8 +5126,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Travel",
     "meaning": "採購管理；供應商協作",
-    "example": "The hr officer planned clientsystem in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on clientsystem before Friday afternoon.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "clienttable",
@@ -5136,8 +5136,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "財務管理；帳務控管",
-    "example": "The warehouse clerk updated clienttable in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about clienttable in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "clienttech",
@@ -5146,8 +5146,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Manufacturing",
     "meaning": "合約管理；法務作業",
-    "example": "The project leader confirmed clienttech in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed clienttech during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "clienttrack",
@@ -5156,8 +5156,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "報表管理；數據追蹤",
-    "example": "The sales director documented clienttrack in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted clienttrack as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第516筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "clienttrend",
@@ -5166,8 +5166,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Facilities",
     "meaning": "人資招募；教育訓練",
-    "example": "The manager reviewed clienttrend in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on clienttrend before Friday afternoon.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "clientunit",
@@ -5176,8 +5176,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Coordination",
     "meaning": "專案管理；營運協調",
-    "example": "The team submitted clientunit in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about clientunit in the proposal.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "clientvalue",
@@ -5186,8 +5186,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "預算管理；成本控管",
-    "example": "The client checked clientvalue in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on clientvalue before Friday afternoon.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "clientview",
@@ -5196,8 +5196,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "品質管理；稽核作業",
-    "example": "The vendor revised clientview in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted clientview as a key issue this quarter.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "clientvision",
@@ -5206,8 +5206,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Office",
     "meaning": "行政管理；作業執行",
-    "example": "The supplier prepared clientvision in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about clientvision in the proposal.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第521筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "clientware",
@@ -5216,8 +5216,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "會議安排；溝通協調",
-    "example": "The finance staff arranged clientware in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted clientware as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "clientwatch",
@@ -5226,8 +5226,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Meeting",
     "meaning": "客戶服務；客訴處理",
-    "example": "The hr officer planned clientwatch in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted clientwatch as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "clientwave",
@@ -5236,8 +5236,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Email",
     "meaning": "物流管理；出貨作業",
-    "example": "The warehouse clerk updated clientwave in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted clientwave as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "clientwork",
@@ -5246,8 +5246,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "CustomerService",
     "meaning": "採購管理；供應商協作",
-    "example": "The project leader confirmed clientwork in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted clientwork as a key issue this quarter.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "clientzone",
@@ -5256,8 +5256,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "財務管理；帳務控管",
-    "example": "The sales director documented clientzone in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about clientzone in the proposal.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第526筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "clocking",
@@ -5266,8 +5266,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "打卡紀錄",
-    "example": "The manager reviewed clocking in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted clocking as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "closing",
@@ -5276,8 +5276,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "結帳作業",
-    "example": "The team submitted closing in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed closing during the monthly planning meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "coaching",
@@ -5286,8 +5286,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Training",
     "meaning": "教練式培訓",
-    "example": "The client checked coaching in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted coaching as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "coauthor",
@@ -5296,8 +5296,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "共同作者",
-    "example": "The vendor revised coauthor in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about coauthor in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "cod",
@@ -5306,8 +5306,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "貨到付款",
-    "example": "The supplier prepared cod in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted cod as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第531筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "codebook",
@@ -5316,8 +5316,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "代碼手冊",
-    "example": "The finance staff arranged codebook in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on codebook before Friday afternoon.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "cofounder",
@@ -5326,8 +5326,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Strategy",
     "meaning": "共同創辦人",
-    "example": "The hr officer planned cofounder in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about cofounder in the proposal.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "cohesion",
@@ -5336,8 +5336,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "凝聚力",
-    "example": "The warehouse clerk updated cohesion in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on cohesion before Friday afternoon.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "coinsurance",
@@ -5346,8 +5346,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "共同保險",
-    "example": "The project leader confirmed coinsurance in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on coinsurance before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "coldchain",
@@ -5356,8 +5356,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "冷鏈",
-    "example": "The sales director documented coldchain in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed coldchain during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第536筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "collaboration",
@@ -5366,8 +5366,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "協作",
-    "example": "The manager reviewed collaboration in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed collaboration during the monthly planning meeting.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "collaborationtool",
@@ -5376,8 +5376,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "協作工具",
-    "example": "The team submitted collaborationtool in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed collaborationtool during the monthly planning meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "collateral",
@@ -5386,8 +5386,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "擔保品",
-    "example": "The client checked collateral in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about collateral in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "collection",
@@ -5396,8 +5396,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "作業流程；處理程序",
-    "example": "The vendor revised collection in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on collection before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "collective",
@@ -5406,8 +5406,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "集體協議",
-    "example": "The supplier prepared collective in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on collective before Friday afternoon.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第541筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "colorcode",
@@ -5416,8 +5416,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Manufacturing",
     "meaning": "色碼標示",
-    "example": "The finance staff arranged colorcode in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted colorcode as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "comarketing",
@@ -5426,8 +5426,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "聯合行銷",
-    "example": "The hr officer planned comarketing in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on comarketing before Friday afternoon.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "comeback",
@@ -5436,8 +5436,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Sales",
     "meaning": "回升",
-    "example": "The warehouse clerk updated comeback in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about comeback in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "commentary",
@@ -5446,8 +5446,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "評論意見",
-    "example": "The project leader confirmed commentary in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed commentary during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "commission",
@@ -5456,8 +5456,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Sales",
     "meaning": "佣金",
-    "example": "The sales director documented commission in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about commission in the proposal.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第546筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "commissionrate",
@@ -5466,8 +5466,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Sales",
     "meaning": "佣金比率",
-    "example": "The manager reviewed commissionrate in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about commissionrate in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "committee",
@@ -5476,8 +5476,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "委員會",
-    "example": "The team submitted committee in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed committee during the monthly planning meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "commodity",
@@ -5486,8 +5486,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Purchasing",
     "meaning": "商品原料",
-    "example": "The client checked commodity in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed commodity during the monthly planning meeting.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "communication",
@@ -5496,8 +5496,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "溝通",
-    "example": "The vendor revised communication in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on communication before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "communicationplan",
@@ -5506,8 +5506,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "溝通計畫",
-    "example": "The supplier prepared communicationplan in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about communicationplan in the proposal.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第551筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "compensation",
@@ -5516,8 +5516,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "薪酬；補償",
-    "example": "The finance staff arranged compensation in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on compensation before Friday afternoon.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "competitor",
@@ -5526,8 +5526,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "競爭者",
-    "example": "The hr officer planned competitor in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted competitor as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "complaint",
@@ -5536,8 +5536,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "客訴；申訴",
-    "example": "The warehouse clerk updated complaint in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about complaint in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "compliance",
@@ -5546,8 +5546,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Legal",
     "meaning": "合規",
-    "example": "The project leader confirmed compliance in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about compliance in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "compliancecheck",
@@ -5556,8 +5556,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "合規檢查",
-    "example": "The sales director documented compliancecheck in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed compliancecheck during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第556筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "complianceofficer",
@@ -5566,8 +5566,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "合規主管",
-    "example": "The manager reviewed complianceofficer in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about complianceofficer in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "component",
@@ -5576,8 +5576,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "組件",
-    "example": "The team submitted component in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed component during the monthly planning meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "componentlist",
@@ -5586,8 +5586,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Manufacturing",
     "meaning": "零件清單",
-    "example": "The client checked componentlist in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about componentlist in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "composition",
@@ -5596,8 +5596,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "作業流程；處理程序",
-    "example": "The vendor revised composition in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on composition before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "computation",
@@ -5606,8 +5606,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "作業流程；處理程序",
-    "example": "The supplier prepared computation in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about computation in the proposal.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第561筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "concentration",
@@ -5616,8 +5616,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "作業流程；處理程序",
-    "example": "The finance staff arranged concentration in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed concentration during the monthly planning meeting.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "concession",
@@ -5626,8 +5626,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Sales",
     "meaning": "讓利條件",
-    "example": "The hr officer planned concession in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted concession as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "concurrency",
@@ -5636,8 +5636,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "並行作業量",
-    "example": "The warehouse clerk updated concurrency in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about concurrency in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "condition",
@@ -5646,8 +5646,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "作業流程；處理程序",
-    "example": "The project leader confirmed condition in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about condition in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "conference",
@@ -5656,8 +5656,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "會議",
-    "example": "The sales director documented conference in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted conference as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第566筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "confidentiality",
@@ -5666,8 +5666,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "保密性",
-    "example": "The manager reviewed confidentiality in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on confidentiality before Friday afternoon.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "configuration",
@@ -5676,8 +5676,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "作業流程；處理程序",
-    "example": "The team submitted configuration in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on configuration before Friday afternoon.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "confirmation",
@@ -5686,8 +5686,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "確認",
-    "example": "The client checked confirmation in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed confirmation during the monthly planning meeting.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "confirmationmail",
@@ -5696,8 +5696,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "確認郵件",
-    "example": "The vendor revised confirmationmail in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted confirmationmail as a key issue this quarter.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "conflict",
@@ -5706,8 +5706,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "衝突",
-    "example": "The supplier prepared conflict in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on conflict before Friday afternoon.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第571筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "conformance",
@@ -5716,8 +5716,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Quality",
     "meaning": "符合性",
-    "example": "The finance staff arranged conformance in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed conformance during the monthly planning meeting.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "congestion",
@@ -5726,8 +5726,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "作業流程；處理程序",
-    "example": "The hr officer planned congestion in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about congestion in the proposal.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "connection",
@@ -5736,8 +5736,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "作業流程；處理程序",
-    "example": "The warehouse clerk updated connection in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on connection before Friday afternoon.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "consensus",
@@ -5746,8 +5746,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "共識",
-    "example": "The project leader confirmed consensus in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about consensus in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "conservation",
@@ -5756,8 +5756,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "作業流程；處理程序",
-    "example": "The sales director documented conservation in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed conservation during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第576筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "consideration",
@@ -5766,8 +5766,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "作業流程；處理程序",
-    "example": "The manager reviewed consideration in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted consideration as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "consolidation",
@@ -5776,8 +5776,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "作業流程；處理程序",
-    "example": "The team submitted consolidation in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted consolidation as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "consortium",
@@ -5786,8 +5786,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Strategy",
     "meaning": "聯盟",
-    "example": "The client checked consortium in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed consortium during the monthly planning meeting.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "constraint",
@@ -5796,8 +5796,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "限制條件",
-    "example": "The vendor revised constraint in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed constraint during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "construction",
@@ -5806,8 +5806,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "作業流程；處理程序",
-    "example": "The supplier prepared construction in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed construction during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第581筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "consul",
@@ -5816,8 +5816,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Travel",
     "meaning": "領事",
-    "example": "The finance staff arranged consul in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted consul as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "consultation",
@@ -5826,8 +5826,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Service",
     "meaning": "諮詢會談",
-    "example": "The hr officer planned consultation in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed consultation during the monthly planning meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "consumption",
@@ -5836,8 +5836,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "作業流程；處理程序",
-    "example": "The warehouse clerk updated consumption in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about consumption in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "contactless",
@@ -5846,8 +5846,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "感應支付",
-    "example": "The project leader confirmed contactless in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed contactless during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "contactpoint",
@@ -5856,8 +5856,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "聯絡窗口",
-    "example": "The sales director documented contactpoint in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted contactpoint as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第586筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "contamination",
@@ -5866,8 +5866,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Quality",
     "meaning": "污染",
-    "example": "The manager reviewed contamination in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on contamination before Friday afternoon.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "contingencyfund",
@@ -5876,8 +5876,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "備用基金",
-    "example": "The team submitted contingencyfund in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted contingencyfund as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "contingencyplan",
@@ -5886,8 +5886,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "應變計畫",
-    "example": "The client checked contingencyplan in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted contingencyplan as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "continuity",
@@ -5896,8 +5896,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "特性；性質",
-    "example": "The vendor revised continuity in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted continuity as a key issue this quarter.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "contract",
@@ -5906,8 +5906,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "合約",
-    "example": "The supplier prepared contract in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Both parties signed the contract after reviewing the final terms.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第591筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "contractability",
@@ -5916,8 +5916,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Purchasing",
     "meaning": "報表管理；數據追蹤",
-    "example": "The finance staff arranged contractability in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted contractability as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "contractable",
@@ -5926,8 +5926,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Shipping",
     "meaning": "合約管理；法務作業",
-    "example": "The hr officer planned contractable in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted contractable as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "contractance",
@@ -5936,8 +5936,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "人資招募；教育訓練",
-    "example": "The warehouse clerk updated contractance in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed contractance during the monthly planning meeting.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "contractancy",
@@ -5946,8 +5946,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Accounting",
     "meaning": "專案管理；營運協調",
-    "example": "The project leader confirmed contractancy in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed contractancy during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "contractant",
@@ -5956,8 +5956,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "預算管理；成本控管",
-    "example": "The sales director documented contractant in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed contractant during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第596筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "contractation",
@@ -5966,8 +5966,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Schedules",
     "meaning": "品質管理；稽核作業",
-    "example": "The manager reviewed contractation in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about contractation in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "contractator",
@@ -5976,8 +5976,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Hiring",
     "meaning": "會議安排；溝通協調",
-    "example": "The team submitted contractator in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted contractator as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "contractboard",
@@ -5986,8 +5986,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Training",
     "meaning": "客戶服務；客訴處理",
-    "example": "The client checked contractboard in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted contractboard as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "contractbridge",
@@ -5996,8 +5996,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Travel",
     "meaning": "採購管理；供應商協作",
-    "example": "The vendor revised contractbridge in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about contractbridge in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "contractcare",
@@ -6006,8 +6006,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "財務管理；帳務控管",
-    "example": "The supplier prepared contractcare in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about contractcare in the proposal.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第601筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "contractchart",
@@ -6016,8 +6016,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "報表管理；數據追蹤",
-    "example": "The finance staff arranged contractchart in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted contractchart as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "contractcheck",
@@ -6026,8 +6026,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Facilities",
     "meaning": "人資招募；教育訓練",
-    "example": "The hr officer planned contractcheck in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on contractcheck before Friday afternoon.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "contractcraft",
@@ -6036,8 +6036,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "預算管理；成本控管",
-    "example": "The warehouse clerk updated contractcraft in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on contractcraft before Friday afternoon.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "contractcycle",
@@ -6046,8 +6046,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "品質管理；稽核作業",
-    "example": "The project leader confirmed contractcycle in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted contractcycle as a key issue this quarter.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "contractdrive",
@@ -6056,8 +6056,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "會議安排；溝通協調",
-    "example": "The sales director documented contractdrive in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted contractdrive as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第606筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "contractedge",
@@ -6066,8 +6066,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Meeting",
     "meaning": "客戶服務；客訴處理",
-    "example": "The manager reviewed contractedge in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about contractedge in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "contractency",
@@ -6076,8 +6076,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Email",
     "meaning": "物流管理；出貨作業",
-    "example": "The team submitted contractency in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed contractency during the monthly planning meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "contractengine",
@@ -6086,8 +6086,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "CustomerService",
     "meaning": "採購管理；供應商協作",
-    "example": "The client checked contractengine in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted contractengine as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "contractfield",
@@ -6096,8 +6096,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "財務管理；帳務控管",
-    "example": "The vendor revised contractfield in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted contractfield as a key issue this quarter.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "contractflow",
@@ -6106,8 +6106,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Shipping",
     "meaning": "合約管理；法務作業",
-    "example": "The supplier prepared contractflow in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted contractflow as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第611筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "contractforce",
@@ -6116,8 +6116,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Purchasing",
     "meaning": "報表管理；數據追蹤",
-    "example": "The finance staff arranged contractforce in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed contractforce during the monthly planning meeting.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "contractform",
@@ -6126,8 +6126,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "人資招募；教育訓練",
-    "example": "The hr officer planned contractform in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on contractform before Friday afternoon.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "contractframe",
@@ -6136,8 +6136,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Accounting",
     "meaning": "專案管理；營運協調",
-    "example": "The warehouse clerk updated contractframe in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about contractframe in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "contractgate",
@@ -6146,8 +6146,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "預算管理；成本控管",
-    "example": "The project leader confirmed contractgate in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed contractgate during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "contractgrid",
@@ -6156,8 +6156,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Schedules",
     "meaning": "品質管理；稽核作業",
-    "example": "The sales director documented contractgrid in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted contractgrid as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第616筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "contractguide",
@@ -6166,8 +6166,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reports",
     "meaning": "行政管理；作業執行",
-    "example": "The manager reviewed contractguide in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on contractguide before Friday afternoon.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "contracthouse",
@@ -6176,8 +6176,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Hiring",
     "meaning": "會議安排；溝通協調",
-    "example": "The team submitted contracthouse in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on contracthouse before Friday afternoon.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "contracthub",
@@ -6186,8 +6186,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Training",
     "meaning": "客戶服務；客訴處理",
-    "example": "The client checked contracthub in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about contracthub in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "contractindex",
@@ -6196,8 +6196,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "物流管理；出貨作業",
-    "example": "The vendor revised contractindex in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted contractindex as a key issue this quarter.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "contracting",
@@ -6206,8 +6206,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "承攬作業",
-    "example": "The supplier prepared contracting in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted contracting as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第621筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "contractinsight",
@@ -6216,8 +6216,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Travel",
     "meaning": "採購管理；供應商協作",
-    "example": "The finance staff arranged contractinsight in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on contractinsight before Friday afternoon.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "contractkeeper",
@@ -6226,8 +6226,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "財務管理；帳務控管",
-    "example": "The hr officer planned contractkeeper in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted contractkeeper as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "contractline",
@@ -6236,8 +6236,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "報表管理；數據追蹤",
-    "example": "The warehouse clerk updated contractline in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on contractline before Friday afternoon.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "contribution",
@@ -6246,8 +6246,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "貢獻",
-    "example": "The project leader confirmed contribution in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted contribution as a key issue this quarter.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "contributor",
@@ -6256,8 +6256,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "貢獻者",
-    "example": "The sales director documented contributor in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about contributor in the proposal.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第626筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "control",
@@ -6266,8 +6266,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "控管",
-    "example": "The manager reviewed control in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed control during the monthly planning meeting.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "controlpanel",
@@ -6276,8 +6276,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "控制面板",
-    "example": "The team submitted controlpanel in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about controlpanel in the proposal.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "conversation",
@@ -6286,8 +6286,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "作業流程；處理程序",
-    "example": "The client checked conversation in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about conversation in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "conversion",
@@ -6296,8 +6296,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "轉換",
-    "example": "The vendor revised conversion in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on conversion before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "conversionrate",
@@ -6306,8 +6306,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "轉換率",
-    "example": "The supplier prepared conversionrate in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on conversionrate before Friday afternoon.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第631筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "conveyance",
@@ -6316,8 +6316,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "運輸工具",
-    "example": "The finance staff arranged conveyance in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about conveyance in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "cooldown",
@@ -6326,8 +6326,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "降溫期",
-    "example": "The hr officer planned cooldown in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about cooldown in the proposal.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "coordination",
@@ -6336,8 +6336,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "協調",
-    "example": "The warehouse clerk updated coordination in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about coordination in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "coordinator",
@@ -6346,8 +6346,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "協調人員",
-    "example": "The project leader confirmed coordinator in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted coordinator as a key issue this quarter.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "coownership",
@@ -6356,8 +6356,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "共同所有權",
-    "example": "The sales director documented coownership in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about coownership in the proposal.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第636筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "copyright",
@@ -6366,8 +6366,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Legal",
     "meaning": "著作權",
-    "example": "The manager reviewed copyright in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about copyright in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "copywriter",
@@ -6376,8 +6376,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "文案撰寫者",
-    "example": "The team submitted copywriter in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted copywriter as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "correction",
@@ -6386,8 +6386,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "作業流程；處理程序",
-    "example": "The client checked correction in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on correction before Friday afternoon.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "correlation",
@@ -6396,8 +6396,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "相關性",
-    "example": "The vendor revised correlation in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on correlation before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "costing",
@@ -6406,8 +6406,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "成本計算",
-    "example": "The supplier prepared costing in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed costing during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第641筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "counteroffer",
@@ -6416,8 +6416,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Sales",
     "meaning": "還價",
-    "example": "The finance staff arranged counteroffer in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted counteroffer as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "counterparty",
@@ -6426,8 +6426,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "交易對手",
-    "example": "The hr officer planned counterparty in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on counterparty before Friday afternoon.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "coverage",
@@ -6436,8 +6436,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "涵蓋範圍",
-    "example": "The warehouse clerk updated coverage in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted coverage as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "coverageplan",
@@ -6446,8 +6446,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "保障方案",
-    "example": "The project leader confirmed coverageplan in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed coverageplan during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "crate",
@@ -6456,8 +6456,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "裝運箱",
-    "example": "The sales director documented crate in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about crate in the proposal.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第646筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "credibility",
@@ -6466,8 +6466,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "可信度",
-    "example": "The manager reviewed credibility in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted credibility as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "creditcheck",
@@ -6476,8 +6476,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "信用審查",
-    "example": "The team submitted creditcheck in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about creditcheck in the proposal.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "creditlimit",
@@ -6486,8 +6486,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "信用額度",
-    "example": "The client checked creditlimit in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on creditlimit before Friday afternoon.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "creditline",
@@ -6496,8 +6496,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "信用額度",
-    "example": "The vendor revised creditline in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed creditline during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "criteria",
@@ -6506,8 +6506,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "評估準則",
-    "example": "The supplier prepared criteria in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about criteria in the proposal.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第651筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "criterion",
@@ -6516,8 +6516,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "標準",
-    "example": "The finance staff arranged criterion in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed criterion during the monthly planning meeting.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "crmrecord",
@@ -6526,8 +6526,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Sales",
     "meaning": "客戶關係紀錄",
-    "example": "The hr officer planned crmrecord in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about crmrecord in the proposal.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "crosscheck",
@@ -6536,8 +6536,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Quality",
     "meaning": "交叉檢查",
-    "example": "The warehouse clerk updated crosscheck in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted crosscheck as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "crossselling",
@@ -6546,8 +6546,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Sales",
     "meaning": "交叉銷售",
-    "example": "The project leader confirmed crossselling in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted crossselling as a key issue this quarter.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "crowdfunding",
@@ -6556,8 +6556,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "群眾募資",
-    "example": "The sales director documented crowdfunding in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted crowdfunding as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第656筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "curfew",
@@ -6566,8 +6566,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Travel",
     "meaning": "宵禁規定",
-    "example": "The manager reviewed curfew in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted curfew as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "currency",
@@ -6576,8 +6576,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "貨幣",
-    "example": "The team submitted currency in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed currency during the monthly planning meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "curriculum",
@@ -6586,8 +6586,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Training",
     "meaning": "課程規劃",
-    "example": "The client checked curriculum in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about curriculum in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "custodian",
@@ -6596,8 +6596,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "保管人",
-    "example": "The vendor revised custodian in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on custodian before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "custody",
@@ -6606,8 +6606,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "保管",
-    "example": "The supplier prepared custody in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed custody during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第661筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "customer",
@@ -6616,8 +6616,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "顧客",
-    "example": "The finance staff arranged customer in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on customer before Friday afternoon.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "customerfile",
@@ -6626,8 +6626,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Service",
     "meaning": "客戶檔案",
-    "example": "The hr officer planned customerfile in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on customerfile before Friday afternoon.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "customization",
@@ -6636,8 +6636,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "客製化",
-    "example": "The warehouse clerk updated customization in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about customization in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "customs",
@@ -6646,8 +6646,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "海關程序",
-    "example": "The project leader confirmed customs in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on customs before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "cybersecurity",
@@ -6656,8 +6656,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Security",
     "meaning": "網路安全",
-    "example": "The sales director documented cybersecurity in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed cybersecurity during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第666筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "cycle",
@@ -6666,8 +6666,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "週期",
-    "example": "The manager reviewed cycle in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on cycle before Friday afternoon.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "dashboard",
@@ -6676,8 +6676,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "儀表板",
-    "example": "The team submitted dashboard in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted dashboard as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "dashboardview",
@@ -6686,8 +6686,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "儀表板視圖",
-    "example": "The client checked dashboardview in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed dashboardview during the monthly planning meeting.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "data",
@@ -6696,8 +6696,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "資料",
-    "example": "The vendor revised data in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on data before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "datahub",
@@ -6706,8 +6706,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "數據中台",
-    "example": "The supplier prepared datahub in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about datahub in the proposal.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第671筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "datalake",
@@ -6716,8 +6716,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "數據湖",
-    "example": "The finance staff arranged datalake in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed datalake during the monthly planning meeting.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "datamart",
@@ -6726,8 +6726,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "資料市集",
-    "example": "The hr officer planned datamart in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted datamart as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "datapoint",
@@ -6736,8 +6736,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "數據點",
-    "example": "The warehouse clerk updated datapoint in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on datapoint before Friday afternoon.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "datavalue",
@@ -6746,8 +6746,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "資料值",
-    "example": "The project leader confirmed datavalue in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about datavalue in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "deactivation",
@@ -6756,8 +6756,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "停用",
-    "example": "The sales director documented deactivation in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about deactivation in the proposal.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第676筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "deadline",
@@ -6766,8 +6766,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "截止期限",
-    "example": "The manager reviewed deadline in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted deadline as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "debit",
@@ -6776,8 +6776,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "借記",
-    "example": "The team submitted debit in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted debit as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "debriefing",
@@ -6786,8 +6786,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Meeting",
     "meaning": "檢討會",
-    "example": "The client checked debriefing in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed debriefing during the monthly planning meeting.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "debt",
@@ -6796,8 +6796,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "債務",
-    "example": "The vendor revised debt in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about debt in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "debtor",
@@ -6806,8 +6806,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "債務人",
-    "example": "The supplier prepared debtor in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on debtor before Friday afternoon.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第681筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "decentralization",
@@ -6816,8 +6816,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Strategy",
     "meaning": "去中心化",
-    "example": "The finance staff arranged decentralization in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted decentralization as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "decision",
@@ -6826,8 +6826,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "決策",
-    "example": "The hr officer planned decision in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted decision as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "decisionlog",
@@ -6836,8 +6836,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "決策紀錄",
-    "example": "The warehouse clerk updated decisionlog in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted decisionlog as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "declaration",
@@ -6846,8 +6846,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "作業流程；處理程序",
-    "example": "The project leader confirmed declaration in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on declaration before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "deduction",
@@ -6856,8 +6856,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "扣除額",
-    "example": "The sales director documented deduction in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed deduction during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第686筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "deductionitem",
@@ -6866,8 +6866,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "扣減款目",
-    "example": "The manager reviewed deductionitem in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted deductionitem as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "default",
@@ -6876,8 +6876,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "違約；預設值",
-    "example": "The team submitted default in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed default during the monthly planning meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "defect",
@@ -6886,8 +6886,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "瑕疵",
-    "example": "The client checked defect in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed defect during the monthly planning meeting.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "defectrate",
@@ -6896,8 +6896,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Quality",
     "meaning": "瑕疵率",
-    "example": "The vendor revised defectrate in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed defectrate during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "deferral",
@@ -6906,8 +6906,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "遞延",
-    "example": "The supplier prepared deferral in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about deferral in the proposal.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第691筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "definition",
@@ -6916,8 +6916,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "作業流程；處理程序",
-    "example": "The finance staff arranged definition in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about definition in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "delegation",
@@ -6926,8 +6926,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "授權",
-    "example": "The hr officer planned delegation in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted delegation as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "delisting",
@@ -6936,8 +6936,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "下市",
-    "example": "The warehouse clerk updated delisting in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about delisting in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "deliverable",
@@ -6946,8 +6946,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "交付成果",
-    "example": "The project leader confirmed deliverable in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about deliverable in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "delivery",
@@ -6956,8 +6956,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "交付",
-    "example": "The sales director documented delivery in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted delivery as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第696筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "deliverystatus",
@@ -6966,8 +6966,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "交貨狀態",
-    "example": "The manager reviewed deliverystatus in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on deliverystatus before Friday afternoon.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "demand",
@@ -6976,8 +6976,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "需求",
-    "example": "The team submitted demand in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about demand in the proposal.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "demandplan",
@@ -6986,8 +6986,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Sales",
     "meaning": "需求規劃",
-    "example": "The client checked demandplan in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted demandplan as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "demonstration",
@@ -6996,8 +6996,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "作業流程；處理程序",
-    "example": "The vendor revised demonstration in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about demonstration in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "demurrage",
@@ -7006,8 +7006,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "滯箱費",
-    "example": "The supplier prepared demurrage in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on demurrage before Friday afternoon.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第701筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "departmenthead",
@@ -7016,8 +7016,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "部門主管",
-    "example": "The finance staff arranged departmenthead in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on departmenthead before Friday afternoon.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "departuretime",
@@ -7026,8 +7026,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Travel",
     "meaning": "出發時間",
-    "example": "The hr officer planned departuretime in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed departuretime during the monthly planning meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "dependency",
@@ -7036,8 +7036,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "相依關係",
-    "example": "The warehouse clerk updated dependency in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about dependency in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "deposit",
@@ -7046,8 +7046,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "押金；存款",
-    "example": "The project leader confirmed deposit in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on deposit before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "depreciation",
@@ -7056,8 +7056,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "折舊",
-    "example": "The sales director documented depreciation in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed depreciation during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第706筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "deregulation",
@@ -7066,8 +7066,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "鬆綁管制",
-    "example": "The manager reviewed deregulation in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about deregulation in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "description",
@@ -7076,8 +7076,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "說明",
-    "example": "The team submitted description in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted description as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "design",
@@ -7086,8 +7086,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "設計",
-    "example": "The client checked design in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on design before Friday afternoon.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "designation",
@@ -7096,8 +7096,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "職稱",
-    "example": "The vendor revised designation in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about designation in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "designee",
@@ -7106,8 +7106,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "被指定人",
-    "example": "The supplier prepared designee in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on designee before Friday afternoon.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第711筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "deskwork",
@@ -7116,8 +7116,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Office",
     "meaning": "文書工作",
-    "example": "The finance staff arranged deskwork in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on deskwork before Friday afternoon.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "destination",
@@ -7126,8 +7126,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "目的地",
-    "example": "The hr officer planned destination in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on destination before Friday afternoon.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "detail",
@@ -7136,8 +7136,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "細節",
-    "example": "The warehouse clerk updated detail in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed detail during the monthly planning meeting.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "detection",
@@ -7146,8 +7146,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Quality",
     "meaning": "偵測",
-    "example": "The project leader confirmed detection in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed detection during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "detour",
@@ -7156,8 +7156,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Travel",
     "meaning": "繞道",
-    "example": "The sales director documented detour in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed detour during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第716筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "devaluation",
@@ -7166,8 +7166,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "貶值",
-    "example": "The manager reviewed devaluation in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted devaluation as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "deviation",
@@ -7176,8 +7176,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Quality",
     "meaning": "偏差",
-    "example": "The team submitted deviation in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed deviation during the monthly planning meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "deviationrate",
@@ -7186,8 +7186,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Quality",
     "meaning": "偏差率",
-    "example": "The client checked deviationrate in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed deviationrate during the monthly planning meeting.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "device",
@@ -7196,8 +7196,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "裝置",
-    "example": "The vendor revised device in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on device before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "dialogue",
@@ -7206,8 +7206,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "對話紀錄",
-    "example": "The supplier prepared dialogue in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted dialogue as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第721筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "digitalization",
@@ -7216,8 +7216,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "數位轉型",
-    "example": "The finance staff arranged digitalization in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted digitalization as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "digitization",
@@ -7226,8 +7226,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "作業流程；處理程序",
-    "example": "The hr officer planned digitization in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about digitization in the proposal.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "directive",
@@ -7236,8 +7236,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "指導方針",
-    "example": "The warehouse clerk updated directive in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about directive in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "directorship",
@@ -7246,8 +7246,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "董事職位",
-    "example": "The project leader confirmed directorship in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted directorship as a key issue this quarter.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "disclaimer",
@@ -7256,8 +7256,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "免責聲明",
-    "example": "The sales director documented disclaimer in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about disclaimer in the proposal.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第726筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "discontinuation",
@@ -7266,8 +7266,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Manufacturing",
     "meaning": "停產",
-    "example": "The manager reviewed discontinuation in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed discontinuation during the monthly planning meeting.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "discount",
@@ -7276,8 +7276,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "折扣",
-    "example": "The team submitted discount in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed discount during the monthly planning meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "discrepancy",
@@ -7286,8 +7286,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "差異；不一致",
-    "example": "The client checked discrepancy in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about discrepancy in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "discrepancyreport",
@@ -7296,8 +7296,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "差異報告",
-    "example": "The vendor revised discrepancyreport in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about discrepancyreport in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "discussion",
@@ -7306,8 +7306,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "討論",
-    "example": "The supplier prepared discussion in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted discussion as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第731筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "dispatch",
@@ -7316,8 +7316,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "派遣；發送",
-    "example": "The finance staff arranged dispatch in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on dispatch before Friday afternoon.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "disqualification",
@@ -7326,8 +7326,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Hiring",
     "meaning": "取消資格",
-    "example": "The hr officer planned disqualification in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed disqualification during the monthly planning meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "disruption",
@@ -7336,8 +7336,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "中斷",
-    "example": "The warehouse clerk updated disruption in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about disruption in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "dissatisfaction",
@@ -7346,8 +7346,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Service",
     "meaning": "不滿意度",
-    "example": "The project leader confirmed dissatisfaction in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on dissatisfaction before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "distribution",
@@ -7356,8 +7356,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "配送；分配",
-    "example": "The sales director documented distribution in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted distribution as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第736筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "distributor",
@@ -7366,8 +7366,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "經銷商",
-    "example": "The manager reviewed distributor in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about distributor in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "diversification",
@@ -7376,8 +7376,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "作業流程；處理程序",
-    "example": "The team submitted diversification in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed diversification during the monthly planning meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "diversion",
@@ -7386,8 +7386,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "改道；轉運",
-    "example": "The client checked diversion in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about diversion in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "dividend",
@@ -7396,8 +7396,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "股利",
-    "example": "The vendor revised dividend in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about dividend in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "document",
@@ -7406,8 +7406,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "文件",
-    "example": "The supplier prepared document in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Please document every maintenance step in the service log.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第741筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "documentary",
@@ -7416,8 +7416,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "單據",
-    "example": "The finance staff arranged documentary in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed documentary during the monthly planning meeting.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "documentation",
@@ -7426,8 +7426,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "文件紀錄",
-    "example": "The hr officer planned documentation in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on documentation before Friday afternoon.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "documentcontrol",
@@ -7436,8 +7436,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Quality",
     "meaning": "文件管制",
-    "example": "The warehouse clerk updated documentcontrol in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on documentcontrol before Friday afternoon.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "donation",
@@ -7446,8 +7446,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "作業流程；處理程序",
-    "example": "The project leader confirmed donation in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on donation before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "donor",
@@ -7456,8 +7456,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "捐助方",
-    "example": "The sales director documented donor in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on donor before Friday afternoon.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第746筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "doorstep",
@@ -7466,8 +7466,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Service",
     "meaning": "到府地點",
-    "example": "The manager reviewed doorstep in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on doorstep before Friday afternoon.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "downgrade",
@@ -7476,8 +7476,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Service",
     "meaning": "降級",
-    "example": "The team submitted downgrade in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed downgrade during the monthly planning meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "downsizing",
@@ -7486,8 +7486,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "縮編",
-    "example": "The client checked downsizing in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted downsizing as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "downtime",
@@ -7496,8 +7496,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "停機時間",
-    "example": "The vendor revised downtime in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about downtime in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "draft",
@@ -7506,8 +7506,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "草案",
-    "example": "The supplier prepared draft in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed draft during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第751筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "drafting",
@@ -7516,8 +7516,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "草擬；起草",
-    "example": "The finance staff arranged drafting in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed drafting during the monthly planning meeting.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "draftversion",
@@ -7526,8 +7526,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "草案版本",
-    "example": "The hr officer planned draftversion in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about draftversion in the proposal.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "drawdown",
@@ -7536,8 +7536,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "提領",
-    "example": "The warehouse clerk updated drawdown in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on drawdown before Friday afternoon.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "dresscode",
@@ -7546,8 +7546,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "服裝規範",
-    "example": "The project leader confirmed dresscode in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted dresscode as a key issue this quarter.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "driverlicense",
@@ -7556,8 +7556,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Travel",
     "meaning": "駕照資訊",
-    "example": "The sales director documented driverlicense in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed driverlicense during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第756筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "dueamount",
@@ -7566,8 +7566,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "應付金額",
-    "example": "The manager reviewed dueamount in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted dueamount as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "duediligence",
@@ -7576,8 +7576,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "盡職調查",
-    "example": "The team submitted duediligence in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted duediligence as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "duration",
@@ -7586,8 +7586,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Schedule",
     "meaning": "期間",
-    "example": "The client checked duration in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted duration as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "durationplan",
@@ -7596,8 +7596,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Schedule",
     "meaning": "時程安排",
-    "example": "The vendor revised durationplan in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed durationplan during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "earningreport",
@@ -7606,8 +7606,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "收益報告",
-    "example": "The supplier prepared earningreport in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on earningreport before Friday afternoon.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第761筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "earnings",
@@ -7616,8 +7616,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "收益",
-    "example": "The finance staff arranged earnings in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed earnings during the monthly planning meeting.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "ecommerce",
@@ -7626,8 +7626,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Sales",
     "meaning": "電子商務",
-    "example": "The hr officer planned ecommerce in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted ecommerce as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "economy",
@@ -7636,8 +7636,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "經濟",
-    "example": "The warehouse clerk updated economy in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on economy before Friday afternoon.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "ecosystem",
@@ -7646,8 +7646,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Strategy",
     "meaning": "合作生態系",
-    "example": "The project leader confirmed ecosystem in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted ecosystem as a key issue this quarter.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "edition",
@@ -7656,8 +7656,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "作業流程；處理程序",
-    "example": "The sales director documented edition in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on edition before Friday afternoon.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第766筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "editor",
@@ -7666,8 +7666,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "編輯人員",
-    "example": "The manager reviewed editor in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed editor during the monthly planning meeting.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "education",
@@ -7676,8 +7676,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "作業流程；處理程序",
-    "example": "The team submitted education in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted education as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "efficiency",
@@ -7686,8 +7686,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "效率",
-    "example": "The client checked efficiency in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed efficiency during the monthly planning meeting.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "effort",
@@ -7696,8 +7696,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "投入程度",
-    "example": "The vendor revised effort in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted effort as a key issue this quarter.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "election",
@@ -7706,8 +7706,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "作業流程；處理程序",
-    "example": "The supplier prepared election in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed election during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第771筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "electricity",
@@ -7716,8 +7716,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "特性；性質",
-    "example": "The finance staff arranged electricity in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed electricity during the monthly planning meeting.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "eligibility",
@@ -7726,8 +7726,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "特性；性質",
-    "example": "The hr officer planned eligibility in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed eligibility during the monthly planning meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "eligibilitycheck",
@@ -7736,8 +7736,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Hiring",
     "meaning": "資格審查",
-    "example": "The warehouse clerk updated eligibilitycheck in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about eligibilitycheck in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "emergencyplan",
@@ -7746,8 +7746,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "緊急應變計畫",
-    "example": "The project leader confirmed emergencyplan in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on emergencyplan before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "employee",
@@ -7756,8 +7756,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "員工",
-    "example": "The sales director documented employee in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on employee before Friday afternoon.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第776筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "employer",
@@ -7766,8 +7766,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "雇主",
-    "example": "The manager reviewed employer in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about employer in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "enterprise",
@@ -7776,8 +7776,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "企業體",
-    "example": "The team submitted enterprise in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed enterprise during the monthly planning meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "entity",
@@ -7786,8 +7786,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "法人實體",
-    "example": "The client checked entity in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about entity in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "entry",
@@ -7796,8 +7796,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "入場資料",
-    "example": "The vendor revised entry in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on entry before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "equity",
@@ -7806,8 +7806,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "權益；股本",
-    "example": "The supplier prepared equity in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed equity during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第781筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "escalation",
@@ -7816,8 +7816,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "作業流程；處理程序",
-    "example": "The finance staff arranged escalation in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed escalation during the monthly planning meeting.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "escalationpath",
@@ -7826,8 +7826,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Service",
     "meaning": "升級路徑",
-    "example": "The hr officer planned escalationpath in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on escalationpath before Friday afternoon.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "estimate",
@@ -7836,8 +7836,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "估算",
-    "example": "The warehouse clerk updated estimate in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted estimate as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "estimator",
@@ -7846,8 +7846,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "估算工具",
-    "example": "The project leader confirmed estimator in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted estimator as a key issue this quarter.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "ethics",
@@ -7856,8 +7856,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "職業倫理",
-    "example": "The sales director documented ethics in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted ethics as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第786筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "evaluation",
@@ -7866,8 +7866,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "評估",
-    "example": "The manager reviewed evaluation in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted evaluation as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "evidence",
@@ -7876,8 +7876,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "證據",
-    "example": "The team submitted evidence in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about evidence in the proposal.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "examination",
@@ -7886,8 +7886,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "作業流程；處理程序",
-    "example": "The client checked examination in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed examination during the monthly planning meeting.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "exception",
@@ -7896,8 +7896,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Service",
     "meaning": "例外案件",
-    "example": "The vendor revised exception in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about exception in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "exchange",
@@ -7906,8 +7906,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "交換；匯率",
-    "example": "The supplier prepared exchange in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about exchange in the proposal.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第791筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "execution",
@@ -7916,8 +7916,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "執行",
-    "example": "The finance staff arranged execution in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted execution as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "executive",
@@ -7926,8 +7926,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "主管",
-    "example": "The hr officer planned executive in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted executive as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "exemption",
@@ -7936,8 +7936,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "作業流程；處理程序",
-    "example": "The warehouse clerk updated exemption in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed exemption during the monthly planning meeting.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "exhibit",
@@ -7946,8 +7946,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "展示品",
-    "example": "The project leader confirmed exhibit in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed exhibit during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "exhibition",
@@ -7956,8 +7956,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "作業流程；處理程序",
-    "example": "The sales director documented exhibition in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about exhibition in the proposal.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第796筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "expectation",
@@ -7966,8 +7966,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "作業流程；處理程序",
-    "example": "The manager reviewed expectation in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted expectation as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "expenditure",
@@ -7976,8 +7976,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "支出",
-    "example": "The team submitted expenditure in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about expenditure in the proposal.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "expense",
@@ -7986,8 +7986,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "費用",
-    "example": "The client checked expense in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted expense as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "experience",
@@ -7996,8 +7996,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "經驗",
-    "example": "The vendor revised experience in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on experience before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "expertise",
@@ -8006,8 +8006,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "專業能力",
-    "example": "The supplier prepared expertise in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed expertise during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第801筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "expiration",
@@ -8016,8 +8016,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "到期",
-    "example": "The finance staff arranged expiration in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about expiration in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "export",
@@ -8026,8 +8026,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "出口",
-    "example": "The hr officer planned export in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted export as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "exporter",
@@ -8036,8 +8036,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "出口商",
-    "example": "The warehouse clerk updated exporter in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed exporter during the monthly planning meeting.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "exposure",
@@ -8046,8 +8046,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "曝光；風險暴露",
-    "example": "The project leader confirmed exposure in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about exposure in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "exposurerate",
@@ -8056,8 +8056,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "曝光比率",
-    "example": "The sales director documented exposurerate in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about exposurerate in the proposal.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第806筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "extension",
@@ -8066,8 +8066,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "延長；擴充",
-    "example": "The manager reviewed extension in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about extension in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "facilitation",
@@ -8076,8 +8076,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "促進作業",
-    "example": "The team submitted facilitation in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about facilitation in the proposal.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "facility",
@@ -8086,8 +8086,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "設施",
-    "example": "The client checked facility in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about facility in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "factor",
@@ -8096,8 +8096,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "關鍵因素",
-    "example": "The vendor revised factor in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about factor in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "failure",
@@ -8106,8 +8106,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Quality",
     "meaning": "失敗案例",
-    "example": "The supplier prepared failure in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on failure before Friday afternoon.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第811筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "feature",
@@ -8116,8 +8116,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "功能特色",
-    "example": "The finance staff arranged feature in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on feature before Friday afternoon.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "feedback",
@@ -8126,8 +8126,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "回饋",
-    "example": "The hr officer planned feedback in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed feedback during the monthly planning meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "filing",
@@ -8136,8 +8136,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "歸檔；提交（文件）",
-    "example": "The warehouse clerk updated filing in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed filing during the monthly planning meeting.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "finance",
@@ -8146,8 +8146,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "財務",
-    "example": "The project leader confirmed finance in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on finance before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "financing",
@@ -8156,8 +8156,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "融資；資金籌措",
-    "example": "The sales director documented financing in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about financing in the proposal.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第816筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "finding",
@@ -8166,8 +8166,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "調查結果；發現",
-    "example": "The manager reviewed finding in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed finding during the monthly planning meeting.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "firm",
@@ -8176,8 +8176,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "公司法人",
-    "example": "The team submitted firm in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on firm before Friday afternoon.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "fleet",
@@ -8186,8 +8186,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "車隊",
-    "example": "The client checked fleet in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on fleet before Friday afternoon.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "flexibility",
@@ -8196,8 +8196,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "特性；性質",
-    "example": "The vendor revised flexibility in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed flexibility during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "followup",
@@ -8206,8 +8206,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Service",
     "meaning": "後續追蹤",
-    "example": "The supplier prepared followup in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted followup as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第821筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "forecast",
@@ -8216,8 +8216,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "預測",
-    "example": "The finance staff arranged forecast in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about forecast in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "form",
@@ -8226,8 +8226,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "表單",
-    "example": "The hr officer planned form in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted form as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "foundation",
@@ -8236,8 +8236,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "作業流程；處理程序",
-    "example": "The warehouse clerk updated foundation in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about foundation in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "framework",
@@ -8246,8 +8246,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "框架",
-    "example": "The project leader confirmed framework in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on framework before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "franchisee",
@@ -8256,8 +8256,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Sales",
     "meaning": "加盟主",
-    "example": "The sales director documented franchisee in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted franchisee as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第826筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "freight",
@@ -8266,8 +8266,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "貨運",
-    "example": "The manager reviewed freight in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about freight in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "frequency",
@@ -8276,8 +8276,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "頻率",
-    "example": "The team submitted frequency in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted frequency as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "function",
@@ -8286,8 +8286,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "作業流程；處理程序",
-    "example": "The client checked function in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted function as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "fund",
@@ -8296,8 +8296,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "基金",
-    "example": "The vendor revised fund in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed fund during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "funding",
@@ -8306,8 +8306,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "資金",
-    "example": "The supplier prepared funding in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed funding during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第831筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "funnel",
@@ -8316,8 +8316,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Sales",
     "meaning": "銷售漏斗",
-    "example": "The finance staff arranged funnel in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on funnel before Friday afternoon.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "gain",
@@ -8326,8 +8326,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "收益增幅",
-    "example": "The hr officer planned gain in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about gain in the proposal.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "gateway",
@@ -8336,8 +8336,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "入口平台",
-    "example": "The warehouse clerk updated gateway in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted gateway as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "gatewayservice",
@@ -8346,8 +8346,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "閘道服務",
-    "example": "The project leader confirmed gatewayservice in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed gatewayservice during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "goal",
@@ -8356,8 +8356,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "目標",
-    "example": "The sales director documented goal in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about goal in the proposal.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第836筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "goalline",
@@ -8366,8 +8366,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Strategy",
     "meaning": "目標線",
-    "example": "The manager reviewed goalline in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about goalline in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "governance",
@@ -8376,8 +8376,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "治理",
-    "example": "The team submitted governance in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on governance before Friday afternoon.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "governor",
@@ -8386,8 +8386,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "主管機關代表",
-    "example": "The client checked governor in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on governor before Friday afternoon.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "graph",
@@ -8396,8 +8396,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "圖表",
-    "example": "The vendor revised graph in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on graph before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "gratuity",
@@ -8406,8 +8406,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "特性；性質",
-    "example": "The supplier prepared gratuity in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about gratuity in the proposal.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第841筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "group",
@@ -8416,8 +8416,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "工作小組",
-    "example": "The finance staff arranged group in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about group in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "growth",
@@ -8426,8 +8426,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "成長",
-    "example": "The hr officer planned growth in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about growth in the proposal.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "guarantee",
@@ -8436,8 +8436,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "保證",
-    "example": "The warehouse clerk updated guarantee in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted guarantee as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "guideline",
@@ -8446,8 +8446,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "指引",
-    "example": "The project leader confirmed guideline in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted guideline as a key issue this quarter.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "handlingfee",
@@ -8456,8 +8456,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "手續費",
-    "example": "The sales director documented handlingfee in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed handlingfee during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第846筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "handoff",
@@ -8466,8 +8466,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "交接節點",
-    "example": "The manager reviewed handoff in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted handoff as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "handover",
@@ -8476,8 +8476,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "交接",
-    "example": "The team submitted handover in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about handover in the proposal.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "headcount",
@@ -8486,8 +8486,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "人力編制",
-    "example": "The client checked headcount in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about headcount in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "headhunter",
@@ -8496,8 +8496,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Hiring",
     "meaning": "獵才顧問",
-    "example": "The vendor revised headhunter in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted headhunter as a key issue this quarter.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "headquarters",
@@ -8506,8 +8506,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "總部",
-    "example": "The supplier prepared headquarters in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about headquarters in the proposal.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第851筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "headroom",
@@ -8516,8 +8516,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "預留空間",
-    "example": "The finance staff arranged headroom in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about headroom in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "hearing",
@@ -8526,8 +8526,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "聽證會；審理程序",
-    "example": "The hr officer planned hearing in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted hearing as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "helpdesk",
@@ -8536,8 +8536,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Service",
     "meaning": "服務台",
-    "example": "The warehouse clerk updated helpdesk in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on helpdesk before Friday afternoon.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "hierarchychart",
@@ -8546,8 +8546,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "層級圖",
-    "example": "The project leader confirmed hierarchychart in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed hierarchychart during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "highlight",
@@ -8556,8 +8556,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "重點",
-    "example": "The sales director documented highlight in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted highlight as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第856筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "hiring",
@@ -8566,8 +8566,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Hiring",
     "meaning": "招募",
-    "example": "The manager reviewed hiring in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed hiring during the monthly planning meeting.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "hospitality",
@@ -8576,8 +8576,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "特性；性質",
-    "example": "The team submitted hospitality in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted hospitality as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "host",
@@ -8586,8 +8586,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Meeting",
     "meaning": "主辦單位",
-    "example": "The client checked host in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted host as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "hotline",
@@ -8596,8 +8596,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Service",
     "meaning": "專線",
-    "example": "The vendor revised hotline in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed hotline during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "hotspot",
@@ -8606,8 +8606,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "熱點區域",
-    "example": "The supplier prepared hotspot in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about hotspot in the proposal.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第861筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "identification",
@@ -8616,8 +8616,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "識別",
-    "example": "The finance staff arranged identification in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on identification before Friday afternoon.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "identifier",
@@ -8626,8 +8626,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "識別碼",
-    "example": "The hr officer planned identifier in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed identifier during the monthly planning meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "identity",
@@ -8636,8 +8636,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "特性；性質",
-    "example": "The warehouse clerk updated identity in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on identity before Friday afternoon.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "impact",
@@ -8646,8 +8646,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "影響程度",
-    "example": "The project leader confirmed impact in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on impact before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "implementation",
@@ -8656,8 +8656,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "執行落地",
-    "example": "The sales director documented implementation in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on implementation before Friday afternoon.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第866筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "import",
@@ -8666,8 +8666,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "進口流程",
-    "example": "The manager reviewed import in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed import during the monthly planning meeting.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "importer",
@@ -8676,8 +8676,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "進口商",
-    "example": "The team submitted importer in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on importer before Friday afternoon.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "inbound",
@@ -8686,8 +8686,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "入庫流程",
-    "example": "The client checked inbound in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed inbound during the monthly planning meeting.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "incentive",
@@ -8696,8 +8696,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "激勵",
-    "example": "The vendor revised incentive in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about incentive in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "incidence",
@@ -8706,8 +8706,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "發生率",
-    "example": "The supplier prepared incidence in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted incidence as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第871筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "incident",
@@ -8716,8 +8716,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Service",
     "meaning": "事件",
-    "example": "The finance staff arranged incident in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on incident before Friday afternoon.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "income",
@@ -8726,8 +8726,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "收入",
-    "example": "The hr officer planned income in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed income during the monthly planning meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "incoterm",
@@ -8736,8 +8736,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "國貿條規",
-    "example": "The warehouse clerk updated incoterm in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed incoterm during the monthly planning meeting.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "indemnity",
@@ -8746,8 +8746,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "賠償責任",
-    "example": "The project leader confirmed indemnity in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about indemnity in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "index",
@@ -8756,8 +8756,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "指數",
-    "example": "The sales director documented index in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on index before Friday afternoon.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第876筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "indicator",
@@ -8766,8 +8766,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "指標",
-    "example": "The manager reviewed indicator in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about indicator in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "induction",
@@ -8776,8 +8776,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Training",
     "meaning": "新人訓練",
-    "example": "The team submitted induction in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed induction during the monthly planning meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "industry",
@@ -8786,8 +8786,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "產業",
-    "example": "The client checked industry in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on industry before Friday afternoon.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "inflation",
@@ -8796,8 +8796,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "通貨膨脹",
-    "example": "The vendor revised inflation in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on inflation before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "influence",
@@ -8806,8 +8806,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "影響力",
-    "example": "The supplier prepared influence in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed influence during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第881筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "information",
@@ -8816,8 +8816,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "資訊",
-    "example": "The finance staff arranged information in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted information as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "infrastructure",
@@ -8826,8 +8826,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "基礎設施",
-    "example": "The hr officer planned infrastructure in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about infrastructure in the proposal.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "initiative",
@@ -8836,8 +8836,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Strategy",
     "meaning": "倡議方案",
-    "example": "The warehouse clerk updated initiative in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted initiative as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "innovation",
@@ -8846,8 +8846,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "創新",
-    "example": "The project leader confirmed innovation in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed innovation during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "inquiry",
@@ -8856,8 +8856,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "詢問",
-    "example": "The sales director documented inquiry in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about inquiry in the proposal.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第886筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "insight",
@@ -8866,8 +8866,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "洞察",
-    "example": "The manager reviewed insight in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted insight as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "insolvency",
@@ -8876,8 +8876,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "無力償債",
-    "example": "The team submitted insolvency in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on insolvency before Friday afternoon.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "inspection",
@@ -8886,8 +8886,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "檢查",
-    "example": "The client checked inspection in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted inspection as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "inspectionlog",
@@ -8896,8 +8896,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Quality",
     "meaning": "檢驗紀錄",
-    "example": "The vendor revised inspectionlog in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted inspectionlog as a key issue this quarter.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "installation",
@@ -8906,8 +8906,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "作業流程；處理程序",
-    "example": "The supplier prepared installation in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on installation before Friday afternoon.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第891筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "installer",
@@ -8916,8 +8916,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "安裝人員",
-    "example": "The finance staff arranged installer in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted installer as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "institution",
@@ -8926,8 +8926,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Administration",
     "meaning": "機構",
-    "example": "The hr officer planned institution in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted institution as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "instruction",
@@ -8936,8 +8936,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "作業流程；處理程序",
-    "example": "The warehouse clerk updated instruction in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on instruction before Friday afternoon.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "instructionset",
@@ -8946,8 +8946,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Training",
     "meaning": "操作指引",
-    "example": "The project leader confirmed instructionset in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted instructionset as a key issue this quarter.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "insurance",
@@ -8956,8 +8956,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "保險",
-    "example": "The sales director documented insurance in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on insurance before Friday afternoon.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第896筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "intake",
@@ -8966,8 +8966,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Service",
     "meaning": "收件量",
-    "example": "The manager reviewed intake in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted intake as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "integration",
@@ -8976,8 +8976,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "整合",
-    "example": "The team submitted integration in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted integration as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "integrity",
@@ -8986,8 +8986,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "完整性；誠信",
-    "example": "The client checked integrity in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed integrity during the monthly planning meeting.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "intelligence",
@@ -8996,8 +8996,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "情報；智能",
-    "example": "The vendor revised intelligence in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about intelligence in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "intensity",
@@ -9006,8 +9006,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "特性；性質",
-    "example": "The supplier prepared intensity in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about intensity in the proposal.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第901筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "intention",
@@ -9016,8 +9016,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "作業流程；處理程序",
-    "example": "The finance staff arranged intention in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted intention as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "interaction",
@@ -9026,8 +9026,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "互動",
-    "example": "The hr officer planned interaction in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on interaction before Friday afternoon.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "interest",
@@ -9036,8 +9036,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "利息；興趣",
-    "example": "The warehouse clerk updated interest in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on interest before Friday afternoon.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "interview",
@@ -9046,8 +9046,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "面試",
-    "example": "The project leader confirmed interview in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed interview during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "interviewer",
@@ -9056,8 +9056,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Hiring",
     "meaning": "面試官",
-    "example": "The sales director documented interviewer in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on interviewer before Friday afternoon.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第906筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "introduction",
@@ -9066,8 +9066,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "作業流程；處理程序",
-    "example": "The manager reviewed introduction in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on introduction before Friday afternoon.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "inventory",
@@ -9076,8 +9076,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "庫存",
-    "example": "The team submitted inventory in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted inventory as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "inventoryplan",
@@ -9086,8 +9086,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "庫存規劃",
-    "example": "The client checked inventoryplan in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed inventoryplan during the monthly planning meeting.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "inventoryturnover",
@@ -9096,8 +9096,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "存貨周轉率",
-    "example": "The vendor revised inventoryturnover in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed inventoryturnover during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "investigation",
@@ -9106,8 +9106,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "作業流程；處理程序",
-    "example": "The supplier prepared investigation in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on investigation before Friday afternoon.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第911筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "investor",
@@ -9116,8 +9116,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "投資人",
-    "example": "The finance staff arranged investor in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted investor as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "invoice",
@@ -9126,8 +9126,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "發票",
-    "example": "The hr officer planned invoice in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed invoice during the monthly planning meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "invoicee",
@@ -9136,8 +9136,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "受款方",
-    "example": "The warehouse clerk updated invoicee in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted invoicee as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "isolation",
@@ -9146,8 +9146,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "作業流程；處理程序",
-    "example": "The project leader confirmed isolation in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on isolation before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "issuance",
@@ -9156,8 +9156,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "發行",
-    "example": "The sales director documented issuance in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about issuance in the proposal.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第916筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "issue",
@@ -9166,8 +9166,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Meeting",
     "meaning": "議題",
-    "example": "The manager reviewed issue in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed issue during the monthly planning meeting.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "issuer",
@@ -9176,8 +9176,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "發行方",
-    "example": "The team submitted issuer in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed issuer during the monthly planning meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "itemcode",
@@ -9186,8 +9186,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "品項代碼",
-    "example": "The client checked itemcode in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted itemcode as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "itemization",
@@ -9196,8 +9196,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "作業流程；處理程序",
-    "example": "The vendor revised itemization in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed itemization during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "iteration",
@@ -9206,8 +9206,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "迭代",
-    "example": "The supplier prepared iteration in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed iteration during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第921筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "job",
@@ -9216,8 +9216,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "工作",
-    "example": "The finance staff arranged job in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed job during the monthly planning meeting.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "jobgrade",
@@ -9226,8 +9226,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "職等",
-    "example": "The hr officer planned jobgrade in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on jobgrade before Friday afternoon.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "jobtitle",
@@ -9236,8 +9236,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "職稱",
-    "example": "The warehouse clerk updated jobtitle in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about jobtitle in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "journal",
@@ -9246,8 +9246,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "分錄簿",
-    "example": "The project leader confirmed journal in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about journal in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "journey",
@@ -9256,8 +9256,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Travel",
     "meaning": "行程",
-    "example": "The sales director documented journey in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted journey as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第926筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "judge",
@@ -9266,8 +9266,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Hiring",
     "meaning": "評審委員",
-    "example": "The manager reviewed judge in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about judge in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "judgment",
@@ -9276,8 +9276,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "判斷；裁決",
-    "example": "The team submitted judgment in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted judgment as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "jurisdiction",
@@ -9286,8 +9286,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "作業流程；處理程序",
-    "example": "The client checked jurisdiction in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed jurisdiction during the monthly planning meeting.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "justification",
@@ -9296,8 +9296,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "合理說明",
-    "example": "The vendor revised justification in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on justification before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "keyresult",
@@ -9306,8 +9306,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Strategy",
     "meaning": "關鍵成果",
-    "example": "The supplier prepared keyresult in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted keyresult as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第931筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "knowledge",
@@ -9316,8 +9316,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "知識",
-    "example": "The finance staff arranged knowledge in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on knowledge before Friday afternoon.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "knowledgebase",
@@ -9326,8 +9326,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Training",
     "meaning": "知識庫",
-    "example": "The hr officer planned knowledgebase in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about knowledgebase in the proposal.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "kpi",
@@ -9336,8 +9336,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "關鍵績效指標",
-    "example": "The warehouse clerk updated kpi in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted kpi as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "label",
@@ -9346,8 +9346,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "標籤",
-    "example": "The project leader confirmed label in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted label as a key issue this quarter.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "labor",
@@ -9356,8 +9356,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "勞務",
-    "example": "The sales director documented labor in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted labor as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第936筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "landing",
@@ -9366,8 +9366,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "落地頁",
-    "example": "The manager reviewed landing in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about landing in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "landscape",
@@ -9376,8 +9376,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Strategy",
     "meaning": "市場版圖",
-    "example": "The team submitted landscape in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about landscape in the proposal.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "launch",
@@ -9386,8 +9386,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "上市；啟動",
-    "example": "The client checked launch in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about launch in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "lead",
@@ -9396,8 +9396,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Sales",
     "meaning": "潛在客戶",
-    "example": "The vendor revised lead in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted lead as a key issue this quarter.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "leadership",
@@ -9406,8 +9406,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "領導力",
-    "example": "The supplier prepared leadership in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed leadership during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第941筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "leadtime",
@@ -9416,8 +9416,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "前置時間",
-    "example": "The finance staff arranged leadtime in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed leadtime during the monthly planning meeting.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "leakage",
@@ -9426,8 +9426,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Service",
     "meaning": "流失率",
-    "example": "The hr officer planned leakage in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted leakage as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "learning",
@@ -9436,8 +9436,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Training",
     "meaning": "學習進度",
-    "example": "The warehouse clerk updated learning in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on learning before Friday afternoon.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "lease",
@@ -9446,8 +9446,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "租賃",
-    "example": "The project leader confirmed lease in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on lease before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "leasehold",
@@ -9456,8 +9456,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "租賃權",
-    "example": "The sales director documented leasehold in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed leasehold during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第946筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "ledger",
@@ -9466,8 +9466,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "分類帳",
-    "example": "The manager reviewed ledger in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed ledger during the monthly planning meeting.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "ledgerentry",
@@ -9476,8 +9476,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "帳簿分錄",
-    "example": "The team submitted ledgerentry in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed ledgerentry during the monthly planning meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "legislation",
@@ -9486,8 +9486,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "法規",
-    "example": "The client checked legislation in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed legislation during the monthly planning meeting.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "liability",
@@ -9496,8 +9496,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "負債；責任",
-    "example": "The vendor revised liability in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed liability during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "license",
@@ -9506,8 +9506,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Legal",
     "meaning": "授權；執照",
-    "example": "The supplier prepared license in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed license during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第951筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "licensing",
@@ -9516,8 +9516,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "授權；核發執照",
-    "example": "The finance staff arranged licensing in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on licensing before Friday afternoon.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "lifecycle",
@@ -9526,8 +9526,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "生命週期",
-    "example": "The hr officer planned lifecycle in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on lifecycle before Friday afternoon.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "lifetimevalue",
@@ -9536,8 +9536,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "客戶終身價值",
-    "example": "The warehouse clerk updated lifetimevalue in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted lifetimevalue as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "limitation",
@@ -9546,8 +9546,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "限制條件",
-    "example": "The project leader confirmed limitation in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on limitation before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "linkage",
@@ -9556,8 +9556,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "連動關係",
-    "example": "The sales director documented linkage in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed linkage during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第956筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "liquidation",
@@ -9566,8 +9566,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "清算",
-    "example": "The manager reviewed liquidation in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed liquidation during the monthly planning meeting.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "liquidity",
@@ -9576,8 +9576,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "流動性",
-    "example": "The team submitted liquidity in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on liquidity before Friday afternoon.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "listing",
@@ -9586,8 +9586,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "清單；上市（掛牌）",
-    "example": "The client checked listing in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted listing as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "litigation",
@@ -9596,8 +9596,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "作業流程；處理程序",
-    "example": "The vendor revised litigation in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted litigation as a key issue this quarter.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "location",
@@ -9606,8 +9606,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "作業流程；處理程序",
-    "example": "The supplier prepared location in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed location during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第961筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "logbook",
@@ -9616,8 +9616,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "記錄簿",
-    "example": "The finance staff arranged logbook in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed logbook during the monthly planning meeting.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "logistics",
@@ -9626,8 +9626,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "物流",
-    "example": "The hr officer planned logistics in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about logistics in the proposal.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "longevity",
@@ -9636,8 +9636,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "特性；性質",
-    "example": "The warehouse clerk updated longevity in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed longevity during the monthly planning meeting.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "mailing",
@@ -9646,8 +9646,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "郵件發送",
-    "example": "The project leader confirmed mailing in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about mailing in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "maintenance",
@@ -9656,8 +9656,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "維護",
-    "example": "The sales director documented maintenance in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about maintenance in the proposal.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第966筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "majority",
@@ -9666,8 +9666,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "特性；性質",
-    "example": "The manager reviewed majority in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed majority during the monthly planning meeting.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "manager",
@@ -9676,8 +9676,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "經理",
-    "example": "The team submitted manager in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed manager during the monthly planning meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "manifest",
@@ -9686,8 +9686,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "裝載清單",
-    "example": "The client checked manifest in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about manifest in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "manpower",
@@ -9696,8 +9696,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "人力",
-    "example": "The vendor revised manpower in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about manpower in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "manual",
@@ -9706,8 +9706,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Training",
     "meaning": "操作手冊",
-    "example": "The supplier prepared manual in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on manual before Friday afternoon.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第971筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "manufacturer",
@@ -9716,8 +9716,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "製造商",
-    "example": "The finance staff arranged manufacturer in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed manufacturer during the monthly planning meeting.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "manufacturing",
@@ -9726,8 +9726,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "製造業",
-    "example": "The hr officer planned manufacturing in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on manufacturing before Friday afternoon.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "mapping",
@@ -9736,8 +9736,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "對應表",
-    "example": "The warehouse clerk updated mapping in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on mapping before Friday afternoon.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "margin",
@@ -9746,8 +9746,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "利潤率",
-    "example": "The project leader confirmed margin in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on margin before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "marker",
@@ -9756,8 +9756,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "標記",
-    "example": "The sales director documented marker in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on marker before Friday afternoon.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第976筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "market",
@@ -9766,8 +9766,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "市場",
-    "example": "The manager reviewed market in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted market as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "marketing",
@@ -9776,8 +9776,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "行銷",
-    "example": "The team submitted marketing in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on marketing before Friday afternoon.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "marketplace",
@@ -9786,8 +9786,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "市場平台",
-    "example": "The client checked marketplace in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about marketplace in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "material",
@@ -9796,8 +9796,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "材料",
-    "example": "The vendor revised material in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about material in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "matrix",
@@ -9806,8 +9806,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "矩陣",
-    "example": "The supplier prepared matrix in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed matrix during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第981筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "maturity",
@@ -9816,8 +9816,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "成熟度；到期",
-    "example": "The finance staff arranged maturity in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed maturity during the monthly planning meeting.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "meeting",
@@ -9826,8 +9826,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "會議",
-    "example": "The hr officer planned meeting in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about meeting in the proposal.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "membership",
@@ -9836,8 +9836,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "會員資格",
-    "example": "The warehouse clerk updated membership in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on membership before Friday afternoon.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "memorandum",
@@ -9846,8 +9846,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "備忘錄",
-    "example": "The project leader confirmed memorandum in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about memorandum in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "mention",
@@ -9856,8 +9856,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "作業流程；處理程序",
-    "example": "The sales director documented mention in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on mention before Friday afternoon.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第986筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "merchandise",
@@ -9866,8 +9866,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Sales",
     "meaning": "商品",
-    "example": "The manager reviewed merchandise in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about merchandise in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "merchant",
@@ -9876,8 +9876,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "商家",
-    "example": "The team submitted merchant in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted merchant as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "merger",
@@ -9886,8 +9886,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "合併",
-    "example": "The client checked merger in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on merger before Friday afternoon.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "message",
@@ -9896,8 +9896,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "訊息",
-    "example": "The vendor revised message in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about message in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "method",
@@ -9906,8 +9906,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Training",
     "meaning": "方法",
-    "example": "The supplier prepared method in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed method during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第991筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "metric",
@@ -9916,8 +9916,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "指標",
-    "example": "The finance staff arranged metric in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted metric as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "middleware",
@@ -9926,8 +9926,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "中介軟體",
-    "example": "The hr officer planned middleware in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on middleware before Friday afternoon.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "migration",
@@ -9936,8 +9936,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "作業流程；處理程序",
-    "example": "The warehouse clerk updated migration in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on migration before Friday afternoon.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "milestone",
@@ -9946,8 +9946,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "里程碑",
-    "example": "The project leader confirmed milestone in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted milestone as a key issue this quarter.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "minimum",
@@ -9956,8 +9956,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "最低標準",
-    "example": "The sales director documented minimum in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on minimum before Friday afternoon.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第996筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "minority",
@@ -9966,8 +9966,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "特性；性質",
-    "example": "The manager reviewed minority in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed minority during the monthly planning meeting.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "minutes",
@@ -9976,8 +9976,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Meeting",
     "meaning": "會議記錄",
-    "example": "The team submitted minutes in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about minutes in the proposal.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "mission",
@@ -9986,8 +9986,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "使命",
-    "example": "The client checked mission in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted mission as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "model",
@@ -9996,8 +9996,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "模型",
-    "example": "The vendor revised model in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed model during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "moderation",
@@ -10006,8 +10006,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "作業流程；處理程序",
-    "example": "The supplier prepared moderation in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on moderation before Friday afternoon.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第1001筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "moderator",
@@ -10016,8 +10016,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Meeting",
     "meaning": "主持人",
-    "example": "The finance staff arranged moderator in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed moderator during the monthly planning meeting.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "modification",
@@ -10026,8 +10026,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "作業流程；處理程序",
-    "example": "The hr officer planned modification in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted modification as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "module",
@@ -10036,8 +10036,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "模組",
-    "example": "The warehouse clerk updated module in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted module as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "momentum",
@@ -10046,8 +10046,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Strategy",
     "meaning": "動能",
-    "example": "The project leader confirmed momentum in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted momentum as a key issue this quarter.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "monitor",
@@ -10056,8 +10056,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "監測器",
-    "example": "The sales director documented monitor in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on monitor before Friday afternoon.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第1006筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "monitoring",
@@ -10066,8 +10066,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "監控",
-    "example": "The manager reviewed monitoring in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted monitoring as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "motivation",
@@ -10076,8 +10076,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "動機",
-    "example": "The team submitted motivation in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on motivation before Friday afternoon.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "multiplier",
@@ -10086,8 +10086,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "倍數因子",
-    "example": "The client checked multiplier in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed multiplier during the monthly planning meeting.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "multitasking",
@@ -10096,8 +10096,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "多工處理",
-    "example": "The vendor revised multitasking in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted multitasking as a key issue this quarter.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "negotiation",
@@ -10106,8 +10106,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "談判",
-    "example": "The supplier prepared negotiation in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed negotiation during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第1011筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "negotiator",
@@ -10116,8 +10116,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Contracts",
     "meaning": "談判代表",
-    "example": "The finance staff arranged negotiator in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on negotiator before Friday afternoon.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "network",
@@ -10126,8 +10126,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "網路；人脈",
-    "example": "The hr officer planned network in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on network before Friday afternoon.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "networking",
@@ -10136,8 +10136,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "人脈交流",
-    "example": "The warehouse clerk updated networking in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted networking as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "newsroom",
@@ -10146,8 +10146,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Communication",
     "meaning": "新聞室",
-    "example": "The project leader confirmed newsroom in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on newsroom before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "nomination",
@@ -10156,8 +10156,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "作業流程；處理程序",
-    "example": "The sales director documented nomination in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted nomination as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第1016筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "notebook",
@@ -10166,8 +10166,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Office",
     "meaning": "工作筆記",
-    "example": "The manager reviewed notebook in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about notebook in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "notice",
@@ -10176,8 +10176,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "通知",
-    "example": "The team submitted notice in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted notice as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "notification",
@@ -10186,8 +10186,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "通知",
-    "example": "The client checked notification in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about notification in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "objective",
@@ -10196,8 +10196,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "目標",
-    "example": "The vendor revised objective in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed objective during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "objectivekey",
@@ -10206,8 +10206,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Strategy",
     "meaning": "目標關鍵值",
-    "example": "The supplier prepared objectivekey in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on objectivekey before Friday afternoon.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第1021筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "obligation",
@@ -10216,8 +10216,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Legal",
     "meaning": "義務",
-    "example": "The finance staff arranged obligation in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on obligation before Friday afternoon.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "observation",
@@ -10226,8 +10226,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "作業流程；處理程序",
-    "example": "The hr officer planned observation in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted observation as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "occupancy",
@@ -10236,8 +10236,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Travel",
     "meaning": "入住率",
-    "example": "The warehouse clerk updated occupancy in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed occupancy during the monthly planning meeting.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "occupation",
@@ -10246,8 +10246,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "作業流程；處理程序",
-    "example": "The project leader confirmed occupation in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about occupation in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "offboarding",
@@ -10256,8 +10256,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "離職交接",
-    "example": "The sales director documented offboarding in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about offboarding in the proposal.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第1026筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "offer",
@@ -10266,8 +10266,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "提案；報價",
-    "example": "The manager reviewed offer in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted offer as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "offering",
@@ -10276,8 +10276,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "產品提案",
-    "example": "The team submitted offering in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on offering before Friday afternoon.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "onboarding",
@@ -10286,8 +10286,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "新進人員到職流程",
-    "example": "The client checked onboarding in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about onboarding in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "oncall",
@@ -10296,8 +10296,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Service",
     "meaning": "值班安排",
-    "example": "The vendor revised oncall in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed oncall during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "opener",
@@ -10306,8 +10306,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Meeting",
     "meaning": "開場簡報",
-    "example": "The supplier prepared opener in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about opener in the proposal.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第1031筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "opening",
@@ -10316,8 +10316,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Hiring",
     "meaning": "職缺；開幕",
-    "example": "The finance staff arranged opening in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted opening as a key issue this quarter.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "operand",
@@ -10326,8 +10326,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "運算項",
-    "example": "The hr officer planned operand in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed operand during the monthly planning meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "operation",
@@ -10336,8 +10336,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "營運；作業",
-    "example": "The warehouse clerk updated operation in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about operation in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "operationplan",
@@ -10346,8 +10346,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "營運計畫",
-    "example": "The project leader confirmed operationplan in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted operationplan as a key issue this quarter.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "operatorid",
@@ -10356,8 +10356,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "操作員編號",
-    "example": "The sales director documented operatorid in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about operatorid in the proposal.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第1036筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "opportunity",
@@ -10366,8 +10366,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "機會",
-    "example": "The manager reviewed opportunity in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about opportunity in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "optimization",
@@ -10376,8 +10376,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "最佳化",
-    "example": "The team submitted optimization in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed optimization during the monthly planning meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "option",
@@ -10386,8 +10386,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "選項",
-    "example": "The client checked option in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed option during the monthly planning meeting.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "order",
@@ -10396,8 +10396,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "訂單",
-    "example": "The vendor revised order in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on order before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "organization",
@@ -10406,8 +10406,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "組織",
-    "example": "The supplier prepared organization in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about organization in the proposal.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第1041筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "organizer",
@@ -10416,8 +10416,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Meeting",
     "meaning": "主辦單位",
-    "example": "The finance staff arranged organizer in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about organizer in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "orientation",
@@ -10426,8 +10426,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "到職培訓",
-    "example": "The hr officer planned orientation in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted orientation as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "outbound",
@@ -10436,8 +10436,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Logistics",
     "meaning": "出庫流程",
-    "example": "The warehouse clerk updated outbound in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted outbound as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "outcome",
@@ -10446,8 +10446,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "成果",
-    "example": "The project leader confirmed outcome in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on outcome before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "outlook",
@@ -10456,8 +10456,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Strategy",
     "meaning": "展望",
-    "example": "The sales director documented outlook in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed outlook during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第1046筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "output",
@@ -10466,8 +10466,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Operations",
     "meaning": "產出",
-    "example": "The manager reviewed output in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed output during the monthly planning meeting.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "outsourcing",
@@ -10476,8 +10476,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "外包",
-    "example": "The team submitted outsourcing in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on outsourcing before Friday afternoon.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "overhead",
@@ -10486,8 +10486,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "間接成本",
-    "example": "The client checked overhead in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted overhead as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "oversight",
@@ -10496,8 +10496,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "監督；監管",
-    "example": "The vendor revised oversight in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed oversight during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "overtime",
@@ -10506,8 +10506,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "加班時數",
-    "example": "The supplier prepared overtime in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed overtime during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第1051筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "overview",
@@ -10516,8 +10516,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "概覽",
-    "example": "The finance staff arranged overview in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed overview during the monthly planning meeting.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "overviewdeck",
@@ -10526,8 +10526,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Meeting",
     "meaning": "概覽簡報",
-    "example": "The hr officer planned overviewdeck in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on overviewdeck before Friday afternoon.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "ownership",
@@ -10536,8 +10536,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "所有權",
-    "example": "The warehouse clerk updated ownership in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about ownership in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "ownershipmap",
@@ -10546,8 +10546,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "權責圖",
-    "example": "The project leader confirmed ownershipmap in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed ownershipmap during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "package",
@@ -10556,8 +10556,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "套裝；包裹",
-    "example": "The sales director documented package in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on package before Friday afternoon.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第1056筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "packaging",
@@ -10566,8 +10566,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "包裝；包裝設計",
-    "example": "The manager reviewed packaging in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about packaging in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "packet",
@@ -10576,8 +10576,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "資料封包",
-    "example": "The team submitted packet in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted packet as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "panel",
@@ -10586,8 +10586,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Meeting",
     "meaning": "討論小組",
-    "example": "The client checked panel in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted panel as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "paperwork",
@@ -10596,8 +10596,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "文書作業",
-    "example": "The vendor revised paperwork in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed paperwork during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "parameter",
@@ -10606,8 +10606,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "IT",
     "meaning": "參數",
-    "example": "The supplier prepared parameter in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed parameter during the monthly planning meeting.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第1061筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "participant",
@@ -10616,8 +10616,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "參與者",
-    "example": "The finance staff arranged participant in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about participant in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "participation",
@@ -10626,8 +10626,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "作業流程；處理程序",
-    "example": "The hr officer planned participation in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed participation during the monthly planning meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "partner",
@@ -10636,8 +10636,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Strategy",
     "meaning": "合作夥伴",
-    "example": "The warehouse clerk updated partner in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted partner as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "partnership",
@@ -10646,8 +10646,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "夥伴關係",
-    "example": "The project leader confirmed partnership in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted partnership as a key issue this quarter.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "passenger",
@@ -10656,8 +10656,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Travel",
     "meaning": "乘客",
-    "example": "The sales director documented passenger in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on passenger before Friday afternoon.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第1066筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "pathway",
@@ -10666,8 +10666,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "執行路徑",
-    "example": "The manager reviewed pathway in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on pathway before Friday afternoon.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "payee",
@@ -10676,8 +10676,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "收款人",
-    "example": "The team submitted payee in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted payee as a key issue this quarter.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "payment",
@@ -10686,8 +10686,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "付款",
-    "example": "The client checked payment in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on payment before Friday afternoon.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "payroll",
@@ -10696,8 +10696,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "薪資名冊",
-    "example": "The vendor revised payroll in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed payroll during the monthly planning meeting.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "paystub",
@@ -10706,8 +10706,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "薪資單",
-    "example": "The supplier prepared paystub in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on paystub before Friday afternoon.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第1071筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "penalty",
@@ -10716,8 +10716,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "罰則",
-    "example": "The finance staff arranged penalty in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed penalty during the monthly planning meeting.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "penetration",
@@ -10726,8 +10726,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Marketing",
     "meaning": "市場滲透率",
-    "example": "The hr officer planned penetration in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about penetration in the proposal.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "pension",
@@ -10736,8 +10736,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Finance",
     "meaning": "退休金",
-    "example": "The warehouse clerk updated pension in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on pension before Friday afternoon.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "percentage",
@@ -10746,8 +10746,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Reporting",
     "meaning": "百分比",
-    "example": "The project leader confirmed percentage in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on percentage before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "performance",
@@ -10756,8 +10756,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "績效",
-    "example": "The sales director documented performance in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted performance as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第1076筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "permission",
@@ -10766,8 +10766,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Legal",
     "meaning": "許可",
-    "example": "The manager reviewed permission in the invoice before Monday.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about permission in the proposal.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "permit",
@@ -10776,8 +10776,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Legal",
     "meaning": "許可證",
-    "example": "The team submitted permit in the budget plan after lunch.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about permit in the proposal.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "personnel",
@@ -10786,8 +10786,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "HR",
     "meaning": "人事",
-    "example": "The client checked personnel in the inventory list during the audit.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted personnel as a key issue this quarter.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "phase",
@@ -10796,8 +10796,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Project",
     "meaning": "階段",
-    "example": "The vendor revised phase in the contract before final approval.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about phase in the proposal.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "pipeline",
@@ -10806,8 +10806,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "管線；案件池",
-    "example": "The supplier prepared pipeline in the delivery record after customer feedback.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on pipeline before Friday afternoon.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第1081筆）進行了完整討論，並確認後續執行安排。"
   },
   {
     "word": "planner",
@@ -10816,8 +10816,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Schedule",
     "meaning": "規劃人員",
-    "example": "The finance staff arranged planner in the meeting report before shipment departure.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on planner before Friday afternoon.",
+    "example_zh": "部門主管要求我們在期限前更新這項內容，以確保作業流程順利進行。"
   },
   {
     "word": "planning",
@@ -10826,8 +10826,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "規劃",
-    "example": "The hr officer planned planning in the schedule during budget review.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "Our department discussed planning during the monthly planning meeting.",
+    "example_zh": "客戶在審閱提案後，請我們補充這項目的細節與實施方式。"
   },
   {
     "word": "platform",
@@ -10836,8 +10836,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "平台",
-    "example": "The warehouse clerk updated platform in the logistics form before vendor payment.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The client asked for more details about platform in the proposal.",
+    "example_zh": "同仁已依照內部規範處理此事項，並在會後完成必要的文件紀錄。"
   },
   {
     "word": "policy",
@@ -10846,8 +10846,8 @@ window.WORDS = [
     "category": "Business",
     "topic": "Legal",
     "meaning": "政策",
-    "example": "The project leader confirmed policy in the application file after the weekly meeting.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The manager requested an update on policy before Friday afternoon.",
+    "example_zh": "公司在最終核准前再次檢視該內容，避免交付時產生額外風險。"
   },
   {
     "word": "portfolio",
@@ -10856,7 +10856,7 @@ window.WORDS = [
     "category": "Business",
     "topic": "Business",
     "meaning": "投資組合",
-    "example": "The sales director documented portfolio in the shipment before contract signing.",
-    "example_zh": "團隊已完成相關流程並做出確認。"
+    "example": "The project report highlighted portfolio as a key issue this quarter.",
+    "example_zh": "專案團隊在本季會議中針對此項目（第1086筆）進行了完整討論，並確認後續執行安排。"
   }
 ];

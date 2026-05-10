@@ -1,12 +1,12 @@
 
-const STORAGE_KEY='toeic_v7_7_state';
+const STORAGE_KEY='toeic_v7_8_state';
 const LEGACY_STORAGE_KEY='toeic_v7_1_state';
-const PROGRESS_STORAGE_KEY='toeic_progress_v7_7';
+const PROGRESS_STORAGE_KEY='toeic_progress_v7_8';
 const LEGACY_PROGRESS_STORAGE_KEY='toeic_progress_v1';
-const SETTINGS_KEY='toeic_v7_7_settings';
+const SETTINGS_KEY='toeic_v7_8_settings';
 const LEGACY_SETTINGS_KEY='toeic_v7_1_settings';
 const DAILY_NEW=10,DAILY_MIN=20,DAILY_MAX=20,REVIEW_LIMIT=20,DAILY_MASTER_TARGET=2;
-const APP_SCHEMA_VERSION=77;
+const APP_SCHEMA_VERSION=78;
 const DEFAULT_PROGRESS_STATE={learnedWords:[],wrongWords:[],correctCount:0,wrongCount:0,lastStudyDate:'',dailyProgress:0,mode:'daily'};
 const SM2_DEFAULTS={repetition:0,interval:0,efactor:2.5,dueDate:null,lastReviewedAt:null,lapseCount:0,correctCount:0,wrongCount:0,lastAskedAt:null};
 
