@@ -3,6 +3,7 @@
   "private": true,
   "scripts": {
     "audit:vocab": "node tools/vocab-audit/audit-vocab.mjs",
-    "check:vocab": "node tools/vocab-audit/audit-vocab.mjs --fail-on-invalid"
+    "check:vocab": "node tools/vocab-audit/audit-vocab.mjs --fail-on-invalid",
+    "check:example-zh": "node tools/validate-example-translations.mjs"
   }
 }
