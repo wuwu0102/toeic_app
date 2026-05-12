@@ -35,24 +35,11 @@ return true
 }
 function escapeRegExp(s){return String(s||'').replace(/[.*+?^${}()|[\]\\]/g,'\\$&')}
 function getPrimaryMeaning(meaning){return String(meaning||'').split(/[；;、,，/]/).map(x=>x.trim()).find(Boolean)||'這個字'}
-function getExampleSubject(w){const meaning=getPrimaryMeaning(w?.meaning);return /常用字$/.test(meaning)?`單字「${w.word}」`:`「${meaning}」`}
 function getWordExample(w){return String(w?.example||w?.example_en||'').trim()}
-function needsExampleZhRepair(w){const zh=String(w?.example_zh||'').trim();if(!zh)return true;const word=String(w?.word||'').trim();if(word&&new RegExp(`\\b${escapeRegExp(word)}\\b`,'i').test(zh))return true;const asciiLetters=(zh.match(/[A-Za-z]/g)||[]).length;return asciiLetters>=Math.max(4,Math.floor(zh.length*0.2))}
+function needsExampleZhRepair(w){const zh=String(w?.example_zh||'').trim();if(!zh)return true;const word=String(w?.word||'').trim();if(word&&new RegExp(`\b${escapeRegExp(word)}\b`,'i').test(zh))return true;const asciiLetters=(zh.match(/[A-Za-z]/g)||[]).length;return asciiLetters>=Math.max(4,Math.floor(zh.length*0.2))}
 function hasReliableExample(w){return Boolean(getWordExample(w)&&String(w?.example_zh||'').trim())}
-const EXAMPLE_ZH_PATTERNS=[
-[/^The manager discussed the .+ during the meeting\.$/i,m=>`經理在會議中討論了${m}這個主題。`],
-[/^The finance team reviewed the .+ before making payment\.$/i,m=>`財務團隊在付款前審查了${m}這項內容。`],
-[/^The HR department mentioned .+ during the interview\.$/i,m=>`人資部門在面試過程中提到了${m}。`],
-[/^Please check the .+ before your trip begins\.$/i,m=>`出發前請先確認${m}這項內容。`],
-[/^We added .+ to tomorrow's agenda\.$/i,m=>`我們把${m}加入明天的議程。`],
-[/^The campaign focused on .+ this quarter\.$/i,m=>`這一季的行銷活動聚焦於${m}。`],
-[/^The warehouse updated the .+ before shipment\.$/i,m=>`出貨前，倉庫更新了${m}這項資料。`],
-[/^I mentioned .+ in the email to the client\.$/i,m=>`我在寄給客戶的郵件中提到了${m}。`],
-[/^The IT team tested the .+ before release\.$/i,m=>`資訊團隊在發布前測試了${m}這項內容。`],
-[/^The sales team used .+ to close the deal\.$/i,m=>`業務團隊運用${m}完成了這筆交易。`],
-];
 function getExampleEn(w){if(!w)return'';const example=getWordExample(w);if(!example)return 'This entry currently has no verified example sentence.';return example}
-function getExampleZh(w){if(!w)return'';const example=getWordExample(w);const zh=String(w?.example_zh||'').trim();if(!example||!zh)return '這個單字目前沒有可信的例句與翻譯，暫時不顯示錯誤內容。';if(!needsExampleZhRepair(w))return zh;const subject=getExampleSubject(w),en=example;for(const[p,render]of EXAMPLE_ZH_PATTERNS){if(p.test(en))return render(subject)}return `這句例句和${subject}有關。`}
+function getExampleZh(w){if(!w)return'';const example=getWordExample(w);const zh=String(w?.example_zh||'').trim();if(!example||!zh)return '翻譯準備中';if(needsExampleZhRepair(w))return '翻譯準備中';return zh}
 function renderClickableSentence(sentence){return String(sentence||'').split(/(\s+|[.,!?])/).map(token=>/^[a-zA-Z]+$/.test(token)?`<span class="click-word" data-word="${token.toLowerCase()}">${token}</span>`:token).join('')}
 
 
